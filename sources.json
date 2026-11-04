@@ -1,0 +1,18 @@
+{
+ "_about": "Feeds for DanMan Leads. Statewide: the Utah Public Notice Website covers every Utah city, town and county planning/council body. Add permit layers, PDF reports and Accela portals as they are found.",
+ "pmn": {"on": true},
+ "arcgis": [
+  {"name": "provo-current-projects", "jurisdiction": "Provo", "url": "https://gispublicweb.provo.org/arcgis/rest/services/DevServ/CurrentProjects/MapServer/0",
+   "dateField": "ISSUED_DATE", "map": {"number": "PERMIT_NUM", "type": "PERMIT_TYPE", "description": "DESCRIPTION", "address": "ADDRESS", "valuation": "VALUATION", "contractor": "CONTRACTOR", "status": "STATUS"},
+   "_note": "Field names are a first guess; the first run logs the real ones in raw. Provo's robots.txt may block this layer, in which case the feed skips it."}
+ ],
+ "pdf": [
+  {"name": "summit-county-2026", "jurisdiction": "Summit County", "url": "https://www.summitcountyutah.gov/DocumentCenter/View/21667/2026-Permits-Issued", "direct": true},
+  {"name": "west-jordan", "jurisdiction": "West Jordan", "url": "https://westjordan.utah.gov/building/", "linkMatch": "Building-Permits"},
+  {"name": "orem", "jurisdiction": "Orem", "url": "https://orem.gov/building-permits/", "linkMatch": "permit"},
+  {"name": "riverton", "jurisdiction": "Riverton", "url": "https://www.rivertonutah.gov/building", "linkMatch": "permit"}
+ ],
+ "accela": [
+  {"name": "salt-lake-city", "jurisdiction": "Salt Lake City", "url": "https://aca-prod.accela.com/SLCREF", "modules": ["Building", "Planning"]}
+ ]
+}
