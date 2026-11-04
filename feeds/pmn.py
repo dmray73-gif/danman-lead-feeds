@@ -8,7 +8,7 @@ daily():    for each kept body, reads new notices (last 60 days), downloads the 
 import re, io, datetime
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
-from .common import get, log, load, save, score_text, entities, snippets, iid, today
+from .common import get, log, load, save, score_text, entities, snippets, iid, today, left
 
 BASE = "https://www.utah.gov/pmn/sitemap"
 KEEP = re.compile(r"planning|zoning|council|commission|design review|development review|architectural|board of adjustment|"
@@ -54,21 +54,29 @@ def _rows(body_id):
                     "date": "-".join(m.groups()) if m else ""})
     return out
 
-def _pdf_text(url, max_pages=120):
-    r = get(url, delay=0.8, timeout=90)
-    if not r or len(r.content) > 40_000_000: return ""
+def _pdf_text(url, max_pages=40):
+    r = get(url, delay=0.8, timeout=60)
+    if not r or len(r.content) > 15_000_000: return ""
     try:
         rd = PdfReader(io.BytesIO(r.content))
         return "\n".join((p.extract_text() or "") for p in rd.pages[:max_pages])
     except Exception as e:
         log("pdf fail", url, e); return ""
 
-def daily(days=60):
+HINT = re.compile(r"planning|zoning|council|commission|design|development|land use|agenda|board of adjustment|appeal", re.I)
+
+def daily(days=21, budget_min=60):
+    """Rotates through the kept bodies (cursor in state) and stops when its time budget is spent; the rest continue next run."""
     reg = load("state/pmn_bodies.json", {"bodies": {}})
     seen = load("state/pmn_seen.json", {})
+    cur = load("state/pmn_cursor.json", {"pos": 0})
     cutoff = (datetime.date.today() - datetime.timedelta(days=days)).isoformat()
-    items = []
-    for bid, b in reg["bodies"].items():
+    ids = sorted(reg["bodies"], key=int); n = len(ids)
+    stop_at = min(budget_min * 60, max(0, left() - 300))
+    import time; t0 = time.time(); items = []; done = 0
+    for k in range(n):
+        if time.time() - t0 > stop_at: log("pmn: time budget reached after", done, "of", n, "bodies"); break
+        bid = ids[(cur["pos"] + k) % n]; b = reg["bodies"][bid]; done += 1
         for row in _rows(bid):
             if row["notice"] in seen or (row["date"] and row["date"] < cutoff): continue
             seen[row["notice"]] = today()
@@ -80,14 +88,18 @@ def daily(days=60):
             text = s.get_text(" ", strip=True)
             files = sorted({("https://www.utah.gov" + a["href"]) if a["href"].startswith("/") else a["href"]
                             for a in s.find_all("a", href=re.compile(r"/pmn/files/\d+\.pdf", re.I))})
-            for f in files[:4]: text += "\n" + _pdf_text(f)
+            sc0, _ = score_text(text)
+            if sc0 >= 1 or HINT.search(row["title"] + " " + b["name"]):
+                for f in files[:2]: text += "\n" + _pdf_text(f)
             sc, terms = score_text(text)
             if sc < 3: continue
             items.append({"id": iid("pmn", row["notice"]), "source": "pmn", "kind": "agenda", "body": b["name"], "entity": b["entity"],
                           "title": row["title"], "meetingDate": row["date"], "url": nurl, "files": files[:4], "score": sc, "terms": terms,
                           "companies": entities(text), "snippets": snippets(text, [t for t in terms if KW_STRONG(t)] or terms), "foundAt": today()})
-    save("state/pmn_seen.json", seen)
-    log("pmn items:", len(items)); return items
+        if done % 25 == 0: save("state/pmn_seen.json", seen)
+    cur["pos"] = (cur["pos"] + done) % max(n, 1); cur["updated"] = today()
+    save("state/pmn_cursor.json", cur); save("state/pmn_seen.json", seen)
+    log("pmn items:", len(items), "bodies read:", done, "of", n); return items
 
 def KW_STRONG(t): return t in ("subdivision", "preliminary plat", "final plat", "site plan", "townhome", "apartment", "multifamily",
                                "multi-family", "mixed use", "commercial", "hotel", "warehouse", "data center", "new construction")

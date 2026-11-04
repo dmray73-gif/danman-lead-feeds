@@ -21,8 +21,9 @@ jobs:
         run: |
           MODE="${{ github.event.inputs.mode }}"
           if [ -z "$MODE" ]; then if [ "${{ github.event.schedule }}" = "17 8 * * 0" ]; then MODE=discover; else MODE=daily; fi; fi
-          python -m feeds.run "$MODE"
+          FEEDS_BUDGET_MIN=105 python -m feeds.run "$MODE"
       - name: Save results
+        if: always()
         run: |
           git config user.name "lead-feeds bot"; git config user.email "actions@users.noreply.github.com"
           git add data state && git commit -m "feeds $(date -u +%F)" || echo "nothing new"

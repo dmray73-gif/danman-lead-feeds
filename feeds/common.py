@@ -3,6 +3,10 @@ import json, os, re, time, hashlib, datetime, urllib.robotparser
 from urllib.parse import urlparse
 import requests
 
+START = time.time()
+BUDGET = float(os.environ.get("FEEDS_BUDGET_MIN", "105")) * 60
+def left(): return BUDGET - (time.time() - START)
+
 UA = "DanMan-Lead-Feeds/1.0 (public records research; contact via GitHub repo)"
 S = requests.Session(); S.headers["User-Agent"] = UA
 _robots, _last = {}, {}
