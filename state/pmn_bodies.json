@@ -1,5 +1,5 @@
 {
- "next": 901,
+ "next": 1801,
  "bodies": {
   "1": {
    "id": 1,
@@ -2070,6 +2070,1151 @@
    "id": 898,
    "name": "Land Use Eminent Domain Board",
    "entity": "Department of Commerce"
+  },
+  "907": {
+   "id": 907,
+   "name": "Health Advisory Council",
+   "entity": "Department of Health and Human Services (DHHS)"
+  },
+  "911": {
+   "id": 911,
+   "name": "Appeal Authority",
+   "entity": "Tooele County"
+  },
+  "917": {
+   "id": 917,
+   "name": "Ballard Planning & Zoning Board",
+   "entity": "Ballard"
+  },
+  "919": {
+   "id": 919,
+   "name": "Ballard City Council",
+   "entity": "Ballard"
+  },
+  "937": {
+   "id": 937,
+   "name": "Fillmore City Planning Commission",
+   "entity": "Fillmore"
+  },
+  "939": {
+   "id": 939,
+   "name": "Public Service Commission",
+   "entity": "Public Service Commission Entity Website https://psc.utah.gov/"
+  },
+  "946": {
+   "id": 946,
+   "name": "City Council",
+   "entity": "Marriott-Slaterville"
+  },
+  "947": {
+   "id": 947,
+   "name": "Planning Commission",
+   "entity": "Marriott-Slaterville"
+  },
+  "950": {
+   "id": 950,
+   "name": "Lewiston City Planning & Zoning Commission",
+   "entity": "Lewiston"
+  },
+  "951": {
+   "id": 951,
+   "name": "Lewiston City Council",
+   "entity": "Lewiston"
+  },
+  "976": {
+   "id": 976,
+   "name": "Civil Service Commission - Discontinued 11/18/08",
+   "entity": "Murray"
+  },
+  "977": {
+   "id": 977,
+   "name": "Murray City Center District (MCCD) Design Review Committee",
+   "entity": "Murray"
+  },
+  "978": {
+   "id": 978,
+   "name": "Shade Tree and Beautification Commission",
+   "entity": "Murray"
+  },
+  "983": {
+   "id": 983,
+   "name": "Planning and Zoning Commission",
+   "entity": "Murray"
+  },
+  "987": {
+   "id": 987,
+   "name": "Redevelopment Agency",
+   "entity": "Murray"
+  },
+  "990": {
+   "id": 990,
+   "name": "Beaver County Commission",
+   "entity": "Beaver County"
+  },
+  "991": {
+   "id": 991,
+   "name": "Beaver County Planning and Zoning Commission",
+   "entity": "Beaver County"
+  },
+  "993": {
+   "id": 993,
+   "name": "City Council",
+   "entity": "Woods Cross"
+  },
+  "994": {
+   "id": 994,
+   "name": "Planning and Zoning Board",
+   "entity": "Stockton"
+  },
+  "995": {
+   "id": 995,
+   "name": "Town Council",
+   "entity": "Stockton"
+  },
+  "996": {
+   "id": 996,
+   "name": "Redevelopment Agency",
+   "entity": "West Jordan Entity Website https://www.westjordan.utah.gov/"
+  },
+  "1000": {
+   "id": 1000,
+   "name": "Corridor Preservation Advisory Council",
+   "entity": "Utah Department of Transportation (UDOT)"
+  },
+  "1002": {
+   "id": 1002,
+   "name": "Utah Council on Victims of Crime (Defunct)",
+   "entity": "Department of Criminal Justice"
+  },
+  "1005": {
+   "id": 1005,
+   "name": "Provo City Housing Authority Board of Commissioners",
+   "entity": "Provo City Housing Authority"
+  },
+  "1015": {
+   "id": 1015,
+   "name": "Hearing Officer / Land Use Appeal",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/"
+  },
+  "1017": {
+   "id": 1017,
+   "name": "Council on Aging",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/"
+  },
+  "1019": {
+   "id": 1019,
+   "name": "Grand County Historical Preservation Commission",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/"
+  },
+  "1021": {
+   "id": 1021,
+   "name": "Grand County Local Boundary Commission",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/"
+  },
+  "1024": {
+   "id": 1024,
+   "name": "Planning Commission",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/"
+  },
+  "1029": {
+   "id": 1029,
+   "name": "Grand County Commission",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/"
+  },
+  "1031": {
+   "id": 1031,
+   "name": "City Council",
+   "entity": "South Jordan"
+  },
+  "1032": {
+   "id": 1032,
+   "name": "Planning Commission",
+   "entity": "South Jordan"
+  },
+  "1033": {
+   "id": 1033,
+   "name": "Board Of Adjustments",
+   "entity": "South Jordan"
+  },
+  "1036": {
+   "id": 1036,
+   "name": "Preservation Planning and Maintenance Subcommittee",
+   "entity": "Capitol Preservation Board Entity Website utahstatecapitol.utah.gov"
+  },
+  "1056": {
+   "id": 1056,
+   "name": "Board of Adjustments",
+   "entity": "Huntington"
+  },
+  "1057": {
+   "id": 1057,
+   "name": "Appeal Authority",
+   "entity": "Huntington"
+  },
+  "1059": {
+   "id": 1059,
+   "name": "Historic Preservation Commission",
+   "entity": "Spring City"
+  },
+  "1063": {
+   "id": 1063,
+   "name": "Planning Commission",
+   "entity": "Francis"
+  },
+  "1065": {
+   "id": 1065,
+   "name": "Beautification Commission",
+   "entity": "Spring City"
+  },
+  "1069": {
+   "id": 1069,
+   "name": "City Council",
+   "entity": "Ephraim"
+  },
+  "1070": {
+   "id": 1070,
+   "name": "Planning and Zoning",
+   "entity": "Ephraim"
+  },
+  "1075": {
+   "id": 1075,
+   "name": "Housing Authority",
+   "entity": "Ephraim"
+  },
+  "1076": {
+   "id": 1076,
+   "name": "Spring City Council",
+   "entity": "Spring City"
+  },
+  "1080": {
+   "id": 1080,
+   "name": "Redevelopment Agency of Centerville",
+   "entity": "Centerville"
+  },
+  "1086": {
+   "id": 1086,
+   "name": "Redevelopment Agency",
+   "entity": "St. George"
+  },
+  "1089": {
+   "id": 1089,
+   "name": "(Inactive) Town Council",
+   "entity": "Francis"
+  },
+  "1090": {
+   "id": 1090,
+   "name": "City Council",
+   "entity": "Blanding"
+  },
+  "1100": {
+   "id": 1100,
+   "name": "Board of Adjustments",
+   "entity": "Riverton"
+  },
+  "1101": {
+   "id": 1101,
+   "name": "Redevelopment Agency",
+   "entity": "Riverton"
+  },
+  "1112": {
+   "id": 1112,
+   "name": "Forestry, Fire and State Lands Advisory Council [defunct]",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "1114": {
+   "id": 1114,
+   "name": "Kanab City Council",
+   "entity": "Kanab"
+  },
+  "1119": {
+   "id": 1119,
+   "name": "Enterprise City Council",
+   "entity": "Enterprise"
+  },
+  "1122": {
+   "id": 1122,
+   "name": "Planning and Zoning Commission",
+   "entity": "Spring City"
+  },
+  "1126": {
+   "id": 1126,
+   "name": "Kane County Commission",
+   "entity": "Kane County"
+  },
+  "1131": {
+   "id": 1131,
+   "name": "Staff Planning Meeting",
+   "entity": "White City Water Improvement District (Salt Lake County, Utah)"
+  },
+  "1139": {
+   "id": 1139,
+   "name": "Citizen Corp. Council",
+   "entity": "Apple Valley Board/Committee"
+  },
+  "1145": {
+   "id": 1145,
+   "name": "Town Council",
+   "entity": "Manila"
+  },
+  "1148": {
+   "id": 1148,
+   "name": "Board of Commissioners",
+   "entity": "Carbon County"
+  },
+  "1151": {
+   "id": 1151,
+   "name": "Planning Commission",
+   "entity": "Herriman"
+  },
+  "1155": {
+   "id": 1155,
+   "name": "City Council",
+   "entity": "Herriman"
+  },
+  "1158": {
+   "id": 1158,
+   "name": "Board of Adjustment",
+   "entity": "Spring City"
+  },
+  "1239": {
+   "id": 1239,
+   "name": "Legislative Water Development Commission",
+   "entity": "Legislature"
+  },
+  "1242": {
+   "id": 1242,
+   "name": "Utah Constitutional Revision Commission",
+   "entity": "Legislature"
+  },
+  "1244": {
+   "id": 1244,
+   "name": "Utah International Relations and Trade Commission",
+   "entity": "Legislature"
+  },
+  "1245": {
+   "id": 1245,
+   "name": "Utah Tax Review Commission",
+   "entity": "Legislature"
+  },
+  "1248": {
+   "id": 1248,
+   "name": "Town Council",
+   "entity": "Leamington"
+  },
+  "1251": {
+   "id": 1251,
+   "name": "Joint City Council and Planning Commission Work Meetings",
+   "entity": "Herriman Board/Committee"
+  },
+  "1254": {
+   "id": 1254,
+   "name": "Utah Commission On Uniform State Laws",
+   "entity": "Legislature"
+  },
+  "1266": {
+   "id": 1266,
+   "name": "Historic Landmark Commission",
+   "entity": "Salt Lake City"
+  },
+  "1268": {
+   "id": 1268,
+   "name": "Housing Advisory and Appeals Board",
+   "entity": "Salt Lake City"
+  },
+  "1269": {
+   "id": 1269,
+   "name": "Housing Trust Fund Advisory Board",
+   "entity": "Salt Lake City"
+  },
+  "1270": {
+   "id": 1270,
+   "name": "Human Rights Commission",
+   "entity": "Salt Lake City"
+  },
+  "1274": {
+   "id": 1274,
+   "name": "Planning Commission",
+   "entity": "Salt Lake City"
+  },
+  "1277": {
+   "id": 1277,
+   "name": "Redevelopment Agency",
+   "entity": "Salt Lake City"
+  },
+  "1280": {
+   "id": 1280,
+   "name": "Civil Service Commission",
+   "entity": "Salt Lake City"
+  },
+  "1282": {
+   "id": 1282,
+   "name": "Escalante City Council",
+   "entity": "Escalante"
+  },
+  "1283": {
+   "id": 1283,
+   "name": "Escalante City Planning & Zoning",
+   "entity": "Escalante"
+  },
+  "1284": {
+   "id": 1284,
+   "name": "Escalante City Board of Adjustments",
+   "entity": "Escalante"
+  },
+  "1285": {
+   "id": 1285,
+   "name": "Peace Officer Standards and Training Council",
+   "entity": "Department of Public Safety"
+  },
+  "1288": {
+   "id": 1288,
+   "name": "Town Council",
+   "entity": "Circleville"
+  },
+  "1290": {
+   "id": 1290,
+   "name": "Parowan City Council",
+   "entity": "Parowan"
+  },
+  "1295": {
+   "id": 1295,
+   "name": "City Council",
+   "entity": "South Salt Lake"
+  },
+  "1297": {
+   "id": 1297,
+   "name": "Planning Commission",
+   "entity": "South Salt Lake"
+  },
+  "1300": {
+   "id": 1300,
+   "name": "Hyrum City Council",
+   "entity": "Hyrum"
+  },
+  "1304": {
+   "id": 1304,
+   "name": "Uintah Basin Assistance Council",
+   "entity": "Uintah County"
+  },
+  "1305": {
+   "id": 1305,
+   "name": "Myton City Housing Authority",
+   "entity": "Uintah County"
+  },
+  "1308": {
+   "id": 1308,
+   "name": "Town Council",
+   "entity": "Genola"
+  },
+  "1309": {
+   "id": 1309,
+   "name": "Planning Commission",
+   "entity": "Genola"
+  },
+  "1311": {
+   "id": 1311,
+   "name": "Canyon View Junior High School Community Council",
+   "entity": "Emery County School District"
+  },
+  "1313": {
+   "id": 1313,
+   "name": "Cleveland Elementary School Community Council",
+   "entity": "Emery County School District"
+  },
+  "1314": {
+   "id": 1314,
+   "name": "Huntington Elementary School Community Council",
+   "entity": "Emery County School District"
+  },
+  "1315": {
+   "id": 1315,
+   "name": "Castle Dale Elementary School Community Council",
+   "entity": "Emery County School District"
+  },
+  "1316": {
+   "id": 1316,
+   "name": "Cottonwood Elementary School Community Council",
+   "entity": "Emery County School District"
+  },
+  "1317": {
+   "id": 1317,
+   "name": "Ferron Elementary School Community Council",
+   "entity": "Emery County School District"
+  },
+  "1318": {
+   "id": 1318,
+   "name": "San Rafael Junior High School Community Council",
+   "entity": "Emery County School District"
+  },
+  "1319": {
+   "id": 1319,
+   "name": "Book Cliff Elementary School Community Council",
+   "entity": "Emery County School District"
+  },
+  "1320": {
+   "id": 1320,
+   "name": "Green River High School Community Council",
+   "entity": "Emery County School District"
+  },
+  "1321": {
+   "id": 1321,
+   "name": "Emery High School Community Council",
+   "entity": "Emery County School District"
+  },
+  "1330": {
+   "id": 1330,
+   "name": "Summit County Council",
+   "entity": "Summit County Entity Website http://www.summitcounty.org"
+  },
+  "1335": {
+   "id": 1335,
+   "name": "Davis County Commission",
+   "entity": "Davis County"
+  },
+  "1340": {
+   "id": 1340,
+   "name": "Davis County Planning Commission",
+   "entity": "Davis County"
+  },
+  "1346": {
+   "id": 1346,
+   "name": "City Council",
+   "entity": "Moroni"
+  },
+  "1347": {
+   "id": 1347,
+   "name": "Employment Advisory Council",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "1350": {
+   "id": 1350,
+   "name": "Wasatch Front South Council on Workforce Services (Defunct)",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "1351": {
+   "id": 1351,
+   "name": "Commission for Women and Families (Defunct)",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "1352": {
+   "id": 1352,
+   "name": "Southeast Regional Council on Workforce Services (Defunct)",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "1353": {
+   "id": 1353,
+   "name": "Uintah Basin Regional Council on Workforce Services (Defunct)",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "1354": {
+   "id": 1354,
+   "name": "Western Region Council on Workforce Services (Defunct)",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "1356": {
+   "id": 1356,
+   "name": "Wasatch North Regional Council on Workforce Services (Defunct)",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "1357": {
+   "id": 1357,
+   "name": "Bear River North Regional Council on Workforce Services (Defunct)",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "1359": {
+   "id": 1359,
+   "name": "Mountainland Council on Workforce Services (Defunct)",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "1360": {
+   "id": 1360,
+   "name": "Salt Lake City Council",
+   "entity": "Salt Lake City"
+  },
+  "1371": {
+   "id": 1371,
+   "name": "City Council",
+   "entity": "North Ogden"
+  },
+  "1401": {
+   "id": 1401,
+   "name": "County Council",
+   "entity": "Cache County"
+  },
+  "1404": {
+   "id": 1404,
+   "name": "Planning Commission",
+   "entity": "Pleasant Grove"
+  },
+  "1405": {
+   "id": 1405,
+   "name": "Board Of Adjustment",
+   "entity": "Pleasant Grove"
+  },
+  "1408": {
+   "id": 1408,
+   "name": "Independent Contractor Enforcement Council",
+   "entity": "Department of Commerce"
+  },
+  "1414": {
+   "id": 1414,
+   "name": "Development Review Committee",
+   "entity": "Springville"
+  },
+  "1417": {
+   "id": 1417,
+   "name": "Daggett County Commission",
+   "entity": "Daggett County"
+  },
+  "1420": {
+   "id": 1420,
+   "name": "Utah Conservation Commission",
+   "entity": "Department of Agriculture and Food"
+  },
+  "1425": {
+   "id": 1425,
+   "name": "Emery County Commission",
+   "entity": "Emery County"
+  },
+  "1429": {
+   "id": 1429,
+   "name": "Parowan Planning & Zoning Board",
+   "entity": "Parowan"
+  },
+  "1433": {
+   "id": 1433,
+   "name": "Parowan Shade Tree Commission",
+   "entity": "Parowan"
+  },
+  "1436": {
+   "id": 1436,
+   "name": "Judicial Performance Evaluation Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "1452": {
+   "id": 1452,
+   "name": "District 5 Aging & Nutrition Services Advisory Council",
+   "entity": "Five County Association of Governments"
+  },
+  "1454": {
+   "id": 1454,
+   "name": "Dixie MPO Dixie Transportation Executive Council",
+   "entity": "Five County Association of Governments"
+  },
+  "1456": {
+   "id": 1456,
+   "name": "Emery County Planning and Zoning Commission",
+   "entity": "Emery County"
+  },
+  "1457": {
+   "id": 1457,
+   "name": "Emery County Public Lands Council",
+   "entity": "Emery County"
+  },
+  "1460": {
+   "id": 1460,
+   "name": "Brian Head Town Council",
+   "entity": "Brian Head"
+  },
+  "1461": {
+   "id": 1461,
+   "name": "Brian Head Planning Commission",
+   "entity": "Brian Head"
+  },
+  "1462": {
+   "id": 1462,
+   "name": "Brian Head Redevelopment Agency",
+   "entity": "Brian Head"
+  },
+  "1468": {
+   "id": 1468,
+   "name": "City Council",
+   "entity": "West Bountiful"
+  },
+  "1474": {
+   "id": 1474,
+   "name": "Kanab City Planning Commission",
+   "entity": "Kanab"
+  },
+  "1477": {
+   "id": 1477,
+   "name": "Levan Town Council",
+   "entity": "Levan"
+  },
+  "1479": {
+   "id": 1479,
+   "name": "Planning Commission",
+   "entity": "Cache County"
+  },
+  "1480": {
+   "id": 1480,
+   "name": "MAG MPO Regional Planning",
+   "entity": "Mountainland Association of Governments"
+  },
+  "1488": {
+   "id": 1488,
+   "name": "City Council",
+   "entity": "Wendover"
+  },
+  "1489": {
+   "id": 1489,
+   "name": "Planning and Zoning Commission",
+   "entity": "Wendover"
+  },
+  "1516": {
+   "id": 1516,
+   "name": "Leeds Town Council",
+   "entity": "Leeds Board/Committee"
+  },
+  "1517": {
+   "id": 1517,
+   "name": "Leeds Planning Commission",
+   "entity": "Leeds Board/Committee"
+  },
+  "1520": {
+   "id": 1520,
+   "name": "Oakley City Council",
+   "entity": "Oakley"
+  },
+  "1523": {
+   "id": 1523,
+   "name": "Council Law Enforcement Subcommittee",
+   "entity": "Salt Lake County"
+  },
+  "1524": {
+   "id": 1524,
+   "name": "Council Legislative Subcommittee",
+   "entity": "Salt Lake County"
+  },
+  "1525": {
+   "id": 1525,
+   "name": "Council Elected Officials Subcommittee",
+   "entity": "Salt Lake County"
+  },
+  "1526": {
+   "id": 1526,
+   "name": "Council Public Works Subcommittee",
+   "entity": "Salt Lake County"
+  },
+  "1527": {
+   "id": 1527,
+   "name": "Council Executive Subcommittee",
+   "entity": "Salt Lake County"
+  },
+  "1528": {
+   "id": 1528,
+   "name": "Council Fund Balance Subcommittee",
+   "entity": "Salt Lake County"
+  },
+  "1529": {
+   "id": 1529,
+   "name": "Council Administrative Services Subcommittee",
+   "entity": "Salt Lake County"
+  },
+  "1530": {
+   "id": 1530,
+   "name": "Council Human Services Subcommittee",
+   "entity": "Salt Lake County"
+  },
+  "1531": {
+   "id": 1531,
+   "name": "Council Community Services Subcommittee",
+   "entity": "Salt Lake County"
+  },
+  "1545": {
+   "id": 1545,
+   "name": "City Council",
+   "entity": "Kaysville"
+  },
+  "1546": {
+   "id": 1546,
+   "name": "Kaysville Planning Commission",
+   "entity": "Kaysville"
+  },
+  "1554": {
+   "id": 1554,
+   "name": "Planning Commission",
+   "entity": "West Bountiful"
+  },
+  "1556": {
+   "id": 1556,
+   "name": "Board of Adjustment",
+   "entity": "Salt Lake County"
+  },
+  "1557": {
+   "id": 1557,
+   "name": "Millcreek Township Planning Commission",
+   "entity": "Salt Lake County"
+  },
+  "1558": {
+   "id": 1558,
+   "name": "Boundary Commission",
+   "entity": "Salt Lake County"
+  },
+  "1559": {
+   "id": 1559,
+   "name": "Magna Planning Commission",
+   "entity": "Magna City"
+  },
+  "1560": {
+   "id": 1560,
+   "name": "Copperton Planning Commission",
+   "entity": "Copperton"
+  },
+  "1561": {
+   "id": 1561,
+   "name": "Kearns Planning Commission",
+   "entity": "Kearns"
+  },
+  "1562": {
+   "id": 1562,
+   "name": "Emigration Canyon Planning Commission",
+   "entity": "Emigration Canyon"
+  },
+  "1570": {
+   "id": 1570,
+   "name": "Wasatch County Planning Commission",
+   "entity": "Wasatch County"
+  },
+  "1574": {
+   "id": 1574,
+   "name": "R6 Executive Board",
+   "entity": "R6 Regional Council"
+  },
+  "1575": {
+   "id": 1575,
+   "name": "Planning Commission",
+   "entity": "Annabella"
+  },
+  "1583": {
+   "id": 1583,
+   "name": "Solid Waste Management Council",
+   "entity": "Salt Lake County"
+  },
+  "1585": {
+   "id": 1585,
+   "name": "Farmington City Council",
+   "entity": "Farmington"
+  },
+  "1588": {
+   "id": 1588,
+   "name": "Farmington City Planning Commission",
+   "entity": "Farmington"
+  },
+  "1591": {
+   "id": 1591,
+   "name": "Historic Preservation Commission",
+   "entity": "Farmington"
+  },
+  "1592": {
+   "id": 1592,
+   "name": "MAG Aging and Family Services Advisory Council",
+   "entity": "Mountainland Association of Governments Board/Committee"
+  },
+  "1600": {
+   "id": 1600,
+   "name": "Provo Municipal Council",
+   "entity": "Provo"
+  },
+  "1601": {
+   "id": 1601,
+   "name": "Alta Town Council",
+   "entity": "Alta"
+  },
+  "1602": {
+   "id": 1602,
+   "name": "Alta Planning Commission",
+   "entity": "Alta"
+  },
+  "1603": {
+   "id": 1603,
+   "name": "Town of Alta Land Use Appeal Authority",
+   "entity": "Alta"
+  },
+  "1605": {
+   "id": 1605,
+   "name": "Santa Clara Planning Commission",
+   "entity": "Santa Clara"
+  },
+  "1609": {
+   "id": 1609,
+   "name": "Economic Dev. Commission",
+   "entity": "Santa Clara"
+  },
+  "1611": {
+   "id": 1611,
+   "name": "Heritage Commission",
+   "entity": "Santa Clara"
+  },
+  "1613": {
+   "id": 1613,
+   "name": "City Council",
+   "entity": "Santa Clara"
+  },
+  "1614": {
+   "id": 1614,
+   "name": "Utah County Boundary Commission",
+   "entity": "Utah County"
+  },
+  "1620": {
+   "id": 1620,
+   "name": "Historic Preservation Commission",
+   "entity": "Helper"
+  },
+  "1622": {
+   "id": 1622,
+   "name": "City Council",
+   "entity": "Heber City"
+  },
+  "1624": {
+   "id": 1624,
+   "name": "Cache Valley Regional Council",
+   "entity": "Cache County"
+  },
+  "1625": {
+   "id": 1625,
+   "name": "Board of Adjustments",
+   "entity": "Cache County"
+  },
+  "1626": {
+   "id": 1626,
+   "name": "Planning Commission",
+   "entity": "Heber City"
+  },
+  "1628": {
+   "id": 1628,
+   "name": "Board of Adjustment",
+   "entity": "Heber City"
+  },
+  "1632": {
+   "id": 1632,
+   "name": "Corinne City Council",
+   "entity": "Corinne"
+  },
+  "1637": {
+   "id": 1637,
+   "name": "Davis County Council of Governments",
+   "entity": "Davis County"
+  },
+  "1646": {
+   "id": 1646,
+   "name": "Wasatch County Council",
+   "entity": "Wasatch County"
+  },
+  "1652": {
+   "id": 1652,
+   "name": "Planning Commission",
+   "entity": "Carbon County"
+  },
+  "1654": {
+   "id": 1654,
+   "name": "Council on Aging",
+   "entity": "Carbon County"
+  },
+  "1655": {
+   "id": 1655,
+   "name": "Utah County Board of Adjustment",
+   "entity": "Utah County"
+  },
+  "1659": {
+   "id": 1659,
+   "name": "Classified Civil Service Commission",
+   "entity": "Provo"
+  },
+  "1661": {
+   "id": 1661,
+   "name": "Provo City Board of Adjustment",
+   "entity": "Provo"
+  },
+  "1662": {
+   "id": 1662,
+   "name": "Provo City Planning Commission",
+   "entity": "Provo"
+  },
+  "1663": {
+   "id": 1663,
+   "name": "Provo City Landmarks Commission",
+   "entity": "Provo"
+  },
+  "1664": {
+   "id": 1664,
+   "name": "Provo City Design Review Committee",
+   "entity": "Provo"
+  },
+  "1680": {
+   "id": 1680,
+   "name": "Juab County Commission",
+   "entity": "Juab County"
+  },
+  "1681": {
+   "id": 1681,
+   "name": "Juab Planning Commission",
+   "entity": "Juab County"
+  },
+  "1685": {
+   "id": 1685,
+   "name": "Duchesne County Board of Adjustment",
+   "entity": "Duchesne County"
+  },
+  "1686": {
+   "id": 1686,
+   "name": "Duchesne County Planning Commission",
+   "entity": "Duchesne County"
+  },
+  "1692": {
+   "id": 1692,
+   "name": "Duchesne County Public Land Use Committee",
+   "entity": "Duchesne County"
+  },
+  "1694": {
+   "id": 1694,
+   "name": "Duchesne County Commission",
+   "entity": "Duchesne County"
+  },
+  "1709": {
+   "id": 1709,
+   "name": "Planning and Zoning",
+   "entity": "Daggett County"
+  },
+  "1711": {
+   "id": 1711,
+   "name": "Utah County Planning Commission",
+   "entity": "Utah County"
+  },
+  "1713": {
+   "id": 1713,
+   "name": "Board of Adjustments",
+   "entity": "Daggett County"
+  },
+  "1715": {
+   "id": 1715,
+   "name": "City Council",
+   "entity": "Duchesne City"
+  },
+  "1716": {
+   "id": 1716,
+   "name": "Mountainous Planning District",
+   "entity": "Salt Lake County"
+  },
+  "1722": {
+   "id": 1722,
+   "name": "Planning Division Administrative Hearings",
+   "entity": "Salt Lake City"
+  },
+  "1727": {
+   "id": 1727,
+   "name": "City of Saratoga Springs City Council",
+   "entity": "Saratoga Springs"
+  },
+  "1735": {
+   "id": 1735,
+   "name": "Moab City Council",
+   "entity": "Moab"
+  },
+  "1736": {
+   "id": 1736,
+   "name": "Moab City Planning Commission",
+   "entity": "Moab"
+  },
+  "1738": {
+   "id": 1738,
+   "name": "Moab City Board of Adjustments",
+   "entity": "Moab"
+  },
+  "1740": {
+   "id": 1740,
+   "name": "Farmington City Redevelopment Agency",
+   "entity": "Farmington"
+  },
+  "1744": {
+   "id": 1744,
+   "name": "Orangeville City Council",
+   "entity": "Orangeville"
+  },
+  "1749": {
+   "id": 1749,
+   "name": "School Community Council Meetings",
+   "entity": "Davis School District"
+  },
+  "1751": {
+   "id": 1751,
+   "name": "Utah Professional Practices Advisory Commission",
+   "entity": "State Board of Education"
+  },
+  "1756": {
+   "id": 1756,
+   "name": "Davis Elementary School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1757": {
+   "id": 1757,
+   "name": "Discovery Elementary School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1758": {
+   "id": 1758,
+   "name": "Ashley Elementary School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1759": {
+   "id": 1759,
+   "name": "Eagle View Elementary School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1760": {
+   "id": 1760,
+   "name": "Lapoint Elementary School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1761": {
+   "id": 1761,
+   "name": "Maeser Elementary School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1762": {
+   "id": 1762,
+   "name": "Naples Elementary School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1763": {
+   "id": 1763,
+   "name": "Vernal Middle School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1764": {
+   "id": 1764,
+   "name": "Vernal Jr. High School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1765": {
+   "id": 1765,
+   "name": "Uintah High School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1766": {
+   "id": 1766,
+   "name": "Ashley Valley High School Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1767": {
+   "id": 1767,
+   "name": "Uintah Online Community Council",
+   "entity": "Uintah County School District"
+  },
+  "1788": {
+   "id": 1788,
+   "name": "Nephi City Council",
+   "entity": "Nephi"
+  },
+  "1791": {
+   "id": 1791,
+   "name": "Piute County Commission",
+   "entity": "Piute County"
+  },
+  "1797": {
+   "id": 1797,
+   "name": "Orangeville City Planning and Zoning",
+   "entity": "Orangeville"
   }
  },
  "misses": 0,
