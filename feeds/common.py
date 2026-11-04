@@ -13,14 +13,20 @@ _robots, _last = {}, {}
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def allowed(url):
+    """robots.txt check. Fetch it with our own user agent (many city sites 403 Python's default agent):
+    200 -> obey it; 404/410 -> allowed; anything else -> skip the site."""
     host = urlparse(url).scheme + "://" + urlparse(url).netloc
-    rp = _robots.get(host)
-    if rp is None:
+    if host not in _robots:
         rp = urllib.robotparser.RobotFileParser(host + "/robots.txt")
-        try: rp.read()
-        except Exception: rp = None
+        try:
+            r = S.get(host + "/robots.txt", timeout=20)
+            if r.status_code == 200: rp.parse(r.text.splitlines())
+            elif r.status_code in (404, 410): rp.allow_all = True
+            else: log("robots.txt HTTP", r.status_code, host); rp.disallow_all = True
+        except Exception as e:
+            log("robots.txt ERR", e, host); rp.disallow_all = True
         _robots[host] = rp
-    return True if rp is None else rp.can_fetch(UA, url)
+    return _robots[host].can_fetch(UA, url)
 
 def get(url, delay=1.0, **kw):
     """GET with robots.txt check and a per-host delay. Returns Response or None."""
