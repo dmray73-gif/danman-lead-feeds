@@ -1,5 +1,5 @@
 {
- "next": 1801,
+ "next": 2701,
  "bodies": {
   "1": {
    "id": 1,
@@ -3215,6 +3215,1111 @@
    "id": 1797,
    "name": "Orangeville City Planning and Zoning",
    "entity": "Orangeville"
+  },
+  "1829": {
+   "id": 1829,
+   "name": "Planning Division Open Houses",
+   "entity": "Salt Lake City"
+  },
+  "1834": {
+   "id": 1834,
+   "name": "Providence City Council",
+   "entity": "Providence"
+  },
+  "1835": {
+   "id": 1835,
+   "name": "Providence City Administrative Land Use Authority",
+   "entity": "Providence"
+  },
+  "1836": {
+   "id": 1836,
+   "name": "Providence City Planning Commission (LUA Subdivisions only)",
+   "entity": "Providence"
+  },
+  "1837": {
+   "id": 1837,
+   "name": "Providence City Historic Preservation Commission",
+   "entity": "Providence"
+  },
+  "1838": {
+   "id": 1838,
+   "name": "Providence City Appeal Authority",
+   "entity": "Providence"
+  },
+  "1840": {
+   "id": 1840,
+   "name": "Grantsville City Council",
+   "entity": "Grantsville"
+  },
+  "1841": {
+   "id": 1841,
+   "name": "Grantsville City Planning Commission",
+   "entity": "Grantsville"
+  },
+  "1843": {
+   "id": 1843,
+   "name": "Planning Commission",
+   "entity": "Woods Cross"
+  },
+  "1846": {
+   "id": 1846,
+   "name": "Millard County Commission",
+   "entity": "Millard County"
+  },
+  "1848": {
+   "id": 1848,
+   "name": "Title and Escrow Commission",
+   "entity": "Insurance Department"
+  },
+  "1854": {
+   "id": 1854,
+   "name": "City of Saratoga Springs Planning Commission",
+   "entity": "Saratoga Springs"
+  },
+  "1855": {
+   "id": 1855,
+   "name": "Riverdale Redevelopment Agency",
+   "entity": "Riverdale"
+  },
+  "1857": {
+   "id": 1857,
+   "name": "Ensign School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1858": {
+   "id": 1858,
+   "name": "Franklin School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1859": {
+   "id": 1859,
+   "name": "Newman School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1860": {
+   "id": 1860,
+   "name": "Planning Commission",
+   "entity": "Park City"
+  },
+  "1862": {
+   "id": 1862,
+   "name": "Redevelopment Agency",
+   "entity": "City of North Salt Lake"
+  },
+  "1863": {
+   "id": 1863,
+   "name": "Eastern Washington County Rural Planning Organization",
+   "entity": "Five County Association of Governments"
+  },
+  "1865": {
+   "id": 1865,
+   "name": "MAG Executive Council",
+   "entity": "Mountainland Association of Governments"
+  },
+  "1869": {
+   "id": 1869,
+   "name": "Nephi City Planning Commission",
+   "entity": "Nephi"
+  },
+  "1870": {
+   "id": 1870,
+   "name": "Nibley Park School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1874": {
+   "id": 1874,
+   "name": "Board of Adjustments",
+   "entity": "Carbon County"
+  },
+  "1875": {
+   "id": 1875,
+   "name": "Highland High School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1880": {
+   "id": 1880,
+   "name": "Board of Adjustments",
+   "entity": "Salina"
+  },
+  "1881": {
+   "id": 1881,
+   "name": "Bryant Middle School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1882": {
+   "id": 1882,
+   "name": "Wasatch School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1889": {
+   "id": 1889,
+   "name": "Horizonte School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1892": {
+   "id": 1892,
+   "name": "Elected Official and Judicial Compensation Commission",
+   "entity": "Legislature"
+  },
+  "1897": {
+   "id": 1897,
+   "name": "The Utah Schools for the Deaf and the Blind Advisory Council",
+   "entity": "State Board of Education > Schools for the Deaf and the Blind"
+  },
+  "1908": {
+   "id": 1908,
+   "name": "Planning and Zoning Commission",
+   "entity": "Wales"
+  },
+  "1910": {
+   "id": 1910,
+   "name": "Town Council",
+   "entity": "Laketown"
+  },
+  "1911": {
+   "id": 1911,
+   "name": "Dilworth School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1912": {
+   "id": 1912,
+   "name": "Hawthorne School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1913": {
+   "id": 1913,
+   "name": "Highland Park School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1914": {
+   "id": 1914,
+   "name": "Jackson School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1915": {
+   "id": 1915,
+   "name": "Washington School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1916": {
+   "id": 1916,
+   "name": "West High School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1921": {
+   "id": 1921,
+   "name": "Hooper City Council",
+   "entity": "Hooper"
+  },
+  "1922": {
+   "id": 1922,
+   "name": "Mt. Loafer Elementary Community Council",
+   "entity": "Nebo School District"
+  },
+  "1925": {
+   "id": 1925,
+   "name": "East High School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1926": {
+   "id": 1926,
+   "name": "Planning Commission",
+   "entity": "Bear River"
+  },
+  "1927": {
+   "id": 1927,
+   "name": "City Council",
+   "entity": "Bear River"
+  },
+  "1931": {
+   "id": 1931,
+   "name": "Wildlife Resources Habitat Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "1936": {
+   "id": 1936,
+   "name": "Planning & Zoning",
+   "entity": "Daggett County"
+  },
+  "1938": {
+   "id": 1938,
+   "name": "Development Review Committee",
+   "entity": "Highland"
+  },
+  "1940": {
+   "id": 1940,
+   "name": "Utah Digital Health Service Commission",
+   "entity": "Department of Health and Human Services (DHHS)"
+  },
+  "1953": {
+   "id": 1953,
+   "name": "Uintah School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1954": {
+   "id": 1954,
+   "name": "Hillside Middle School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1955": {
+   "id": 1955,
+   "name": "Fairview City Planning Commission",
+   "entity": "Fairview Entity Website https://fairviewcity.com/cms/"
+  },
+  "1957": {
+   "id": 1957,
+   "name": "Indian Hills School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1963": {
+   "id": 1963,
+   "name": "Westside Elementary School Community Council",
+   "entity": "Nebo School District"
+  },
+  "1964": {
+   "id": 1964,
+   "name": "Clayton Middle School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1967": {
+   "id": 1967,
+   "name": "Payson High School Community Council",
+   "entity": "Nebo School District"
+  },
+  "1970": {
+   "id": 1970,
+   "name": "Dixie Area Workforce Housing Affordability Committee",
+   "entity": "Five County Association of Governments"
+  },
+  "1978": {
+   "id": 1978,
+   "name": "Beautifcation Commission",
+   "entity": "Pleasant Grove"
+  },
+  "1979": {
+   "id": 1979,
+   "name": "Utah Population Estimates Committee",
+   "entity": "Governor's Office > Governor's Office of Planning and Budget"
+  },
+  "1983": {
+   "id": 1983,
+   "name": "Art City Elementary School Community Council",
+   "entity": "Nebo School District"
+  },
+  "1986": {
+   "id": 1986,
+   "name": "Bennion School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1989": {
+   "id": 1989,
+   "name": "Mapleton Elementary School Community Council",
+   "entity": "Nebo School District"
+  },
+  "1991": {
+   "id": 1991,
+   "name": "Fountain Green City Council",
+   "entity": "Fountain Green"
+  },
+  "1992": {
+   "id": 1992,
+   "name": "Parkview School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "1994": {
+   "id": 1994,
+   "name": "Noah Webster Academy Community Council",
+   "entity": "Noah Webster Academy"
+  },
+  "1998": {
+   "id": 1998,
+   "name": "Larsen Elementary School Community Council",
+   "entity": "Nebo School District"
+  },
+  "1999": {
+   "id": 1999,
+   "name": "Panguitch City Council",
+   "entity": "Panguitch"
+  },
+  "2001": {
+   "id": 2001,
+   "name": "Elk Advisory Council",
+   "entity": "Department of Agriculture and Food"
+  },
+  "2002": {
+   "id": 2002,
+   "name": "Panguitch City Council",
+   "entity": "Panguitch"
+  },
+  "2005": {
+   "id": 2005,
+   "name": "Backman School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2007": {
+   "id": 2007,
+   "name": "Brookside Elementary Community Council",
+   "entity": "Nebo School District"
+  },
+  "2012": {
+   "id": 2012,
+   "name": "Whittier School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2013": {
+   "id": 2013,
+   "name": "Kane County Travel Council",
+   "entity": "Kane County"
+  },
+  "2014": {
+   "id": 2014,
+   "name": "(DTEC) Dixie Transportation Executive Council",
+   "entity": "St. George"
+  },
+  "2017": {
+   "id": 2017,
+   "name": "Redevelopment Agency Board of Directors",
+   "entity": "Salt Lake County"
+  },
+  "2026": {
+   "id": 2026,
+   "name": "Community Development Block Grant",
+   "entity": "R6 Regional Council"
+  },
+  "2030": {
+   "id": 2030,
+   "name": "Planning Commission",
+   "entity": "Hideout"
+  },
+  "2031": {
+   "id": 2031,
+   "name": "Town Council",
+   "entity": "Hideout"
+  },
+  "2036": {
+   "id": 2036,
+   "name": "Beaver High School Community Council",
+   "entity": "Beaver County School District Entity Website http://www.beaver.k12.ut.us/"
+  },
+  "2037": {
+   "id": 2037,
+   "name": "Minersville School Community Council",
+   "entity": "Beaver County School District Entity Website http://www.beaver.k12.ut.us/"
+  },
+  "2038": {
+   "id": 2038,
+   "name": "Edison School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2044": {
+   "id": 2044,
+   "name": "Elmo Town Council",
+   "entity": "Elmo"
+  },
+  "2046": {
+   "id": 2046,
+   "name": "Milford High School Community Council",
+   "entity": "Beaver County School District Entity Website http://www.beaver.k12.ut.us/"
+  },
+  "2051": {
+   "id": 2051,
+   "name": "SFJHS School Community Council/Trustland",
+   "entity": "Nebo School District"
+  },
+  "2054": {
+   "id": 2054,
+   "name": "Board of Adjustment",
+   "entity": "American Fork"
+  },
+  "2056": {
+   "id": 2056,
+   "name": "Coordinated Human Services Transportation Planning",
+   "entity": "Five County Association of Governments"
+  },
+  "2060": {
+   "id": 2060,
+   "name": "Belknap Elementary Community Council",
+   "entity": "Beaver County School District Entity Website http://www.beaver.k12.ut.us/"
+  },
+  "2064": {
+   "id": 2064,
+   "name": "Planning Commission",
+   "entity": "Town of Independence"
+  },
+  "2065": {
+   "id": 2065,
+   "name": "Town Council",
+   "entity": "Town of Independence"
+  },
+  "2068": {
+   "id": 2068,
+   "name": "Morgan County Commission",
+   "entity": "Morgan County"
+  },
+  "2069": {
+   "id": 2069,
+   "name": "Morgan County Planning Commission",
+   "entity": "Morgan County"
+  },
+  "2079": {
+   "id": 2079,
+   "name": "Morgan County Redevelopment Agency",
+   "entity": "Morgan County"
+  },
+  "2081": {
+   "id": 2081,
+   "name": "Morgan County Council of Governments",
+   "entity": "Morgan County"
+  },
+  "2082": {
+   "id": 2082,
+   "name": "Morgan County Housing Authority",
+   "entity": "Morgan County"
+  },
+  "2086": {
+   "id": 2086,
+   "name": "Rose Park School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2095": {
+   "id": 2095,
+   "name": "Blue Ribbon Fisheries Advisory Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "2099": {
+   "id": 2099,
+   "name": "Z - Summit County Council - OLD",
+   "entity": "Summit County Entity Website http://www.summitcounty.org"
+  },
+  "2103": {
+   "id": 2103,
+   "name": "Providence City Council, Commissions, Authorities",
+   "entity": "Providence"
+  },
+  "2105": {
+   "id": 2105,
+   "name": "City Council",
+   "entity": "Nibley"
+  },
+  "2107": {
+   "id": 2107,
+   "name": "Council Democratic Caucus",
+   "entity": "Salt Lake County"
+  },
+  "2110": {
+   "id": 2110,
+   "name": "Board of Adjustment",
+   "entity": "Fruit Heights"
+  },
+  "2112": {
+   "id": 2112,
+   "name": "R6 Economic Development District",
+   "entity": "R6 Regional Council"
+  },
+  "2117": {
+   "id": 2117,
+   "name": "Oakley City Planning Commission",
+   "entity": "Oakley"
+  },
+  "2119": {
+   "id": 2119,
+   "name": "HOME Consortium Housing Committee",
+   "entity": "Salt Lake County"
+  },
+  "2123": {
+   "id": 2123,
+   "name": "Community & Economic Development Advisory Council",
+   "entity": "Salt Lake County"
+  },
+  "2124": {
+   "id": 2124,
+   "name": "Uniform Building Code Commission, Electrical Advisory Committee",
+   "entity": "Department of Commerce > Division of Professional Licensing (DOPL) Entity Website dopl.utah.gov"
+  },
+  "2134": {
+   "id": 2134,
+   "name": "Redevelopment Agency (RDA)",
+   "entity": "Smithfield"
+  },
+  "2142": {
+   "id": 2142,
+   "name": "Council Sanitation Subcommittee",
+   "entity": "Salt Lake County"
+  },
+  "2147": {
+   "id": 2147,
+   "name": "City Council",
+   "entity": "Cottonwood Heights"
+  },
+  "2148": {
+   "id": 2148,
+   "name": "Planning Commission",
+   "entity": "Cottonwood Heights"
+  },
+  "2150": {
+   "id": 2150,
+   "name": "Architectural Review Commission",
+   "entity": "Cottonwood Heights"
+  },
+  "2155": {
+   "id": 2155,
+   "name": "Wasatch Elementary School Community Council",
+   "entity": "Provo City School District"
+  },
+  "2167": {
+   "id": 2167,
+   "name": "Weber County Commission",
+   "entity": "Weber County"
+  },
+  "2169": {
+   "id": 2169,
+   "name": "Utah Lake Governing Board",
+   "entity": "Utah Lake Commission"
+  },
+  "2190": {
+   "id": 2190,
+   "name": "City Council",
+   "entity": "Mona"
+  },
+  "2193": {
+   "id": 2193,
+   "name": "Emergency Management Administration Council",
+   "entity": "Department of Public Safety"
+  },
+  "2207": {
+   "id": 2207,
+   "name": "Development Review Committee",
+   "entity": "Santaquin"
+  },
+  "2217": {
+   "id": 2217,
+   "name": "Motor Vehicle Safety Inspection Advisory Council",
+   "entity": "Department of Public Safety"
+  },
+  "2218": {
+   "id": 2218,
+   "name": "Emery County Economic Development Council",
+   "entity": "Emery County"
+  },
+  "2220": {
+   "id": 2220,
+   "name": "Emery County Council of Governments",
+   "entity": "Emery County"
+  },
+  "2222": {
+   "id": 2222,
+   "name": "Emery County Housing Board",
+   "entity": "Emery County"
+  },
+  "2225": {
+   "id": 2225,
+   "name": "Emery County Historical Preservation Commission",
+   "entity": "Emery County"
+  },
+  "2231": {
+   "id": 2231,
+   "name": "Quality Growth Commission",
+   "entity": "Governor's Office > Governor's Office of Planning and Budget"
+  },
+  "2232": {
+   "id": 2232,
+   "name": "Board of Adjustment",
+   "entity": "Wasatch County"
+  },
+  "2233": {
+   "id": 2233,
+   "name": "Historical Preservation Commission",
+   "entity": "Summit County Entity Website http://www.summitcounty.org"
+  },
+  "2240": {
+   "id": 2240,
+   "name": "Hooper City Planning Commission",
+   "entity": "Hooper"
+  },
+  "2258": {
+   "id": 2258,
+   "name": "Trans Com",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "2260": {
+   "id": 2260,
+   "name": "Regional Growth Committee",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "2262": {
+   "id": 2262,
+   "name": "Wasatch Front Regional Council",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "2263": {
+   "id": 2263,
+   "name": "Uniform Building Code Commission, Unified Code Analysis Council",
+   "entity": "Department of Commerce > Division of Professional Licensing (DOPL) Entity Website dopl.utah.gov"
+  },
+  "2266": {
+   "id": 2266,
+   "name": "City Council",
+   "entity": "Woodland Hills"
+  },
+  "2271": {
+   "id": 2271,
+   "name": "Civil Service Commission",
+   "entity": "Provo"
+  },
+  "2278": {
+   "id": 2278,
+   "name": "City Council",
+   "entity": "Salem"
+  },
+  "2285": {
+   "id": 2285,
+   "name": "Sanpete County Deputy Sheriff's Merit Commission",
+   "entity": "Sanpete County"
+  },
+  "2289": {
+   "id": 2289,
+   "name": "Constitutional Defense Council",
+   "entity": "Governor's Office"
+  },
+  "2292": {
+   "id": 2292,
+   "name": "Human Services Board and Homeless Coordination Council",
+   "entity": "Bear River Association of Governments Board/Committee"
+  },
+  "2304": {
+   "id": 2304,
+   "name": "Kane County Council on Aging",
+   "entity": "Kane County"
+  },
+  "2306": {
+   "id": 2306,
+   "name": "Beaver City Council",
+   "entity": "Beaver"
+  },
+  "2307": {
+   "id": 2307,
+   "name": "Beaver City Planning and Zoning",
+   "entity": "Beaver"
+  },
+  "2309": {
+   "id": 2309,
+   "name": "Hinckley Town Planning and Zoning Commission",
+   "entity": "Hinckley"
+  },
+  "2317": {
+   "id": 2317,
+   "name": "Fayette Town Council",
+   "entity": "Fayette"
+  },
+  "2318": {
+   "id": 2318,
+   "name": "Redevelopment Agency Governing Board",
+   "entity": "Provo"
+  },
+  "2319": {
+   "id": 2319,
+   "name": "Ballard Board of Adjustments",
+   "entity": "Ballard"
+  },
+  "2323": {
+   "id": 2323,
+   "name": "City Council",
+   "entity": "North Logan"
+  },
+  "2324": {
+   "id": 2324,
+   "name": "Planning Commission",
+   "entity": "North Logan"
+  },
+  "2326": {
+   "id": 2326,
+   "name": "Planning and Zoning Town of Fayette",
+   "entity": "Fayette"
+  },
+  "2329": {
+   "id": 2329,
+   "name": "Weber Housing Authority",
+   "entity": "Weber County"
+  },
+  "2337": {
+   "id": 2337,
+   "name": "Planning Commission",
+   "entity": "Box Elder County"
+  },
+  "2346": {
+   "id": 2346,
+   "name": "City Council",
+   "entity": "Ivins"
+  },
+  "2347": {
+   "id": 2347,
+   "name": "Planning Commission",
+   "entity": "Ivins"
+  },
+  "2352": {
+   "id": 2352,
+   "name": "Redevelopment Agency",
+   "entity": "Eagle Mountain"
+  },
+  "2355": {
+   "id": 2355,
+   "name": "State Hazardous Chemical Emergency Response Commission (SERC)",
+   "entity": "Department of Public Safety"
+  },
+  "2356": {
+   "id": 2356,
+   "name": "St. George Housing Authority",
+   "entity": "St. George"
+  },
+  "2359": {
+   "id": 2359,
+   "name": "Garfield County Commission",
+   "entity": "Garfield County"
+  },
+  "2360": {
+   "id": 2360,
+   "name": "Child and Family Cabinet Council",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "2361": {
+   "id": 2361,
+   "name": "Garfield County Planning Commission",
+   "entity": "Garfield County"
+  },
+  "2363": {
+   "id": 2363,
+   "name": "Disability Determination Services Advisory Council",
+   "entity": "State Board of Education"
+  },
+  "2364": {
+   "id": 2364,
+   "name": "Town Council",
+   "entity": "Sterling"
+  },
+  "2374": {
+   "id": 2374,
+   "name": "Planning Commission Administrative Hearing",
+   "entity": "Provo"
+  },
+  "2386": {
+   "id": 2386,
+   "name": "Community Investment Council/Rating and Ranking Committee",
+   "entity": "Bear River Association of Governments"
+  },
+  "2389": {
+   "id": 2389,
+   "name": "Holden Town Council",
+   "entity": "Holden"
+  },
+  "2391": {
+   "id": 2391,
+   "name": "(Inactive) Board of Adjustment",
+   "entity": "Francis"
+  },
+  "2397": {
+   "id": 2397,
+   "name": "Housing Trust Fund Advisory Board",
+   "entity": "Salt Lake County"
+  },
+  "2407": {
+   "id": 2407,
+   "name": "Board of Adjustments",
+   "entity": "Alpine"
+  },
+  "2409": {
+   "id": 2409,
+   "name": "Housing Authority of Southeastern Utah",
+   "entity": "Housing Authority of Southeastern Utah"
+  },
+  "2412": {
+   "id": 2412,
+   "name": "Council Budget Hearings",
+   "entity": "Salt Lake County"
+  },
+  "2413": {
+   "id": 2413,
+   "name": "City Council",
+   "entity": "LaVerkin"
+  },
+  "2414": {
+   "id": 2414,
+   "name": "Town Council",
+   "entity": "Bryce Canyon City"
+  },
+  "2415": {
+   "id": 2415,
+   "name": "Town Council",
+   "entity": "Daniel Entity Website http://danielutah.org/"
+  },
+  "2422": {
+   "id": 2422,
+   "name": "Escalante School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2424": {
+   "id": 2424,
+   "name": "Town Council",
+   "entity": "Mayfield Entity Website https://mayfieldtown.org/"
+  },
+  "2428": {
+   "id": 2428,
+   "name": "CDBG Regional Review Committee",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "2431": {
+   "id": 2431,
+   "name": "Salt Lake Center for Science Education Community Council",
+   "entity": "Salt Lake Center for Science Education"
+  },
+  "2436": {
+   "id": 2436,
+   "name": "Town Council",
+   "entity": "Torrey"
+  },
+  "2437": {
+   "id": 2437,
+   "name": "City Council",
+   "entity": "Ivins"
+  },
+  "2440": {
+   "id": 2440,
+   "name": "Planning Commission",
+   "entity": "Daniel Entity Website http://danielutah.org/"
+  },
+  "2443": {
+   "id": 2443,
+   "name": "Northwest Middle School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2447": {
+   "id": 2447,
+   "name": "Bear River Regional Housing Authority Board",
+   "entity": "Bear River Association of Governments"
+  },
+  "2450": {
+   "id": 2450,
+   "name": "Utah Developmental Disabilities Council",
+   "entity": "Department of Health and Human Services (DHHS)"
+  },
+  "2452": {
+   "id": 2452,
+   "name": "State Elected Official and Judicial Compensation Commission",
+   "entity": "Executive and Judicial Compensation Commission Entity Website http://www.le.utah.gov/asp/interim/ComPage.asp?ComCode=SPE"
+  },
+  "2457": {
+   "id": 2457,
+   "name": "City Council",
+   "entity": "Castle Dale"
+  },
+  "2462": {
+   "id": 2462,
+   "name": "Council - Special Meeting",
+   "entity": "Salt Lake County"
+  },
+  "2479": {
+   "id": 2479,
+   "name": "Beacon Heights Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2480": {
+   "id": 2480,
+   "name": "Bonneville Elementary School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2481": {
+   "id": 2481,
+   "name": "Roosevelt Housing Authority",
+   "entity": "Roosevelt Housing Authority"
+  },
+  "2486": {
+   "id": 2486,
+   "name": "Legislative Compensation Commission",
+   "entity": "Governor's Office > Governor's Office of Planning and Budget"
+  },
+  "2498": {
+   "id": 2498,
+   "name": "Snake Valley Aquifer Advisory Council",
+   "entity": "Governor's Office"
+  },
+  "2501": {
+   "id": 2501,
+   "name": "Community Council",
+   "entity": "George Washington Academy"
+  },
+  "2504": {
+   "id": 2504,
+   "name": "Caregiver Advisory Council",
+   "entity": "Five County Association of Governments"
+  },
+  "2512": {
+   "id": 2512,
+   "name": "City Council",
+   "entity": "Lehi"
+  },
+  "2513": {
+   "id": 2513,
+   "name": "Glendale School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2515": {
+   "id": 2515,
+   "name": "zzPlanning Commission",
+   "entity": "Garden City"
+  },
+  "2516": {
+   "id": 2516,
+   "name": "Zion Canyon Corridor Council *INACTIVE*",
+   "entity": "Springdale"
+  },
+  "2523": {
+   "id": 2523,
+   "name": "Taylorsville Board of Adjustment (Inactive)",
+   "entity": "Taylorsville"
+  },
+  "2524": {
+   "id": 2524,
+   "name": "North Star School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2527": {
+   "id": 2527,
+   "name": "Emerson School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2535": {
+   "id": 2535,
+   "name": "Housing Authority Board",
+   "entity": "Housing Authority of Salt Lake City"
+  },
+  "2544": {
+   "id": 2544,
+   "name": "Local Emergency Planning Committee (LEPC)",
+   "entity": "Uintah County"
+  },
+  "2545": {
+   "id": 2545,
+   "name": "Uintah County Citizen Corp Council",
+   "entity": "Uintah County"
+  },
+  "2547": {
+   "id": 2547,
+   "name": "Lincoln School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2575": {
+   "id": 2575,
+   "name": "Riley Elementary School Community Council",
+   "entity": "Salt Lake City School District"
+  },
+  "2581": {
+   "id": 2581,
+   "name": "Garfield County Travel Council",
+   "entity": "Garfield County"
+  },
+  "2585": {
+   "id": 2585,
+   "name": "Office of Coal Mine Safety",
+   "entity": "Labor Commission"
+  },
+  "2590": {
+   "id": 2590,
+   "name": "Governor's Council on Balanced Resources",
+   "entity": "Governor's Office"
+  },
+  "2597": {
+   "id": 2597,
+   "name": "Board of Adjustments",
+   "entity": "Corinne"
+  },
+  "2598": {
+   "id": 2598,
+   "name": "Redevelopment Agency",
+   "entity": "Vineyard"
+  },
+  "2608": {
+   "id": 2608,
+   "name": "Mendon City Council",
+   "entity": "Mendon"
+  },
+  "2609": {
+   "id": 2609,
+   "name": "Utah State Hazardous Chemical Emergency Response Commission",
+   "entity": "Department of Environmental Quality"
+  },
+  "2611": {
+   "id": 2611,
+   "name": "Youth Council",
+   "entity": "Eagle Mountain"
+  },
+  "2618": {
+   "id": 2618,
+   "name": "Utah County Local Emergency Planning Committee",
+   "entity": "Utah County"
+  },
+  "2628": {
+   "id": 2628,
+   "name": "City Council",
+   "entity": "Richmond"
+  },
+  "2637": {
+   "id": 2637,
+   "name": "Box Elder County Commission",
+   "entity": "Box Elder County"
+  },
+  "2649": {
+   "id": 2649,
+   "name": "Levan Town Planning and Zoning",
+   "entity": "Levan"
+  },
+  "2651": {
+   "id": 2651,
+   "name": "Planning Commission",
+   "entity": "Lehi"
+  },
+  "2661": {
+   "id": 2661,
+   "name": "Board of Adjustments",
+   "entity": "Lehi"
+  },
+  "2663": {
+   "id": 2663,
+   "name": "Bear River Regional and Logan City Housing Authorities",
+   "entity": "Bear River Association of Governments"
+  },
+  "2667": {
+   "id": 2667,
+   "name": "Appeal Authority",
+   "entity": "Santa Clara"
+  },
+  "2672": {
+   "id": 2672,
+   "name": "Wayne County Commission",
+   "entity": "Wayne County"
+  },
+  "2675": {
+   "id": 2675,
+   "name": "Naples Redevelopment",
+   "entity": "Naples"
+  },
+  "2678": {
+   "id": 2678,
+   "name": "Board of Adjustments",
+   "entity": "Hooper"
+  },
+  "2681": {
+   "id": 2681,
+   "name": "Council of Governments",
+   "entity": "Morgan"
+  },
+  "2690": {
+   "id": 2690,
+   "name": "Jordan River Watershed Council",
+   "entity": "Salt Lake County"
+  },
+  "2694": {
+   "id": 2694,
+   "name": "Hinckley Mayor and Council",
+   "entity": "Hinckley"
   }
  },
  "misses": 0,
