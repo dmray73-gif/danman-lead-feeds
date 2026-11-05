@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T19:15:18.475887Z",
+ "updated": "2026-11-05T18:26:53.307879Z",
  "report": {
   "arcgis:provo-current-projects": {
    "items": 0,
    "ok": true
   },
   "pdf:summit-county-2026": {
-   "items": 1,
+   "items": 0,
    "ok": true
   },
   "pdf:west-jordan": {
@@ -26,12 +26,1164 @@
    "ok": true
   },
   "pmn": {
-   "items": 52,
+   "items": 36,
    "ok": true
   }
  },
- "newToday": 53,
+ "newToday": 36,
  "items": [
+  {
+   "id": "7354de4536d7d8d6",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "County Commission",
+   "entity": "Iron County",
+   "title": "Iron County Commission Meeting",
+   "meetingDate": "2026-11-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120847.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511445.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "commercial",
+    "industrial"
+   ],
+   "companies": [
+    "Mauri Ventures"
+   ],
+   "snippets": [
+    "CHANGE (ORDINANCE 2026-26), TO THE IRON COUNTY ZONING MAP - ZONE CHANGE FROM A-20 (AGRICULTURE 20 ACRE) TO C (COMMERCIAL) ON APPROXIMATELY 13.54 ACRES, GENERALLY LOCATED ADJACENT TO HIGHWAY 56 BETWEEN 6300 W AND 6100 W,",
+    "HANGE (ORDINANCE 2026-26), TO THE IRON COUNTY ZONING MAP – ZONE CHANGE FROM A-20 (AGRICULTURE 20 ACRE) TO C (COMMERCIAL) ON APPROXIMATELY 13.54 ACRES, GENERALLY LOCATED ADJACENT TO HIGHWAY 56 BETWEEN 6300 W AND 6100 W"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "3ffd1619205cd737",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Hurricane",
+   "title": "Hurricane City Council",
+   "meetingDate": "2026-11-05",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120577.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1510871.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "lots",
+    "mixed-use",
+    "preliminary plat",
+    "subdivision"
+   ],
+   "companies": [
+    "Municipal Building"
+   ],
+   "snippets": [
+    "the proposed Kachina Ridge subdivision containing 57 total lots 7. Consideration and possible approval of a Preliminary Plat and Sensitive Lands Review for Kachina Ridge, a 56-lot mixed-use development located at 720 E",
+    "take comments on a sensitive land application located at approx. 720 E. Hwy 59 on the proposed Kachina Ridge subdivision containing 57 total lots 7. Consideration and possible approval of a Preliminary Plat and Sensiti"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "4111ce23d22fc189",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Brigham City",
+   "title": "Planning Commission",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120855.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511469.pdf"
+   ],
+   "score": 6,
+   "terms": [
+    "final plat",
+    "subdivision"
+   ],
+   "companies": [
+    "A Galloway Company"
+   ],
+   "snippets": [
+    "200 East / Brent Wilson, Monument Health Brigham City 2.Application #26-104 / No-Dedication Preliminary and Final Plat / Crystal Subdivision / Main Street & 400 South / Katie Pierce, AWA, A Galloway Company 3.Applicat",
+    "200 East / Brent Wilson, Monument Health Brigham City 2. Application #26-104 / No-Dedication Preliminary and Final Plat / Crystal Subdivision / Main Street & 400 South / Katie Pierce, AWA, A Galloway Company 3. Applic",
+    "son, Monument Health Brigham City 2.Application #26-104 / No-Dedication Preliminary and Final Plat / Crystal Subdivision / Main Street & 400 South / Katie Pierce, AWA, A Galloway Company 3.Application #26-105 / Permitt",
+    "on, Monument Health Brigham City 2. Application #26-104 / No-Dedication Preliminary and Final Plat / Crystal Subdivision / Main Street & 400 South / Katie Pierce, AWA, A Galloway Company 3. Application #26-105 / Permi"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "c8d8f9efb714d9cf",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Harrisville",
+   "title": "Public Hearing Notice - Ordinance 576 Land Use Amendments replacing certain repealed residential zoning designations.",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120699.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511127.pdf",
+    "https://www.utah.gov/pmn/files/1511129.pdf"
+   ],
+   "score": 20,
+   "terms": [
+    "church",
+    "clinic",
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "lots",
+    "mixed-use",
+    "school",
+    "site plan",
+    "townhome",
+    "units"
+   ],
+   "companies": [
+    "Main Building Development",
+    "Detached Single Family Residential Building",
+    "Single Family Attached Development",
+    "Other Main Building",
+    "Main Building"
+   ],
+   "snippets": [
+    "act Single Family Residential Zone R-5 7. Single Family Attached Residential Zone R-SA 8. Planned Community Commercial Zone CP-2 9. Planned Manufacturing Zone MP 10. Mixed-Use Zone MU 2 | P a g e 11.04.015 Re",
+    "es Agricultural accessory structure e.g. greenhouse, cold storage P P P P P N 11.10.020.1 4 | P a g e Commercial crop and fruit production P P P P P P Produce Stand P P P P P N 11.10.020.2 Crop and fruit prod",
+    "all count as the equivalent of two (2) required park benches. All park improvements shall be constructed of commercial-grade materials designed for durability, with minimal maintenance requirements, and suitable for l",
+    "dividually owned lots. Accessory buildings proposed on common property within a townhome development require site plan approval. 5. Land which is not being used for any of the permitted uses, shall be left in its nat",
+    "d in the R-SA zone only on individually owned lots. Accessory buildings proposed on common property within a townhome development require site plan approval. 5. Land which is not being used for any of the permitted u",
+    "be maintained between the side walls of separate buildings. f. Private Road/Alley Width. An alley serving a townhome development shall have a minimum width of: i. Thirty (30) feet where no driveway is located between"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "f7e947a0dcf90ab3",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Harrisville",
+   "title": "Public Hearing Notice - Ordinance 579 Triple Peaks Master Development Agreeement",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120701.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511135.pdf",
+    "https://www.utah.gov/pmn/files/1511137.pdf"
+   ],
+   "score": 27,
+   "terms": [
+    "clinic",
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "final plat",
+    "lots",
+    "mixed use",
+    "phase",
+    "planned unit development",
+    "preliminary plat",
+    "subdivision",
+    "townhome",
+    "units"
+   ],
+   "companies": [
+    "Triple Peaks Master Development",
+    "Master Development",
+    "Triple Peaks Development",
+    "Steward Land Company LLC",
+    "Steward Land Company",
+    "International Building",
+    "Land Use Development",
+    "Fieldstone Land Investors LLC",
+    "PRIVATE ROADWAY SECTIONS EXHIBIT C Residential Development",
+    "Single Family Attached Development"
+   ],
+   "snippets": [
+    "XXX_XXXX. B. Developer desires to develop the Property into a mixed use development consisting of an X-acre commercial pad and X-acre residential subdivision consisting of Thirteen (43) single family attached and deta",
+    "ermit development of the Project. D. The Property is currently designated within the CP-2 (Planned Community Commercial) Zone. The Parties intend that this Agreement be applied over the Property’s existing zoning desi",
+    "lated, or a condition of this Agreement or the Project. E. The Concept Plan , together with the designated Commercial and Residential areas, lot typical and roadway section drawings , land use and development standar",
+    "constitute the complete and exclusive development standards for the residential portion of the Project. The commercial area designated in Exhibit B shall comply with Harrisville city standards for the CP-2 zone. 3.2",
+    "quire amendment of this Agreement, and may be approved by City staff. 3.4. Land uses in the Project will be commercial and residential. 4. Approval Procedures. 4.1. Following the approval and adoption of this Agreeme",
+    "on Agricultural Uses Agricultural accessory structure (e.g., greenhouse, cold storage) P N 11.10.020.1 Commercial crop and fruit production P P Produce Stand P N 11.10.020.2 Crop and fruit production for prop",
+    "ents, including play structures, benches, tables, seating, and pavilion structures, shall be constructed of commercial-grade materials designed for durability, with minimal maintenance requirements, and suitable for",
+    "other benefits granted under this Agreement shall expire except for those portions of the Project for which final plat approval has been recorded. The development rights and approvals applicable to such recorded final"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "c360f45fc2fe0b1e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Centerville",
+   "title": "Ordinance No. 2026-23 Stormwater Amendments (2026)",
+   "meetingDate": "2026-11-04",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120683.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511069.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "commercial",
+    "industrial",
+    "lots",
+    "phase",
+    "subdivision"
+   ],
+   "companies": [
+    "Low Impact Development",
+    "SWPP Pre- Construction",
+    "SWPPP Pre- Construction",
+    "Pre- Construction"
+   ],
+   "snippets": [
+    "eans a plan to subdivide a parcel of land into separate parts for separate sale. This can be for residential, commercial, or industrial development. The common plan originates as a single parcel that is separated into lo",
+    "practices 16. 0 1. 0 1 0-( storrnwater)- amd2 Page 3 of 15 October 27, 2026 related to farming, residential, commercial or industrial development, road building, or timber- cutting. w) \" Fill' means a deposit of earth m",
+    "an originates as a single parcel that is separated into lots or parcels as approved by the City. The original subdivision plan is considered the\" common plan of development or sale\" even if it is completed in separate st"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "5e66e31a646780d5",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Municipal Council",
+   "entity": "Logan",
+   "title": "Summary of an Ordinance",
+   "meetingDate": "2026-11-04",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120587.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1510883.pdf"
+   ],
+   "score": 11,
+   "terms": [
+    "commercial",
+    "hotel",
+    "mixed use",
+    "multifamily"
+   ],
+   "companies": [
+    "Land Development"
+   ],
+   "snippets": [
+    "ohibiting motel/hotel/short-term rentals within a vertical Mixed Use Multifamily Residential structure in the Commercial Zoning District This ordinance shall take effect immediately upon publication. Full text of the",
+    "hibiting motel/hotel/short-term rentals within a vertical Mixed Use Multifamily Residential structure in the Commercial Zoning District This ordinance shall take effect immediately upon publication. Full text of the",
+    "mber 3, 2026. ORD. 26-19 - CODE AMENDMENT - Ordinance amending the Land Development Code prohibiting motel/hotel/short-term rentals within a vertical Mixed Use Multifamily Residential structure in the Commercial Zonin",
+    "ber 3, 2026. ORD. 26-19 – CODE AMENDMENT - Ordinance amending the Land Development Code prohibiting motel/hotel/short-term rentals within a vertical Mixed Use Multifamily Residential structure in the Commercial Zoni",
+    "T - Ordinance amending the Land Development Code prohibiting motel/hotel/short-term rentals within a vertical Mixed Use Multifamily Residential structure in the Commercial Zoning District This ordinance shall take eff",
+    "- Ordinance amending the Land Development Code prohibiting motel/hotel/short-term rentals within a vertical Mixed Use Multifamily Residential structure in the Commercial Zoning District This ordinance shall take ef",
+    "nce amending the Land Development Code prohibiting motel/hotel/short-term rentals within a vertical Mixed Use Multifamily Residential structure in the Commercial Zoning District This ordinance shall take effect immedi",
+    "ce amending the Land Development Code prohibiting motel/hotel/short-term rentals within a vertical Mixed Use Multifamily Residential structure in the Commercial Zoning District This ordinance shall take effect immed"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "b4bd1cce4edb0d6a",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Eagle Mountain",
+   "title": "Public Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120905.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511555.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "commercial",
+    "industrial"
+   ],
+   "companies": [
+    "Ranch House Storage LLC"
+   ],
+   "snippets": [
+    "RING - An Ordinance of Eagle Mountain City, Utah, Amending the Official Zoning Map and Future Land Use Map to Commercial Storage and Business Park/Light Industrial. BACKGROUND: (Presented by Planner, Mickie Mills) The"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "e29fa752a3265a4e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Vernal",
+   "title": "Ordinance No. 2026-29 Adopted",
+   "meetingDate": "2026-11-05",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120797.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511367.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "site plan"
+   ],
+   "companies": [],
+   "snippets": [
+    "-29, amending Sections 16.60.030, 16.60.050, and 16.60.060 of the Vernal City Municipal Code regarding Master Site Plan requirements. This ordinance clarifies the application and documentation requirements for Full Ma",
+    "portions of a property unaffected by proposed changes, and remove the requirement for a comprehensive Master Site Plan with the initial submission of a Change of Use application. These changes are intended to simplify t"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "8b6d7f24c5b7eb99",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Vernal",
+   "title": "Ordinance No. 2026-28 Adopted",
+   "meetingDate": "2026-11-05",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120793.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511363.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "companies": [],
+   "snippets": [
+    "cil has adopted Ordinance No. 2026-28, amending Section 16.58.112 of the Vernal City Municipal Code regarding subdivision vacation requirements. This ordinance updates the procedures for vacating a subdivision or a po",
+    "pal Code regarding subdivision vacation requirements. This ordinance updates the procedures for vacating a subdivision or a portion of a subdivision to better align with Utah State Code. The amendment removes the auto",
+    "vacation requirements. This ordinance updates the procedures for vacating a subdivision or a portion of a subdivision to better align with Utah State Code. The amendment removes the automatic requirement for Planning",
+    "aw. It also clarifies the applicable approval procedures, notice requirements, and recording requirements for subdivision vacations. Ordinance 2026-28 was duly passed and adopted by the Vernal City Council on November",
+    "e No. 2026-28, amending Section 16.58.112 of the Vernal City Municipal Code regarding subdivision vacation requirements. This ordinance updates the procedures for vacating a subdivis",
+    "rding subdivision vacation requirements. This ordinance updates the procedures for vacating a subdivision or a portion of a subdivision to better align with Utah State Code. The ame",
+    "uirements. This ordinance updates the procedures for vacating a subdivision or a portion of a subdivision to better align with Utah State Code. The amendment removes the automatic",
+    "the applicable approval procedures, notice requirements, and recording requirements for subdivision vacations. Ordinance 2026-28 was duly passed and adopted by the Vernal City Council"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "ca3f8106364f6515",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Grand County Commission",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/",
+   "title": "Public Hearing Amending Arroyo Crossing PUD Master Plan",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120841.html",
+   "files": [],
+   "score": 13,
+   "terms": [
+    "master plan",
+    "multifamily",
+    "phase",
+    "planned unit development",
+    "pud",
+    "subdivision",
+    "units"
+   ],
+   "companies": [
+    "MACLT. A Planned Unit Development",
+    "GiV Development"
+   ],
+   "snippets": [
+    "velopment amendment would modify the Arroyo Crossing PUD Master Plan to subdivide Tract K, which is zoned for multifamily residential use, to allow construction of the first phase of housing to be developed in partnershi",
+    "15. The requested amendment would modify the Arroyo Crossing PUD master plan to subdivide Tract K, zoned for multifamily, to be able to construction a first phase of housing under this partnership. The proposed project",
+    "behalf of the property owner, the Moab Area Community Land Trust, for Tract K of the Arroyo Crossing Phase 2 Subdivision, located at 1987 Bonnies Way, Moab, Utah 84532. Parcel: 02-0ARR- 0087. Application No. 2615. The"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "99d33da441a9a105",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Ephraim",
+   "title": "Notice of Ordinance Adoption: ECO 26-14 & ECO 26-15",
+   "meetingDate": "2026-11-05",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120863.html",
+   "files": [],
+   "score": 5,
+   "terms": [
+    "dwelling",
+    "multifamily",
+    "units"
+   ],
+   "companies": [],
+   "snippets": [
+    "CHED ACCESSORY DWELLING UNITS IN ALL ZONES ECO 26-15 AN ORDINANCE AMENDING R-1B, CREATING R-1C, AND REVISING MULTIFAMILY DEVELOPMENT STANDARDS The complete ordinance is on file at the Ephraim City Recorder's Office a"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "07010c1b425b39fa",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Kaysville Planning Commission",
+   "entity": "Kaysville",
+   "title": "Planning Commission Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120695.html",
+   "files": [],
+   "score": 14,
+   "terms": [
+    "commercial",
+    "industrial",
+    "lots",
+    "mixed use",
+    "mixed-use",
+    "site plan"
+   ],
+   "companies": [
+    "Community Development"
+   ],
+   "snippets": [
+    "LOCATED AT 472 NORTH MAIN STREET (PARCEL #11-791-0101) FROM R-1-8 (SINGLE FAMILY RESIDENTIAL) TO GC (GENERAL COMMERCIAL) WITH A MU (MIXED-USE) OVERLAY Mr. McIlrath presented a request from Chadd Watson, property owner",
+    "request from Chadd Watson, property owner and applicant, to rezone the subject property from R-1-8 to General Commercial (GC) with a Mixed Use (MU) Overlay. Mr. Watson is proposing to operate his insurance agency within",
+    "ission forward a recommendation of approval to the City Council for the proposed rezone from R-1-8 to General Commercial with a Mixed-Use Overlay. Mr. McIlrath explained that the proposed mixed-use development is consist",
+    "use would be compatible with surrounding residential properties because the improvements associated with the commercial use would primarily occur along the Main Street side of the property. Customer access and parking w",
+    "Commission also discussed how a future addition could affect the required balance between the residential and commercial portions of the mixed-use property. Mr. McIlrath explained that the office currently occupies a",
+    "pproval to the Kaysville City Council of the requested rezone from R-1-8 Single Family Residential to General Commercial with a Mixed-Use Zoning District Overlay for the property located at 472 North Main Street, includi",
+    "Packer: Yay Commissioner Sevy: Yay 4- DISCUSSION OF BUFFERING AND COMPATIBILITY STANDARDS FOR GC (GENERAL COMMERCIAL) PROPERTIES ADJACENT TO RESIDENTIALLY ZONED PROPERTIES Mr. Stoddard introduced a proposed zoning t",
+    "endment initiated by Chair Young to establish additional buffering requirements where property in the General Commercial zone abuts residential property. He explained that the concepts under consideration included mainta"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "5d9759e4bd31a083",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Santa Clara",
+   "title": "Notice of Ordinance",
+   "meetingDate": "2026-11-05",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120881.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "mixed use",
+    "site plan"
+   ],
+   "companies": [],
+   "snippets": [
+    "at 2920 Santa Clara Drive to rezone the property from Historic District/R-1-10 Zone to the Historic District/Mixed Use Zone. Said Ordinances shall become effective immediately upon posting on the State of Utah Publi",
+    "Chapter 15.34, Geologic Hazards. 2. Ordinance No. 2026-23 - An Ordinance to approve Rezoning and Amended Site Plan for property located at 2920 Santa Clara Drive to rezone the property from Historic District/R-1-10"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "efea01ad6e2e4272",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Heber City",
+   "title": "Notice of Request to Adopt an Ordinance to Vacate Lot 51 of Heber  Estates Subdivision",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120711.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511197.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "companies": [],
+   "snippets": [
+    "20711.html Heber City City Council Notice of Request to Adopt an Ordinance to Vacate Lot 51 of Heber Estates Subdivision Notice of Request to Adopt an Ordinance to Vacate Lot 51 of Heber Estates Subdivision Subscribe t",
+    "t 51 of Heber Estates Subdivision Notice of Request to Adopt an Ordinance to Vacate Lot 51 of Heber Estates Subdivision Subscribe to Public Body General Information Government Type Municipality Entity Heber City Public",
+    "dd Notice to Calendar Notice Title Notice of Request to Adopt an Ordinance to Vacate Lot 51 of Heber Estates Subdivision Notice Type(s) Hearing Event Start Date & Time November 17, 2026 06:00 PM Event End Date & Time No",
+    "0 PM Description/Agenda Heber City is requesting adoption of an ordinance to vacate Lot 51 of Heber Estates Subdivision (Parcel #00-0001-0137) in order to realign Mill Road. A Public Hearing regarding the proposed ord",
+    "t Act ( Utah Code § 63G-2-201 ). NOTICE OF PUBLIC HEARING ORDINANCE 2026-27 Vacating Lot 51 of Heber Estates Subdivision November 5, 2026 Dear property owner, Heber City is requesting adoption of an ordinance to va",
+    "Dear property owner, Heber City is requesting adoption of an ordinance to vacate Lot 51 of Heber Estates Subdivision (Parcel #00-0001-0137) in order to realign Mill Road. You are receiving this notice because your",
+    "ie Baron at jbaron@heberut.gov or contact by phone at 435.657.7914. Aerial Image of Lot 51 Heber Estates Subdivision (Parcel #00-0001-0137)"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "d54ffbc1d554a7e9",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City of Saratoga Springs Planning Commission",
+   "entity": "Saratoga Springs",
+   "title": "Planning Commission Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120723.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511225.pdf",
+    "https://www.utah.gov/pmn/files/1511227.pdf"
+   ],
+   "score": 42,
+   "terms": [
+    "apartment",
+    "commercial",
+    "conditional use",
+    "design review",
+    "dwelling",
+    "final plat",
+    "industrial",
+    "lots",
+    "master plan",
+    "medical",
+    "mixed use",
+    "multi-family",
+    "multifamily",
+    "new construction",
+    "preliminary plat",
+    "school",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "companies": [
+    "Wagstaff Investments LLC",
+    "Land Development",
+    "Wagstaff Investments",
+    "Wildﬂower Development",
+    "Master Development",
+    "To Be Reviewed Regulation Compliance Findings Development",
+    "A. Building",
+    "Private Utility Building",
+    "Public Building",
+    "International Building",
+    "Landscape Plans Regulation Compliance Findings Landscape Architect",
+    "Hillside Development Hillside Development"
+   ],
+   "snippets": [
+    "meeting, only one family of three attended and reviewed the proposed plans. This family, who resides in the apartment development directly south of the property, speciﬁcally expressed frustration the original plans di",
+    "car wash similar to our Saratoga Springs location near Redwood Road / Pony Express Pkwy. They explained the apartment complex does not provide hose bibs or facilities for residents to wash their vehicles and strongly",
+    "ge Plan 2 was approved by the City Council on April 13, 2021. The use of the property is designated Type 5 (Commercial) by the Community and Village Plans, and is subject to the regulations of the Community Commercial",
+    "Type 5 (Commercial) by the Community and Village Plans, and is subject to the regulations of the Community Commercial zoning district. The project is vested under the 2019 version of the code which allows car washes",
+    "ort, no public input has been received. E. Review: As part of the Wildflower Planned Community, Type 5 (Commercial) site plan and design standards are subject to Wildflower Design Review Committee (WDRC) review an",
+    "and use designation as follows: Planned Community (PC): Areas designated for a mixture of residential and commercial land uses with a cohesive design and a development plan. Staff conclusion: Consistent. The Vill",
+    "his property is intended to be for non-residential development, subject to the regulations of the Community Commercial zoning district. G. Code Criteria: For full analysis please see the attached Planning Review",
+    "ash was a Conditional Use at the time of vesting. 3. The Village Plan 2 has the site listed as Community Commercial. Carwash was a conditional use in the Community Commercial Zone at the time of vesting. 4. Oil"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "3e8415156d6dc960",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Lehi",
+   "title": "Lehi City Council Meeting Agenda",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120661.html",
+   "files": [],
+   "score": 5,
+   "terms": [
+    "lots",
+    "mixed use",
+    "phase"
+   ],
+   "companies": [
+    "Grassroots Shakespeare Company",
+    "JDJ Investments LLC"
+   ],
+   "snippets": [
+    "Association 6. Lehi Arts Council 3. Working Discussion Items 3.1. Discussion of Code Updates to the Mixed Use Zone. (10-15 min) 3.2. Continue Review and Discussion of the General Plan Goals and Policies. (45"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "1657ae33bd525c86",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Board of Commissioners of Utah County",
+   "entity": "Utah County",
+   "title": "November 4, 2026 Board of Commissioners of Utah County, Utah Public Meeting",
+   "meetingDate": "2026-11-04",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120021.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1509705.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "commercial",
+    "phase"
+   ],
+   "companies": [
+    "Community Development"
+   ],
+   "snippets": [
+    "RIZE STAFFING PLAN CHANGES IN THE ASSESSOR DEPARTMENT: DELETE ONE (1) FULL-TIME, CAREER SERVICE APPRAISER I - COMMERCIAL POSITION. ADD ONE (1) FULL-TIME, CAREER SERVICE, APPRAISER II - RESIDENTIAL POSITION. [STAFFING PLA",
+    "IZE STAFFING PLAN CHANGES IN THE ASSESSOR DEPARTMENT: DELETE ONE (1) FULL-TIME, CAREER SERVICE APPRAISER I - COMMERCIAL POSITION. ADD ONE (1) FULL-TIME, CAREER SERVICE, APPRAISER II - RESIDENTIAL POSITION. [STAFFING PL"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "a45d4fa4f698100a",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Board of Commissioners of Utah County",
+   "entity": "Utah County",
+   "title": "October 21, 2026 Board of Commissioners of Utah County, Utah Public Meeting",
+   "meetingDate": "2026-10-21",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1116741.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1503473.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "medical",
+    "multi-family",
+    "school",
+    "subdivision"
+   ],
+   "companies": [
+    "THE AGENT FOR THE LOAF BREAD LLC",
+    "A CONTRACT WITH UTAH VALLEY BRIDE LLC",
+    "Community Development",
+    "FOR OPEN PIT MINING CMC ROCK LLC",
+    "PIT MINING OPERATIONS FOR CMC ROCK LLC"
+   ],
+   "snippets": [
+    "HOUSING AUTHORITY OF UTAH COUNTY FOR AN AWARD OF A COMMUNITY DEVELOPMENT BLOCK GRANT FOR REHABILITATION OF A MULTI-FAMILY COMPLEX OF AFFORDABLE HOUSING IN SPRING LAKE. -Philip Keeve, Community Development 10. APPROV",
+    "HOUSING AUTHORITY OF UTAH COUNTY FOR AN AWARD OF A COMMUNITY DEVELOPMENT BLOCK GRANT FOR REHABILITATION OF A MULTI-FAMILY COMPLEX OF AFFORDABLE HOUSING IN SPRING LAKE. -Philip Keeve, Community Development 10. APPRO",
+    "ND AUTHORIZE THE SIGNING OF A MEMORANDUM FOR A PARTIAL RELEASE OF THE CONSTRUCTION BOND FOR THE RAFTER LAZY H SUBDIVISION PLAT A AND RETAIN THE BALANCE TO ENSURE COMPLETION OF OUTSTANDING IMPROVEMENTS, IN ACCORDANCE WITH",
+    "D AUTHORIZE THE SIGNING OF A MEMORANDUM FOR A PARTIAL RELEASE OF THE CONSTRUCTION BOND FOR THE RAFTER LAZY H SUBDIVISION PLAT A AND RETAIN THE BALANCE TO ENSURE COMPLETION OF OUTSTANDING IMPROVEMENTS, IN ACCORDANCE WIT"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "16e1ec3e97fe5624",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Toquerville City Council",
+   "entity": "Toquerville",
+   "title": "11.04.2026 City Council Meeting",
+   "meetingDate": "2026-11-04",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120015.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1509687.pdf",
+    "https://www.utah.gov/pmn/files/1509689.pdf",
+    "https://www.utah.gov/pmn/files/1509691.pdf",
+    "https://www.utah.gov/pmn/files/1509693.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "commercial",
+    "office building"
+   ],
+   "companies": [
+    "Firelight Development",
+    "MODO Development"
+   ],
+   "snippets": [
+    "ty of an MPDO Modification Application submitted by Firelight Development, Inc. regarding permitted uses in Commercial Planning Areas. https://www.youtube.com/live/X38_eH2wfQg?si=pT2m6F12bYFRY8U3&t=1073 Emily Teater",
+    "ew process for the MPDO Modification Application. Stephen Wood spoke during this time regarding the uses for commercial planning areas. Stephen stated they would like to move their apartments from CP7 to CP4. The Counc"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "11d5e8a7349f9231",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Toquerville City Council",
+   "entity": "Toquerville",
+   "title": "10.21.2026 City Council Meeting",
+   "meetingDate": "2026-10-21",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1116759.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1503493.pdf",
+    "https://www.utah.gov/pmn/files/1503495.pdf",
+    "https://www.utah.gov/pmn/files/1503497.pdf",
+    "https://www.utah.gov/pmn/files/1503499.pdf"
+   ],
+   "score": 5,
+   "terms": [
+    "commercial",
+    "master plan",
+    "office building"
+   ],
+   "companies": [
+    "Firelight Development"
+   ],
+   "snippets": [
+    "lity of an MPDO Modification Application submitted by Firelight Development, Inc. regarding permitted uses in Commercial Planning Areas. 2. Discussion and possible action to determine the materiality of an MPDO Modif",
+    "19 04:28 PM MPDO Modification App - CPA Use Table_Redacted.pdf Public Information Handout 2026/10/19 04:31 PM Commercial Planning Areas Map.pdf Public Information Handout 2026/10/19 04:31 PM MPDO Modificaiton App - Sign",
+    "ity of an MPDO Modification Application submitted by Firelight Development, Inc. regarding permitted uses in Commercial Planning Areas. 2. Discussion and possible action to determine the materiality of an MPDO Modi"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "aa1806cc7da38692",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Council Public Notice",
+   "entity": "Salt Lake County",
+   "title": "Notice of Public Hearing and Bonds to be Issued",
+   "meetingDate": "2026-10-20",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1111833.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "hotel"
+   ],
+   "companies": [],
+   "snippets": [
+    "ayable from all or any portion of the revenues produced by the transient room tax revenues, convention center hotel fees and pledged highway funds received by the Issuer and legally permitted to be used for the Project ("
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "dcfaafae54cbd0fd",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town Council",
+   "entity": "Sigurd",
+   "title": "Town Council",
+   "meetingDate": "2026-10-21",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1117135.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "final plat",
+    "subdivision"
+   ],
+   "companies": [],
+   "snippets": [
+    "t Town Hall Department Reports Planning Commission: (Kathleen Black- excused) Cove River Update on Final Plat: Details on final subdivision acceptance. Maintenance: (Craig Bunker) Attend a free training in",
+    "nt Reports Planning Commission: (Kathleen Black- excused) Cove River Update on Final Plat: Details on final subdivision acceptance. Maintenance: (Craig Bunker) Attend a free training in Fillmore November 5, 2026.3"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "f5d21eca0f0b130f",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Richmond City Council",
+   "entity": "Richmond",
+   "title": "City Council Agenda",
+   "meetingDate": "2026-10-20",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1115409.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1500949.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "commercial",
+    "final plat",
+    "lots",
+    "subdivision"
+   ],
+   "companies": [
+    "White Pine Engineering"
+   ],
+   "snippets": [
+    "0, 11 and 12 of the Lee's Richmond Subdivision located at approximately 185 North 200 West. Zoned HC (Highway Commercial). 5. Staff reports and monthly financial review. 6. Council Member and Mayor Reports 7.",
+    "11 and 12 of the Lee’s Richmond Subdivision located at approximately 185 North 200 West. Zoned HC (Highway Commercial). 5. Staff reports and monthly financial review 6. Council Member and Mayor Reports 7. Closed",
+    "3. Discussion on city building rentals and rental fees. 4. Discussion and possible vote on amending the Final Plat for Lots 9, 10, 11 and 12 of the Lee's Richmond Subdivision located at approximately 185 North 200",
+    ". 3. Discussion on city building rentals and rental fees. 4. Discussion and possible vote on amending the Final Plat for Lots 9, 10, 11 and 12 of the Lee’s Richmond Subdivision located at approximately 185 North 200",
+    "4. Discussion and possible vote on amending the Final Plat for Lots 9, 10, 11 and 12 of the Lee's Richmond Subdivision located at approximately 185 North 200 West. Zoned HC (Highway Commercial). 5. Staff reports",
+    "4. Discussion and possible vote on amending the Final Plat for Lots 9, 10, 11 and 12 of the Lee’s Richmond Subdivision located at approximately 185 North 200 West. Zoned HC (Highway Commercial). 5. Staff reports a"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "90409e6e119fb178",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Brigham City",
+   "title": "November 5, 2026 City Council Agenda",
+   "meetingDate": "2026-11-05",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1119285.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1508677.pdf"
+   ],
+   "score": 14,
+   "terms": [
+    "church",
+    "medical",
+    "phase",
+    "preliminary plat",
+    "school",
+    "subdivision",
+    "townhome"
+   ],
+   "companies": [
+    "Economic Development",
+    "Proposed Building",
+    "Community Development"
+   ],
+   "snippets": [
+    "ation for their efforts. 100 ACTION ITEMS 101 Consideration of approval of Heron Ridge Townhome Subdivision Preliminary Plat located 102 at approximately 650 South and 1200 West 103 Zane Billings, Planning Departmen",
+    "located 102 at approximately 650 South and 1200 West 103 Zane Billings, Planning Department, presented the preliminary plat for the Heron Ridge Townhome 104 Subdivision, located southwest of the Brigham City Sports C",
+    "137 650 South. 138 Motion: Councilmember Jensen moved to approve the Heron Ridge Townhome Subdivision 139 Preliminary Plat, located at approximately 650 South and 1200 West, with the modifications 140 that main-leve",
+    "ssed appreciation for their efforts. 100 ACTION ITEMS 101 Consideration of approval of Heron Ridge Townhome Subdivision Preliminary Plat located 102 at approximately 650 South and 1200 West 103 Zane Billings, Planni",
+    "st 103 Zane Billings, Planning Department, presented the preliminary plat for the Heron Ridge Townhome 104 Subdivision, located southwest of the Brigham City Sports Complex within the Avian Shores 105 development. Th",
+    "plicant also confirmed plans to install wrought iron fencing along the public trail, 130 consistent with the subdivision's overall appearance. 131 It was further explained that 1250 West would initially be constructed",
+    "ong 1200 West and 137 650 South. 138 Motion: Councilmember Jensen moved to approve the Heron Ridge Townhome Subdivision 139 Preliminary Plat, located at approximately 650 South and 1200 West, with the modifications 1",
+    "ments of the R-M-7 (Multiple Residential) zoning district and all applicable City ordinances. 3. Any future subdivision or development application shall be subject to the City's established review and approval process"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "4a64b3e146394341",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Brigham City",
+   "title": "UPDATED BID DATE - Request for Proposal - Power Plant Substation Generation Plant Transformer",
+   "meetingDate": "2026-10-20",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1116969.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1503847.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "industrial",
+    "phase"
+   ],
+   "companies": [],
+   "snippets": [
+    "/ IEEE 315 / CSA Z99 Graphic Symbols for Electrical and Electronic Diagrams. ANSI Z55.1 Gray Finishes for Industrial Apparatus and Equipment. B. NATIONAL ELECTRICAL MANUFACTURERS ASSOCIATION (NEMA) -Latest Editio",
+    "s for Substation October 15, 2026: Brigham City GSU Specification Page 6 of 30 NEMA ICS 2 Standards for Industrial Control Devices, Controllers, and Assemblies C. NATIONAL FIRE PROTECTION ASSOCIATION (NFPA) - L",
+    "irements for the design, fabrication, inspection, testing, delivery, dressing, and filling of one (1) three phase power transformer that will be owned by Brigham City and installed at their Power Plant Substation in B",
+    "/IEEE C57.12.10 Requirements for Transformers 230000 Volts and Below 833/958 Through 8333/10417 kVA, Single Phase, and 750/862 Through 60000/80000/100000 kVA, Three-Phase (Includes Supplement ANSI C57.12.10a-1978) A",
+    "and Below 833/958 Through 8333/10417 kVA, Single Phase, and 750/862 Through 60000/80000/100000 kVA, Three-Phase (Includes Supplement ANSI C57.12.10a-1978) ANSI/IEEE C57.12.70 Terminal Markings and Connections for",
+    "n the United States of America. B. The transformer will be a Grounded Y-Delta Transformer connected to a 3- phase, 60 Hz system, with the following voltage and connection requirements: High Voltage (wye) 46kV High",
+    "Rating 12/16/20 MVA B. The Transformer control voltages shall be as follows: 1. AC 120/240 VAC, single phase, 60 Hz 2. DC 125 VDC C. The transformer losses will be evaluated based on a 30 year transformer life.",
+    "mer shall be installed rigidly and spaced to provide dielectric and mechanical strength and ensure absolute phase isolation. H. All coils shall have each turn supported at frequent intervals by means of insulating s"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "67760e163b6d5758",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Brigham City",
+   "title": "October 15, 2026 City Council Agenda",
+   "meetingDate": "2026-10-15",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1114373.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1499575.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "preliminary plat",
+    "subdivision",
+    "townhome"
+   ],
+   "companies": [
+    "Economic Development"
+   ],
+   "snippets": [
+    "s City Administrator Repo1.t Action Items 1. Consideration of Approval of Heron Ridge Townhome Subdivision Preliminary Plat located at Approximately 650 South 1200 West - Zane Billings Closed Session Consideration",
+    "mber Comments City Administrator Repo1.t Action Items 1. Consideration of Approval of Heron Ridge Townhome Subdivision Preliminary Plat located at Approximately 650 South 1200 West - Zane Billings Closed Session Co",
+    "ouncil Member Comments City Administrator Repo1.t Action Items 1. Consideration of Approval of Heron Ridge Townhome Subdivision Preliminary Plat located at Approximately 650 South 1200 West - Zane Billings Closed Se"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "c752e2cdee9d3bbd",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Daggett County Redevelopment Agency",
+   "entity": "Daggett County",
+   "title": "Daggett County RDA",
+   "meetingDate": "2026-10-27",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1117623.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1506097.pdf",
+    "https://www.utah.gov/pmn/files/1507441.pdf"
+   ],
+   "score": 6,
+   "terms": [
+    "clinic",
+    "lots",
+    "medical",
+    "plat amendment"
+   ],
+   "companies": [
+    "Municipal Building",
+    "Lucerne Valley Marina Flaming Gorge Corp",
+    "Flaming Gorge Corp",
+    "Health Clinic Building",
+    "DBT Transportation Services LLC",
+    "AR16237255 DEX Imaging LLC",
+    "Gray's Market LLC",
+    "HR Building",
+    "Employee Development",
+    "Sign Company",
+    "Purchasing AT&T Mobility LLC",
+    "Purchasing Intergrated Power Solutions LLC",
+    "Purchasing Les Olson Company",
+    "Purchasing Union Telephone Company",
+    "Purchasing Wyoming Machinery Company",
+    "Purchasing Johnson Mark LLC",
+    "Payroll Olympus Law Group",
+    "Dental Ameritas Life Insurance Company",
+    "Ameritas Life Insurance Company",
+    "Vision Ameritas Life Insurance Company",
+    "Basic Life-AD&D Lincoln Financial GroupLincoln Financial Group",
+    "Vol Life-AD&D Lincoln Financial GroupLincoln Financial Group",
+    "Carrier Ameritas Life Insurance Company"
+   ],
+   "snippets": [
+    "ing Authority c. Affordable/Workforce Housing d. EMS/EMT Sheriff’s Office Updates e. Airports f. Clinic Updates g. Roads h. Code Enforcement Issues i. Legislation j. Tourism k. Citizen Comments",
+    "motion carried. Issue Updates RDA: Nothing at this time MBA: Temporary occupancy for the clinic was granted yesterday, allowing Ashley Regional to begin moving into the new facili",
+    "moving into the new facility. While elevator inspection approval is still pending, clinic operations are authorized to proceed. Affordable Workforce Housing : Progress continues",
+    "the flooding and water we are receiving State wide. Airports: Nothing at this time Clinic: Same update as the MBA line item Roads: There were a few trees that blew down into",
+    "LJ Amazon Capital Services 10/13/26 10/13/26 $ 1,933.63 $ 1,933.63 344316.506 Health Clinic Building Maintenance Leather Accent Chairs, HD Dutch Door Latch, Stackable Chairs, Loveseat & chair, R",
+    "equip $1 - $999 inventory A & C - Assessor emp ben health ins A & C - IT/GIS software & software maint Health Clinic Building Maintenance Shooting Range Supplies and Maint. Shooting Range Capital Outlay DJ Water Health I",
+    "k Election Storage 4. Discussion And Consideration Of Letter Of Recommendation For Plat Amendment To Combine Lots 01-0095-0024 and 01-0096-0025 5. Discussion And Consideration Of Installation Of Welcome Sings 6. Dis",
+    "orage 4. Discussion And Consideration Of Letter Of Recommendation For Plat Amendment To Combine Lots 01-0095-0024 and 01-0096-0025 5. Discussion And Consideration Of Installation Of Welcome"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "9460ea66f5364ee0",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Virgin Town Planning and Zoning Commission",
+   "entity": "Virgin",
+   "title": "meeting and agenda",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1120759.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1511271.pdf",
+    "https://www.utah.gov/pmn/files/1511273.pdf",
+    "https://www.utah.gov/pmn/files/1511275.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "site plan",
+    "subdivision"
+   ],
+   "companies": [
+    "Sunrise Engineering"
+   ],
+   "snippets": [
+    "ns required: All the following applications: Conditional Use Permits (CUP), subdivision, building permit, and commercial site plan, shall include a lighting plan that shows evidence that the proposed lighting fixtures an",
+    ": All the following applications: Conditional Use Permits (CUP), subdivision, building permit, and commercial site plan, shall include a lighting plan that shows evidence that the proposed lighting fixtures and light sou",
+    "AND LIGHTING ORDINANCES. RECITALS WHEREAS Virgin Town (“Town”) is a Utah municipal corporation and political subdivision of the State of Utah, organized and existing under the provisions of Utah Code Annotated Title 10.",
+    "stated as follows: A. Lighting plans required: All the following applications: Conditional Use Permits (CUP), subdivision, building permit, and commercial site plan, shall include a lighting plan that shows evidence that"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "396b92457129a20d",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Virgin Town Planning and Zoning Commission",
+   "entity": "Virgin",
+   "title": "Public Hearing",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1118857.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1507865.pdf",
+    "https://www.utah.gov/pmn/files/1507867.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "companies": [
+    "Sunrise Engineering"
+   ],
+   "snippets": [
+    "TY AND AN EFFECTIVE DATE. RECITALS WHEREAS Virgin Town (“Town”) is a Utah municipal corporation and political subdivision of the State of Utah, organized and existing under the provisions of Utah Code Annotated Title 10."
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "678f07ac856b2fa7",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Virgin Town Planning and Zoning Commission",
+   "entity": "Virgin",
+   "title": "Work meeting and agenda",
+   "meetingDate": "2026-10-21",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1116045.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1502275.pdf",
+    "https://www.utah.gov/pmn/files/1502277.pdf",
+    "https://www.utah.gov/pmn/files/1502279.pdf"
+   ],
+   "score": 18,
+   "terms": [
+    "church",
+    "clinic",
+    "commercial",
+    "conditional use",
+    "design review",
+    "lots",
+    "school",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "companies": [
+    "Sunrise Engineering",
+    "B. Measurement. Building",
+    "Maximum Building",
+    "Design Standards. Development",
+    "International Building"
+   ],
+   "snippets": [
+    "ict between the Sign and Lighting Ordinance. 2. An ordinance amending and restating Title 16, Chapter 16.40 (Commercial Zone) of the Virgin Municipal Code to Modernize the Purpose, Applicability, Location, Permitted and",
+    "lity, Location, Permitted and Conditional Uses, Use-Specific Standards, and Development Standards of the Commercial Zone. 3. Additional discussion items. ADJOURN MEETING Motion to adjourn meeting Notice of Specia",
+    "t Edited On October 15, 2026 04:55 PM Download Attachments Download Attachments File Name Category Date Added Commercial Ordinance Modernized 10.1.26.pdf Public Information Handout 2026/10/15 04:54 PM Lighting and Sign A",
+    "cords Access and Management Act ( Utah Code § 63G-2-201 ). VIRGIN TOWN Staff Report — Ordinance No. 2026-XX — Commercial Zone Amendment and Restatement To: Virgin Town Planning Commission / Town Council From: Ryker Steg",
+    "il From: Ryker Steglich, Town Planner, Sunrise Engineering Date: October 1, 2026 Subject: Ordinance 2026-XX – Commercial Zone Amendment and Restatement (VMC Chapter 16.40) AT A GLANCE Application Town initiated text am",
+    "initiated text amendment to the Virgin Municipal Code Subject Amendment and restatement of VMC Chapter 16.40 (Commercial Zone), including purpose, applicability, location criteria, use table, use-specific standards, and",
+    "tep Planning Commission public hearing and possible recommendation; Town Council adoption I. BACKGROUND The Commercial Zone (VMC Chapter 16.40) governs development along the State Route 9 corridor, the Town’s primary l",
+    "one (VMC Chapter 16.40) governs development along the State Route 9 corridor, the Town’s primary location for commercial, visitor, and outdoor recreation uses. Nearly every commercial parcel in Town fronts SR-9 and abuts"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "b946d6da823a7684",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Torrey Planning & Zoning Commission",
+   "entity": "Torrey",
+   "title": "October Planning and Zoning",
+   "meetingDate": "2026-10-29",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1119165.html",
+   "files": [],
+   "score": 8,
+   "terms": [
+    "conditional use",
+    "multi-family",
+    "new construction"
+   ],
+   "companies": [],
+   "snippets": [
+    "w construction 5. Conditional Use Permits - Review and take appropriate action Utah Housing Corporation multi-family project Babken Harutyunyan RV park permit 6. Discuss possible changes to the RV living rule",
+    "ickey Wright - cement pad for generator Bill Barrett - greenhouse and fence Richard Jeppson - single family new construction 5. Conditional Use Permits - Review and take appropriate action Utah Housing Corporatio"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "bbffe224f278e913",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Torrey Planning & Zoning Commission",
+   "entity": "Torrey",
+   "title": "Torrey Planning and Zoning October Work Meeting",
+   "meetingDate": "2026-10-21",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1115623.html",
+   "files": [],
+   "score": 8,
+   "terms": [
+    "conditional use",
+    "multi-family",
+    "new construction"
+   ],
+   "companies": [],
+   "snippets": [
+    "w construction 5. Conditional Use Permits - Review and take appropriate action Utah Housing Corporation multi-family project Babken Harutyunyan RV park permit 6. Discuss possible changes to the RV living rule",
+    "ickey Wright - cement pad for generator Bill Barrett - greenhouse and fence Richard Jeppson - single family new construction 5. Conditional Use Permits - Review and take appropriate action Utah Housing Corporatio"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "30ca9a8c5dfa496b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Vernon Town Council",
+   "entity": "Vernon Board/Committee",
+   "title": "Town Council public meeting",
+   "meetingDate": "2026-11-04",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1118915.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "companies": [],
+   "snippets": [
+    "ate of Larson RD Consideration of CDBG Grant Consideration of reviewing Cemetery Lot fees, Major and Minor Subdivision Fees and Building Permit Fees. Consideration of planning date for year end dinner. Reports fro"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "66cde6ecb3de62bf",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Fairfield Town Council",
+   "entity": "Fairfield",
+   "title": "TC Agenda Nov 2, 2026",
+   "meetingDate": "2026-11-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1119383.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1508805.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "industrial",
+    "school"
+   ],
+   "companies": [],
+   "snippets": [
+    "Water System and improvements needed 6.2 Discuss and approve TASK ORDER No. 26-01 General Services Contract Industrial Park Well 6.3 Discussion and update on Fairfield Roads. 6.4 Discussion and possible action on Res",
+    "tah 84013 . 801-766-3509 . fairfieldtown-ut.gov FOUNDED 1855 . INCORPORATED 2004 . HOME OF THE 1898 DISTRICT SCHOOL Page 1 of 2 TOWN OF FAIRFIELD TOWN COUNCIL . MEETING AGENDA 7. CLOSED SESSION Possible motion to cl"
+   ],
+   "foundAt": "2026-11-05"
+  },
+  {
+   "id": "5308c7861b1bcc9e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Fairfield Planning Commission",
+   "entity": "Fairfield",
+   "title": "Public Hearing",
+   "meetingDate": "2026-11-04",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1117921.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1506159.pdf",
+    "https://www.utah.gov/pmn/files/1506715.pdf",
+    "https://www.utah.gov/pmn/files/1510063.pdf"
+   ],
+   "score": 23,
+   "terms": [
+    "commercial",
+    "data center",
+    "final plat",
+    "industrial",
+    "lots",
+    "master plan",
+    "mixed-use",
+    "phase",
+    "school",
+    "site plan",
+    "subdivision"
+   ],
+   "companies": [
+    "Preliminary Site-Specific Development",
+    "Who May Submit Development",
+    "No Construction Without Development",
+    "EXHIBIT B Master Plan EXHIBIT C Development",
+    "DEVELOPMENT AGREEMENT FOR GOLDMINE This Master Development",
+    "Agreement. B. Development",
+    "Property. D. Development",
+    "Exhibit C. The Development",
+    "MDA. The Development",
+    "Master Development",
+    "International Building",
+    "MDA. Development",
+    "Development Applications. No Development",
+    "Approval Process. Development",
+    "NOTARY PUBLIC Master Development",
+    "Property Master Development",
+    "Plan EXHIBIT B Master Plan Master Development",
+    "Development Standards EXHIBIT C Development",
+    "Approval Process EXHIBIT D Development",
+    "Approval Approving Body Single Family Building",
+    "Lehi-Fairfield Road. Master Development",
+    "Roadway Master Plan Master Development"
+   ],
+   "snippets": [
+    "1.17. “Intended Uses” means the use of all or portions of the Proje ct for public facilities, businesses, commercial, industrial, data centers, Data Center Facilities, on -site electric power generation and energy st",
+    "ect. The Parties acknowledge that such Behind-the-Meter service to Project users is intended to be a private commercial arrangement, is not a dedication of utility service to the public, and that the Town does not regu",
+    "Final Subdivision Plats Town Staff / Third Party Consultant Preliminary and Final Site Plans (Residential, Commercial, Industrial, Data Center, Energy or Mixed-Use) Town Staff / Third Party Consultant Data Center F",
+    "industrial buildings, exclusive of industrial waste (R309-510) • 15 gpd/employee peak day demand for light commercial, no cafeteria, sanitary waste only (R309- 510) • 2.22 Peak Day Factor (BCA MP) • 4.25 Peak Hour/I",
+    "of Peak Day Demand (BCA MP) • 2,848 gpd per irrigated acre for outdoor storage (other Utah County cities) • Commercial and Industrial demands, water rights, and storage will be determined on a case by case basis and e",
+    "......................................................................... Error! Bookmark not defined. 1.8. “Data Center Facilities” ......................................................................................",
+    "............................................................................................. 13 ARTICLE 9 – DATA CENTER FACILITIES AND ON-SITE ENERGY FACILITIES ...................................................... 13",
+    "NTER FACILITIES AND ON-SITE ENERGY FACILITIES ...................................................... 13 9.1. Data Center Facilities; Permitted Use; Vested Right. ........................................................."
+   ],
+   "foundAt": "2026-11-05"
+  },
   {
    "id": "72caa2f01c6390e6",
    "source": "pmn",
