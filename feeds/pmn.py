@@ -9,6 +9,7 @@ import re, io, datetime
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 from .common import get, log, load, save, score_text, entities, snippets, iid, today, left
+from .parties import parties, sizes, party_snippets
 
 BASE = "https://www.utah.gov/pmn/sitemap"
 KEEP = re.compile(r"planning|zoning|council|commission|design review|development review|architectural|board of adjustment|"
@@ -54,7 +55,7 @@ def _rows(body_id):
                     "date": "-".join(m.groups()) if m else ""})
     return out
 
-def _pdf_text(url, max_pages=40):
+def _pdf_text(url, max_pages=60):
     r = get(url, delay=0.8, timeout=60)
     if not r or len(r.content) > 15_000_000: return ""
     try:
@@ -90,12 +91,16 @@ def daily(days=21, budget_min=60):
                             for a in s.find_all("a", href=re.compile(r"/pmn/files/\d+\.pdf", re.I))})
             sc0, _ = score_text(text)
             if sc0 >= 1 or HINT.search(row["title"] + " " + b["name"]):
-                for f in files[:2]: text += "\n" + _pdf_text(f)
+                for f in files[:3]: text += "\n" + _pdf_text(f)
             sc, terms = score_text(text)
-            if sc < 3: continue
+            ps = parties(text)
+            if sc < 3 and not (ps and sc >= 2): continue
+            names = [p["name"] for p in ps]
             items.append({"id": iid("pmn", row["notice"]), "source": "pmn", "kind": "agenda", "body": b["name"], "entity": b["entity"],
-                          "title": row["title"], "meetingDate": row["date"], "url": nurl, "files": files[:4], "score": sc, "terms": terms,
-                          "companies": entities(text), "snippets": snippets(text, [t for t in terms if KW_STRONG(t)] or terms), "foundAt": today()})
+                          "title": row["title"], "meetingDate": row["date"], "url": nurl, "files": files[:4], "score": sc + 2 * min(len(ps), 3), "terms": terms,
+                          "parties": ps, "sizes": sizes(text),
+                          "companies": names + [e for e in entities(text) if e not in names][:15],
+                          "snippets": party_snippets(text, ps) + snippets(text, [t for t in terms if KW_STRONG(t)] or terms, limit=4), "foundAt": today()})
         if done % 25 == 0: save("state/pmn_seen.json", seen)
     cur["pos"] = (cur["pos"] + done) % max(n, 1); cur["updated"] = today()
     save("state/pmn_cursor.json", cur); save("state/pmn_seen.json", seen)

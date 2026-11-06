@@ -22,7 +22,7 @@ def main(mode="daily"):
     keep = (datetime.date.today() - datetime.timedelta(days=45)).isoformat()
     byid = {i["id"]: i for i in latest.get("items", []) if i.get("foundAt", "") >= keep}
     fresh = [i for i in new if i["id"] not in byid]
-    for i in new: byid.setdefault(i["id"], i)
+    for i in new: byid[i["id"]] = i  # re-read items replace older copies
     save("data/latest.json", {"updated": datetime.datetime.utcnow().isoformat() + "Z", "report": report, "newToday": len(fresh),
                               "items": sorted(byid.values(), key=lambda x: x.get("foundAt", ""), reverse=True)})
     save(f"data/{today()}.json", {"report": report, "items": fresh})
