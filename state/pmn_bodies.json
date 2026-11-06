@@ -1,5 +1,5 @@
 {
- "next": 3601,
+ "next": 4501,
  "bodies": {
   "1": {
    "id": 1,
@@ -4800,8 +4800,458 @@
    "id": 3593,
    "name": "Commission on Civic and Character Education",
    "entity": "Lieutenant Governor"
+  },
+  "3603": {
+   "id": 3603,
+   "name": "Wasatch County Housing Authority",
+   "entity": "Wasatch County"
+  },
+  "3615": {
+   "id": 3615,
+   "name": "Mantua Town Council",
+   "entity": "Mantua"
+  },
+  "3629": {
+   "id": 3629,
+   "name": "Morgan County Appeal Authority",
+   "entity": "Morgan County"
+  },
+  "3635": {
+   "id": 3635,
+   "name": "Planning and Zoning Commission",
+   "entity": "Cleveland"
+  },
+  "3641": {
+   "id": 3641,
+   "name": "Utah State Developmental Center Strategic Planning Committee",
+   "entity": "Department of Health and Human Services (DHHS)"
+  },
+  "3681": {
+   "id": 3681,
+   "name": "Redevelopment Agency",
+   "entity": "Kaysville"
+  },
+  "3687": {
+   "id": 3687,
+   "name": "Kane County Planning and Zoning Commission",
+   "entity": "Kane County"
+  },
+  "3691": {
+   "id": 3691,
+   "name": "Board of Adjustments",
+   "entity": "Woods Cross"
+  },
+  "3695": {
+   "id": 3695,
+   "name": "Big Water Planning and Zoning Board",
+   "entity": "Big Water"
+  },
+  "3711": {
+   "id": 3711,
+   "name": "Commission",
+   "entity": "Kane County"
+  },
+  "3735": {
+   "id": 3735,
+   "name": "Loa Town Council",
+   "entity": "Loa"
+  },
+  "3738": {
+   "id": 3738,
+   "name": "Utah Medical Education Council",
+   "entity": "Department of Health and Human Services (DHHS)"
+  },
+  "3743": {
+   "id": 3743,
+   "name": "Utah Regional Coordinating Council",
+   "entity": "Department of Public Safety"
+  },
+  "3749": {
+   "id": 3749,
+   "name": "Carbon County Redevelopment Agency",
+   "entity": "Carbon County"
+  },
+  "3763": {
+   "id": 3763,
+   "name": "Duchesne County Council of Governments",
+   "entity": "Duchesne County"
+  },
+  "3775": {
+   "id": 3775,
+   "name": "ARCHITECTURAL REVIEW COMMITTEE",
+   "entity": "South Jordan"
+  },
+  "3799": {
+   "id": 3799,
+   "name": "City Council",
+   "entity": "Cedar Hills"
+  },
+  "3833": {
+   "id": 3833,
+   "name": "Howell Town Council",
+   "entity": "Howell"
+  },
+  "3835": {
+   "id": 3835,
+   "name": "Howell Town Planning Commission",
+   "entity": "Howell"
+  },
+  "3863": {
+   "id": 3863,
+   "name": "Utah Commission on Aging",
+   "entity": "Governor's Office"
+  },
+  "3877": {
+   "id": 3877,
+   "name": "Fourth District Nominating Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "3879": {
+   "id": 3879,
+   "name": "Lehi HIstoric Preservation Commission",
+   "entity": "Lehi"
+  },
+  "3901": {
+   "id": 3901,
+   "name": "Redevelopment Agency",
+   "entity": "South Jordan"
+  },
+  "3905": {
+   "id": 3905,
+   "name": "Fifth District Nominating Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "3913": {
+   "id": 3913,
+   "name": "Plymouth Town Council",
+   "entity": "Plymouth"
+  },
+  "3915": {
+   "id": 3915,
+   "name": "Mendon City Planning and Zoning",
+   "entity": "Mendon"
+  },
+  "3917": {
+   "id": 3917,
+   "name": "Provo Nonprofit Housing Development Board of Directors",
+   "entity": "Provo City Housing Authority"
+  },
+  "3921": {
+   "id": 3921,
+   "name": "Utah State Hazardous Chemical Emergency Response Commission Advisory Committee",
+   "entity": "Department of Environmental Quality"
+  },
+  "3935": {
+   "id": 3935,
+   "name": "First District Judicial Nominating Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "3937": {
+   "id": 3937,
+   "name": "Appeal Authority",
+   "entity": "Delta"
+  },
+  "3939": {
+   "id": 3939,
+   "name": "Land Use Appeal Authority",
+   "entity": "Delta"
+  },
+  "3945": {
+   "id": 3945,
+   "name": "West Haven City Council",
+   "entity": "West Haven City"
+  },
+  "3947": {
+   "id": 3947,
+   "name": "West Haven Planning Commission",
+   "entity": "West Haven City"
+  },
+  "3953": {
+   "id": 3953,
+   "name": "Trenton Town Council",
+   "entity": "Trenton"
+  },
+  "3955": {
+   "id": 3955,
+   "name": "Trenton Planning and Zoning Commission",
+   "entity": "Trenton"
+  },
+  "3957": {
+   "id": 3957,
+   "name": "Trenton Board of Adjustment",
+   "entity": "Trenton"
+  },
+  "3963": {
+   "id": 3963,
+   "name": "Woodland Hills Planning Commission",
+   "entity": "Woodland Hills"
+  },
+  "3965": {
+   "id": 3965,
+   "name": "Tabiona Town Council",
+   "entity": "Tabiona"
+  },
+  "3979": {
+   "id": 3979,
+   "name": "Glenwood Town Council",
+   "entity": "Glenwood"
+  },
+  "3981": {
+   "id": 3981,
+   "name": "Glenwood Planning and Zoning Commission",
+   "entity": "Glenwood"
+  },
+  "3983": {
+   "id": 3983,
+   "name": "Glenwood Town Board of Adjustment",
+   "entity": "Glenwood"
+  },
+  "3985": {
+   "id": 3985,
+   "name": "Town Council",
+   "entity": "Paradise"
+  },
+  "3987": {
+   "id": 3987,
+   "name": "Planning and Zoning Commission",
+   "entity": "Paradise"
+  },
+  "3989": {
+   "id": 3989,
+   "name": "Board of Adjustments",
+   "entity": "Paradise"
+  },
+  "3995": {
+   "id": 3995,
+   "name": "New Harmony Town Council",
+   "entity": "New Harmony"
+  },
+  "3997": {
+   "id": 3997,
+   "name": "New Harmony Planning and Zoning Commission",
+   "entity": "New Harmony"
+  },
+  "4009": {
+   "id": 4009,
+   "name": "Randoph Town Council",
+   "entity": "Randolph"
+  },
+  "4011": {
+   "id": 4011,
+   "name": "Randolph Planning and Zoning Commission",
+   "entity": "Randolph"
+  },
+  "4019": {
+   "id": 4019,
+   "name": "Kingston City Council",
+   "entity": "Kingston"
+  },
+  "4023": {
+   "id": 4023,
+   "name": "UEN Advisory Council",
+   "entity": "Utah Board of Higher Education > University of Utah > Utah Education and Telehealth Network Board/Committee"
+  },
+  "4025": {
+   "id": 4025,
+   "name": "Oak City Town Council",
+   "entity": "Oak City"
+  },
+  "4027": {
+   "id": 4027,
+   "name": "Salina City Redevelopment Agency Taxing Entity Committee",
+   "entity": "Salina"
+  },
+  "4035": {
+   "id": 4035,
+   "name": "Town Council",
+   "entity": "Cannonville"
+  },
+  "4067": {
+   "id": 4067,
+   "name": "Nibley City Planning and Zoning Commission",
+   "entity": "Nibley"
+  },
+  "4073": {
+   "id": 4073,
+   "name": "Weber Area Council of Governments",
+   "entity": "Weber County"
+  },
+  "4093": {
+   "id": 4093,
+   "name": "Board of Adjustment",
+   "entity": "Bear River"
+  },
+  "4101": {
+   "id": 4101,
+   "name": "Intergenerational Welfare Reform Commission",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "4117": {
+   "id": 4117,
+   "name": "Commission on Federalism",
+   "entity": "Legislature"
+  },
+  "4121": {
+   "id": 4121,
+   "name": "Federal Funds Commission",
+   "entity": "Legislature"
+  },
+  "4139": {
+   "id": 4139,
+   "name": "Redevelopment Agency (RDA)",
+   "entity": "Spanish Fork"
+  },
+  "4153": {
+   "id": 4153,
+   "name": "Housing Authority of Southeastern Utah Board",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/"
+  },
+  "4163": {
+   "id": 4163,
+   "name": "Political Subdivisions Ethics Commission",
+   "entity": "Legislature"
+  },
+  "4169": {
+   "id": 4169,
+   "name": "CMPO Executive Council",
+   "entity": "Cache Metropolitan Planning Organization"
+  },
+  "4171": {
+   "id": 4171,
+   "name": "Cache Technical Advisory Committee",
+   "entity": "Cache Metropolitan Planning Organization"
+  },
+  "4205": {
+   "id": 4205,
+   "name": "Ethics Commission",
+   "entity": "Murray"
+  },
+  "4209": {
+   "id": 4209,
+   "name": "Free Market Protection and Privatization Board",
+   "entity": "Governor's Office > Governor's Office of Planning and Budget"
+  },
+  "4223": {
+   "id": 4223,
+   "name": "Eighth District Nominating Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "4229": {
+   "id": 4229,
+   "name": "Utah WIC Advisory Council",
+   "entity": "Department of Health and Human Services (DHHS)"
+  },
+  "4243": {
+   "id": 4243,
+   "name": "Alcoholic Beverage Control Advisory Board",
+   "entity": "Alcoholic Beverage Services Commission > Department of Alcoholic Beverage Services"
+  },
+  "4309": {
+   "id": 4309,
+   "name": "Bear River Region Broadband Planning Council",
+   "entity": "Bear River Association of Governments"
+  },
+  "4319": {
+   "id": 4319,
+   "name": "Career Service Council",
+   "entity": "Tooele County"
+  },
+  "4343": {
+   "id": 4343,
+   "name": "Five County Regional Broadband Planning Council",
+   "entity": "Five County Association of Governments"
+  },
+  "4351": {
+   "id": 4351,
+   "name": "Appellate Judicial Nominating Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "4359": {
+   "id": 4359,
+   "name": "Council - A.C.C.T",
+   "entity": "Salt Lake County"
+  },
+  "4387": {
+   "id": 4387,
+   "name": "Lynndyl Town Council",
+   "entity": "Lynndyl"
+  },
+  "4395": {
+   "id": 4395,
+   "name": "Historical Architectural Review Board",
+   "entity": "West Bountiful"
+  },
+  "4409": {
+   "id": 4409,
+   "name": "Utah Commission on Service & Volunteerism",
+   "entity": "Lieutenant Governor"
+  },
+  "4413": {
+   "id": 4413,
+   "name": "Planning and Zoning",
+   "entity": "Deweyville"
+  },
+  "4433": {
+   "id": 4433,
+   "name": "Design Review Board",
+   "entity": "Pleasant Grove"
+  },
+  "4441": {
+   "id": 4441,
+   "name": "Land Use Hearing Officer",
+   "entity": "Salt Lake County"
+  },
+  "4443": {
+   "id": 4443,
+   "name": "Mountainous Planning District",
+   "entity": "Salt Lake County"
+  },
+  "4445": {
+   "id": 4445,
+   "name": "Council Minutes",
+   "entity": "Hooper"
+  },
+  "4447": {
+   "id": 4447,
+   "name": "Planning Commission Meeting Minutes",
+   "entity": "Hooper"
+  },
+  "4461": {
+   "id": 4461,
+   "name": "Judicial Conduct Commission",
+   "entity": "Judicial Conduct Commission Entity Website https://jcc.utah.gov"
+  },
+  "4463": {
+   "id": 4463,
+   "name": "Independent Executive Branch Ethics Commission",
+   "entity": "Independent Executive Branch Ethics Commission"
+  },
+  "4473": {
+   "id": 4473,
+   "name": "Utah Coordinating Council for Youth in Custody",
+   "entity": "Department of Health and Human Services (DHHS)"
+  },
+  "4477": {
+   "id": 4477,
+   "name": "Utah Marriage Commission",
+   "entity": "Utah Board of Higher Education > Utah State University"
+  },
+  "4481": {
+   "id": 4481,
+   "name": "Morgan County Zoning Administrator",
+   "entity": "Morgan County"
+  },
+  "4483": {
+   "id": 4483,
+   "name": "Portage Town Council",
+   "entity": "Portage"
+  },
+  "4499": {
+   "id": 4499,
+   "name": "Motor Vehicle Advisory Board",
+   "entity": "Utah State Tax Commission Entity Website https://tax.utah.gov"
   }
  },
  "misses": 0,
- "updated": "2026-11-05"
+ "updated": "2026-11-06"
 }
