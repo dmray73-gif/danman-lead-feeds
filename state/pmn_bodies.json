@@ -1,5 +1,5 @@
 {
- "next": 5401,
+ "next": 6301,
  "bodies": {
   "1": {
    "id": 1,
@@ -5750,8 +5750,538 @@
    "id": 5399,
    "name": "JSPA Planning Commission",
    "entity": "Wasatch County"
+  },
+  "5401": {
+   "id": 5401,
+   "name": "Wasatch County Local Emergency Planning Commision",
+   "entity": "Wasatch County"
+  },
+  "5403": {
+   "id": 5403,
+   "name": "Bear River Regional Access and Mobility Council",
+   "entity": "Bear River Association of Governments"
+  },
+  "5409": {
+   "id": 5409,
+   "name": "RAMP Tax Advisory Commission",
+   "entity": "Layton"
+  },
+  "5413": {
+   "id": 5413,
+   "name": "Virgin Town Historic Preservation Commission",
+   "entity": "Virgin"
+  },
+  "5427": {
+   "id": 5427,
+   "name": "Council of Governments (COG)",
+   "entity": "Washington County"
+  },
+  "5435": {
+   "id": 5435,
+   "name": "Cedar City Redevelopment Agency Taxing Entity Committee",
+   "entity": "Cedar City Entity Website www.cedarcity.org"
+  },
+  "5441": {
+   "id": 5441,
+   "name": "WCEDC Executive Council",
+   "entity": "St. George Area Economic Development Council"
+  },
+  "5451": {
+   "id": 5451,
+   "name": "Local Emergency Planning Committee (LEPC)",
+   "entity": "Rich County"
+  },
+  "5459": {
+   "id": 5459,
+   "name": "Seventh District Judicial Nominating Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "5467": {
+   "id": 5467,
+   "name": "Governing Board of Directors",
+   "entity": "Castle Dale Building Commission"
+  },
+  "5469": {
+   "id": 5469,
+   "name": "Council on Aging (COA)",
+   "entity": "Washington County"
+  },
+  "5473": {
+   "id": 5473,
+   "name": "Planning Commission",
+   "entity": "Riverton"
+  },
+  "5499": {
+   "id": 5499,
+   "name": "Point of the Mountain Development Commission",
+   "entity": "Legislature"
+  },
+  "5511": {
+   "id": 5511,
+   "name": "Utah Recreational Trails Advisory Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "5523": {
+   "id": 5523,
+   "name": "Interlaken Town Planning Commission",
+   "entity": "Interlaken Town Entity Website town-of-interlaken"
+  },
+  "5533": {
+   "id": 5533,
+   "name": "Weber County Redevelopment Agency",
+   "entity": "Weber County"
+  },
+  "5543": {
+   "id": 5543,
+   "name": "Utah County Career Service Council",
+   "entity": "Utah County"
+  },
+  "5549": {
+   "id": 5549,
+   "name": "Utah Board of Directors",
+   "entity": "Dairy Commission"
+  },
+  "5555": {
+   "id": 5555,
+   "name": "City Council",
+   "entity": "Draper"
+  },
+  "5591": {
+   "id": 5591,
+   "name": "Indigent Defense Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "5601": {
+   "id": 5601,
+   "name": "Five County Hazard Mitigation Planning Team",
+   "entity": "Five County Association of Governments"
+  },
+  "5637": {
+   "id": 5637,
+   "name": "Lynndyl Planning and Zoning Commission",
+   "entity": "Lynndyl"
+  },
+  "5645": {
+   "id": 5645,
+   "name": "Appeal Authority",
+   "entity": "Lehi"
+  },
+  "5655": {
+   "id": 5655,
+   "name": "Wasatch Front Regional Council Executive Committee",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "5657": {
+   "id": 5657,
+   "name": "LEPC - Local Emergency Planning Committee",
+   "entity": "Cache County"
+  },
+  "5661": {
+   "id": 5661,
+   "name": "Wasatch Front Economic Development District (WFEDD)",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "5663": {
+   "id": 5663,
+   "name": "Air Quality Committee (AQC)",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "5665": {
+   "id": 5665,
+   "name": "Active Transportation Committee (ATC)",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "5667": {
+   "id": 5667,
+   "name": "Wasatch Front Regional Council Budget Committee",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "5673": {
+   "id": 5673,
+   "name": "Central Wasatch Commission Board",
+   "entity": "Central Wasatch Commission"
+  },
+  "5691": {
+   "id": 5691,
+   "name": "Housing Authority of Carbon-Emery County",
+   "entity": "Carbon County"
+  },
+  "5699": {
+   "id": 5699,
+   "name": "Utah Paiute Tribal Housing Authority",
+   "entity": "Utah Paiute Tribal Housing Authority Entity Website http://www.utahpha.org"
+  },
+  "5701": {
+   "id": 5701,
+   "name": "Riverton Historic Preservation Commission",
+   "entity": "Riverton"
+  },
+  "5719": {
+   "id": 5719,
+   "name": "Blanding Area Travel Council",
+   "entity": "Blanding"
+  },
+  "5729": {
+   "id": 5729,
+   "name": "City Council",
+   "entity": "Helper"
+  },
+  "5735": {
+   "id": 5735,
+   "name": "Emery County Career Service Council",
+   "entity": "Emery County"
+  },
+  "5741": {
+   "id": 5741,
+   "name": "City Council",
+   "entity": "Millcreek"
+  },
+  "5751": {
+   "id": 5751,
+   "name": "Town Council",
+   "entity": "Redmond"
+  },
+  "5775": {
+   "id": 5775,
+   "name": "Planning and Zoning Commission",
+   "entity": "Oak City"
+  },
+  "5795": {
+   "id": 5795,
+   "name": "Change of Form of Government Study Council",
+   "entity": "Tooele County"
+  },
+  "5797": {
+   "id": 5797,
+   "name": "Town Council",
+   "entity": "Scipio"
+  },
+  "5803": {
+   "id": 5803,
+   "name": "Magna Council",
+   "entity": "Magna City"
+  },
+  "5805": {
+   "id": 5805,
+   "name": "White City Council",
+   "entity": "White City"
+  },
+  "5809": {
+   "id": 5809,
+   "name": "Emigration Canyon Council",
+   "entity": "Emigration Canyon"
+  },
+  "5813": {
+   "id": 5813,
+   "name": "Youth Council",
+   "entity": "Herriman"
+  },
+  "5815": {
+   "id": 5815,
+   "name": "Planning Commission",
+   "entity": "Millcreek"
+  },
+  "5823": {
+   "id": 5823,
+   "name": "Kearns Council",
+   "entity": "Kearns"
+  },
+  "5829": {
+   "id": 5829,
+   "name": "Natural Resource Committee",
+   "entity": "R6 Regional Council"
+  },
+  "5831": {
+   "id": 5831,
+   "name": "Copperton Council",
+   "entity": "Copperton"
+  },
+  "5839": {
+   "id": 5839,
+   "name": "Joint Policy Advisory Committee",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "5845": {
+   "id": 5845,
+   "name": "Planning and Zoning",
+   "entity": "Moroni"
+  },
+  "5847": {
+   "id": 5847,
+   "name": "Hearing Officer / Land Use Appeal",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/"
+  },
+  "5851": {
+   "id": 5851,
+   "name": "Power Commission",
+   "entity": "Kaysville"
+  },
+  "5865": {
+   "id": 5865,
+   "name": "Grantsville Historic Preservation Commission",
+   "entity": "Grantsville"
+  },
+  "5869": {
+   "id": 5869,
+   "name": "Uintah Basin Assistance Council Board",
+   "entity": "Housing Authority of the Uintah Basin"
+  },
+  "5879": {
+   "id": 5879,
+   "name": "White City Planning Commission",
+   "entity": "White City"
+  },
+  "5881": {
+   "id": 5881,
+   "name": "Utah County Historic Preservation Commission",
+   "entity": "Utah County"
+  },
+  "5885": {
+   "id": 5885,
+   "name": "Land Use Hearing Officer",
+   "entity": "Millcreek"
+  },
+  "5889": {
+   "id": 5889,
+   "name": "Washington County Boundary Commission",
+   "entity": "Washington County"
+  },
+  "5897": {
+   "id": 5897,
+   "name": "Planning & Zoning",
+   "entity": "Cedar Fort"
+  },
+  "5919": {
+   "id": 5919,
+   "name": "Meadow Town Council",
+   "entity": "Meadow"
+  },
+  "5959": {
+   "id": 5959,
+   "name": "Redevelopment Agency",
+   "entity": "Morgan County"
+  },
+  "5971": {
+   "id": 5971,
+   "name": "Early Childhood Utah Advisory Council",
+   "entity": "Department of Health and Human Services (DHHS)"
+  },
+  "5985": {
+   "id": 5985,
+   "name": "Ogden Community Engagement and Opportunity Commission",
+   "entity": "Ogden"
+  },
+  "5989": {
+   "id": 5989,
+   "name": "Board of Adjustments",
+   "entity": "Parowan"
+  },
+  "5995": {
+   "id": 5995,
+   "name": "Town Council",
+   "entity": "Lyman"
+  },
+  "5997": {
+   "id": 5997,
+   "name": "Town Council",
+   "entity": "Alton"
+  },
+  "5999": {
+   "id": 5999,
+   "name": "Utah Professional Practices Advisory Commission",
+   "entity": "State Board of Education"
+  },
+  "6017": {
+   "id": 6017,
+   "name": "Housing Authority",
+   "entity": "Myton"
+  },
+  "6055": {
+   "id": 6055,
+   "name": "Historical Commission",
+   "entity": "Holladay"
+  },
+  "6077": {
+   "id": 6077,
+   "name": "Executive Water Finance Board",
+   "entity": "Governor's Office > Governor's Office of Planning and Budget"
+  },
+  "6079": {
+   "id": 6079,
+   "name": "Grantsville City Board of Adjustment",
+   "entity": "Grantsville"
+  },
+  "6081": {
+   "id": 6081,
+   "name": "Sales Tax Working Group of the Utah Tax Review Commission",
+   "entity": "Legislature"
+  },
+  "6083": {
+   "id": 6083,
+   "name": "Property Tax Working Group of the Utah Tax Review Commission",
+   "entity": "Legislature"
+  },
+  "6085": {
+   "id": 6085,
+   "name": "Income Tax Working Group of the Utah Tax Review Commission",
+   "entity": "Legislature"
+  },
+  "6090": {
+   "id": 6090,
+   "name": "Planning and Zoning Commission",
+   "entity": "Sterling"
+  },
+  "6094": {
+   "id": 6094,
+   "name": "Board of Commissioners",
+   "entity": "Cedar City Housing Authority"
+  },
+  "6101": {
+   "id": 6101,
+   "name": "Planning Commission",
+   "entity": "Levan"
+  },
+  "6105": {
+   "id": 6105,
+   "name": "Veterans Advisory Council",
+   "entity": "Department of Veterans and Military Affairs"
+  },
+  "6117": {
+   "id": 6117,
+   "name": "Land Use Hearing",
+   "entity": "Pleasant Grove"
+  },
+  "6125": {
+   "id": 6125,
+   "name": "Local Food Advisory Council",
+   "entity": "Department of Agriculture and Food"
+  },
+  "6131": {
+   "id": 6131,
+   "name": "Council for Aging and Adult Services",
+   "entity": "Salt Lake County"
+  },
+  "6143": {
+   "id": 6143,
+   "name": "Board of Adjustments",
+   "entity": "Beaver"
+  },
+  "6151": {
+   "id": 6151,
+   "name": "Wasatch Front Water Quality Council",
+   "entity": "Wasatch Front Water Quality Council"
+  },
+  "6153": {
+   "id": 6153,
+   "name": "Sixth District Judicial Nominating Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "6171": {
+   "id": 6171,
+   "name": "Board of Directors",
+   "entity": "Beaver Housing Authority"
+  },
+  "6176": {
+   "id": 6176,
+   "name": "Tooele City Council & RDA",
+   "entity": "Tooele"
+  },
+  "6179": {
+   "id": 6179,
+   "name": "Panguitch City Board of Adjustments",
+   "entity": "Panguitch"
+  },
+  "6185": {
+   "id": 6185,
+   "name": "Employability to Careers Program Board",
+   "entity": "Governor's Office > Governor's Office of Planning and Budget"
+  },
+  "6193": {
+   "id": 6193,
+   "name": "Redevelopment Agency",
+   "entity": "Hurricane"
+  },
+  "6199": {
+   "id": 6199,
+   "name": "Planning & Zoning Committee",
+   "entity": "East Carbon"
+  },
+  "6201": {
+   "id": 6201,
+   "name": "Home Visiting Collaboration Council",
+   "entity": "Department of Health and Human Services (DHHS)"
+  },
+  "6213": {
+   "id": 6213,
+   "name": "Youth Council",
+   "entity": "Highland"
+  },
+  "6223": {
+   "id": 6223,
+   "name": "Board of Commissioners",
+   "entity": "Housing Connect"
+  },
+  "6233": {
+   "id": 6233,
+   "name": "Historic Preservation Commission",
+   "entity": "Riverton"
+  },
+  "6235": {
+   "id": 6235,
+   "name": "Morgan County-Ogden Valley Rural Planning Organization",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "6237": {
+   "id": 6237,
+   "name": "Tooele Valley Rural Planning Organization",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "6243": {
+   "id": 6243,
+   "name": "ORDERVILLE TOWN PLANNING & ZONING COMMISSION",
+   "entity": "Orderville"
+  },
+  "6249": {
+   "id": 6249,
+   "name": "Council",
+   "entity": "Cedar Highlands"
+  },
+  "6253": {
+   "id": 6253,
+   "name": "Emery Town Council Meeting",
+   "entity": "Emery Board/Committee"
+  },
+  "6259": {
+   "id": 6259,
+   "name": "Towing Advisory Board Working Group",
+   "entity": "Utah State Tax Commission Entity Website https://tax.utah.gov"
+  },
+  "6265": {
+   "id": 6265,
+   "name": "Governing Board",
+   "entity": "Provo River Watershed Council"
+  },
+  "6269": {
+   "id": 6269,
+   "name": "Board of Adjustment",
+   "entity": "Syracuse"
+  },
+  "6273": {
+   "id": 6273,
+   "name": "Dixie Metropolitan Planning Organization",
+   "entity": "Five County Association of Governments"
+  },
+  "6277": {
+   "id": 6277,
+   "name": "WFRC Regional Advisory Committee to the Utah Communications Authority",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "6293": {
+   "id": 6293,
+   "name": "Joint Policy Advisory Committee",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
   }
  },
  "misses": 0,
- "updated": "2026-11-06"
+ "updated": "2026-11-07"
 }
