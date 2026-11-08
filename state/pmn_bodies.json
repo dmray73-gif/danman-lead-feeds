@@ -1,5 +1,5 @@
 {
- "next": 6301,
+ "next": 7801,
  "bodies": {
   "1": {
    "id": 1,
@@ -6280,8 +6280,668 @@
    "id": 6293,
    "name": "Joint Policy Advisory Committee",
    "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "6303": {
+   "id": 6303,
+   "name": "Housing Opportunities for Persons with AIDS (HOPWA)",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "6317": {
+   "id": 6317,
+   "name": "Planning Commission",
+   "entity": "Cedar Highlands"
+  },
+  "6319": {
+   "id": 6319,
+   "name": "Board of Adjustment",
+   "entity": "Eureka"
+  },
+  "6321": {
+   "id": 6321,
+   "name": "Planning and Zoning",
+   "entity": "Scipio"
+  },
+  "6325": {
+   "id": 6325,
+   "name": "Private Aquaculture Advisory Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "6335": {
+   "id": 6335,
+   "name": "Council At Large",
+   "entity": "Provo River Watershed Council"
+  },
+  "6337": {
+   "id": 6337,
+   "name": "Tooele City Redevelopment Agency",
+   "entity": "Tooele"
+  },
+  "6341": {
+   "id": 6341,
+   "name": "UTN Advisory Council",
+   "entity": "Utah Board of Higher Education > University of Utah > Utah Education and Telehealth Network Board/Committee"
+  },
+  "6362": {
+   "id": 6362,
+   "name": "Redevelopment Agency",
+   "entity": "Washington City"
+  },
+  "6365": {
+   "id": 6365,
+   "name": "Clawson Town Council",
+   "entity": "Clawson"
+  },
+  "6375": {
+   "id": 6375,
+   "name": "Higher Education Strategic Planning Commission",
+   "entity": "Legislature"
+  },
+  "6377": {
+   "id": 6377,
+   "name": "MFD commission",
+   "entity": "Moab Valley Fire Protection District"
+  },
+  "6381": {
+   "id": 6381,
+   "name": "Meadow Town Planning And Zoning",
+   "entity": "Meadow"
+  },
+  "6415": {
+   "id": 6415,
+   "name": "Planning and Zoning Mayor Meeting",
+   "entity": "Salt Lake County"
+  },
+  "6421": {
+   "id": 6421,
+   "name": "Board of Directors",
+   "entity": "Utah Beef Council"
+  },
+  "6423": {
+   "id": 6423,
+   "name": "Commission on Housing Affordability (Repealed)",
+   "entity": "Governor's Office > Office of Economic Development (GOED) Entity Website https://business.utah.gov/"
+  },
+  "6433": {
+   "id": 6433,
+   "name": "Town Council",
+   "entity": "Bluff"
+  },
+  "6435": {
+   "id": 6435,
+   "name": "Board of Adjustment",
+   "entity": "Manila"
+  },
+  "6455": {
+   "id": 6455,
+   "name": "School and Institutional Trust Beneficiaries' Advocacy Council",
+   "entity": "Office of State Treasurer > School and Institutional Trust Beneficiaries' Advocacy Office"
+  },
+  "6459": {
+   "id": 6459,
+   "name": "State Rehabilitation Council",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "6467": {
+   "id": 6467,
+   "name": "Land Use Authority",
+   "entity": "Brigham City"
+  },
+  "6485": {
+   "id": 6485,
+   "name": "Utah Lake Technical Committee",
+   "entity": "Utah Lake Commission"
+  },
+  "6489": {
+   "id": 6489,
+   "name": "Strategic Planning Committee",
+   "entity": "Weber County"
+  },
+  "6495": {
+   "id": 6495,
+   "name": "Architectural Review Committee",
+   "entity": "Sandy"
+  },
+  "6515": {
+   "id": 6515,
+   "name": "Private Activity Bond Program (PAB)",
+   "entity": "Governor's Office > Office of Economic Development (GOED) Entity Website https://business.utah.gov/"
+  },
+  "6525": {
+   "id": 6525,
+   "name": "Utah County Constable Nominating Commission",
+   "entity": "Utah County"
+  },
+  "6531": {
+   "id": 6531,
+   "name": "Local Advisory Council (Dissolved)",
+   "entity": "Utah Transit Authority Entity Website http://www.rideuta.com Board/Committee"
+  },
+  "6543": {
+   "id": 6543,
+   "name": "Bountiful Historic Preservation Commission",
+   "entity": "Bountiful"
+  },
+  "6559": {
+   "id": 6559,
+   "name": "Salt Lake County Local Emergency Planning Committee",
+   "entity": "Salt Lake County"
+  },
+  "6563": {
+   "id": 6563,
+   "name": "Region 5 Regional Response Planning Committee",
+   "entity": "Region 5 Regional Response Planning Committee"
+  },
+  "6569": {
+   "id": 6569,
+   "name": "Historic Preservation Commission",
+   "entity": "Tremonton"
+  },
+  "6587": {
+   "id": 6587,
+   "name": "City Council, Redevelopment Agency, Municipal Building Authority",
+   "entity": "Ogden"
+  },
+  "6589": {
+   "id": 6589,
+   "name": "Appeal Authority",
+   "entity": "Alpine"
+  },
+  "6593": {
+   "id": 6593,
+   "name": "Governor's Office Fee Hearing",
+   "entity": "Governor's Office > Governor's Office of Planning and Budget"
+  },
+  "6595": {
+   "id": 6595,
+   "name": "Stakeholders Council",
+   "entity": "Central Wasatch Commission"
+  },
+  "6601": {
+   "id": 6601,
+   "name": "Kane County Redevelopment Agency",
+   "entity": "Kane County"
+  },
+  "6625": {
+   "id": 6625,
+   "name": "Planning and Zoning Commission",
+   "entity": "Bluff"
+  },
+  "6631": {
+   "id": 6631,
+   "name": "Town Council Meeting",
+   "entity": "Minersville"
+  },
+  "6647": {
+   "id": 6647,
+   "name": "Zoning Administrator",
+   "entity": "Draper"
+  },
+  "6657": {
+   "id": 6657,
+   "name": "Utah County Council of Governments",
+   "entity": "Mountainland Association of Governments"
+  },
+  "6663": {
+   "id": 6663,
+   "name": "MSA Charter Council",
+   "entity": "Mountain Sunrise Academy Board/Committee"
+  },
+  "6665": {
+   "id": 6665,
+   "name": "Historic Preservation Commission",
+   "entity": "Smithfield"
+  },
+  "6689": {
+   "id": 6689,
+   "name": "Wasatch Rural Planning Organization (Inactive/Defunct)",
+   "entity": "Mountainland Association of Governments"
+  },
+  "6705": {
+   "id": 6705,
+   "name": "Council on Aging",
+   "entity": "Tooele County"
+  },
+  "6717": {
+   "id": 6717,
+   "name": "Federalism Commission",
+   "entity": "Legislature"
+  },
+  "6741": {
+   "id": 6741,
+   "name": "Planning and Zoning Commission",
+   "entity": "Laketown"
+  },
+  "6755": {
+   "id": 6755,
+   "name": "Development Review Committee",
+   "entity": "Hyde Park"
+  },
+  "6773": {
+   "id": 6773,
+   "name": "Architectural Review Committee",
+   "entity": "Syracuse"
+  },
+  "6779": {
+   "id": 6779,
+   "name": "Planning Commission",
+   "entity": "Alton"
+  },
+  "6815": {
+   "id": 6815,
+   "name": "Roosevelt City Redevelopment Agency",
+   "entity": "Roosevelt Entity Website www.rooseveltcity.com"
+  },
+  "6817": {
+   "id": 6817,
+   "name": "WWII Memorial Commission",
+   "entity": "Department of Cultural and Community Engagement"
+  },
+  "6841": {
+   "id": 6841,
+   "name": "Planning Commission",
+   "entity": "Bryce Canyon City"
+  },
+  "6849": {
+   "id": 6849,
+   "name": "Beer Availability Work Group",
+   "entity": "Alcoholic Beverage Services Commission > Department of Alcoholic Beverage Services"
+  },
+  "6853": {
+   "id": 6853,
+   "name": "Draper City Youth Council Advisory Board",
+   "entity": "Draper"
+  },
+  "6869": {
+   "id": 6869,
+   "name": "Human Rights Council for the Division of Services for People with Disabilities",
+   "entity": "Department of Health and Human Services (DHHS)"
+  },
+  "6871": {
+   "id": 6871,
+   "name": "Board of Directors",
+   "entity": "Millard County Housing Authority"
+  },
+  "6883": {
+   "id": 6883,
+   "name": "Brighton Town Council",
+   "entity": "Brighton"
+  },
+  "6889": {
+   "id": 6889,
+   "name": "Planning Commission",
+   "entity": "Fountain Green"
+  },
+  "6899": {
+   "id": 6899,
+   "name": "Historic Preservation Commission",
+   "entity": "Cedar City Entity Website www.cedarcity.org"
+  },
+  "6915": {
+   "id": 6915,
+   "name": "Grantsville City Redevelopment Agency",
+   "entity": "Grantsville"
+  },
+  "6918": {
+   "id": 6918,
+   "name": "Wasatch County Deputy Sheriff Merit Commission",
+   "entity": "Wasatch County"
+  },
+  "6919": {
+   "id": 6919,
+   "name": "Zoning Administrator/Professional Staff",
+   "entity": "Virgin Board/Committee"
+  },
+  "6933": {
+   "id": 6933,
+   "name": "Garden City Youth Council",
+   "entity": "Garden City"
+  },
+  "6959": {
+   "id": 6959,
+   "name": "Zoning Administrator",
+   "entity": "West Jordan Entity Website https://www.westjordan.utah.gov/"
+  },
+  "6969": {
+   "id": 6969,
+   "name": "Parks, Trails, and Tree Commission",
+   "entity": "Highland"
+  },
+  "6971": {
+   "id": 6971,
+   "name": "Appeal Authority",
+   "entity": "Hyde Park"
+  },
+  "6999": {
+   "id": 6999,
+   "name": "Digital Wellness, Citizenship, and Safe Technology Commission",
+   "entity": "Legislature"
+  },
+  "7009": {
+   "id": 7009,
+   "name": "Board of Adjustments",
+   "entity": "Woodland Hills"
+  },
+  "7013": {
+   "id": 7013,
+   "name": "SafeUT and School Safety Commission",
+   "entity": "Attorney General's Office"
+  },
+  "7035": {
+   "id": 7035,
+   "name": "Town of Brighton Planning Commission",
+   "entity": "Greater Salt Lake Municipal Services District"
+  },
+  "7037": {
+   "id": 7037,
+   "name": "Town of Brighton Land Use Hearing Officer",
+   "entity": "Greater Salt Lake Municipal Services District"
+  },
+  "7039": {
+   "id": 7039,
+   "name": "Appeal Authority",
+   "entity": "Brian Head"
+  },
+  "7045": {
+   "id": 7045,
+   "name": "Historic Preservation Commission",
+   "entity": "Bluffdale"
+  },
+  "7055": {
+   "id": 7055,
+   "name": "Planning Commission",
+   "entity": "Mayfield Entity Website https://mayfieldtown.org/"
+  },
+  "7057": {
+   "id": 7057,
+   "name": "Vineyard Bicycle Advisory Commission",
+   "entity": "Vineyard"
+  },
+  "7059": {
+   "id": 7059,
+   "name": "Planning and Zoning Committee",
+   "entity": "Plymouth"
+  },
+  "7077": {
+   "id": 7077,
+   "name": "Providence City Appeal Authority",
+   "entity": "Providence"
+  },
+  "7079": {
+   "id": 7079,
+   "name": "Salt Lake City Racial Equity in Policing Commission",
+   "entity": "Salt Lake City"
+  },
+  "7081": {
+   "id": 7081,
+   "name": "Travel Council",
+   "entity": "Beaver County"
+  },
+  "7083": {
+   "id": 7083,
+   "name": "DRC (Development Review Committee)",
+   "entity": "Salem"
+  },
+  "7189": {
+   "id": 7189,
+   "name": "Tooele County Council",
+   "entity": "Tooele County"
+  },
+  "7201": {
+   "id": 7201,
+   "name": "Career Service Council",
+   "entity": "Summit County Entity Website http://www.summitcounty.org"
+  },
+  "7211": {
+   "id": 7211,
+   "name": "SRC Council Meeting",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "7231": {
+   "id": 7231,
+   "name": "Orem Neighborhood Commission",
+   "entity": "Orem"
+  },
+  "7241": {
+   "id": 7241,
+   "name": "Utah Independent Redistricting Commission (Inactive)",
+   "entity": "Department of Government Operations"
+  },
+  "7255": {
+   "id": 7255,
+   "name": "Elected Officials Compensation Commission",
+   "entity": "Provo"
+  },
+  "7259": {
+   "id": 7259,
+   "name": "Sevier County Travel Council",
+   "entity": "Sevier County"
+  },
+  "7265": {
+   "id": 7265,
+   "name": "Duchesne County Career Service Council",
+   "entity": "Duchesne County"
+  },
+  "7275": {
+   "id": 7275,
+   "name": "(Inactive) Neighborhood Commission",
+   "entity": "Orem"
+  },
+  "7277": {
+   "id": 7277,
+   "name": "Council Work Session",
+   "entity": "Salt Lake County"
+  },
+  "7303": {
+   "id": 7303,
+   "name": "Board of Adjustments",
+   "entity": "Garfield County"
+  },
+  "7325": {
+   "id": 7325,
+   "name": "Town of Brighton Planning Commission",
+   "entity": "Brighton"
+  },
+  "7361": {
+   "id": 7361,
+   "name": "Piute County Planning Commission",
+   "entity": "Piute County"
+  },
+  "7363": {
+   "id": 7363,
+   "name": "Planning Commission (Inactive)",
+   "entity": "North Ogden"
+  },
+  "7369": {
+   "id": 7369,
+   "name": "Unified Economic Opportunity Commission",
+   "entity": "Governor's Office"
+  },
+  "7371": {
+   "id": 7371,
+   "name": "Unified Economic Opportunity Commission",
+   "entity": "Governor's Office > Office of Economic Development (GOED) Entity Website https://business.utah.gov/"
+  },
+  "7379": {
+   "id": 7379,
+   "name": "Utah Privacy Commission",
+   "entity": "Department of Government Operations > Office of Data Privacy (DGO)"
+  },
+  "7387": {
+   "id": 7387,
+   "name": "Board of Adjustments",
+   "entity": "Oak City"
+  },
+  "7393": {
+   "id": 7393,
+   "name": "Executive and Judicial Compensation Commission",
+   "entity": "Legislature"
+  },
+  "7407": {
+   "id": 7407,
+   "name": "Outdoor Adventure Commission",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "7425": {
+   "id": 7425,
+   "name": "COVID 19 Local Assistance Matching Grant Review Committee",
+   "entity": "Governor's Office > Governor's Office of Planning and Budget"
+  },
+  "7431": {
+   "id": 7431,
+   "name": "Youth City Council Advisory Committee",
+   "entity": "Cedar Hills"
+  },
+  "7453": {
+   "id": 7453,
+   "name": "Interlaken Town Appeal Authority",
+   "entity": "Interlaken Town Entity Website town-of-interlaken"
+  },
+  "7460": {
+   "id": 7460,
+   "name": "Pete Suazo Utah Athletic Commission (PSUAC)",
+   "entity": "Department of Cultural and Community Engagement"
+  },
+  "7479": {
+   "id": 7479,
+   "name": "Woods Cross Land Appeal Authority",
+   "entity": "Woods Cross"
+  },
+  "7491": {
+   "id": 7491,
+   "name": "School Community Council",
+   "entity": "John Hancock Charter School"
+  },
+  "7509": {
+   "id": 7509,
+   "name": "Erda City Council",
+   "entity": "Erda"
+  },
+  "7511": {
+   "id": 7511,
+   "name": "Utah Rare Disease Advisory Council (RDAC)",
+   "entity": "Department of Health and Human Services (DHHS) Board/Committee"
+  },
+  "7527": {
+   "id": 7527,
+   "name": "Local Emergency Planning Committee",
+   "entity": "Carbon County"
+  },
+  "7529": {
+   "id": 7529,
+   "name": "Utah Watersheds Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "7555": {
+   "id": 7555,
+   "name": "Local Emergency Planning Committee",
+   "entity": "Tooele County"
+  },
+  "7563": {
+   "id": 7563,
+   "name": "Erda Planning Commission",
+   "entity": "Erda Board/Committee"
+  },
+  "7565": {
+   "id": 7565,
+   "name": "Water Development Coordinating Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "7581": {
+   "id": 7581,
+   "name": "Event Advisory Committee",
+   "entity": "Jordan River Commission"
+  },
+  "7593": {
+   "id": 7593,
+   "name": "Cross Connection Control Commission",
+   "entity": "Department of Environmental Quality"
+  },
+  "7605": {
+   "id": 7605,
+   "name": "Boundary Commission Municipal Selection Committee",
+   "entity": "Cache County"
+  },
+  "7607": {
+   "id": 7607,
+   "name": "Local Boundary Commission",
+   "entity": "Davis County"
+  },
+  "7609": {
+   "id": 7609,
+   "name": "Davis County Boundary Commission",
+   "entity": "Davis County"
+  },
+  "7625": {
+   "id": 7625,
+   "name": "Board of Adjustments",
+   "entity": "Big Water"
+  },
+  "7631": {
+   "id": 7631,
+   "name": "Housing Assistance Fund",
+   "entity": "Department of Workforce Services Entity Website https://jobs.utah.gov/"
+  },
+  "7637": {
+   "id": 7637,
+   "name": "Appeal Authority",
+   "entity": "Harrisville"
+  },
+  "7655": {
+   "id": 7655,
+   "name": "Planning and Zoning Commission",
+   "entity": "Vernon"
+  },
+  "7663": {
+   "id": 7663,
+   "name": "SLC Redevelopment Agency Finance Committee",
+   "entity": "Salt Lake City"
+  },
+  "7669": {
+   "id": 7669,
+   "name": "Development Review Committe",
+   "entity": "Orem"
+  },
+  "7681": {
+   "id": 7681,
+   "name": "Historic Preservation Commission",
+   "entity": "Millcreek"
+  },
+  "7689": {
+   "id": 7689,
+   "name": "Accessibility and Disability Commission",
+   "entity": "Salt Lake City"
+  },
+  "7711": {
+   "id": 7711,
+   "name": "Planning Commission",
+   "entity": "Sigurd"
+  },
+  "7741": {
+   "id": 7741,
+   "name": "Central Advisory Council",
+   "entity": "Department of Natural Resources (DNR) > Colorado River Authority of Utah"
+  },
+  "7743": {
+   "id": 7743,
+   "name": "Southern Advisory Council",
+   "entity": "Department of Natural Resources (DNR) > Colorado River Authority of Utah"
+  },
+  "7745": {
+   "id": 7745,
+   "name": "Northern Advisory Council",
+   "entity": "Department of Natural Resources (DNR) > Colorado River Authority of Utah"
+  },
+  "7747": {
+   "id": 7747,
+   "name": "Utah Broadband Center Advisory Committee",
+   "entity": "Utah Department of Transportation (UDOT) > Utah Broadband Center Advisory Commission"
+  },
+  "7787": {
+   "id": 7787,
+   "name": "Five County Human Services Council",
+   "entity": "Five County Association of Governments"
   }
  },
  "misses": 0,
- "updated": "2026-11-07"
+ "updated": "2026-11-08"
 }
