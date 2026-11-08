@@ -1,5 +1,5 @@
 {
- "next": 7801,
+ "next": 8701,
  "bodies": {
   "1": {
    "id": 1,
@@ -6940,6 +6940,301 @@
    "id": 7787,
    "name": "Five County Human Services Council",
    "entity": "Five County Association of Governments"
+  },
+  "7855": {
+   "id": 7855,
+   "name": "Ethnic Studies Commission",
+   "entity": "Legislature"
+  },
+  "7861": {
+   "id": 7861,
+   "name": "Housing and Transit Reinvestment Zone Committee",
+   "entity": "Governor's Office > Office of Economic Development (GOED) Entity Website https://business.utah.gov/"
+  },
+  "7871": {
+   "id": 7871,
+   "name": "Utility Facility Review Board",
+   "entity": "Public Service Commission Entity Website https://psc.utah.gov/"
+  },
+  "7921": {
+   "id": 7921,
+   "name": "Lake Point City Council",
+   "entity": "Lake Point"
+  },
+  "7923": {
+   "id": 7923,
+   "name": "Criminal Justice Coordination Council",
+   "entity": "Kane County"
+  },
+  "7927": {
+   "id": 7927,
+   "name": "Criminal Justice Coordination Council",
+   "entity": "Kane County"
+  },
+  "7939": {
+   "id": 7939,
+   "name": "Charter Trust Land Council",
+   "entity": "American Academy of Innovation"
+  },
+  "7971": {
+   "id": 7971,
+   "name": "Youth Council",
+   "entity": "Lindon"
+  },
+  "7987": {
+   "id": 7987,
+   "name": "Commissioner's Office",
+   "entity": "Department of Environmental Quality"
+  },
+  "8005": {
+   "id": 8005,
+   "name": "Antimony Town Planning Commission",
+   "entity": "Antimony"
+  },
+  "8007": {
+   "id": 8007,
+   "name": "Antimony Town Planning Commission",
+   "entity": "Antimony"
+  },
+  "8035": {
+   "id": 8035,
+   "name": "Washington County Criminal Justice Coordinating Council",
+   "entity": "Washington County"
+  },
+  "8041": {
+   "id": 8041,
+   "name": "Redevelopment Agency Board",
+   "entity": "South Weber"
+  },
+  "8047": {
+   "id": 8047,
+   "name": "Criminal Justice Coordinating Council",
+   "entity": "Summit County Entity Website http://www.summitcounty.org"
+  },
+  "8063": {
+   "id": 8063,
+   "name": "Planning and Zoning",
+   "entity": "Lake Point"
+  },
+  "8069": {
+   "id": 8069,
+   "name": "Davis County Criminal Justice Coordinating Council",
+   "entity": "Davis County"
+  },
+  "8089": {
+   "id": 8089,
+   "name": "Morgan County Rural Planning Organization",
+   "entity": "Wasatch Front Regional Council Entity Website http://wfrc.utah.gov/"
+  },
+  "8097": {
+   "id": 8097,
+   "name": "UTAH COUNTY CRIMINAL JUSTICE COORDINATING COUNCIL",
+   "entity": "Utah County"
+  },
+  "8101": {
+   "id": 8101,
+   "name": "City School Coordinating Council",
+   "entity": "Murray"
+  },
+  "8127": {
+   "id": 8127,
+   "name": "Bear River Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8137": {
+   "id": 8137,
+   "name": "Communities That Care Commission",
+   "entity": "Vineyard"
+  },
+  "8139": {
+   "id": 8139,
+   "name": "ARCH Commission",
+   "entity": "Vineyard"
+  },
+  "8167": {
+   "id": 8167,
+   "name": "Planning Director",
+   "entity": "Millcreek"
+  },
+  "8189": {
+   "id": 8189,
+   "name": "Jordan River Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8199": {
+   "id": 8199,
+   "name": "Utah America250 Commission",
+   "entity": "Department of Cultural and Community Engagement"
+  },
+  "8227": {
+   "id": 8227,
+   "name": "Higher Education and Corrections Council",
+   "entity": "Utah Board of Higher Education > Higher Education and Corrections Council"
+  },
+  "8259": {
+   "id": 8259,
+   "name": "Cedar/Beaver Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8261": {
+   "id": 8261,
+   "name": "Great Salt Lake Watershed Councils",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8263": {
+   "id": 8263,
+   "name": "Kanab Creek/Virgin River Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8265": {
+   "id": 8265,
+   "name": "Sevier River Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8267": {
+   "id": 8267,
+   "name": "Southeastern Utah Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8269": {
+   "id": 8269,
+   "name": "Uintah Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8271": {
+   "id": 8271,
+   "name": "Utah Lake Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8273": {
+   "id": 8273,
+   "name": "Weber River Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8275": {
+   "id": 8275,
+   "name": "West Colorado River Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8277": {
+   "id": 8277,
+   "name": "West Desert Watershed Council",
+   "entity": "Department of Natural Resources (DNR)"
+  },
+  "8305": {
+   "id": 8305,
+   "name": "Land Use Authority",
+   "entity": "St. George"
+  },
+  "8313": {
+   "id": 8313,
+   "name": "Youth Council",
+   "entity": "Vineyard"
+  },
+  "8317": {
+   "id": 8317,
+   "name": "Victim Services Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "8329": {
+   "id": 8329,
+   "name": "Summit County Justice Court Nominating Commission",
+   "entity": "Summit County Entity Website http://www.summitcounty.org"
+  },
+  "8393": {
+   "id": 8393,
+   "name": "Wasatch Back Rural Planning Organization (Inactive/Defunct)",
+   "entity": "Mountainland Association of Governments"
+  },
+  "8399": {
+   "id": 8399,
+   "name": "Youth Council",
+   "entity": "Bluffdale"
+  },
+  "8403": {
+   "id": 8403,
+   "name": "MCHA Board of Commissioners",
+   "entity": "Housing Authority of the Uintah Basin"
+  },
+  "8457": {
+   "id": 8457,
+   "name": "Development Review Committee",
+   "entity": "Virgin"
+  },
+  "8517": {
+   "id": 8517,
+   "name": "Development Review Committee",
+   "entity": "Vineyard"
+  },
+  "8527": {
+   "id": 8527,
+   "name": "Land Use Hearing Officer",
+   "entity": "Cache County"
+  },
+  "8541": {
+   "id": 8541,
+   "name": "Development Review Committee",
+   "entity": "Mona"
+  },
+  "8547": {
+   "id": 8547,
+   "name": "Land Use Authority",
+   "entity": "Washington City"
+  },
+  "8555": {
+   "id": 8555,
+   "name": "Salt Lake County Council Subcomittee",
+   "entity": "Salt Lake County"
+  },
+  "8607": {
+   "id": 8607,
+   "name": "Loa Planning and Zoning",
+   "entity": "Loa"
+  },
+  "8647": {
+   "id": 8647,
+   "name": "Central Utah Agri-Park",
+   "entity": "R6 Regional Council"
+  },
+  "8657": {
+   "id": 8657,
+   "name": "Agriculture Council",
+   "entity": "Department of Natural Resources (DNR) > Colorado River Authority of Utah"
+  },
+  "8673": {
+   "id": 8673,
+   "name": "ALUA - Administrative Land Use Authority",
+   "entity": "Hyrum"
+  },
+  "8675": {
+   "id": 8675,
+   "name": "Business and Chancery Judicial Nominating Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "8681": {
+   "id": 8681,
+   "name": "Appeal Authority/Board of Adjustment",
+   "entity": "Orderville"
+  },
+  "8683": {
+   "id": 8683,
+   "name": "Appeal Authority/Board of Adjustment",
+   "entity": "Orderville"
+  },
+  "8685": {
+   "id": 8685,
+   "name": "Appeal Authority/Board of Adjustment",
+   "entity": "Orderville"
+  },
+  "8687": {
+   "id": 8687,
+   "name": "Appeal Authority/Board of Adjustment",
+   "entity": "Orderville"
+  },
+  "8693": {
+   "id": 8693,
+   "name": "Council Of Governments",
+   "entity": "Beaver County"
   }
  },
  "misses": 0,
