@@ -1,5 +1,5 @@
 {
- "next": 8701,
+ "next": 9601,
  "bodies": {
   "1": {
    "id": 1,
@@ -7235,8 +7235,198 @@
    "id": 8693,
    "name": "Council Of Governments",
    "entity": "Beaver County"
+  },
+  "8705": {
+   "id": 8705,
+   "name": "Oakley City Appeal Authority",
+   "entity": "Oakley"
+  },
+  "8715": {
+   "id": 8715,
+   "name": "Historic Preservation Commission",
+   "entity": "Spanish Fork Board/Committee"
+  },
+  "8717": {
+   "id": 8717,
+   "name": "Historic Preservation Commission",
+   "entity": "Spanish Fork"
+  },
+  "8757": {
+   "id": 8757,
+   "name": "Community Development Block Grant",
+   "entity": "R6 Regional Council"
+  },
+  "8765": {
+   "id": 8765,
+   "name": "Architectural Review Committee",
+   "entity": "Gunnison"
+  },
+  "8767": {
+   "id": 8767,
+   "name": "Land Use Appeal Authority",
+   "entity": "Enoch"
+  },
+  "8801": {
+   "id": 8801,
+   "name": "Decommissioned Asset Disposition Authority",
+   "entity": "Department of Natural Resources (DNR) > Office of Energy Development"
+  },
+  "8921": {
+   "id": 8921,
+   "name": "Development Review Committee",
+   "entity": "American Fork"
+  },
+  "8965": {
+   "id": 8965,
+   "name": "Weber-Morgan Local Homeless Council",
+   "entity": "Weber County"
+  },
+  "9047": {
+   "id": 9047,
+   "name": "Box Elder County Boundary Commission",
+   "entity": "Box Elder County"
+  },
+  "9067": {
+   "id": 9067,
+   "name": "Box Elder County Sheriff's Merit Commission",
+   "entity": "Box Elder County"
+  },
+  "9075": {
+   "id": 9075,
+   "name": "Administrative Land Use Authority",
+   "entity": "Kane County"
+  },
+  "9083": {
+   "id": 9083,
+   "name": "Weber-Morgan Criminal Justice Coordinating Council",
+   "entity": "Weber County"
+  },
+  "9101": {
+   "id": 9101,
+   "name": "Land Use Appeal Authority",
+   "entity": "West Jordan Entity Website https://www.westjordan.utah.gov/"
+  },
+  "9103": {
+   "id": 9103,
+   "name": "Human Services Advisory Council",
+   "entity": "Tooele County"
+  },
+  "9121": {
+   "id": 9121,
+   "name": "Rural Rise, Inc. Non-Profit",
+   "entity": "R6 Regional Council"
+  },
+  "9127": {
+   "id": 9127,
+   "name": "Historic Main Street Commission",
+   "entity": "Tooele"
+  },
+  "9171": {
+   "id": 9171,
+   "name": "Development Review Committee",
+   "entity": "River Heights"
+  },
+  "9179": {
+   "id": 9179,
+   "name": "White City Council",
+   "entity": "Midvale"
+  },
+  "9189": {
+   "id": 9189,
+   "name": "Southeast Advisory Council",
+   "entity": "Department of Natural Resources (DNR) > Colorado River Authority of Utah"
+  },
+  "9203": {
+   "id": 9203,
+   "name": "Housing Program Funds Loan Committee",
+   "entity": "Salt Lake City"
+  },
+  "9227": {
+   "id": 9227,
+   "name": "Summit County Housing Authority",
+   "entity": "Summit County Entity Website http://www.summitcounty.org"
+  },
+  "9231": {
+   "id": 9231,
+   "name": "Cache County Criminal Justice Coordinating Council",
+   "entity": "Cache County"
+  },
+  "9233": {
+   "id": 9233,
+   "name": "Southwest Advisory Council",
+   "entity": "Department of Natural Resources (DNR) > Colorado River Authority of Utah"
+  },
+  "9243": {
+   "id": 9243,
+   "name": "Planning Commission",
+   "entity": "Echo Canyon"
+  },
+  "9251": {
+   "id": 9251,
+   "name": "Summit County Districting Commission",
+   "entity": "Summit County Entity Website http://www.summitcounty.org"
+  },
+  "9269": {
+   "id": 9269,
+   "name": "Administrative Land Use Authority (ALUA)",
+   "entity": "Wellsville"
+  },
+  "9295": {
+   "id": 9295,
+   "name": "Utah Energy Council",
+   "entity": "Department of Natural Resources (DNR) > Office of Energy Development"
+  },
+  "9297": {
+   "id": 9297,
+   "name": "Subdivision Land Use Authority",
+   "entity": "Bear River"
+  },
+  "9313": {
+   "id": 9313,
+   "name": "District Advisory Council on Aging",
+   "entity": "Southeastern Utah Association of Local Governments"
+  },
+  "9317": {
+   "id": 9317,
+   "name": "Bicknell Town Planning Commission",
+   "entity": "Bicknell"
+  },
+  "9337": {
+   "id": 9337,
+   "name": "Local Emergency Planning Committee",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/"
+  },
+  "9351": {
+   "id": 9351,
+   "name": "Administrative Land Use Authority",
+   "entity": "Nibley"
+  },
+  "9393": {
+   "id": 9393,
+   "name": "WACOG Housing Subcommittee",
+   "entity": "Weber County"
+  },
+  "9453": {
+   "id": 9453,
+   "name": "Development Review Committee",
+   "entity": "Genola"
+  },
+  "9479": {
+   "id": 9479,
+   "name": "Prosecutor Conduct Commission",
+   "entity": "Department of Criminal Justice"
+  },
+  "9509": {
+   "id": 9509,
+   "name": "Escalante Valley Housing Authority",
+   "entity": "Iron County"
+  },
+  "9583": {
+   "id": 9583,
+   "name": "Economic Opportunity Council",
+   "entity": "Governor's Office > Office of Economic Development (GOED) Entity Website https://business.utah.gov/"
   }
  },
  "misses": 0,
- "updated": "2026-11-08"
+ "updated": "2026-11-09"
 }

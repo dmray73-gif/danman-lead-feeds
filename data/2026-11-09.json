@@ -1,0 +1,1016 @@
+{
+ "report": {
+  "arcgis:provo-current-projects": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:summit-county-2026": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:west-jordan": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:orem": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:riverton": {
+   "items": 0,
+   "ok": true
+  },
+  "accela:salt-lake-city": {
+   "items": 0,
+   "ok": true
+  },
+  "pmn": {
+   "items": 19,
+   "ok": true
+  }
+ },
+ "items": [
+  {
+   "id": "0cec5933b3dbc62d",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town Council",
+   "entity": "Woodruff",
+   "title": "Woodruff Town Board Public Meeting 11/17/26",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121787.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513221.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "oodruff hereby gives notice of a public hearing for the purpose of accepting comments concerning the Title 14 Subdivision Ordinance and Title 15 Land Use Ordinance revisions in the Town Code. Notice of Special Accommodat"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "910bd7a9d2723610",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Kearns Council",
+   "entity": "Kearns",
+   "title": "Kearns City Council Meeting",
+   "meetingDate": "2026-11-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121581.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1512883.pdf",
+    "https://www.utah.gov/pmn/files/1512885.pdf"
+   ],
+   "score": 29,
+   "terms": [
+    "church",
+    "clinic",
+    "commercial",
+    "condominium",
+    "dwelling",
+    "hotel",
+    "lots",
+    "medical",
+    "phase",
+    "school",
+    "site plan",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Kearns"
+    },
+    {
+     "role": "company",
+     "name": "Dangerous Building"
+    },
+    {
+     "role": "company",
+     "name": "UPD Logistics Building"
+    },
+    {
+     "role": "company",
+     "name": "Residential Permits Residential"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Kearns",
+    "Dangerous Building",
+    "UPD Logistics Building",
+    "Residential Permits Residential"
+   ],
+   "snippets": [
+    "bsite Division of Archives and Records Service 5823 /pmn/sitemap/noticeemail/1121581.html Kearns Kearns Council Kearns City Council Meeting Kearns City Council Meeting Subscribe to Public Body General Information Government Type Municipalit",
+    "ion) of the Kearns Municipal Code and Adopting By Reference the 1997 Uniform Abatement of Dangerous Building Code as Section 12.04.510 of the Restated Version Of Title 12 C. Discussion and Potential Action Regarding Ordinance 2026-O-20, Re",
+    "ed an upcoming Unified Police Department Halloween event scheduled for October 26 at the UPD Logistics Building and encouraged community participation. Mayor Valdez reported on efforts to expand citizen communication through both printe",
+    "control and has the means to physically control the animal. 7. \"Animal boarding establishment\" means any commercial establishment that takes in animals for the purpose of providing temporary shelter or care and cha",
+    "exhibition\" means any display of, event or contest involving animals. 10. \"Animal grooming parlor\" means any commercial establishment maintained for the purpose of offering cosmetological services for animals for a fee",
+    "16. \"Cattery\" means an establishment where cats are boarded, bred, bought, sold or groomed for a fee. 17. \"Commercial animal establishment\" means any pet shop, animal grooming parlor, guard dog location or exhibition",
+    "mal shelter, veterinary hospital, or any other such facility used for holding animals. 36. \"Kennel\" means a commercial establishment having three or more dogs for the purpose of boarding, breeding, buying, grooming, l"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "f9b449c9c13c3119",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning & Zoning",
+   "entity": "Cedar Fort",
+   "title": "Planning Commission Regular Meeting 11.10.2026",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121671.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1512997.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [
+    "40 acre"
+   ],
+   "companies": [],
+   "snippets": [
+    "l and vote for preliminary approval 4. Road Updates - West Canyon Road & Station Road Repairs from James Way Subdivision 5. Possible Advertisement of Vacant Planning Commission Seat 6. December Planning Commission Mee",
+    "eliminary approval 4. Road Updates - West Canyon Road & Station Road Repairs from James Way Subdivision 5. Possible Advertisement of Vacant Planning Commission Seat 6. December Planning C"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "d9ef14f41402a89b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Community Development Block Grant",
+   "entity": "R6 Regional Council",
+   "title": "First Community Development Block Grant (CDBG) Public Hearing",
+   "meetingDate": "2026-11-04",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1115803.html",
+   "files": [],
+   "score": 8,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "R6 Regional Council Community Development"
+    },
+    {
+     "role": "company",
+     "name": "Block Grant First Community Development"
+    },
+    {
+     "role": "company",
+     "name": "Regional Council Public Body Community Development"
+    },
+    {
+     "role": "company",
+     "name": "Calendar Notice Title First Community Development"
+    },
+    {
+     "role": "company",
+     "name": "R6 Regional Council Office Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "R6 Regional Council Community Development",
+    "Block Grant First Community Development",
+    "Regional Council Public Body Community Development",
+    "Calendar Notice Title First Community Development",
+    "R6 Regional Council Office Building",
+    "Public Hearing First Community Development",
+    "R6 Regional Council Public Body Community Development",
+    "Community Development"
+   ],
+   "snippets": [
+    "bsite Division of Archives and Records Service 8757 /pmn/sitemap/noticeemail/1115803.html R6 Regional Council Community Development Block Grant First Community Development Block Grant (CDBG) Public Hearing First Community Development Block",
+    "vice 8757 /pmn/sitemap/noticeemail/1115803.html R6 Regional Council Community Development Block Grant First Community Development Block Grant (CDBG) Public Hearing First Community Development Block Grant (CDBG) Public Hearing Subscribe to P",
+    "e to Public Body General Information Government Type Associations of Government Entity R6 Regional Council Public Body Community Development Block Grant Notice Information Add Notice to Calendar Notice Title First Community Development Bloc",
+    "al Council Public Body Community Development Block Grant Notice Information Add Notice to Calendar Notice Title First Community Development Block Grant (CDBG) Public Hearing Notice Tags Hearings Notice Type(s) Notice, Hearing Eve",
+    "s hereby given that R6 Regional Council will hold a public hearing on November 4, 2026 at R6 Regional Council Office Building, 82 E 600 N, Richfield, UT 84701 at 9:00 A.M. R6 Regional Council is eligible to apply for funding under the Comm",
+    "s hereby given that R6 Regional Council will hold a public hearing on November 4, 2026 at R6 Regional Council Office Building, 82 E 600 N, Richfield, UT 84701 at 9:00 A.M. R6 Regional Council is eligible to apply for fu"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "45a905169a505b36",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Development Review Committee",
+   "entity": "American Fork",
+   "title": "Development Review Committee Agenda and Packet",
+   "meetingDate": "2026-11-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121143.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1512001.pdf"
+   ],
+   "score": 16,
+   "terms": [
+    "commercial",
+    "final plat",
+    "industrial",
+    "site plan"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "American Fork Development Review Committee Development"
+    },
+    {
+     "role": "company",
+     "name": "Packet Development"
+    },
+    {
+     "role": "company",
+     "name": "Entity American Fork Public Body Development"
+    },
+    {
+     "role": "company",
+     "name": "Calendar Notice Title Development"
+    },
+    {
+     "role": "company",
+     "name": "American Fork City Public Works Building"
+    },
+    {
+     "role": "company",
+     "name": "American Fork City Development"
+    },
+    {
+     "role": "company",
+     "name": "Amended Commercial Site Plans"
+    },
+    {
+     "role": "company",
+     "name": "Planned Residential"
+    },
+    {
+     "role": "company",
+     "name": "Patrick O'Brien Development"
+    }
+   ],
+   "sizes": [
+    "4.24 acres",
+    "10.81 acres",
+    "0.4 acres",
+    "0.23 acres"
+   ],
+   "companies": [
+    "American Fork Development Review Committee Development",
+    "Packet Development",
+    "Entity American Fork Public Body Development",
+    "Calendar Notice Title Development",
+    "American Fork City Public Works Building",
+    "American Fork City Development",
+    "Amended Commercial Site Plans",
+    "Planned Residential",
+    "Patrick O'Brien Development",
+    "Municipality Entity American Fork Public Body Development",
+    "AM American Fork City Public Works Building",
+    "Amended Commercial Site Plans. The Development"
+   ],
+   "snippets": [
+    "bsite Division of Archives and Records Service 8921 /pmn/sitemap/noticeemail/1121143.html American Fork Development Review Committee Development Review Committee Agenda and Packet Development Review Committee Agenda and Packet Subscribe to",
+    "3.html American Fork Development Review Committee Development Review Committee Agenda and Packet Development Review Committee Agenda and Packet Subscribe to Public Body General Information Government Type Municipality Entity American Fork P",
+    "enda and Packet Subscribe to Public Body General Information Government Type Municipality Entity American Fork Public Body Development Review Committee Notice Information Add Notice to Calendar Notice Title Development Review Committee Agen",
+    "y American Fork Public Body Development Review Committee Notice Information Add Notice to Calendar Notice Title Development Review Committee Agenda and Packet Notice Type(s) Meeting Event Start Date & Time November 9, 2026 09:00 AM Descript",
+    "___________________________________ Regular Session November 9, 2026 Monday 9:00 AM American Fork City Public Works Building 275 East 200 North American Fork City, UT 84003 https://www.americanfork.gov/AgendaCenter _____________",
+    "lly, Public Works Director Aaron Brems, Fire Chief Notice is hereby given that the American Fork City Development Review Committee will meet in regular session on November 9, 2026, at the American Fork City Public Works building, 275",
+    "s is that class of DRC action that requires further discussion on Preliminary Plans, Final Plats, and Amended Commercial Site Plans. The Development Review Committee Board will have authority to approve Preliminary Plans",
+    "ttee Board will have authority to approve Preliminary Plans and Final Plats but make a recommending action on Commercial Site Plans.) a. Review and action on an application for an Amended Site Plan, known as Built Bar L",
+    "ng Lot, located at 96 N 350 W, American Fork City. The Final Plat consists of 0.4 acres and is in the Central Commercial (CC-2) Zone. d. Review and action on an application for a Residential Accessory Structure Site Pl",
+    "ts of 10.81 acres and is in the Planned Industrial (PI-1) Zone. c. Review and action on an application for a Final Plat, known as ABE Studio Parking Lot, located at 96 N 350 W, American Fork City. The Final Plat consist"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "8898b428157f161b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Development Review Committee",
+   "entity": "American Fork",
+   "title": "Development Review Committee Agenda and Packet",
+   "meetingDate": "2026-11-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1119093.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1508411.pdf",
+    "https://www.utah.gov/pmn/files/1508415.pdf"
+   ],
+   "score": 12,
+   "terms": [
+    "church",
+    "commercial",
+    "site plan"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "American Fork Development Review Committee Development"
+    },
+    {
+     "role": "company",
+     "name": "Packet Development"
+    },
+    {
+     "role": "company",
+     "name": "Entity American Fork Public Body Development"
+    },
+    {
+     "role": "company",
+     "name": "Calendar Notice Title Development"
+    },
+    {
+     "role": "company",
+     "name": "American Fork City Public Works Building"
+    },
+    {
+     "role": "company",
+     "name": "American Fork City Development"
+    },
+    {
+     "role": "company",
+     "name": "Amended Commercial Site Plans"
+    },
+    {
+     "role": "company",
+     "name": "Dunbric Development"
+    },
+    {
+     "role": "company",
+     "name": "Patrick O'Brien Development"
+    },
+    {
+     "role": "company",
+     "name": "AgendaCenter Development"
+    },
+    {
+     "role": "company",
+     "name": "Brien Development"
+    }
+   ],
+   "sizes": [
+    "0.354 acres",
+    "5.92 acres",
+    "1.19 acres"
+   ],
+   "companies": [
+    "American Fork Development Review Committee Development",
+    "Packet Development",
+    "Entity American Fork Public Body Development",
+    "Calendar Notice Title Development",
+    "American Fork City Public Works Building",
+    "American Fork City Development",
+    "Amended Commercial Site Plans",
+    "Dunbric Development",
+    "Patrick O'Brien Development",
+    "AgendaCenter Development",
+    "Brien Development",
+    "Municipality Entity American Fork Public Body Development",
+    "AM American Fork City Public Works Building",
+    "Amended Commercial Site Plans. The Development"
+   ],
+   "snippets": [
+    "bsite Division of Archives and Records Service 8921 /pmn/sitemap/noticeemail/1119093.html American Fork Development Review Committee Development Review Committee Agenda and Packet Development Review Committee Agenda and Packet Subscribe to",
+    "3.html American Fork Development Review Committee Development Review Committee Agenda and Packet Development Review Committee Agenda and Packet Subscribe to Public Body General Information Government Type Municipality Entity American Fork P",
+    "enda and Packet Subscribe to Public Body General Information Government Type Municipality Entity American Fork Public Body Development Review Committee Notice Information Add Notice to Calendar Notice Title Development Review Committee Agen",
+    "y American Fork Public Body Development Review Committee Notice Information Add Notice to Calendar Notice Title Development Review Committee Agenda and Packet Notice Type(s) Notice, Meeting Event Start Date & Time November 2, 202",
+    "___________________________________ Regular Session November 2, 2026 Monday 9:00 AM American Fork City Public Works Building 275 East 200 North American Fork City, UT 84003 https://www.americanfork.gov/AgendaCenter _____________",
+    "lly, Public Works Director Aaron Brems, Fire Chief Notice is hereby given that the American Fork City Development Review Committee will meet in regular session on November 2, 2026, at the American Fork City Public Works building, 275",
+    "s is that class of DRC action that requires further discussion on Preliminary Plans, Final Plats, and Amended Commercial Site Plans. The Development Review Committee Board will have authority to approve Preliminary Plans",
+    "ttee Board will have authority to approve Preliminary Plans and Final Plats but make a recommending action on Commercial Site Plans.) a. Review and action on an application for an Amended Site Plan, known as AF Lifting",
+    "is that class of DRC action that requires further discussion on Preliminary Plans, Final Plats, and Amended Commercial Site Plans. The Development Review Committee Board will have authority to approve Preliminary Plan",
+    "tee Board will have authority to approve Preliminary Plans and Final Plats but make a recommending action on Commercial Site Plans.) a. Review and action on an application for an Amended Site Plan, known as AF Lifting"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "7ce47cd38811de11",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Administrative Land Use Authority",
+   "entity": "Kane County",
+   "title": "Administrative Land Use Authority Meeting",
+   "meetingDate": "2026-11-11",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1119459.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1508887.pdf",
+    "https://www.utah.gov/pmn/files/1508889.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Kane County Administrative Land"
+    },
+    {
+     "role": "company",
+     "name": "Use Authority Administrative Land"
+    },
+    {
+     "role": "company",
+     "name": "Use Authority Meeting Administrative Land"
+    },
+    {
+     "role": "company",
+     "name": "Kane County Public Body Administrative Land"
+    },
+    {
+     "role": "company",
+     "name": "Calendar Notice Title Administrative Land"
+    },
+    {
+     "role": "company",
+     "name": "Use Authority Meeting Notice Tags Land"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Kane County Administrative Land",
+    "Use Authority Administrative Land",
+    "Use Authority Meeting Administrative Land",
+    "Kane County Public Body Administrative Land",
+    "Calendar Notice Title Administrative Land",
+    "Use Authority Meeting Notice Tags Land"
+   ],
+   "snippets": [
+    "bsite Division of Archives and Records Service 9075 /pmn/sitemap/noticeemail/1119459.html Kane County Administrative Land Use Authority Administrative Land Use Authority Meeting Administrative Land Use Authority Meeting Subscribe to Public",
+    "ecords Service 9075 /pmn/sitemap/noticeemail/1119459.html Kane County Administrative Land Use Authority Administrative Land Use Authority Meeting Administrative Land Use Authority Meeting Subscribe to Public Body General Information Governm",
+    "oticeemail/1119459.html Kane County Administrative Land Use Authority Administrative Land Use Authority Meeting Administrative Land Use Authority Meeting Subscribe to Public Body General Information Government Type County Entity Kane County",
+    "hority Meeting Subscribe to Public Body General Information Government Type County Entity Kane County Public Body Administrative Land Use Authority Notice Information Add Notice to Calendar Notice Title Administrative Land Use Authority Mee",
+    "ane County Public Body Administrative Land Use Authority Notice Information Add Notice to Calendar Notice Title Administrative Land Use Authority Meeting Notice Tags Land Use Notice Type(s) Notice, Meeting, Bond Event",
+    "Use Authority Notice Information Add Notice to Calendar Notice Title Administrative Land Use Authority Meeting Notice Tags Land Use Notice Type(s) Notice, Meeting, Bond Event Start Date & Time November 11, 2026 04:00",
+    "Items 1. Approval of Minutes October 14, 2026 2. Amending & Vacating lot 2 from Sugar Pines Subdivision into Parcel 8-7-17-1-2 / David Allen Saxton & Paula Sue Bell-Saxton / Sugar Pines Subdivision",
+    "rom Sugar Pines Subdivision into Parcel 8-7-17-1-2 / David Allen Saxton & Paula Sue Bell-Saxton / Sugar Pines Subdivision Approve / Deny: Lot: 2 Parcel: 8-7-17-1-2 Ordinance: 2026-29 3. A",
+    ": 2 Parcel: 8-7-17-1-2 Ordinance: 2026-29 3. Amending & Vacating lot 111 from Color Country Subdivision Plat 'D' 8-7-17-1-2 / David Allen Saxton & Paula Sue Bell-Saxton / Sugar Pines Subdivision",
+    "from Color Country Subdivision Plat 'D' 8-7-17-1-2 / David Allen Saxton & Paula Sue Bell-Saxton / Sugar Pines Subdivision Approve / Deny: Lot: 111 Parcel: 8-7-17-1-2 Ordinance: 2026-3"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "69dd29045c36c26b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Echo Canyon",
+   "title": "Echo Canyon Planning Commission October 20 Meeting and Public Hearings",
+   "meetingDate": "2026-10-20",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1116535.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1503139.pdf",
+    "https://www.utah.gov/pmn/files/1503765.pdf"
+   ],
+   "score": 35,
+   "terms": [
+    "apartment",
+    "commercial",
+    "dwelling",
+    "final plat",
+    "hotel",
+    "lots",
+    "medical",
+    "mixed-use",
+    "multi-family",
+    "school",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "owner",
+     "name": "G&H MILLER FAMILY HOLDINGS"
+    },
+    {
+     "role": "developer",
+     "name": "Kane Creek Preservation and Development LLC PO"
+    },
+    {
+     "role": "applicant",
+     "name": "Owner from time"
+    },
+    {
+     "role": "applicant",
+     "name": "Developer from time"
+    },
+    {
+     "role": "company",
+     "name": "Onsite Construction"
+    },
+    {
+     "role": "company",
+     "name": "Moonflower Development"
+    },
+    {
+     "role": "company",
+     "name": "Master Development"
+    },
+    {
+     "role": "company",
+     "name": "Contact Meridian Land"
+    },
+    {
+     "role": "company",
+     "name": "Proposed Building"
+    },
+    {
+     "role": "company",
+     "name": "Echo Canyon Land"
+    },
+    {
+     "role": "company",
+     "name": "LAND USE Land"
+    },
+    {
+     "role": "company",
+     "name": "International Building"
+    }
+   ],
+   "sizes": [
+    "18 acres",
+    "144 acres",
+    "8 acres"
+   ],
+   "companies": [
+    "G&H MILLER FAMILY HOLDINGS",
+    "Kane Creek Preservation and Development LLC PO",
+    "Owner from time",
+    "Developer from time",
+    "Onsite Construction",
+    "Moonflower Development",
+    "Master Development",
+    "Contact Meridian Land",
+    "Proposed Building",
+    "Echo Canyon Land",
+    "LAND USE Land",
+    "International Building",
+    "G&H Miller Family Holdings",
+    "Development LLC",
+    "KANE CREEK PRESERVATION AND DEVELOPMENT LLC"
+   ],
+   "snippets": [
+    "ment”) is made and entered into as of the Effective Date (defined below), by and between G&H MILLER FAMILY HOLDINGS, LLC, a Utah limited liability company, (the “ Owner”), and the ECHO CANYON PRELIMINARY MUNICIPALITY, a municipality an",
+    "y ordinances to provide all appropriate consents, approvals and opinions as requested by Owner from time to time. 5. Protected Uses. The Parties agree that the Municipality currently does not have any regulation or law that restricts th",
+    "y ordinances to provide all appropriate consents, approvals and opinions as requested by Developer from time to time. 4. Protected Uses . The Parties agree that the Municipality currently does not have any regulation or law that restri",
+    "rmat: In person with electronic participation Physical Location: 1813 Kane Springs Road (Onsite Construction Structure), Echo Canyon, Grand County, Utah 84532 Members of the Planning Commission may participate electronically. The pub",
+    "d amendments to the permitted land use table in Title 12, Chapter 2. b) The proposed Moonflower Development Agreement between Echo Canyon and G&H Miller Family Holdings, LLC regarding the development of approximately 18 acres of land w",
+    "approximately 18 acres of land within the preliminary municipality. c) The proposed Master Development Agreement between Echo Canyon and Kane Creek Preservation and Development regarding the development of the Echo Canyon Resort locat",
+    "ed in this table are not permitted. Aerial Lift ways, and other Aerial Transit P Airport P Accessory Apartment P Accessory Buildings P Adventure Outfitter P Agricultural P Automobile and small motorized ve",
+    "etail sales and services , large or small items P Golf Course P Grocery store P Hotels, Motels, and other commercial-scale overnight or transient accommodations P Instructional facility P Medical or dental office",
+    "age P Parking lot or structure P Place of Worship P Post Office P Pools, hot tubs, wave pools, private or commercial, heated, outdoor/indoor, enclosed, or otherwise, with or without related equipment and facilities",
+    "nned resort community, including a hotel and related resort amenities, residential units, workforce housing, commercial uses, and supporting infrastructure , in accordance with the land uses and densities generally d"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "2d022f55a67a6a28",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Prosecutor Conduct Commission",
+   "entity": "Department of Criminal Justice",
+   "title": "Prosecutor Conduct Commission",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121639.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1512939.pdf",
+    "https://www.utah.gov/pmn/files/1512941.pdf"
+   ],
+   "score": 7,
+   "terms": [
+    "hotel"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "November 1st"
+    },
+    {
+     "role": "company",
+     "name": "East Senate Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "November 1st",
+    "East Senate Building",
+    "N State Street Senate Building"
+   ],
+   "snippets": [
+    "state legislature. Annual Legislative Report Deadline: The report must be submitted by November 1st. Staff is actively creating the document, which marks the first official meeting report reviewing complaints. Target Committee: Reports",
+    "COMMISSION Tuesday, November 10th, 2026 12:00 PM - 2:00 PM State Capitol Complex | East Senate Building | DOCJ Conference Room Video call link: meet.google.com/pjf-bdsk-dmj 1. Welcome/Role Call a. Approve July & September Meet",
+    "ate. Financial and Logistics Protocols ● Per Diem: Commission members are eligible for mileage, food, and hotel reimbursements ($142/night cap for Salt Lake City). ● Vendor Setup: Members must be set up as vendors"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "916334a0c22ccdf5",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "County Commissioners",
+   "entity": "Uintah County",
+   "title": "November 10, 2026 Commission Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121743.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513147.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "commercial",
+    "dwelling",
+    "phase"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [
+    "Community Development"
+   ],
+   "snippets": [
+    "e, Community Development ORDINANCE #10-28-2026 O2: CHANGES TO CHAPTER 17.33 USES, TO ALLOW HOME BASED AND COMMERCIAL SNAKE BREEDING AND SELLING - Emma White, Community Development ORDINANCE #10-28-2026 O3: CHAN"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "a0da2a3013e593a8",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Layton",
+   "title": "Notice of Public Hearing",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121649.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1512977.pdf"
+   ],
+   "score": 5,
+   "terms": [
+    "commercial",
+    "mixed-use"
+   ],
+   "parties": [],
+   "sizes": [
+    "0.926 acres"
+   ],
+   "companies": [
+    "Economic Development"
+   ],
+   "snippets": [
+    "h Drive, to review a proposal to rezone 0.926 acres of property from 'MU' (Mixed-Use) to C-H (Planned Highway Commercial). The property is located at approximately 608 South Main Street. The hearing will be held duri",
+    "ive, to review a proposal to rezone 0.926 acres of property from “ MU” (Mixed-Use) to C-H (Planned Highway Commercial). The property is located at approximately 608 South Main Street. The hearing will be held dur"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "3a4bedce1c7e19e3",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Sandy",
+   "title": "Notice of Public Meeting - 1300 E MU",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121699.html",
+   "files": [],
+   "score": 10,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "site plan",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Magna Investment & Development on the property"
+    }
+   ],
+   "sizes": [
+    "16,000 square feet"
+   ],
+   "companies": [
+    "Magna Investment & Development on the property"
+   ],
+   "snippets": [
+    "a public meeting regarding a Commercial Site Plan and Conditional Use Review submitted by Magna Investment & Development on the property located at 10165 S 1300 East. The applicant is proposing to construct a development with 191 residentia",
+    ", 2026, at approximately 6:15 p.m., the Sandy City Planning Commission will hold a public meeting regarding a Commercial Site Plan and Conditional Use Review submitted by Magna Investment & Development on the property lo",
+    "approximately 6:15 p.m., the Sandy City Planning Commission will hold a public meeting regarding a Commercial Site Plan and Conditional Use Review submitted by Magna Investment & Development on the property located at 10"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "d2615ea942bd6d52",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Hyde Park",
+   "title": "Public Hearing",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121691.html",
+   "files": [],
+   "score": 7,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Nixon & Nixon Inc"
+    },
+    {
+     "role": "company",
+     "name": "Nixon Inc"
+    }
+   ],
+   "sizes": [
+    "61 acres"
+   ],
+   "companies": [
+    "Nixon & Nixon Inc",
+    "Nixon Inc",
+    "A Development"
+   ],
+   "snippets": [
+    "public hearings 1- Ordinance 2026-27 - An Ordinance annexing 61 acres as requested by Nixon & Nixon Inc. (Parcels 08-123-0003 and 04-003-0001) 2- A Development Agreement for the Aspen Grove Subdivision. (Canceled) Notice of Special A",
+    "hearings 1- Ordinance 2026-27 - An Ordinance annexing 61 acres as requested by Nixon & Nixon Inc. (Parcels 08-123-0003 and 04-003-0001) 2- A Development Agreement for the Aspen Grove Subdivision. (Canceled) Notice of Special Accommoda",
+    "by Nixon & Nixon Inc. (Parcels 08-123-0003 and 04-003-0001) 2- A Development Agreement for the Aspen Grove Subdivision. (Canceled) Notice of Special Accommodations (ADA) REASONABLE ACCOMMODATION: Hyde Park City will m"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "98518c2137e31016",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Millville",
+   "title": "Millville City Council Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121781.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513207.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "commercial",
+    "school"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Main Heber Hernandez H&J Drywall Construction"
+    },
+    {
+     "role": "company",
+     "name": "North Main Cole Knighton Knighton Construction"
+    },
+    {
+     "role": "company",
+     "name": "Laura Jardine Lemon Tree Interior Design"
+    },
+    {
+     "role": "company",
+     "name": "East Jason Dattage Dattage Sprinkler Inc"
+    },
+    {
+     "role": "company",
+     "name": "West Center Black Canyon Enterprises"
+    },
+    {
+     "role": "company",
+     "name": "Amy Eskelsen For The Dog LLC"
+    },
+    {
+     "role": "company",
+     "name": "South Mark Perkes Reapp LLC"
+    },
+    {
+     "role": "company",
+     "name": "Mandy Schiess LLC"
+    },
+    {
+     "role": "company",
+     "name": "Clean LLC"
+    },
+    {
+     "role": "company",
+     "name": "West Paul Hair Triple PPP Inc"
+    },
+    {
+     "role": "company",
+     "name": "E. Gill Western Adjusting Services LLC"
+    },
+    {
+     "role": "company",
+     "name": "Ronald Michael Johnson Summit Electric Inc"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Main Heber Hernandez H&J Drywall Construction",
+    "North Main Cole Knighton Knighton Construction",
+    "Laura Jardine Lemon Tree Interior Design",
+    "East Jason Dattage Dattage Sprinkler Inc",
+    "West Center Black Canyon Enterprises",
+    "Amy Eskelsen For The Dog LLC",
+    "South Mark Perkes Reapp LLC",
+    "Mandy Schiess LLC",
+    "Clean LLC",
+    "West Paul Hair Triple PPP Inc",
+    "E. Gill Western Adjusting Services LLC",
+    "Ronald Michael Johnson Summit Electric Inc",
+    "South Main Heber Hernandez H&J Drywall Construction",
+    "South Amy Eskelsen For The Dog LLC",
+    "Colby E. Gill Western Adjusting Services LLC",
+    "East Ronald Michael Johnson Summit Electric Inc",
+    "North Main Joel Duffin Atomic Jolt Inc",
+    "East Crae Williams Stone Haven Construction",
+    "North Trudy Sorenson Minds Eye LLC",
+    "North Tyson Burnham Singular Edge LLC",
+    "East Larry Lewis Larry S. Lewis Construction",
+    "East Jacey Forsgren Mill Canyon Livestock LLC",
+    "East Jesse Elsmore Jardine Malaska Construction",
+    "STR LLC",
+    "Shawn Baxter BAXBO LLC",
+    "Josh Slater IC Group",
+    "Josh Slater Lyndale Marketing Inc"
+   ],
+   "snippets": [
+    "rossroads Traffic Management 385 North 200 East Brian Jensen ABJ Specialty 650 North Main Laura Jardine Lemon Tree Interior Design 280 East 300 North Mike Gibbons M Gibbons 140 North 300 East Kyle Hancey Hancey's Precast and Backhoe 85 Sout",
+    "Floyd Chromoly Plus 296 North 100 West Brett Hadfield Silicone Plastics 97 West 300 South Amy Eskelsen For The Dog LLC 35 East 300 South Mark Perkes Reapp LLC 77 East 200 South Cody Anhder Accurate Maintenance 32 West 200 North Mandy P. Sch",
+    "East 200 South Cody Anhder Accurate Maintenance 32 West 200 North Mandy P. Schiess Eric & Mandy Schiess LLC 181 West Center Ashlie Jessop Ashlie Jessop 164 East 350 South Desaree Salerno Come Home to Clean LLC 295 North 100 West Paul Hair T",
+    "1 West Center Ashlie Jessop Ashlie Jessop 164 East 350 South Desaree Salerno Come Home to Clean LLC 295 North 100 West Paul Hair Triple PPP Inc. 180 West Center Colter Wilker- Clay Wilker - Wend Marie Jenkins Yellow Door Salon 545 North 140",
+    "y Concrete 165 East 100 South Zachary Norton Refine It Marketing 310 East 100 North Colby E. Gill Western Adjusting Services LLC 397 South 200 East Ronald Michael Johnson Summit Electric Inc. 625 North Main Joel Duffin Atomic Jolt Inc. 460",
+    "keting 310 East 100 North Colby E. Gill Western Adjusting Services LLC 397 South 200 East Ronald Michael Johnson Summit Electric Inc. 625 North Main Joel Duffin Atomic Jolt Inc. 460 North 150 East Brady Jenson Brady Jenson Plumbing & Heati",
+    "1700 S. Bldg 28, Ste 107 Ryan Zollinger Global Industries LLC 1000 N 1000 W Bldg 15 Lance Zollinger Zollinger Commercial Warehousing 1000 W 1000 N Carrie Newman Cerus Gear, LLC 700 W 1700 S Bldg 29 Ste 106 Brenda Budzins",
+    "75 2,131.00 20272026-01 - 550 E. WideningBio Minerals Commercial Bldg.2022 2,056 75 2,131.00 2"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "55c4c8ac34938757",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Morgan",
+   "title": "City Council Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121707.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513117.pdf",
+    "https://www.utah.gov/pmn/files/1513119.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Contract Between Morgan City Corporation"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Contract Between Morgan City Corporation"
+   ],
+   "snippets": [
+    "ution of the Morgan City Council Ratifying the Signature of City Manager Ty Bailey on the Contract Between Morgan City Corporation and Mecham Brothers, Inc. for the 700 East Roadside Improvements Project - Resolution 26-43 6. CITY REPO",
+    "OTICE is hereby given that the Morgan City Council will hold a public meeting in the Council Room in the City Office Building, 90 West Young Street, Morgan, Utah, commencing at 7:00 p.m. on November 10, 2026. The public",
+    "TICE is hereby given that the Morgan City Council will hold a public meeting in the Council Room in the City Office Building, 90 West Young Street, Morgan, Utah, commencing at 7:00 p.m. on November 10, 2026. The public"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "cb36411c34ea9227",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Morgan",
+   "title": "City Council Meeting- Work Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121701.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513081.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Contract Between Morgan City Corporation"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Contract Between Morgan City Corporation"
+   ],
+   "snippets": [
+    "ution of the Morgan City Council Ratifying the Signature of City Manager Ty Bailey on the Contract Between Morgan City Corporation and Mecham Brothers, Inc. for the 700 East Roadside Improvements Project - Resolution 26-43 6. CITY REPO",
+    "OTICE is hereby given that the Morgan City Council will hold a public meeting in the Council Room in the City Office Building, 90 West Young Street, Morgan, Utah, commencing at 7:00 p.m. on November 10, 2026. The public"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "f2c12caea1aabbf7",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Morgan",
+   "title": "City Council Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121705.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513083.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Contract Between Morgan City Corporation"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Contract Between Morgan City Corporation"
+   ],
+   "snippets": [
+    "ution of the Morgan City Council Ratifying the Signature of City Manager Ty Bailey on the Contract Between Morgan City Corporation and Mecham Brothers, Inc. for the 700 East Roadside Improvements Project - Resolution 26-43 6. CITY REPO",
+    "OTICE is hereby given that the Morgan City Council will hold a public meeting in the Council Room in the City Office Building, 90 West Young Street, Morgan, Utah, commencing at 7:00 p.m. on November 10, 2026. The public"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "a719837b15c4cc6b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Pleasant View",
+   "title": "City Council",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121689.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513043.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "Council will hold the following Public Hearings for the purposes outlined: • Consideration to Amend the Subdivision Checklist • Consideration to Amend the Subdivision Ordinance • Consideration to Repeal and R",
+    "he purposes outlined: • Consideration to Amend the Subdivision Checklist • Consideration to Amend the Subdivision Ordinance • Consideration to Repeal and Reenact the Pleasant View Appeal Authority Ordinance"
+   ],
+   "foundAt": "2026-11-09"
+  },
+  {
+   "id": "53623e4d909238ad",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Kane County Commission",
+   "entity": "Kane County",
+   "title": "Commission Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121615.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513111.pdf"
+   ],
+   "score": 5,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Kane County Active Living"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Kane County Active Living",
+    "Economic Development"
+   ],
+   "snippets": [
+    "SESSION: 1. Recognition of Christy Smith for Her 16 Years of Dedicated Service to the Kane County Active Living Center and the Care and Share / Commissioner Kubeja 2. Canvass of the November 3, 2026 General Election-Heather Narramore",
+    "1 An Ordinance Vacating Five Seven and a Half Foot Public Utility Easements in the Zion View Mountain Estates Subdivision Unit 'E' Amended Lot 63 and Lot 65 / Commissioner Brown 5. Discuss/Vote on a Funding Request of"
+   ],
+   "foundAt": "2026-11-09"
+  }
+ ]
+}
