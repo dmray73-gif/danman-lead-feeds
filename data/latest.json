@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T21:12:45.388584Z",
+ "updated": "2026-11-10T18:13:01.922421Z",
  "report": {
   "arcgis:provo-current-projects": {
    "items": 0,
@@ -26,12 +26,1382 @@
    "ok": true
   },
   "pmn": {
-   "items": 19,
+   "items": 26,
    "ok": true
   }
  },
- "newToday": 19,
+ "newToday": 26,
  "items": [
+  {
+   "id": "a03ea36b4c2978e4",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Carbon County",
+   "title": "Carbon County Planning Commission Special Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121867.html",
+   "files": [],
+   "score": 9,
+   "terms": [
+    "conditional use",
+    "data center",
+    "industrial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Valar Atomics Inc"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Valar Atomics Inc"
+   ],
+   "snippets": [
+    "l, manufacturing, and data center facilities located on parcel 2A-1292-016S for SITLA and Valar Atomics Inc 5 Adjourn _______________________________________ Todd Thorne, Zoning Administrator/Director of Planning A copy of t",
+    "Campus-a Large-Scale Industrial Project comprising advanced nuclear energy, nuclear fuel, manufacturing, and data center facilities located on parcel 2A-1292-016S for SITLA and Valar Atomics Inc 5 Adjourn ______"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "409c62ce56d31bf8",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Nephi City Council",
+   "entity": "Nephi",
+   "title": "Work Session (11-10-2026)",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121943.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513551.pdf"
+   ],
+   "score": 7,
+   "terms": [
+    "data center"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Joint Development"
+    },
+    {
+     "role": "company",
+     "name": "Nephi City Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Joint Development",
+    "Nephi City Building"
+   ],
+   "snippets": [
+    "City Council Work Session Agenda November 10, 2026 7:00 p.m. Work Session Items: Joint Development Agreement Review - Staff will share the latest draft and bullet points from the term sheet being developed with the Set Square group",
+    "c Notice Website https://www.utah.gov/pmn/ Nephi City Website at nephi.utah.gov At the Nephi City Building located at 21 E 100 N /s/ Leslee Anderson, Nephi City Recorder Notice of Special Accommodations (ADA) In compliance with the Amer",
+    "the latest draft and bullet points from the term sheet being developed with the Set Square group for a future data center Communication to Public - Staff will go over a new option for sharing information with the gene"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "51684ccdbb384501",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Beaver City Council",
+   "entity": "Beaver",
+   "title": "Beaver City Council Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121951.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513559.pdf",
+    "https://www.utah.gov/pmn/files/1513561.pdf",
+    "https://www.utah.gov/pmn/files/1513565.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Municipal Building"
+    },
+    {
+     "role": "company",
+     "name": "Beaver City Center"
+    },
+    {
+     "role": "company",
+     "name": "Purchasing FUEL YARD LLC"
+    },
+    {
+     "role": "company",
+     "name": "Purchasing Principal Life Insurance Company"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Municipal Building",
+    "Beaver City Center",
+    "Purchasing FUEL YARD LLC",
+    "Purchasing Principal Life Insurance Company"
+   ],
+   "snippets": [
+    "ILDING AUTHORITY OF BEAVER CITY: 8. Motion to close the Beaver City Council and Open the Municipal Building Authority of Beaver City 9. Consideration for adoption of a resolution of the Municipal Building Authority of Beaver City, Utah au",
+    "tah.gov, posted on the Beaver City website http://www.beavercityut.gov/ and posted at the Beaver City Center. Beaver City Corporation does not discriminate based on race, color, national origin, sex, religion, age or disability in employmen",
+    "val 15. HUB Insurance Rate Approval 16. PCA & Electric base rate Study Approval WORK AGENDA: 17. Porter Subdivision Barndominium Discussion 18 Reports, Updates, Old Business Follow Up: Elected Officials and Staff"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "8d8badcc4f653e76",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Toquerville Planning Commission",
+   "entity": "Toquerville",
+   "title": "11.10.2026 Planning Commission Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121949.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513573.pdf"
+   ],
+   "score": 8,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Firelight Development"
+    },
+    {
+     "role": "applicant",
+     "name": "Babylon Lands"
+    },
+    {
+     "role": "applicant",
+     "name": "YESCO on behalf of Maverik Inc. A"
+    },
+    {
+     "role": "applicant",
+     "name": "Maverik Inc. A"
+    },
+    {
+     "role": "company",
+     "name": "Hillside Development"
+    },
+    {
+     "role": "company",
+     "name": "Maverik Inc"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Firelight Development",
+    "Babylon Lands",
+    "YESCO on behalf of Maverik Inc. A",
+    "Maverik Inc. A",
+    "Hillside Development",
+    "Maverik Inc"
+   ],
+   "snippets": [
+    "ing Commission Meeting. D. BUSINESS: 1. MPDO Modification Application submitted by Firelight Development, Inc., proposing a material modification to the Firelight MPDO Plan to establish a coordinated signage plan and project-specific",
+    "C. Discussion and Possible Recommendation 2. Hillside Development Permit submitted by Babylon Lands, LLC for Iconic Parkway. A. Applicant/Staff Report B. Discussion and Possible Recommendation as the Hillside Review Board 3. Sign P",
+    "plicant/Staff Report B. Public Hearing C. Discussion and Possible Recommendation 2. Hillside Development Permit submitted by Babylon Lands, LLC for Iconic Parkway. A. Applicant/Staff Report B. Discussion and Possible Recommendation",
+    "s the Hillside Review Board 3. Sign Permit Application submitted by YESCO on behalf of Maverik Inc. A. Applicant/Staff Report B. Discussion and Possible Approval E. REPORTS: 1. Planning Commission Chair 2. Planning Commissioners",
+    "e at http://pmn.utah.gov, posted on the Toquerville City website at www.toquerville.utah.gov, and at the City Office Building at 212 N Toquer Blvd. Posted November 9, 2026, by Toquerville City Recorder, Emily Teaters. No"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "34010ca33e823703",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Weber County Planning Division",
+   "entity": "Weber County",
+   "title": "Administrative Review",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122055.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513757.pdf"
+   ],
+   "score": 16,
+   "terms": [
+    "dwelling",
+    "final plat",
+    "lots",
+    "phase",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "David Rose"
+    },
+    {
+     "role": "company",
+     "name": "R1-15 Existing Land"
+    },
+    {
+     "role": "company",
+     "name": "Agricultural Proposed Land"
+    },
+    {
+     "role": "company",
+     "name": "Adjacent Land"
+    },
+    {
+     "role": "company",
+     "name": "Hooper Irrigation Company"
+    },
+    {
+     "role": "company",
+     "name": "Reeve& Associates"
+    },
+    {
+     "role": "company",
+     "name": "You Can Build On Reeve& Associates"
+    },
+    {
+     "role": "company",
+     "name": "J-U-B Engineers"
+    }
+   ],
+   "sizes": [
+    "17 lots",
+    "28 lots",
+    "2 lots",
+    "5.6 acres",
+    "6,000 square feet",
+    "2.9 units"
+   ],
+   "companies": [
+    "David Rose",
+    "R1-15 Existing Land",
+    "Agricultural Proposed Land",
+    "Adjacent Land",
+    "Hooper Irrigation Company",
+    "Reeve& Associates",
+    "You Can Build On Reeve& Associates",
+    "J-U-B Engineers"
+   ],
+   "snippets": [
+    ": Thursday, November 12, 2026 Application Type: Subdivision, Administrative Applicant: David Rose, Authorized Representative File Number: LVB110626 Property Information Approximate Address: 1700 S 4300 W, Ogden Project Area: 5.6 acre",
+    "ltural Proposed Land Use: Residential Parcel ID: 15-054-0094, 15-054-0097, 15-057-0075 Adjacent Land Use North: Agricultural South: Residential East: Agricultural West: Agricultural Staff Information Report Presenter: Felix Lleveri",
+    "-serve letter for the entire subdivision (see Exhibit F). The will-serve letter from the Hooper Irrigation Company states that there are an adequate number of water shares is available for the development water use and that Hooper Irrig",
+    "ct pages) D. Final will-serve culinary E. Will-serve secondary 4 Location map Reeve& Associates, Inc. Reeve & Associates, Inc. - Solutions You Can Build On Reeve & Associates, Inc. - Solutions You Can Build On Reeve & Associates",
+    "7/21) TO: Hooper Irrigation Company CC: Theo Cox, President FROM: Chris Thomsen, P.E., J-U-B Engineers SUBJECT: Bristol Farms (Previously Smart Fields) Preliminary, JUB #55-21-009-001 MEMORANDUM www.jub.com",
+    "ation is made before the recordation of each phase. 2. Detention basins will be shown as common area on the final plat. Staff Report to the Weber County Planning Division Weber County Planning Division 2 • T",
+    "f 4300 West Street and 1700 South Street. This will need to be satisfied with phase 4. Review Agencies: The final plat and construction drawings for each phase are submitted and approved. A pre-construction meeting wi",
+    "ters and lateral to lots that do not have meter to them on drawings. Example lot 308 Sheet 7. 30. Complete. Final plat map will need to show easement for ditch being piped. 31. If project is completed in phases, the H",
+    "dministrative Items 2.1 LVB110626: Consideration and action on a request for final approval of Bristol Farms Subdivision Phases 3 (17 lots) and 4 (28 lots) formerly known as Smart Fields Subdivision, located at 1700 S"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "9b68bca7fb5cfc54",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town Council",
+   "entity": "Woodruff",
+   "title": "Woodruff Town Board Agenda 11/17/26",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121801.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "m. Location: Town Hall________ Items to Be Discussed 1 Land Use and Subdivision Ordinance approval 2 Pass resolution for vehicle auction 3 Follow up from previous meetings"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "4bfec74f7531501e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning and Zoning",
+   "entity": "Wayne County",
+   "title": "Planning & Zoning",
+   "meetingDate": "2026-11-11",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122007.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "data center",
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [
+    "1 lot"
+   ],
+   "companies": [],
+   "snippets": [
+    "TA CENTERS JOE GILES BEN JACKSON MARY SORENSON JADEN BLACKBURN 8: MORATORIUM JULIE HOWARD - Revisit Data Center Moratorium, consider repeal and withdraw 9: P & Z COMMISSION REPORTS 10: UNFINISHED BUSINESS",
+    "OLL CALL & ESTABLISH A QUORUM 3: PLEDGE OF ALLEGIANCE 4: APPROVE AGENDA 5: APPROVE MINUTES 6: MINOR SUBDIVISION 1 LOT WILL & CHERLYN TAYLOR 720 S Bell Lane Fremont, UT 7: DATA CENTERS JOE GILES BEN JACKS"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "92d433a467243354",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Utah Privacy Commission",
+   "entity": "Department of Government Operations > Office of Data Privacy (DGO)",
+   "title": "Utah Privacy Commission Meeting 11/12/2026",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122061.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513763.pdf",
+    "https://www.utah.gov/pmn/files/1513765.pdf",
+    "https://www.utah.gov/pmn/files/1513767.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "industrial",
+    "medical",
+    "school"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "patients"
+    },
+    {
+     "role": "company",
+     "name": "C. Online Sales Communities"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "patients",
+    "C. Online Sales Communities"
+   ],
+   "snippets": [
+    "cal professionals to receive and verify digital health records presented by patients. D. Enable individuals to obtain verifiable vaccination records E. Enable parents to obtain verifiable vaccination records",
+    "several key use cases should be featured in order to augment the governmental and industrial areas already contemplated in Utah statutes. In order to accomplish this,",
+    "B. Request a copy of their digital health records from each of the reporting doctors and medical facilities where they have interacted. C. Enable medical professionals to receive",
+    "of the reporting doctors and medical facilities where they have interacted. C. Enable medical professionals to receive and verify digital health records presented by patients. D.",
+    "accination records to K-12 schools when required. G. Require verifiable provenance for all medical transactions 6. Fraud Protection The fraud currently being perpetrated on Utah’s r"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "ad2e0113585fae5b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Erda City Council",
+   "entity": "Erda",
+   "title": "Erda City Council Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121991.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513613.pdf",
+    "https://www.utah.gov/pmn/files/1513621.pdf"
+   ],
+   "score": 15,
+   "terms": [
+    "dwelling",
+    "lots",
+    "phase",
+    "pud",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Salt"
+    },
+    {
+     "role": "company",
+     "name": "Rural Residential"
+    },
+    {
+     "role": "company",
+     "name": "Ensign Engineering"
+    },
+    {
+     "role": "company",
+     "name": "AQUA Engineering"
+    },
+    {
+     "role": "company",
+     "name": "Sanitary Sewer Service Development"
+    },
+    {
+     "role": "company",
+     "name": "Ward Engineering Group"
+    }
+   ],
+   "sizes": [
+    "5 acre",
+    "1 acre",
+    "5 acres",
+    "1.25 acre",
+    "43,560 sq. ft",
+    "1.25 acres"
+   ],
+   "companies": [
+    "Salt",
+    "Rural Residential",
+    "Ensign Engineering",
+    "AQUA Engineering",
+    "Sanitary Sewer Service Development",
+    "Ward Engineering Group",
+    "Community Development"
+   ],
+   "snippets": [
+    "ancy in Council in the Event of a Tie.docx Public Information Handout 2026/11/09 06:54 PM Salt rezone staff report (1).pdf Public Information Handout 2026/11/09 06:54 PM Subscribe Subscribe by Email Subscription options will send you alerts",
+    "of Erda to Rezone Property Located at Approximately 704 East Bates Canyon Road from RR-5 (Rural Residential 5 Acre) to RR-1 (Rural Residential 1 Acre) Consideration of Resolution 26-12 Identifying a Fair and Transparent Method That the Cou",
+    "6 1405 Division of Occupati... 10-3200 · LICENSE &... 471.57 X 185,671.00 10/21/2026 1673 Ensign Engineering 10-4000 · CITY COU... 21,327.50 X 164,343.50 10/21/2026 1674 North Tooele Fire De... 10-3200 · LICENSE &... 5,839.30 X 158,504.20 1",
+    "/21/2026 1676 Jennifer R Poole 10-4100 · ADMINIST... 149.85 X 158,354.35 10/21/2026 16742 AQUA Engineering ... 10-4000 · CITY COU... 1,647.00 X 156,707.35 10/22/2026 16743 Zions's Bank 10-4100 · ADMINIST... 276.71 X 156,430.64 10/22/2026 16",
+    "ubject to and in strict conformance with the terms and conditions of a Culinary Water and Sanitary Sewer Service Development Agreement (\"Development Agreement\"), that must first be executed by and between Salt and the District. The District",
+    "Griffith, Trustee; Jacob Clegg, Trustee; Brett Palmer, District Manager; Brendan Thorpe, Ward Engineering Group; Joe White, Ironwood; Cami Thorpe, Minutes; Residents, Scott Cluff, Randy Salt. RANDY SALT - BATES CANYON ROAD PARCELS - REQUES",
+    "GOVERNMENTAL REVENUE 63,749.71 567,730.00 -503,980.29 11.2% 10-3400 · CHARGES FOR SERVICES 10-3410 · Zoning & Subdivision Fees 0.00 15,000.00 -15,000.00 0.0% 10-3450 · Community Development Plan 0.00 125,000.00 -125,000.",
+    ", to ensure completion of the road. The cumulative square footage reduction in minimum lot size within the subdivision development shall be equal to the square footage of the dedicated portion of the collector class",
+    "Lake Bonneville locustrine (lake deposit and alluvial sediments. (b) Legal Description: Lot 2, Bob Salt Minor Subdivision, a subdivision of Tooele County, out of 5-43-2 & 5-43-4 for 2000 year 5.00 AC (c) Currently zoned",
+    "locustrine (lake deposit and alluvial sediments. (b) Legal Description: Lot 2, Bob Salt Minor Subdivision, a subdivision of Tooele County, out of 5-43-2 & 5-43-4 for 2000 year 5.00 AC (c) Currently zoned RR-5 (d) Access"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "ab002bff2ec4e584",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Utah Critical Minerals Council",
+   "entity": "Department of Natural Resources (DNR) > Office of Energy Development",
+   "title": "October 27th Meeting of the Utah Critical Minerals Council",
+   "meetingDate": "2026-10-27",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1117719.html",
+   "files": [],
+   "score": 7,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Energy Development"
+    },
+    {
+     "role": "company",
+     "name": "North Capitol Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Energy Development",
+    "North Capitol Building"
+   ],
+   "snippets": [
+    "7 /pmn/sitemap/noticeemail/1117719.html Department of Natural Resources (DNR) > Office of Energy Development Utah Critical Minerals Council October 27th Meeting of the Utah Critical Minerals Council October 27th Meeting of the Utah Critical",
+    "ion/Agenda Utah Critical Minerals Council Tuesday, October 27, 2026, 11:00 AM Elk Room, North Capitol Building 450 North State St, Salt Lake City, UT 84114 Welcome - Dana Dean, Acting Director, Utah Division of Oil, Gas, and Mining/",
+    "gy session to discuss a project proposal related to the development of land owned by the state or a political subdivision, if public discussion would 'prevent the public body from completing the transaction on the best p"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "b869074ccf82ffe8",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Transit Commission of the Utah Transit Authority",
+   "entity": "Utah Transit Authority Entity Website http://www.rideuta.com",
+   "title": "Notice of Public Hearing of the UTA Transit Commission - 2027 Budget",
+   "meetingDate": "2026-10-26",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1111329.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1493719.pdf",
+    "https://www.utah.gov/pmn/files/1504169.pdf",
+    "https://www.utah.gov/pmn/files/1504171.pdf",
+    "https://www.utah.gov/pmn/files/1507307.pdf"
+   ],
+   "score": 11,
+   "terms": [
+    "lots",
+    "phase",
+    "units",
+    "warehouse"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Tentative Budget"
+    },
+    {
+     "role": "company",
+     "name": "Budget Summary Capital"
+    },
+    {
+     "role": "company",
+     "name": "Largest Capital"
+    },
+    {
+     "role": "company",
+     "name": "Tentative Capital"
+    },
+    {
+     "role": "company",
+     "name": "Summary Capital"
+    },
+    {
+     "role": "company",
+     "name": "Other Capital"
+    },
+    {
+     "role": "company",
+     "name": "Year Capital"
+    },
+    {
+     "role": "company",
+     "name": "Five-Year Capital"
+    },
+    {
+     "role": "company",
+     "name": "Service Development"
+    },
+    {
+     "role": "company",
+     "name": "Five- Year Capital"
+    },
+    {
+     "role": "company",
+     "name": "Chief Office Summary Capital"
+    },
+    {
+     "role": "company",
+     "name": "Transit-Oriented Communities"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Tentative Budget",
+    "Budget Summary Capital",
+    "Largest Capital",
+    "Tentative Capital",
+    "Summary Capital",
+    "Other Capital",
+    "Year Capital",
+    "Five-Year Capital",
+    "Service Development",
+    "Five- Year Capital",
+    "Chief Office Summary Capital",
+    "Transit-Oriented Communities"
+   ],
+   "snippets": [
+    "tlines Headquarters 669 West 200 South Salt Lake City, UT 84101 Public Hearing - 2027 Tentative Budget NOTICE OF PUBLIC HEARING AND COMMENT PERIOD UTAH TRANSIT AUTHORITY RE: UTA Tentative Budget 2027. UTA is holding a public hear",
+    "More information on the 2027 Tentative Budget can be found at rideuta.com/budget. 10 Largest Capital Budget Projects Light Rail Vehicle Replacement Clean Diesel Bus Purchase Paratransit Vehicle Replacement Light Rail Vehicle Rehabi",
+    ".............................................................................. 14 2027 Tentative Capital Budget............................................................................................................ 15 Summary by Ch",
+    "..................................................................................... 15 Summary Capital Sources ............................................................................................................ 15 Summary by Pr",
+    "l Car Purchase Payment - 13 EAM/WM/RISC (Trapeze) 1,705,00014 Other Capital Projects 23,126,00015Total Expense 164,466,000$ 13 Page | 5 Note: Rounding may cause minor Total discrepan",
+    "r tariffs, fuel prices, and broader economic uncertainty. This Tentative Budget and 5-Year Capital Plan (5YCP) include assumptions from the University’s June 2026 forecast. UTA will monitor the economic situation and work with the Univ",
+    "ve leadership and support, human capital management, communications, payroll, accounting, fares, purchasing, warehouse, service development, information technology, strategic planning, continuous improvement, data mana"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "fdb5222f7f413873",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Utah State Tax Commission",
+   "entity": "Utah State Tax Commission Entity Website https://tax.utah.gov",
+   "title": "Commission Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122009.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513649.pdf",
+    "https://www.utah.gov/pmn/files/1513653.pdf",
+    "https://www.utah.gov/pmn/files/1513657.pdf",
+    "https://www.utah.gov/pmn/files/1513659.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "dwelling",
+    "school"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Primary Residential"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Primary Residential"
+   ],
+   "snippets": [
+    "3 and 59-2-515. VI. Consider Publication Revisions 1. Publication 27: Taxation of Primary Residential Property 2. Publication 65: Tax Information for Cigarettes, Tobacco Products, Nicotine Products and Electronic Cigarette Products",
+    "alue and the taxable value of your property. How is ResidenƟal Property Taxed? The primary residence is any dwelling used as a full-Ɵme residence and can include up to one acre of land. Rental homes and apartments als",
+    "General InformaƟon Property taxes are one of the primary sources of funds for local governments, counƟes, school districts, ciƟes, towns and special enƟƟes such as water and sewer districts. The following are examp",
+    "y the various enƟƟes with the legal power to levy property taxes. These governmental enƟƟes include counƟes, school districts, ciƟes and towns, and special taxing districts such as water, sewer and cemetery districts."
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "03ec984e308d19d1",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Richfield",
+   "title": "11/10/26 Council Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121931.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "apartment",
+    "conditional use",
+    "lots"
+   ],
+   "parties": [],
+   "sizes": [
+    "11 unit"
+   ],
+   "companies": [],
+   "snippets": [
+    "flag lots. c. Planning Commission Report. d. Tyson Hansen to request a conditional use to build an 11-unit apartment complex at approximately 109 N 200 East (A C-2 use in an RM-11 Zone). e. Consider adopting Resoluti"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "1fcae8528871737a",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Richfield",
+   "title": "11/10/26 Council Agenda -- Amended",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121929.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "apartment",
+    "conditional use",
+    "lots"
+   ],
+   "parties": [],
+   "sizes": [
+    "11 unit"
+   ],
+   "companies": [],
+   "snippets": [
+    "flag lots. c. Planning Commission Report. d. Tyson Hansen to request a conditional use to build an 11-unit apartment complex at approximately 109 N 200 East (A C-2 use in an RM-11 Zone). e. Consider adopting Resoluti"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "b4bbb7d0045c75cb",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "St. George",
+   "title": "Ordinances Approved and Adopted by City Council",
+   "meetingDate": "2026-11-05",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121821.html",
+   "files": [],
+   "score": 7,
+   "terms": [
+    "lots",
+    "phase",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Leslie Dunbar Trust"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Leslie Dunbar Trust"
+   ],
+   "snippets": [
+    "o. Ordinance No. 2026-084 vacating a municipal utility easement affecting Lot 2 of the Leslie Dunbar Trust subdivision. Ordinance No. 2026-085 vacating a public utilities and drainage easement affecting private roadway (common area) a",
+    "o. Ordinance No. 2026-084 vacating a municipal utility easement affecting Lot 2 of the Leslie Dunbar Trust subdivision. Ordinance No. 2026-085 vacating a public utilities and drainage easement affecting private roa"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "3d31e646ce3500d1",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Farr West",
+   "title": "Planning Commission Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122057.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513759.pdf"
+   ],
+   "score": 11,
+   "terms": [
+    "lots",
+    "site plan",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Site Development"
+    },
+    {
+     "role": "company",
+     "name": "Property Line Setback Location All Residential"
+    }
+   ],
+   "sizes": [
+    "500 square feet",
+    "1 acre",
+    "15 lot",
+    "15,000 square feet"
+   ],
+   "companies": [
+    "Site Development",
+    "Property Line Setback Location All Residential"
+   ],
+   "snippets": [
+    "th d. Set a public hearing for December 10, 2026 to consider proposed amendments to the Site Development standards, as recommended by the City Building Official, incorporating revised language reviews and approved by the City Attorney e.",
+    "Report from City Council 3. Business Items a. Recommendation to the City Council approval or denial of the site plan for Longhorn Steakhouse located on lot 10 of the Farr West Landing Subdivision b. Recommendation to",
+    "lot 10 of the Farr West Landing Subdivision b. Recommendation to the City Council approval or denial of the site plan for Olive Garden located on lot 11 of the Farr West Landing Subdivision c. Recommendation to the Ci",
+    "b. Report from City Council 3. Business Items a. Recommendation to the City Council approval or denial of the site plan for Longhorn Steakhouse located on lot 10 of the Farr West Landing Subdivision b. Recommendation to",
+    "n lot 10 of the Farr West Landing Subdivision b. Recommendation to the City Council approval or denial of the site plan for Olive Garden located on lot 11 of the Farr West Landing Subdivision c. Recommendation to the Cit"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "b1dc7beeb923fd58",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Plain City",
+   "title": "Planning Commission Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122097.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513837.pdf"
+   ],
+   "score": 30,
+   "terms": [
+    "commercial",
+    "final plat",
+    "industrial",
+    "lots",
+    "master plan",
+    "mixed use",
+    "mixed-use",
+    "phase",
+    "preliminary plat",
+    "school",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Persons"
+    },
+    {
+     "role": "company",
+     "name": "Pleasant Plains Master Development"
+    },
+    {
+     "role": "company",
+     "name": "Cole West Land Partners"
+    },
+    {
+     "role": "company",
+     "name": "Plain City Land"
+    },
+    {
+     "role": "company",
+     "name": "Maximum Residential"
+    },
+    {
+     "role": "company",
+     "name": "Permitted Residential"
+    }
+   ],
+   "sizes": [
+    "1,536 acres",
+    "3,500 units",
+    "1,575 units",
+    "2.5 units",
+    "2,000 units",
+    "300 acres"
+   ],
+   "companies": [
+    "Persons",
+    "Pleasant Plains Master Development",
+    "Cole West Land Partners",
+    "Plain City Land",
+    "Maximum Residential",
+    "Permitted Residential"
+   ],
+   "snippets": [
+    "auxiliary communicative aids and services for all those citizens in need of assistance. Persons requesting these accommodations for City-sponsored public meetings, services, programs, or events should call Diane Hirschi at 801-731-4908 gi",
+    "chnical Review Report: 7. Legislative Items: Motion: Open public hearing for Pleasant Plains Master Development Agreement (MDA) Cole West Land Partners, LLC. Located along the Dixie Creek and First and Second Salt Creek corrido",
+    "Motion: Open public hearing for Pleasant Plains Master Development Agreement (MDA) Cole West Land Partners, LLC. Located along the Dixie Creek and First and Second Salt Creek corridors, bordered in part by 3900 West 4200 West and cro",
+    "2026 Discussion/Motion: Set public hearing on proposed adoption of an updated Plain City Land Use Code (Title 10) for December 10, 2026 8. Administrative Items: Motion: Cancel Planning Commission meeting on Novem",
+    "n Document - 8 Suggested redline (new 4.02 sentence; strike last sentence of 5.03): The Maximum Residential Density is based on [___] developable acres as shown on Exhibit C. If the Project-wide wetland delineation, flood hazard analysis",
+    "latted if the agreement expires or terminates. AF, TRC D4 Art. III Add definitions for Permitted Residential Uses, Permitted Mixed Uses, and Stacked Flat Units. JM, AF D5 3.21, 3.22 Reference the accessory building ordinance (Title 10",
+    "ons: residential, mixed use, stacked flats JM, AF Drafting D4 3.17 C-3 and industrial uses; Manufacturing Commercial area JM, AF Policy P6 3.21–3.22 Accessory structures and row houses vs. City code JM Drafting D",
+    "4.04 Caps by type, minimums, percentages; 45% figure doesn’t match GW, JM, AF Policy P2, D6 4.05, 4.07 300 commercial acres; unilateral mixed-use changes; overlay only in code JM, AF Policy P6 Pleasant Plains M",
+    "o high and how the cap should change if land proves undevelopable or is used for schools, public facilities, commercial uses, or wetlands. The main direction was to clarify the residential acreage and show the math beh",
+    "zoning unit yield, (2) the gross and net residential acreage behind 3,500 units, and (3) whether open space, commercial land, and wetlands are counted. JM’s percentages total 100%, which fixes the mix rather than cappi"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "7c5c1c0b1a7b410c",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "West Point",
+   "title": "November 12, 2026 Planning Commission Notice and Packet",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121953.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513567.pdf"
+   ],
+   "score": 30,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "final plat",
+    "lots",
+    "phase",
+    "preliminary plat",
+    "school",
+    "site plan",
+    "subdivision",
+    "townhome",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Correction Required Addressed"
+    },
+    {
+     "role": "applicant",
+     "name": "Ovation Homes"
+    },
+    {
+     "role": "applicant",
+     "name": "Holland Group"
+    },
+    {
+     "role": "applicant",
+     "name": "2026 Background Adrian Reyes"
+    },
+    {
+     "role": "company",
+     "name": "Nilson Homes"
+    },
+    {
+     "role": "company",
+     "name": "Woodmere Homes"
+    },
+    {
+     "role": "company",
+     "name": "Weber Counties Canal Company"
+    },
+    {
+     "role": "company",
+     "name": "Windmill Land Holdings"
+    },
+    {
+     "role": "company",
+     "name": "Residential Driveway Locations Residential"
+    },
+    {
+     "role": "company",
+     "name": "Civil Solutions Group"
+    },
+    {
+     "role": "company",
+     "name": "Landscape Services LLC"
+    },
+    {
+     "role": "company",
+     "name": "Background Nilson Land Development"
+    }
+   ],
+   "sizes": [
+    "71 units",
+    "12.46 acres",
+    "2.2 units",
+    "42 lots",
+    "32 square feet",
+    "100 square feet"
+   ],
+   "companies": [
+    "Correction Required Addressed",
+    "Ovation Homes",
+    "Holland Group",
+    "2026 Background Adrian Reyes",
+    "Nilson Homes",
+    "Woodmere Homes",
+    "Weber Counties Canal Company",
+    "Windmill Land Holdings",
+    "Residential Driveway Locations Residential",
+    "Civil Solutions Group",
+    "Landscape Services LLC",
+    "Background Nilson Land Development",
+    "Community Development",
+    "Phase Plan Development Agreements Engineering",
+    "Weber Canal Company",
+    "West Point City Community Development",
+    "Nilson Land Development"
+   ],
+   "snippets": [
+    "South Subdivision” is not an existing subdivision name in Davis County. b) Applicant – Correction Required Addressed: The applicant is identified as both Nilson Homes and Nilson Land Development. Use the correct applicant’s name consist",
+    "r yard setback from 25 feet to 23 feet on specific lots to accommodate homes proposed by Ovation Homes. He explained that the request would not change the approved density, lot count, or lot sizes. Hunter Murray, the applicant, explained",
+    "tion from the Planning Commission to the City Council. Hunter Murray, representing the Holland Group, explained that most of the 42 lots would require a two-foot reduction, approximately five or six lots would require three feet, and so",
+    "ry plat for 71 units located at approximately 4275 W 1850 N and known as Heritage Trails; Nilson Homes, applicant 9. Discussion and consideration of a site plan for 71 units located at approximately 4275 W 1850 N and known as Heritage Tra",
+    "cated at 1131 N 4500 W from A-40 (Agricultural) to R-1 (Residential, 2.2 units per acre); Woodmere Homes, applicant a. Public Hearing 11. Staff Update 12. Planning Commission Comments 13. Adjournment Notice of Special Accommodat",
+    "ew and received the necessary approvals from the North Davis Fire District and Davis and Weber Counties Canal Company. Both he and Troy Moyes recommended approval. Mr. Norton explained that he intended to build a new home on the flag lot",
+    "additional concerns, and Bryn MacDonald indicated that the next sign code discussion would focus on signs in commercial zones. 4. Review of agenda items No agenda items were reviewed. 5. Other items Bryn MacD",
+    "Planning Commission Packet 2026-11-12 22 WPCC Section 17.70.140(E)(2) establishes a standard of up to three commercial vehicles or trailers, parked outside the front yard and screened by a six-foot opaque fence. The r",
+    "plans. b. Label the street numbers as shown on the redlined plans. c. Can Parcel B be dedicated before the final plat is prepared? Then it could be removed from the plat. d. There should be another parcel dedicated",
+    "s the HOA ownership and maintenance note. Final common-area parcel identification will be completed with the final plat. No further change needed at this stage. c) Canal and Trail Corridor – Correction Required Addres"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "593824f9a904ce50",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Sandy",
+   "title": "Notice of Public Meeting - Synergy SiteSub",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121883.html",
+   "files": [],
+   "score": 13,
+   "terms": [
+    "commercial",
+    "industrial",
+    "lots",
+    "site plan",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Soren Urry"
+    }
+   ],
+   "sizes": [
+    "382,772 square feet"
+   ],
+   "companies": [
+    "Soren Urry"
+   ],
+   "snippets": [
+    "old a public meeting regarding a Commercial Site Plan and Subdivision Review submitted by Soren Urry for the property located at 8860 S 700 West. The applicant is proposing to construct an industrial development with 382,772 square feet of",
+    ", 2026, at approximately 6:15 p.m., the Sandy City Planning Commission will hold a public meeting regarding a Commercial Site Plan and Subdivision Review submitted by Soren Urry for the property located at 8860 S 700 Wes",
+    "approximately 6:15 p.m., the Sandy City Planning Commission will hold a public meeting regarding a Commercial Site Plan and Subdivision Review submitted by Soren Urry for the property located at 8860 S 700 West. The appl",
+    "6:15 p.m., the Sandy City Planning Commission will hold a public meeting regarding a Commercial Site Plan and Subdivision Review submitted by Soren Urry for the property located at 8860 S 700 West. The applicant is propo",
+    "al development with 382,772 square feet of buildings, and outdoor storage areas. The proposal also includes a subdivision, named Synergy Sandy Subdivision, with three (3) lots for development. All application materials"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "5cf63c4927a60580",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Sandy",
+   "title": "Notice of Public Meeting - Waddoups Pavillion",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121803.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Doug Waddoups"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Doug Waddoups"
+   ],
+   "snippets": [
+    "ing Commission will hold a public meeting regarding a Conditional Use Permit submitted by Doug Waddoups, on the property located at 20 S. Rollingwood Ln. The request is to build a 780 square foot detached pavilion up to 20 feet high, which",
+    "9, 2026 at approximately 6:15 p.m., the Sandy City Planning Commission will hold a public meeting regarding a Conditional Use Permit submitted by Doug Waddoups, on the property located at 20 S. Rollingwood Ln. The reques"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "f0765e7d3a6e9022",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Sandy",
+   "title": "Notice of Public Meeting - CUP AU Automotive",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121865.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "AS Automotive LLC"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "AS Automotive LLC"
+   ],
+   "snippets": [
+    "ing Commission will hold a public meeting regarding a Conditional Use Permit submitted by AS Automotive LLC, on the property located at 220 W. 9210 S. The request is to operate a used automobile sales business on the property, a conditional",
+    "9, 2026 at approximately 6:15 p.m., the Sandy City Planning Commission will hold a public meeting regarding a Conditional Use Permit submitted by AS Automotive LLC, on the property located at 220 W. 9210 S. The request i"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "af92b37db6a05ea0",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Sandy",
+   "title": "Notice of Public Meeting - Adams Accessory Structure",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121847.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Stephan Adams"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Stephan Adams"
+   ],
+   "snippets": [
+    "ing Commission will hold a public meeting regarding a Conditional Use Permit submitted by Stephan Adams, on the property located at 1502 E. Thistledown Dr. The request is to recognize the existing barn and stalls as animal structures under",
+    "9, 2026 at approximately 6:15 p.m., the Sandy City Planning Commission will hold a public meeting regarding a Conditional Use Permit submitted by Stephan Adams, on the property located at 1502 E. Thistledown Dr. The requ"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "72cdc22dc57ab5a0",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Vineyard",
+   "title": "City Council Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121895.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513593.pdf"
+   ],
+   "score": 16,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "lots",
+    "medical",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Insignificant Land"
+    },
+    {
+     "role": "company",
+     "name": "Local Land"
+    }
+   ],
+   "sizes": [
+    "30,000 acres"
+   ],
+   "companies": [
+    "Insignificant Land",
+    "Local Land"
+   ],
+   "snippets": [
+    "4 ADU (Accessory Dwelling Units) Compliance 84 6.3. Accept Resolution 2026-37 Selling of Insignificant Land Parcel B 85 6.4. Accept Resolution 2026-38 Selling of Insignificant Land Parcel H 86 6.5. Accept Resolution 2026-39 Selling of In",
+    "tah Municipal Code 10-20-801; and WHEREAS, the Utah Legislature enacted Senate Bill 284, Local Land and Water Modifications, during the 2026 General Session, which the Governor signed on March 18, 2026, and which amends and enacts provis",
+    "ve ORD 2026-14 Changes to the Vineyard City Zoning Code FOI (Flex Office and Industry) and RC Zones (Regional Commercial) 8.3. Approve Ordinance 2026-13 FY 26-27 Budget Amendment 2 9. ADJOURNMENT Notice of Sp",
+    "e ORD 2026-14 Changes to the Vineyard City Zoning Code FOI (Flex Office and Industry) and RC Zones (Regional Commercial) 8.3. Approve Ordinance 2026-13 FY 26-27 Budget Amendment 2 9. ADJOURNMENT The next regula",
+    "roposal, or 131 financing proposal related to the development of land owned by the state or a political 132 subdivision. 133 8.2 Approve and Set a Date, Time, and Location for a Closed Meeting to Discuss the 134 Ch",
+    "OPOSAL, OR FINANCING 147 PROPOSAL RELATED TO THE DEVELOPOMENT OF LAND OWNED BY THE 148 STATE OR A POLITICAL SUBDIVISION (2) THE CHARACTER, PROFESSIONAL 149 COMPETENCE, OR PHYSICAL OR MENTAL HEALTH OF AN INDIVIDUAL OR"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "f9c6d655f501388a",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Vernal",
+   "title": "Regular Planning Commission Meeting",
+   "meetingDate": "2026-11-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121957.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513575.pdf"
+   ],
+   "score": 44,
+   "terms": [
+    "apartment",
+    "church",
+    "clinic",
+    "commercial",
+    "conditional use",
+    "design review",
+    "dwelling",
+    "final plat",
+    "industrial",
+    "lots",
+    "medical",
+    "multifamily",
+    "preliminary plat",
+    "school",
+    "site plan",
+    "subdivision",
+    "townhome",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Vernal City D. Code Reference"
+    },
+    {
+     "role": "applicant",
+     "name": "parties supporting or opposing the application"
+    },
+    {
+     "role": "applicant",
+     "name": "a member of 829 the public"
+    },
+    {
+     "role": "applicant",
+     "name": "nearby residents"
+    },
+    {
+     "role": "applicant",
+     "name": "Everbuilt and Quinton 286 Daniels"
+    },
+    {
+     "role": "applicant",
+     "name": "TCM Towing and explained the proposed 781"
+    },
+    {
+     "role": "company",
+     "name": "R-1 Residential"
+    },
+    {
+     "role": "company",
+     "name": "R-3 Residential"
+    },
+    {
+     "role": "company",
+     "name": "Everbuilt LLC"
+    },
+    {
+     "role": "company",
+     "name": "Future Land"
+    },
+    {
+     "role": "company",
+     "name": "Local Land"
+    }
+   ],
+   "sizes": [
+    "276 townhome",
+    "536 units",
+    "8,000 square feet",
+    "6,500 square feet",
+    "14 units",
+    "25 units"
+   ],
+   "companies": [
+    "Vernal City D. Code Reference",
+    "parties supporting or opposing the application",
+    "a member of 829 the public",
+    "nearby residents",
+    "Everbuilt and Quinton 286 Daniels",
+    "TCM Towing and explained the proposed 781",
+    "R-1 Residential",
+    "R-3 Residential",
+    "Everbuilt LLC",
+    "Future Land",
+    "Local Land"
+   ],
+   "snippets": [
+    "the subsequent City Council decision. 209 He explained that if litigation were filed by parties supporting or opposing the application, a district court could 210 review whether improper information, bias, or an unacceptable risk of bias",
+    "s. Commissioners 879 discussed whether restricting access to First East, as requested by nearby residents, could result in additional 880 traffic on Vernal Avenue. It was noted that some residents had opposed a connection to First East be",
+    "se Permit requirements. 780 Kylie Sizemore, 3397 South Vernal Avenue, spoke on behalf of TCM Towing and explained the proposed 781 operation and the measures the business would implement to address potential concerns. She stated that the",
+    "In this case, the applicant is requesting that the 39 subject properties be changed from R-1 Residential to R-3 Residential. Under Vernal City Code, a rezone is a 40 legislative action. Under Vernal City Code, a property owner, authorized",
+    "pplicant is requesting that the 39 subject properties be changed from R-1 Residential to R-3 Residential. Under Vernal City Code, a rezone is a 40 legislative action. Under Vernal City Code, a property owner, authorized agent, or a person",
+    "545 proposed rezone request 2026-041-REZ. They stated that they met with Jacob Spears of Everbuilt LLC on 546 October 8, 2026, to discuss the proposed rezoning and expressed concerns about the development’s potential 547 impacts on the s",
+    "velopment where permitted by code. 587  R4: The City's highest-density residential classification, allowing apartment complexes and other 588 higher-density residential uses. 589 Mr. Christofferson emphasized that th",
+    "al uses. 589 Mr. Christofferson emphasized that the application requested R3 zoning, not R4 zoning, and that apartment 590 complexes of the type allowed in R4 were not permitted under the R3 classification. 591 John B",
+    "e cited the Uintah County General Plan’s 297 discussion of medium- and high-density housing near schools and commercial areas and noted that the subject 298 property is located along State Route 121, near commercial pr",
+    "schools and commercial areas and noted that the subject 298 property is located along State Route 121, near commercial property, a park, and educational facilities. 299 Addressing concerns regarding building height, M"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "266ca8e30cb89ede",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Park City",
+   "title": "Special Meeting",
+   "meetingDate": "2026-11-13",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121935.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513515.pdf"
+   ],
+   "score": 21,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "mixed-use",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "developer",
+     "name": "Brinshore Utah"
+    },
+    {
+     "role": "company",
+     "name": "Marsac Municipal Building"
+    },
+    {
+     "role": "company",
+     "name": "Brinshore Development LLC"
+    },
+    {
+     "role": "company",
+     "name": "Master Planned Development"
+    },
+    {
+     "role": "company",
+     "name": "P3 Development"
+    },
+    {
+     "role": "company",
+     "name": "Park City Municipal Corporation"
+    },
+    {
+     "role": "company",
+     "name": "Insurance Companies"
+    },
+    {
+     "role": "company",
+     "name": "Brint Development"
+    },
+    {
+     "role": "company",
+     "name": "AMENDMENTS"
+    },
+    {
+     "role": "company",
+     "name": "Schematic Design"
+    },
+    {
+     "role": "company",
+     "name": "Design Development"
+    },
+    {
+     "role": "company",
+     "name": "Brinshore Group"
+    }
+   ],
+   "sizes": [
+    "5 acre",
+    "0.785 acre",
+    "0.78 acre",
+    "44 unit",
+    "100 units"
+   ],
+   "companies": [
+    "Brinshore Utah",
+    "Marsac Municipal Building",
+    "Brinshore Development LLC",
+    "Master Planned Development",
+    "P3 Development",
+    "Park City Municipal Corporation",
+    "Insurance Companies",
+    "Brint Development",
+    "AMENDMENTS",
+    "Schematic Design",
+    "Design Development",
+    "Brinshore Group",
+    "Brinshore Development",
+    "AMENDMENTS. A. Brinshore Utah LLC",
+    "Revised Development",
+    "Reduced Building"
+   ],
+   "snippets": [
+    "5 (“Effective Date”) by and between Park City Municipal Corporation(“PCMC” or “City”) and Brinshore Utah, LLC, a Utah limited liability company, or its permitted assigns (“Developer”) (each, a “Party” and together, the “Parties”).Recitals",
+    "13, 2026 The Council of Park City, Utah, will hold a special meeting in person at the Marsac Municipal Building, City Council Chambers, at 445 Marsac Avenue, Park City, Utah 84060. Meetings will also be available online. Click here for",
+    "Acre Site Author: Michelle Downard Department: Executive Date: November 13, 2026 Brinshore Development LLC (Brinshore), the City's development partner for the Bonanza 5-Acre redevelopment, will present proposed revisions to the pr",
+    "6, Brinshore submitted the following applications for Planning Commission consideration: Master Planned Development (PL-26-06914), Subdivision (PL-26-06920), Multi-Unit Dwelling and Frontage Protection Zone Conditional Use Permit (PL-26-",
+    "ment”) is entered into as of the 5thday of August, 2025 (“Effective Date”) by and between Park City Municipal Corporation(“PCMC” or “City”) and Brinshore Utah, LLC, a Utah limited liability company, or its permitted assigns (“Developer”) (e",
+    "r any other insurance obtained by the additional insureds will be triggered.e. Quality of Insurance Companies. All required insurance policies must be issued by insurance companies qualified to do business in the state of Utah and listed on",
+    "Lease”) to redevelop the Property into a vibrant, first-class, mixed-use destination that blends residential, commercial, and community arts elements (the “Project”); and Developer submitted a response to the RFP propo",
+    "onies, setbacks, and natural exterior finishes;(2) Overall scale and site plan to identify preferred density, commercial and retail strategy, and mix of uses; and (3) Residential unit count and AMI mix. b. The Parties",
+    "in any exclusion or limitation with respect to loading or unloading of a covered vehicle. Page 9 of 44 b. Commercial General Liability Insurance. Developer shall maintain commercial general liability insurance on a",
+    "g of a covered vehicle. Page 9 of 44 b. Commercial General Liability Insurance. Developer shall maintain commercial general liability insurance on a primary and non-contributory basis, including PCMC’s own policies"
+   ],
+   "foundAt": "2026-11-10"
+  },
+  {
+   "id": "0f2fe672267632a9",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Farmington City Council",
+   "entity": "Farmington",
+   "title": "City Council Notice of Public Hearing",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1121891.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1513331.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "phase",
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "to consider the following: - A request to amend the 'Conservation Easement for Farmington Meadows Phase 1 Subdivision'. The requested amendment would permit the construction of a barn within the affected property for"
+   ],
+   "foundAt": "2026-11-10"
+  },
   {
    "id": "0cec5933b3dbc62d",
    "source": "pmn",

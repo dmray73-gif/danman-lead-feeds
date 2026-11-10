@@ -1,5 +1,5 @@
 {
- "next": 9601,
+ "next": 10501,
  "bodies": {
   "1": {
    "id": 1,
@@ -7425,8 +7425,48 @@
    "id": 9583,
    "name": "Economic Opportunity Council",
    "entity": "Governor's Office > Office of Economic Development (GOED) Entity Website https://business.utah.gov/"
+  },
+  "9617": {
+   "id": 9617,
+   "name": "Utah Critical Minerals Council",
+   "entity": "Department of Natural Resources (DNR) > Office of Energy Development"
+  },
+  "9629": {
+   "id": 9629,
+   "name": "Transit Commission of the Utah Transit Authority",
+   "entity": "Utah Transit Authority Entity Website http://www.rideuta.com"
+  },
+  "9631": {
+   "id": 9631,
+   "name": "Transit Commission of the Utah Transit Authority",
+   "entity": "Utah Transit Authority Entity Website http://www.rideuta.com"
+  },
+  "9667": {
+   "id": 9667,
+   "name": "Active Transportation Commission",
+   "entity": "Vineyard"
+  },
+  "9679": {
+   "id": 9679,
+   "name": "Iron County Council of Governments",
+   "entity": "Five County Association of Governments"
+  },
+  "9683": {
+   "id": 9683,
+   "name": "Iron County Council of Governments",
+   "entity": "Five County Association of Governments"
+  },
+  "9685": {
+   "id": 9685,
+   "name": "Iron County Council of Governments",
+   "entity": "Five County Association of Governments"
+  },
+  "9735": {
+   "id": 9735,
+   "name": "Criminal Justice Coordinating Council",
+   "entity": "Duchesne County"
   }
  },
  "misses": 0,
- "updated": "2026-11-09"
+ "updated": "2026-11-10"
 }
