@@ -1,0 +1,629 @@
+{
+ "report": {
+  "arcgis:provo-current-projects": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:summit-county-2026": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:west-jordan": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:orem": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:riverton": {
+   "items": 0,
+   "ok": true
+  },
+  "accela:salt-lake-city": {
+   "items": 0,
+   "ok": true
+  },
+  "pmn": {
+   "items": 9,
+   "ok": true
+  }
+ },
+ "items": [
+  {
+   "id": "751c9e95eebf2361",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town Council",
+   "entity": "Hideout",
+   "title": "Regular Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122599.html",
+   "files": [],
+   "score": 8,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Military Installation Development"
+    },
+    {
+     "role": "company",
+     "name": "Master Development"
+    },
+    {
+     "role": "company",
+     "name": "Elkhorn Master Development"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Military Installation Development",
+    "Master Development",
+    "Elkhorn Master Development",
+    "Economic Development"
+   ],
+   "snippets": [
+    "ible approval of the Second Amendment to the Interlocal Cooperation Agreement between the Military Installation Development Authority ('MIDA') and the Town of Hideout. Review and discussion of the proposed Second Amendment concerning inc",
+    "ossible approval of a Fifth Administrative Amendment to the Silver Meadows Annexation and Master Development Agreement. Review and discussion of the proposed Fifth Administrative Amendment concerning MIDA inclusion, commercial development",
+    "otections for the Town.. 4. Consideration and possible approval of an amendment to the Elkhorn Master Development Agreement. Review and discussion of the proposed amendment concerning MIDA inclusion, existing development obligations, i",
+    "t Agreement. Review and discussion of the proposed Fifth Administrative Amendment concerning MIDA inclusion, commercial development and phasing, public facilities, infrastructure responsibilities, and fiscal protections"
+   ],
+   "foundAt": "2026-11-12"
+  },
+  {
+   "id": "ca97483b78966da9",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Millcreek",
+   "title": "Planning Commission Regular Meeting",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122675.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1515145.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "commercial",
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Salt Lake County Planner"
+    },
+    {
+     "role": "applicant",
+     "name": "Larry & Paige Stepp Planner"
+    },
+    {
+     "role": "applicant",
+     "name": "Chris Bick Planner"
+    },
+    {
+     "role": "applicant",
+     "name": "Preston Reading Planner"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Salt Lake County Planner",
+    "Larry & Paige Stepp Planner",
+    "Chris Bick Planner",
+    "Preston Reading Planner"
+   ],
+   "snippets": [
+    "of GP-26-002, Request for Adoption of the Central Jordan River Reconnect Plan Applicant: Salt Lake County Planner: Sean Murray 2. New Items 2.1 Consideration of CUP-26-011, Request for a Conditional Use Permit for an 'Automobile, Equip",
+    "ehicle Sales or Rental' Use in the Commercial Zone Location: 545-547 W 3900 S Applicants: Larry & Paige Stepp Planner: Zack Wendel 2.2 Consideration of CUP-26-009, Request for a Conditional Use Permit to Construct an Employee Parking Lot L",
+    "tional Use Permit to Construct an Employee Parking Lot Location: 3946 S 1100 E Applicant: Chris Bick Planner: Sean Murray 3. Continuing Business 3.1 Consideration of ZM-25-006, Request to Remove a Zoning Condition Limiting Facility Res",
+    "Limiting Facility Residents to 62 Years of Age or Older Location: 777 E 3900 S Applicant: Preston Reading Planner: Zack Wendel 4. Commission Business 4.1 Approval of October 21, 2026 Regular Meeting Minutes 4.2 Housing Subcommittee Rep",
+    "r a Conditional Use Permit for an 'Automobile, Equipment, or Recreational Vehicle Sales or Rental' Use in the Commercial Zone Location: 545-547 W 3900 S Applicants: Larry & Paige Stepp Planner: Zack Wendel 2.2 Considera"
+   ],
+   "foundAt": "2026-11-12"
+  },
+  {
+   "id": "3e236b94eff70084",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Brighton Town Council",
+   "entity": "Brighton",
+   "title": "Brighton Town Council Adoption of Ordinance 2026-O-11-1",
+   "meetingDate": "2026-11-11",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122591.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1514891.pdf"
+   ],
+   "score": 12,
+   "terms": [
+    "commercial",
+    "lots",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Neighboring Properties"
+    },
+    {
+     "role": "company",
+     "name": "Chief Building"
+    },
+    {
+     "role": "company",
+     "name": "GENERAL SITE STANDARD DEFINITIONS Site Development"
+    },
+    {
+     "role": "company",
+     "name": "Conditions"
+    },
+    {
+     "role": "company",
+     "name": "C. Building"
+    },
+    {
+     "role": "company",
+     "name": "IN THE FORESTRY ZONES A. Building"
+    },
+    {
+     "role": "company",
+     "name": "One Building"
+    },
+    {
+     "role": "company",
+     "name": "International Building"
+    }
+   ],
+   "sizes": [
+    "5,000 sq. ft",
+    "800 sq ft"
+   ],
+   "companies": [
+    "Neighboring Properties",
+    "Chief Building",
+    "GENERAL SITE STANDARD DEFINITIONS Site Development",
+    "Conditions",
+    "C. Building",
+    "IN THE FORESTRY ZONES A. Building",
+    "One Building",
+    "International Building",
+    "STRUCTURES IN THE FORESTRY ZONES A. Building"
+   ],
+   "snippets": [
+    "9.24.060 And 19.46.070 to Create Standards to Keep Snow on Property and Protect Roadways, Neighboring Properties and Driveways from Snow Release from Roofs. For more information, see the attached ordinance. Notice of Special Accommodatio",
+    "plans and building designs must [resolve snow release issues to the satisfaction of the Chief Building Official. ]account for snow release to keep snow on the property and prevent snow shedding off the roof onto a right of way or onto",
+    "m of approval, modified approval or denial on applications for a special exception. 2. Conditions. The Land Use Hearing Officer or Planning Commission may impose such conditions and restrictions upon the location, construction, design o",
+    "arking, vehicle entrances and walkways. Snow storage must be provided on the property.] C. Building Height. Except as otherwise specifically provided in this Title, no building or structure shall exceed thirty feet (30’) The elevation sh",
+    "to the exterior foundation of the proposed or existing building. C. Required Yards for One Building Only. 1. No required yard or setback area for a lot or building shall be considered as providing the required yard or setback for any",
+    "covering” shall have the same meaning as defined in the current adopted edition of the International Building Code. ii. If the ground between the building and the right of way or property line slopes downward from the building with",
+    "torage of snow as well as the release of snow from building roofs as set forth below: 1. Snow storage. a. Commercial Snow Storage. Commercial properties are required to incorporate into the site design area(s) total",
+    "the release of snow from building roofs as set forth below: 1. Snow storage. a. Commercial Snow Storage. Commercial properties are required to incorporate into the site design area(s) totaling not less than thirty-",
+    "and setbacks shall be measured from the property’s boundary line, as determined by the legal description or subdivision plat on record at the Salt Lake County Recorder’s Office, to the exterior foundation of the propo",
+    "n which the lot or parcel is located. Buildable areas shall be required to be identified for each lot on all subdivision plats and plans for the purposes of ensuring that an adequate buildable area is provided, and to"
+   ],
+   "foundAt": "2026-11-12"
+  },
+  {
+   "id": "fa2d886c5f9961f7",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Communities That Care Commission",
+   "entity": "Vineyard",
+   "title": "Vinyard Cares November 2026 Coalition Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122587.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1514871.pdf"
+   ],
+   "score": 6,
+   "terms": [
+    "church",
+    "school"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Vineyard Communities"
+    },
+    {
+     "role": "company",
+     "name": "Municipality Entity Vineyard Public Body Communities"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Vineyard Communities",
+    "Municipality Entity Vineyard Public Body Communities",
+    "Type Municipality Entity Vineyard Public Body Communities"
+   ],
+   "snippets": [
+    "bsite Division of Archives and Records Service 8137 /pmn/sitemap/noticeemail/1122587.html Vineyard Communities That Care Commission Vinyard Cares November 2026 Coalition Meeting Vinyard Cares November 2026 Coalition Meeting Subscribe to Pub",
+    "ember 2026 Coalition Meeting Subscribe to Public Body General Information Government Type Municipality Entity Vineyard Public Body Communities That Care Commission Notice Information Add Notice to Calendar Notice Title Vinyard Cares Novembe",
+    "nd of this meeting, participants will have: - Updates on Vineyard Cares activities - Heard from Valley Hope Church - Contributed to a preliminary recommendation of three to five priority risk factors for the Community",
+    "Choose White Elephant or Pass the Parcel for the social and celebration. 3. Partner Spotlight: Valley Hope Church Will Reynolds, Lead Pastor - Introduction to Valley Hope Church and its community connection - Quest",
+    "ation. 3. Partner Spotlight: Valley Hope Church Will Reynolds, Lead Pastor - Introduction to Valley Hope Church and its community connection - Questions and discussion 4. Community Assessment and Closing: Prelim",
+    "nd of this meeting, participants will have: • Updates on Vineyard Cares activities • Heard from Valley Hope Church • Contributed to a preliminary recommendation of three to five priority risk factors for the Communit"
+   ],
+   "foundAt": "2026-11-12"
+  },
+  {
+   "id": "3333d0cc8c7f20d5",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "South Weber",
+   "title": "PC 2026-11-12 Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122547.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1514783.pdf",
+    "https://www.utah.gov/pmn/files/1514785.pdf"
+   ],
+   "score": 18,
+   "terms": [
+    "office building",
+    "preliminary plat",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Duane Johnson 6"
+    },
+    {
+     "role": "applicant",
+     "name": "Beruhz Namazi 7"
+    },
+    {
+     "role": "applicant",
+     "name": "Russell Wilson"
+    },
+    {
+     "role": "applicant",
+     "name": "Duane Johnson Location"
+    },
+    {
+     "role": "company",
+     "name": "Symphony Homes"
+    },
+    {
+     "role": "company",
+     "name": "AICP Community Development"
+    },
+    {
+     "role": "company",
+     "name": "Plan The General Plan Projected Land"
+    },
+    {
+     "role": "company",
+     "name": "West Single-Family Homes"
+    },
+    {
+     "role": "company",
+     "name": "Projected Land"
+    }
+   ],
+   "sizes": [
+    "4.379 acres",
+    "9.375 acres",
+    "13.86 acres",
+    "10 acres",
+    "32 acres",
+    "15,000 square feet"
+   ],
+   "companies": [
+    "Duane Johnson 6",
+    "Beruhz Namazi 7",
+    "Russell Wilson",
+    "Duane Johnson Location",
+    "Symphony Homes",
+    "AICP Community Development",
+    "Plan The General Plan Projected Land",
+    "West Single-Family Homes",
+    "Projected Land"
+   ],
+   "snippets": [
+    "Cottonwood Estates Preliminary Plat Approval at approximately 1675 E 7650 S, Applicants: Russell Wilson, Symphony Homes DISCUSSION ITEMS 8. General Plan Amendment Discussion REPORTS 9. Commission 10. Adjourn In compl",
+    "tes Preliminary Plat Approval at approximately 1675 E 7650 S, Applicants: Russell Wilson, Symphony Homes DISCUSSION ITEMS 8. General Plan Amendment Discussion REPORTS 9. Commission 10. Adjourn In compliance with the A",
+    "Evans, AICP Community Development Manager ITEM TYPE Zone Change ATTACHMENTS Application Projected Land Use Map Zoning Map 5. Meadows Rezone 9 of 28 BACKGROUND This application is the first step toward subdividing this 13.86 acres for a su",
+    "esidential Patio Zone on 9.375 acres) on approximately 13.86 acres total. Applicant: Duane Johnson 6. Namazi Preliminary Plat Approval at approximately 1945 E South Weber Dr, Applicant: Beruhz Namazi 7. Cottonwood Esta",
+    "iminary Plat Approval at approximately 1945 E South Weber Dr, Applicant: Beruhz Namazi 7. Cottonwood Estates Preliminary Plat Approval at approximately 1675 E 7650 S, Applicants: Russell Wilson, Symphony Homes DI",
+    "Residential Patio Zone on 9.375 acres) on approximately 13.86 acres total. Applicant: Duane Johnson 6. Namazi Preliminary Plat Approval at approximately 1945 E South Weber Dr, Applicant: Beruhz Namazi 7. Cottonwood Estat",
+    "liminary Plat Approval at approximately 1945 E South Weber Dr, Applicant: Beruhz Namazi 7. Cottonwood Estates Preliminary Plat Approval at approximately 1675 E 7650 S, Applicants: Russell Wilson, Sy mphony Homes DISCUSSI"
+   ],
+   "foundAt": "2026-11-12"
+  },
+  {
+   "id": "9c35ee699691d97a",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town Council",
+   "entity": "Hatch",
+   "title": "Hatch Town Council Meeting",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122535.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1514743.pdf",
+    "https://www.utah.gov/pmn/files/1514745.pdf"
+   ],
+   "score": 13,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "owner",
+     "name": "Principal Amount"
+    },
+    {
+     "role": "applicant",
+     "name": "an equivalent principal amount of Serial Bonds"
+    },
+    {
+     "role": "applicant",
+     "name": "Bonds"
+    },
+    {
+     "role": "company",
+     "name": "Permitted Investments"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Principal Amount",
+    "an equivalent principal amount of Serial Bonds",
+    "Bonds",
+    "Permitted Investments"
+   ],
+   "snippets": [
+    "EREST RATE 1.0% MATURITY DATE October 1, ____ DATED DATE ________, 20__ Registered Owner: Principal Amount: _______________________________________DOLLARS KNOW ALL MEN BY THESE PRESENTS that the Town of Hatch, Garfield County, Utah (the \"I",
+    "s Resolution authorizing the issuance of not to exceed $1,200,000 in Parity Water Revenue Bonds of the Town of Hatch, Garfield County, Utah and calling of a public hearing to receive input with respect to the issuance of such Bonds and any",
+    "ears in which an Installment Amount comes due, described as the years 2028 through 2057. \"Permitted Investments\" means those investments specified in Section 51-7-11, Utah Code Annotated, 1953, as amended. 3 \"Pledged Revenues\" means 100% of",
+    "________________ NOTICE: Signature(s) must be guaranteed by a member firm of The New York Stock Exchange or a commercial bank or trust company. NOTICE: The signature to this assignment must correspond with the name of th",
+    "ds of similar import refer to this Master Resolution as a whole and not to any particular Article, Section or subdivision hereof. The headings or titles of the several Articles and Sections hereof, and any table of cont"
+   ],
+   "foundAt": "2026-11-12"
+  },
+  {
+   "id": "55d1f9afcea4ae3e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Ballard City Council",
+   "entity": "Ballard",
+   "title": "Council Meeting Notice",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122589.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Ballard City Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Ballard City Building"
+   ],
+   "snippets": [
+    "iduals needing special accommodations during this meeting should notify Kaelyn Meyers at Ballard City Building, Route 2 Box 2381, Roosevelt, Utah 84066: 2381 East 1000 South, Ballard, Utah 84066, Phone: 435-722-3393. Notice of Electronic o",
+    "f the state Independent Legislative Ethics Commission. i. Some meetings held by county legislative bodies on commercial matters. j. Some meetings involving the state Higher Education Assistance Authority. k. Some meet"
+   ],
+   "foundAt": "2026-11-12"
+  },
+  {
+   "id": "77e58dc4122096da",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Lewiston City Planning & Zoning Commission",
+   "entity": "Lewiston",
+   "title": "Planning and Zoning Meeting",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122541.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1514769.pdf",
+    "https://www.utah.gov/pmn/files/1514771.pdf",
+    "https://www.utah.gov/pmn/files/1514773.pdf",
+    "https://www.utah.gov/pmn/files/1514775.pdf"
+   ],
+   "score": 21,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "final plat",
+    "industrial",
+    "master plan",
+    "site plan",
+    "warehouse"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Alan Lower"
+    },
+    {
+     "role": "property owner",
+     "name": "Double L Commodities"
+    },
+    {
+     "role": "company",
+     "name": "Proposed Building Design"
+    },
+    {
+     "role": "company",
+     "name": "AND ZONING MATRIX Direction Current Land"
+    },
+    {
+     "role": "company",
+     "name": "Lewiston Building"
+    }
+   ],
+   "sizes": [
+    "55.60 acres",
+    "10 acres",
+    "10 acre",
+    "55.6 acres"
+   ],
+   "companies": [
+    "Alan Lower",
+    "Double L Commodities",
+    "Proposed Building Design",
+    "AND ZONING MATRIX Direction Current Land",
+    "Lewiston Building",
+    "Proposed Building"
+   ],
+   "snippets": [
+    "l warehouse in the A-10 Agriculture 10-acres zone. I. EXECUTIVE SUMMARY • Applicant: Alan Lower, Double L Commodities, LLC • Property Owner: Double L Commodities, LLC • Parcel Number: 09-069-0002 • Total Acreage: 55.60 Acres total",
+    "The public comment period will last a maximum of 20 minutes. Regular Action Items 1. Double L Commodities, LLC - Conditional Use Permit Application for a cold storage facility; Parcel #09-069-0002, 55.60 acres at approximately 2400 S M",
+    "uble L Commodities, LLC.pdf Public Information Handout 2026/11/11 12:50 PM Attachment B - Proposed Building Design - Double L.pdf Public Information Handout 2026/11/11 12:51 PM Attachment C - Double L Commodities CUP Application.pdf Public",
+    "CKED DRAWN BY: PROJECT #: DESIGNED BY: 5/25/2026 7/31/2026 2:05:22 PM A6 3D viewLower's Lewiston Building 1 326 Oct 21, 2023 Author Checker Designer MARK: DATE: DESCRIPTION: A6 1 3D View 7 A6 2 3D View 8",
+    "inding The Planning Commission finds that the proposed warehouse will increase vehicular traffic, including commercial truck traffic, entering and exiting the site during both daytime and nighttime hours. Adequate ill",
+    "n spaces, agricultural fields, low -density development, and large viewsheds. The warehouse use introduces a commercial -industrial building type that differs from the prevailing character of the area. Architectur al t",
+    "ve both the proposed development and adjacent properties. Recommended Condition Prior to recordation of any final plat or issuance of a building permit, the applicant shall dedicate to the municipality, at no cost, al",
+    "currently zoned A- 10 for agricultural uses. Storage and warehousing is a conditional use in this zone. The site plan is compliant with City design standards. TAX PARCEL #09-069-0002 BEG AT THE NE/4 C0R OF SEC 2"
+   ],
+   "foundAt": "2026-11-12"
+  },
+  {
+   "id": "4b8b41f715f2401f",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/",
+   "title": "Planning Commission Special Meeting 11/16/2026",
+   "meetingDate": "2026-11-16",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1122737.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1515297.pdf"
+   ],
+   "score": 50,
+   "terms": [
+    "apartment",
+    "assisted living",
+    "clinic",
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "hotel",
+    "industrial",
+    "lots",
+    "master plan",
+    "medical",
+    "multi-family",
+    "multifamily",
+    "phase",
+    "pud",
+    "school",
+    "site plan",
+    "subdivision",
+    "townhouse",
+    "units",
+    "warehouse"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "governmental entities"
+    },
+    {
+     "role": "company",
+     "name": "Moab Area Community Land Trust"
+    },
+    {
+     "role": "company",
+     "name": "Draft Land"
+    },
+    {
+     "role": "company",
+     "name": "Grand County Land"
+    },
+    {
+     "role": "company",
+     "name": "Household Living"
+    },
+    {
+     "role": "company",
+     "name": "Group Living Group"
+    },
+    {
+     "role": "company",
+     "name": "OA- Residential"
+    },
+    {
+     "role": "company",
+     "name": "A. Household Living"
+    },
+    {
+     "role": "company",
+     "name": "See Group Living"
+    },
+    {
+     "role": "company",
+     "name": "Camping B. Group Living"
+    },
+    {
+     "role": "company",
+     "name": "See Household Living"
+    },
+    {
+     "role": "company",
+     "name": "Orphanages Residential"
+    }
+   ],
+   "sizes": [
+    "1 unit",
+    "5 acre",
+    "400 square feet",
+    "6 units",
+    "4 acres",
+    "8 dwelling units"
+   ],
+   "companies": [
+    "governmental entities",
+    "Moab Area Community Land Trust",
+    "Draft Land",
+    "Grand County Land",
+    "Household Living",
+    "Group Living Group",
+    "OA- Residential",
+    "A. Household Living",
+    "See Group Living",
+    "Camping B. Group Living",
+    "See Household Living",
+    "Orphanages Residential",
+    "P Group Living Group",
+    "P P P C P P Building",
+    "See Group",
+    "Camping B. Group",
+    "CE. Group",
+    "DF. Other Group Living Group",
+    "FH. Manufactured Homes",
+    "General Development",
+    "Community Development",
+    "Grand County Community Development"
+   ],
+   "snippets": [
+    "ted to the following activities: a. Aviation activities conducted by or on behalf of governmental entities; b. Medical, search-and-rescue, or other life safety emergency aviation activities; c. Aviation activities for agricultu",
+    "Public Hearings 5:54 p.m. 1. Ordinance Amending Arroyo Crossing PUD Master Plan for Moab Area Community Land Trust (MACLT) L. Ceniceros gave a brief introduction and then turned the time over to MACLT Director, Kaitlin Myers, and t",
+    "with markup for review Page 5 of 232 Draft LUC Articles 4–6: What Changed | Page 1 Draft Land Use Code, Articles 4–6: What Changed Planning Commission review guide | Draft dated 10/16/26 compared to existing code dated 7/9/26 Th",
+    "atibility Standards (6.10) → 7.9; Development Impact Fees (6.13) → 10.2. Page 10 of 232 Grand County Land Use Code Article 3 Use Regulations Page 75/392 The Grand County Land Use Code is current through Ordinance 687, passed November",
+    "rations Regarding Principal Uses. 3.4.7 Residential Use Categories Revised 3/21 A. Household Living Page 19 of 232 Grand County Land Use Code Article 3 Use Regulations Page 84/392 The Grand County Land Use Code is current th",
+    "ly retarded, or emotionally disturbed that are not considered single-family residences (See Group Living) Nursing or convalescent home (See Group Living) Residential assisted living facility not having individual dwelling units (See G",
+    "sed ordinance amending the Arroyo Crossing PUD Master Plan to depict the division of Tract K, identified as ‘Apartment B’, into two parcels, subject to the findings and any conditions or revisions adopted by this Commi",
+    "Multi-family Dwelling Three or more attached dwelling units in a single structure on a single lot. An apartment can vary in height from two to three stories; individual units can be mixed vertically.",
+    "icant and substantial public benefit\"; sensitive-lands and economic-diversification criteria dropped. 4.3 Commercial 3.2.3; self-storage and RV/boat storage from 3.2.4 Regrouped by use type (eating, entertainme",
+    "dren, in a residence), General (≤16, in a residence; CUP must address traffic, noise, proximity), and a new Commercial tier (dedicated facility; CUP in residential zones). Previously \"General\" meant any center with mo"
+   ],
+   "foundAt": "2026-11-12"
+  }
+ ]
+}
