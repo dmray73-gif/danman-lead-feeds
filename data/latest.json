@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:55:19.378940Z",
+ "updated": "2026-11-15T17:18:29.676415Z",
  "report": {
   "arcgis:provo-current-projects": {
    "items": 0,
@@ -26,11 +26,11 @@
    "ok": true
   },
   "pmn": {
-   "items": 46,
+   "items": 0,
    "ok": true
   }
  },
- "newToday": 46,
+ "newToday": 0,
  "items": [
   {
    "id": "d2644765f37a13bb",
