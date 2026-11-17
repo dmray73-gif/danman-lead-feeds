@@ -1,0 +1,1472 @@
+{
+ "report": {
+  "arcgis:provo-current-projects": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:summit-county-2026": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:west-jordan": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:orem": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:riverton": {
+   "items": 0,
+   "ok": true
+  },
+  "accela:salt-lake-city": {
+   "items": 0,
+   "ok": true
+  },
+  "pmn": {
+   "items": 26,
+   "ok": true
+  }
+ },
+ "items": [
+  {
+   "id": "ff933c26ddcb6149",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Orangeville City Planning and Zoning",
+   "entity": "Orangeville",
+   "title": "17Nov2026 Agenda",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123767.html",
+   "files": [],
+   "score": 5,
+   "terms": [
+    "data center",
+    "industrial"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "er: Water use ordinances 13. Discuss/Consider: Nuclear and advanced energy ordinance 14. Discuss/Consider: Data Center ordinance 15. Discuss/Consider: Heavy industrial manufacturing ordinance 16. Discuss/Consider: P"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "c4f16c3addc99c4c",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Division Open Houses",
+   "entity": "Salt Lake City",
+   "title": "SLC Planning Division: Online Open House New Active Projects (November 17, 2026)",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124031.html",
+   "files": [],
+   "score": 7,
+   "terms": [
+    "mixed-use",
+    "school",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Dan Dugan Contact Info"
+    }
+   ],
+   "sizes": [
+    "345 units",
+    "1,010 beds"
+   ],
+   "companies": [
+    "Dan Dugan Contact Info"
+   ],
+   "snippets": [
+    "mately 780 S Guardsman Way. The proposal is to rezone the property from the current I, Institutional to MU-6, Mixed-Use 6, zoning district. The subject property currently operates as a special education school, known",
+    "onal to MU-6, Mixed-Use 6, zoning district. The subject property currently operates as a special education school, known as Carmen B. Pingree Autism Center of Learning, which plans to relocate. The proposed rezone is",
+    "opment of a 5-story student housing community serving the University of Utah, consisting of approximately 345 units with 1,010 beds. The proposed community benefit associated with this request is to provide a café locati"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "c52242484ac08853",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Morgan County Planning Commission",
+   "entity": "Morgan County",
+   "title": "Planning Commission Meeting 11.12.2026",
+   "meetingDate": "2026-11-12",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123769.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517623.pdf",
+    "https://www.utah.gov/pmn/files/1517625.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "phase",
+    "site plan"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Persons"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Persons"
+   ],
+   "snippets": [
+    "d auxiliary communicative aids and services for all those citizens in need of assistance. Persons requesting these accommodations should call Planning & Development at 801-845-4015, giving at least 24 hours' notice prior to the meeting. A p",
+    "ty General Plan. 9. Public Hearing/Discussion/Recommendation - Morgan County Code proposed text amendment: Commercial Aviation Uses and Short-Term Aviator Lodging within the Morgan County Airport Overlay Zone and the",
+    "Aviation Uses and Short-Term Aviator Lodging within the Morgan County Airport Overlay Zone and the underlying Commercial Buffer zoning district. 10. Public Hearing/Discussion/Recommendation - Morgan County Code propos",
+    "unty General Plan. 9. Public Hearing/Discussion/Recommendation Morgan County Code proposed text amendment: Commercial Aviation Uses and Short-Term Aviator Lodging within the Morgan County Airport Overlay Zone and the",
+    "Aviation Uses and Short-Term Aviator Lodging within the Morgan County Airport Overlay Zone and the underlying Commercial Buffer zoning district. 10. Public Hearing/Discussion/Recommendation Morgan County Code proposed"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "5249118805be6f0c",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Cottonwood Heights",
+   "title": "CITY COUNCIL WORK SESSION AND BUSINESS MEETING AGENDAS",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123713.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517483.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "dwelling",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Cache Valley Electric Company"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Cache Valley Electric Company"
+   ],
+   "snippets": [
+    "Approving AudioVisual System Upgrades for City Facilities and Authorizing Agreements with Cache Valley Electric Company Under State Contract MA4358) 6.8 Consideration of Ordinance 483 (An Ordinance Approving an Exception Under Section 14",
+    "tion of Ordinance 482 (An Ordinance Amending Title 19 of the Cottonwood Heights Code of Ordinances (Accessory Dwelling Units) 6.2 Consideration of Resolution 2026-68 (A Resolution Approving a Cooperative Agreement bet",
+    "ion of Ordinance 482 (An Ordinance Amending Title 19 of the Cottonwood Heights Code of Ordinances (Accessory Dwelling Units) 6.2 Consideration of Resolution 2026-68 (A Resolution Approving a Cooperative Agreement be",
+    "rdinance 482 (An Ordinance Amending Title 19 of the Cottonwood Heights Code of Ordinances (Accessory Dwelling Units) 6.2 Consideration of Resolution 2026-68 (A Resolution Approving a Cooperative Agreement between the",
+    "dinance 482 (An Ordinance Amending Title 19 of the Cottonwood Heights Code of Ordinances (Accessory Dwelling Units) 6.2 Consideration of Resolution 2026-68 (A Resolution Approving a Cooperative Agreement between the"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "3cfa6f73f18ea7f4",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Toquerville City Council",
+   "entity": "Toquerville",
+   "title": "11.18.2026 City Council Meeting",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123925.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517917.pdf",
+    "https://www.utah.gov/pmn/files/1517919.pdf",
+    "https://www.utah.gov/pmn/files/1517921.pdf",
+    "https://www.utah.gov/pmn/files/1517923.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "master plan",
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "representative",
+     "name": "Mike Chandler None. 11.04.2026 City Council Meeting"
+    },
+    {
+     "role": "representative",
+     "name": "Chief Robert Hooper Chief Robert Hooper"
+    },
+    {
+     "role": "applicant",
+     "name": "Babylon Lands"
+    },
+    {
+     "role": "applicant",
+     "name": "Solara Communities LLC"
+    },
+    {
+     "role": "applicant",
+     "name": "2026"
+    },
+    {
+     "role": "company",
+     "name": "Hillside Development"
+    },
+    {
+     "role": "company",
+     "name": "Firelight Development"
+    },
+    {
+     "role": "company",
+     "name": "PM Iconic Parkway Hillside Development"
+    },
+    {
+     "role": "company",
+     "name": "RECORDING RECITALS WHEREAS Solara Communities LLC"
+    }
+   ],
+   "sizes": [
+    "200.07 acres"
+   ],
+   "companies": [
+    "Mike Chandler None. 11.04.2026 City Council Meeting",
+    "Chief Robert Hooper Chief Robert Hooper",
+    "Babylon Lands",
+    "Solara Communities LLC",
+    "2026",
+    "Hillside Development",
+    "Firelight Development",
+    "PM Iconic Parkway Hillside Development",
+    "RECORDING RECITALS WHEREAS Solara Communities LLC"
+   ],
+   "snippets": [
+    "Discussion and possible action on a Hillside Development Permit application submitted by Babylon Lands, LLC for Iconic Parkway. F. WORK ITEMS: 1. Discussion on the Transportation Master Plan. 2. Discussion on blasting permits. G.",
+    "CITY; PROVIDING FOR AN OFFICIAL BOUNDARY MAP AMENDMENT, RECORDING RECITALS WHEREAS Solara Communities LLC submitted a petition dated July 30, 2026, requesting annexation of approximately 200.07 acres located near Mills Lane in uninc",
+    "ice 2758 /pmn/sitemap/noticeemail/1123925.html Toquerville Toquerville City Council 11.18.2026 City Council Meeting 11.18.2026 City Council Meeting Subscribe to Public Body General Information Government Type Municipality Entity Toquerville",
+    "authorizing the Mayor to execute the addendum. 4. Discussion and possible action on a Hillside Development Permit application submitted by Babylon Lands, LLC for Iconic Parkway. F. WORK ITEMS: 1. Discussion on the Transportation Ma",
+    "irelight Signage.pdf Public Information Handout 2026/11/16 04:51 PM Addendum No. 3 to the Firelight Development Agreement - Signs.pdf Public Information Handout 2026/11/16 04:51 PM Firelight Sign Package.pdf Public Information Handout 2026/",
+    "10.16 ICONIC PARKWAY HILLSIDE REVIEW PLAN.pdf Public Information Handout 2026/11/16 04:56 PM Iconic Parkway Hillside Development Permit Complete_Redacted.pdf Public Information Handout 2026/11/16 04:57 PM Toquerville TMP - Draft (11.9.2026)",
+    "n submitted by Babylon Lands, LLC for Iconic Parkway. F. WORK ITEMS: 1. Discussion on the Transportation Master Plan. 2. Discussion on blasting permits. G. CALENDAR OF EVENTS: 1. Christmas Tree Lighting - Mond",
+    "submitted by Babylon Lands, LLC for Iconic Parkway. F. WORK ITEMS: 1. Discussion on the Transportation Master Plan. 2. Discussion on blasting permits. G. CALENDAR OF EVENTS: 1. Christmas Tree Lighting – Mo",
+    "s from the fire district. Darrin reported that he is working with the engineers to finish the Transportation Master Plan as well as the Pavement Management Plan. Darrin responded to questions from the Council regarding",
+    "at http://pmn.utah.gov, posted on the Toquerville City website at www.toquerville.org and posted at the City Office Building at 212 N Toquer Blvd. Posted November 16, 2026, by Toquerville City Recorder, Emily Teaters. N"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "9540c299b64cfcb3",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Weber County Planning Division",
+   "entity": "Weber County",
+   "title": "Administrative Review - 11/18/2026",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124088.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518256.pdf"
+   ],
+   "score": 5,
+   "terms": [
+    "lots",
+    "phase",
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [
+    "3.7 acre",
+    "2 lots"
+   ],
+   "companies": [],
+   "snippets": [
+    "ems 2.1 LVR091426: Consideration and action on a request for final approval of the Riverbend Farms Cluster Subdivision Phase 1 First Amendment, to relocate open space and plat a ten lot subdivision over a 3.7 acre pa",
+    "f the Riverbend Farms Cluster Subdivision Phase 1 First Amendment, to relocate open space and plat a ten lot subdivision over a 3.7 acre parcel located on the corner of 900 South Street and 3600 West. Staff Presenter:",
+    "senter: Felix Lleverino 2.2 LVH021225: Consideration and action on a request for final approval of the H&H Subdivision consisting of 2 lots. Staff Presenter: Felix Lleverino Adjourn Notice of Special Accommodation"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "c016043359d1cf26",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Weber County Planning Division",
+   "entity": "Weber County",
+   "title": "Weber County Planning Commission Meeting",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123747.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517567.pdf",
+    "https://www.utah.gov/pmn/files/1517569.pdf",
+    "https://www.utah.gov/pmn/files/1517571.pdf"
+   ],
+   "score": 12,
+   "terms": [
+    "dwelling",
+    "lots",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Bennet LLC"
+    },
+    {
+     "role": "representative",
+     "name": "Genneva Blanchard File Number"
+    },
+    {
+     "role": "company",
+     "name": "Bennet Master Planned Development"
+    },
+    {
+     "role": "company",
+     "name": "Adjacent Land"
+    },
+    {
+     "role": "company",
+     "name": "Large Lot Residential"
+    },
+    {
+     "role": "company",
+     "name": "RG Applicable Ordinances Weber County Land"
+    },
+    {
+     "role": "company",
+     "name": "Conceptual Design"
+    },
+    {
+     "role": "company",
+     "name": "Project Land"
+    },
+    {
+     "role": "company",
+     "name": "Revised Conceptual Design"
+    },
+    {
+     "role": "company",
+     "name": "Revised Project Land"
+    },
+    {
+     "role": "company",
+     "name": "Gardner Engineering"
+    }
+   ],
+   "sizes": [
+    "34.59 acres",
+    "15 acres",
+    "0 acres",
+    "35 acres",
+    "20 acres",
+    "550 acres"
+   ],
+   "companies": [
+    "Bennet LLC",
+    "Genneva Blanchard File Number",
+    "Bennet Master Planned Development",
+    "Adjacent Land",
+    "Large Lot Residential",
+    "RG Applicable Ordinances Weber County Land",
+    "Conceptual Design",
+    "Project Land",
+    "Revised Conceptual Design",
+    "Revised Project Land",
+    "Gardner Engineering",
+    "Staff-Generated Development",
+    "UTAH And BENNET LLC"
+   ],
+   "snippets": [
+    "ed Development, with designation as TN-Bennet. Agenda Date: October 13, 2026 Applicant: Bennet LLC, Representative: Genneva Blanchard File Number: ZMA2026-07 Frontier Project Link: https://frontier.co.weber.ut.us/p/Project/Index/27039",
+    "mendment to incorporate approximately 34.59 acres across five parcels into the existing Bennet Master Planned Development, with designation as TN-Bennet and amended development agreement. Staff Presenter: Charlie Ewert 3. Public",
+    ": TN-Bennet, a project-specific designation within the Traditional Neighborhood (TN) zone Adjacent Land Use North: Bennet Master Planned Development/Agriculture South: Agricultural and Large Lot Residential East: Bennet Master Planned Dev",
+    "nt Land Use North: Bennet Master Planned Development/Agriculture South: Agricultural and Large Lot Residential East: Bennet Master Planned Development/Agriculture West: Agricultural and Large Lot Residential Staff Information Report Pre",
+    "Property Graphic Depiction), Exhibit B-2 (Property Depiction of Prior Zones), Exhibit C (Conceptual Design Code), Exhibit D (Project Land Plan) and Exhibit E-1 (Major Street Transportation Plan). No replacement exhibit is effective unless",
+    "Exhibit C - Revised Conceptual Design Code.  Exhibit D: Replacement Exhibit D - Revised Project Land Plan.  Exhibit E-1: Replacement Exhibit E-1 - Revised Major Street Transportation Plan, only if changed.  Exhibit F: Original Agreeme",
+    "l Serve Letter Charlie: At the request of Blackpine to provide sanitary sewer treatment services to the subdivision called Bennet (additional parcels), a development of 200 Residences located approximately 4700 W.",
+    "onnection to the District’s facilities. This annexation must be complete before the sale of any lots in the subdivision. We offer the following comments regarding Central Weber providing sanitary sewer service. 1",
+    "sewer service. 1. At this time, the District has the capacity to treat the sanitary sewer flow from this subdivision. Inasmuch as the system demand continuously changes with growth, this assessment is valid for th",
+    "ce of the proposed sanitary sewer lines (gravity or pressure) or system that will be installed to serve this subdivision. 4. The connection of any sump pumps (or similar type pumps) to the sanitary sewer system i"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "386e5f7e46ba722b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "East Carbon",
+   "title": "Meeting Agenda",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123983.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Business License Desert Souls Adventure LLC"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Business License Desert Souls Adventure LLC"
+   ],
+   "snippets": [
+    "of Previous Meeting Minutes. 4. Petitions, Remonstrances & Communications & Motions: 1.Business License Desert Souls Adventure LLC 2. Liz Ferguson Conditional Use Permit 3. Discussion and possible approval of Landlord Agreement 4.",
+    ", Remonstrances & Communications & Motions: 1.Business License Desert Souls Adventure LLC 2. Liz Ferguson Conditional Use Permit 3. Discussion and possible approval of Landlord Agreement 4. Discussion on 515 Edg"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "7b66755a17ee4682",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Big Water City Council",
+   "entity": "Big Water",
+   "title": "November 2026 Regular Meeting",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123999.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518045.pdf",
+    "https://www.utah.gov/pmn/files/1518047.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "commercial",
+    "industrial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Ordinance Of Big Water Municipal Corporation"
+    },
+    {
+     "role": "company",
+     "name": "And Limited Use Of Mobile Homes"
+    },
+    {
+     "role": "company",
+     "name": "And Motor Homes"
+    },
+    {
+     "role": "company",
+     "name": "Big Water Municipal Corporation"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Ordinance Of Big Water Municipal Corporation",
+    "And Limited Use Of Mobile Homes",
+    "And Motor Homes",
+    "Big Water Municipal Corporation",
+    "Location And Limited Use Of Mobile Homes"
+   ],
+   "snippets": [
+    "- Lone Rock Views Mylar d) Discussions and Possible Action on - Ordinance 09-2026, An Ordinance Of Big Water Municipal Corporation, Kane County, Utah, Amending Title 15 Of The Big Water Zoning Code Regarding The Location And Limited Us",
+    "Kane County, Utah, Amending Title 15 Of The Big Water Zoning Code Regarding The Location And Limited Use Of Mobile Homes, Travel Trailers, Recreational Vehicles, Boats, Camping Trailers, Truck Campers, And Motor Homes; Amending Section 15.",
+    "le Homes, Travel Trailers, Recreational Vehicles, Boats, Camping Trailers, Truck Campers, And Motor Homes; Amending Section 15.24.040; Adding Sections 15.24.045, 15.24.046, 15.24.047 And 15.24.048; Providing For Severability; And Providing",
+    "Views Mylar d) Discussions and Possible Action on - Ordinance 09-2026, An Ordinance Of Big Water Municipal Corporation, Kane County, Utah, Amending Title 15 Of The Big Water Zoning Code Regarding The Location And Limited Use Of Mobile H",
+    "epairs, lawful public works activities, agricultural operations, or Town-approved events. a . Industrial and commercial operations that require night time work due to weather conditions, material performance requirement"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "e94de79644b0d4b3",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Eureka",
+   "title": "Planning Commission Agenda",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123945.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517969.pdf"
+   ],
+   "score": 5,
+   "terms": [
+    "church",
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "A. New Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "A. New Building",
+    "Title Planning Commission Agenda Notice Tags Building"
+   ],
+   "snippets": [
+    "f the Minutes. 4. Report of Officers - Boards - Committees 5. Discussion/Action Items: A. New Building Permits, follow up old Building Permits. B. Conditional Use Permits in General. - Jose & Jenifer Castro, Application for CUP to st",
+    "enda EUREKA PLANNING COMMISSION AGENDA Wednesday, November 18, 2026 7:00 P.M. Eureka City Hall, 15 North Church Street, Eureka, UT 84628 PUBLIC NOTICE IS HEREBY GIVEN that the Eureka City Planning & Zoning Commis",
+    "a City Planning & Zoning Commission will hold a Regular Meeting at 7:00 pm, at the Eureka City Hall, 15 North Church St., Eureka, UT 84628. The agenda for the meetings is as follows: (NOTE: The agenda may be accelera",
+    "otice of Electronic or Telephone Participation NA Meeting Information Meeting Location P. O. Box 156 15 North Church Street Eureka, UT 84628 Show in Apple Maps Show in Google Maps Contact Name Patricia Bigler Contact Ema",
+    "). EUREKA PLANNING COMMISSION AGENDA Wednesday, November 18, 2026 7:00 P.M. Eureka City Hall, 15 North Church Street, Eureka, UT 84628 PUBLIC NOTICE IS HEREBY GIVEN that the Eureka City Planning & Zoning Commis"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "ddd10ae0da986644",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Magna Council",
+   "entity": "Magna City",
+   "title": "Magna City Council Meeting",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123867.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517849.pdf",
+    "https://www.utah.gov/pmn/files/1517851.pdf"
+   ],
+   "score": 16,
+   "terms": [
+    "clinic",
+    "commercial",
+    "lots",
+    "master plan",
+    "medical",
+    "school",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Broadway Building"
+    },
+    {
+     "role": "company",
+     "name": "Landmark Design"
+    },
+    {
+     "role": "company",
+     "name": "STAKEHOLDER REPORTS A. Engineering"
+    },
+    {
+     "role": "company",
+     "name": "No Building"
+    },
+    {
+     "role": "company",
+     "name": "Gerber Construction"
+    },
+    {
+     "role": "company",
+     "name": "Meridian Land"
+    },
+    {
+     "role": "company",
+     "name": "Assigned Capital"
+    },
+    {
+     "role": "company",
+     "name": "Total Building"
+    },
+    {
+     "role": "company",
+     "name": "Floodplain Development"
+    },
+    {
+     "role": "company",
+     "name": "Web Page Development"
+    },
+    {
+     "role": "company",
+     "name": "Lincoln-Hill Partners"
+    },
+    {
+     "role": "company",
+     "name": "Ivory Homes"
+    }
+   ],
+   "sizes": [
+    "400 square feet",
+    "700 square feet",
+    "1,000 sq. ft",
+    "2,000 sq. ft",
+    "3,000 sq. ft",
+    "400 sq. ft"
+   ],
+   "companies": [
+    "Broadway Building",
+    "Landmark Design",
+    "STAKEHOLDER REPORTS A. Engineering",
+    "No Building",
+    "Gerber Construction",
+    "Meridian Land",
+    "Assigned Capital",
+    "Total Building",
+    "Floodplain Development",
+    "Web Page Development",
+    "Lincoln-Hill Partners",
+    "Ivory Homes",
+    "Community Development",
+    "Department Highlights City Development"
+   ],
+   "snippets": [
+    "ation, discussion, and possible action at 6:00 PM on the 17th day of November 2026 at the Broadway Building, 3151 South Broadway Street (7700 West) Magna, Utah as follows: ** Portions of the meetings may be closed for reasons allowed by st",
+    "ark Study Updates - Matt Starley and Daniele Benigni, Long Range Planning and Sam Taylor, Landmark Design 9. STAKEHOLDER REPORTS A. Engineering Updates - Chad Anderson, Assistant City Engineer B. Unified Fire Authority - Chief Kelly Mi",
+    "lth Department Tent permit (over 400 sq. ft., or 700 sq. ft. without sides) ☐ Yes ☐ No Building official / Unified Fire Authority Fire or open-flame approval ☐ Yes ☐ No Unified Fire Authority Page 12 Single event (alcohol) perm",
+    "09/30/2026 46.88 Council dinner meeting 9/8 604100.200 - Awards, Promotional & $46.88 Gerber Construction, Inc. 5085 8328 08/31/2026 09/21/2026 9,500.00 Change order for Duct & Footing Work 654100.730 - Building Maintena nce - Gerber",
+    "3 8952 W Magna Main St - July & Aug 2026 654100.730 - Building Mainten ance - $1,146.44 Meridian Land Counsel, PLLC ACH.0909261457.4923 Magna City - 6 08/25/2026 09/09/2026 468.00 Legal Se rvices for Magna City - Aug 2026 6 04100.310 - At",
+    "y - Fund Balance 29000 Unassigned Net Position (Fund Bal) 1,548,049.68 2,175,081.82 29010 Assigned Capital Fund 1,976,496.05 1,976,496.05 Total Equity - Fund Balance 3,524,545.73 4,151,577.87 Total Liabilites and Fund Equity: 4,408,147.34 5",
+    "g rooms and community rooms. Offices, records areas, and staff work areas are not available for rental. 6. “Commercial Use” means a Rental by or for a for-profit business, or any Rental at which goods or services are",
+    "ental at which goods or services are sold, admission is charged, or filming or photography is conducted for commercial purposes. 7. “Facility” means a City Building, a room within a City Building, or the Baseball Fiel",
+    "aseball Field. 8. “Large Event” means a Rental that (a) is expected to have 100 or more Attendees; (b) is a Commercial Use; (c) involves food service, alcohol, inflatables, tents, staging, amplified sound, or vendors;",
+    "sonably necessary given the nature, size, or risk of the activity. 2. Coverage. Required insurance shall be commercial general liability or special event liability insurance with limits of not less than $1,000,000 per"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "59c82cdd1f26dfc2",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Emigration Canyon Council",
+   "entity": "Emigration Canyon",
+   "title": "Emigration Canyon City Council Meeting",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123879.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517859.pdf",
+    "https://www.utah.gov/pmn/files/1517861.pdf"
+   ],
+   "score": 14,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "master plan",
+    "phase",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Cameron Platt"
+    },
+    {
+     "role": "applicant",
+     "name": "Emigration Canyon"
+    },
+    {
+     "role": "applicant",
+     "name": "engineering staff"
+    },
+    {
+     "role": "company",
+     "name": "Gary Bowen D. Land"
+    },
+    {
+     "role": "company",
+     "name": "Member Robert Pinon D. City Design"
+    },
+    {
+     "role": "company",
+     "name": "Possible High-Density Development"
+    },
+    {
+     "role": "company",
+     "name": "D. Land"
+    },
+    {
+     "role": "company",
+     "name": "PROJECT UPDATES A. Engineering"
+    },
+    {
+     "role": "company",
+     "name": "Pioneer Pipeline"
+    },
+    {
+     "role": "company",
+     "name": "E. City Design"
+    },
+    {
+     "role": "company",
+     "name": "G. City Design"
+    },
+    {
+     "role": "company",
+     "name": "MSD Engineering"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Cameron Platt",
+    "Emigration Canyon",
+    "engineering staff",
+    "Gary Bowen D. Land",
+    "Member Robert Pinon D. City Design",
+    "Possible High-Density Development",
+    "D. Land",
+    "PROJECT UPDATES A. Engineering",
+    "Pioneer Pipeline",
+    "E. City Design",
+    "G. City Design",
+    "MSD Engineering",
+    "Pioneer Pipeline. Company",
+    "Community Development",
+    "Total Building",
+    "Floodplain Development",
+    "Web Page Development"
+   ],
+   "snippets": [
+    "Catherine Harris Council Members Absent: Council Member Robert Pinon Staff Present: Cameron Platt – City Attorney, Det. Dawn Larsen – UPD, Chief Roger Beckman – UFA, Diana Baun – City Recorder, Lizel Allen – Director of Engineering,",
+    "bsite Division of Archives and Records Service 5809 /pmn/sitemap/noticeemail/1123879.html Emigration Canyon Emigration Canyon Council Emigration Canyon City Council Meeting Emigration Canyon City Council Meeting Subscribe to Public Body Gen",
+    "nted an update on current capital improvement projects in Emigration Canyon on behalf of engineering staff who were unable to attend. Projects included the Transportation Master Plan, Emigration Canyon Road Safety Improvement Project, roa",
+    "Salt Lake Valley Law Enforcement Service Area (SLVLESA) 1. Utah Broadband 2. Update on Possible High-Density Development 14. FUTURE AGENDA ITEMS 15. CLOSED SESSIONS IF NEEDED AS ALLOWED PURSUANT TO UTAH CODE §52-4-205 A. Discussio",
+    "Authority (UFA) – Chief Roger Beckman C. Salt Lake County Animal Services – Gary Bowen D. Land Use Updates – Claire Gillmor, Land Use Attorney 7. PROJECT UPDATES (Discussion Only) - None 8. CONSENT AGENDA (Discussion/Motion) A. Ap",
+    "ity, and address anticipated regional demand. Jeremy Price explained that the existing Pioneer Pipeline, jointly owned by HF Sinclair and Phillips 66, transported refined fuels from Wyoming to North Salt Lake. The pipeline was operating",
+    "on despite declining or stagnant demand in some other markets. Jeremy Price declined to discuss confidential commercial considerations but stated that the company was evaluating multiple alternatives, including options",
+    "ding special event permit requirements for cycling groups and other gatherings. Cameron Platt explained that commercial events could require permits regardless of participant numbers, while other events were subject to"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "52808caa8bb2929a",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Veterans Advisory Council",
+   "entity": "Department of Veterans and Military Affairs",
+   "title": "Veterans Advisory Council Meeting 11.18.2026",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124025.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518107.pdf",
+    "https://www.utah.gov/pmn/files/1518109.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "medical"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "SLC Home"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "SLC Home",
+    "SLC Home. Construction"
+   ],
+   "snippets": [
+    "f advised that they have selected Engage Contracting, Inc. as the contractor for the new SLC Home. Construction will start early next year and will take about 2 years to complete. Jeff then indicated that final approval has been grant",
+    "tober 21st meeting. 4. Subcommittee and Agency reports. A. VA Regional Office. B. VA Medical Center. C. Executive Director for Dept. of Veteran and Military Affairs. NEW BUSINESS",
+    "tes for the October 21s t meeting. 4. Subcommittee and Agency reports. A. VA Regional Office. B. VA Medical Center. C. Executive Director for Dept. of Veteran and Military Affairs. NEW BUSINESS",
+    "nationally and 96% for the SLC VARO for claims processing. She also reviewed recent staff changes. 4. VA Medical Center: Cory Pearson reported that the Ken Garff meal drop off will take place at the George Wahlen N"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "de2924a8cf1811d1",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Bicknell Town Planning Commission",
+   "entity": "Bicknell",
+   "title": "BICKNELL PLANNING AND ZONING COMMISSION AGENDA",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123803.html",
+   "files": [],
+   "score": 5,
+   "terms": [
+    "commercial",
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "II. Roll Call III. Approval of Minutes IV. Timeline for Subdivision Ordinance Application V. Setbacks for Commercial Zones VI. Sign Regulations VII. Business A. Member Reports VIII. Adjournment Notice of Special",
+    "November 17, 2026, 7:00 P.M. I. Welcome/Pledge II. Roll Call III. Approval of Minutes IV. Timeline for Subdivision Ordinance Application V. Setbacks for Commercial Zones VI. Sign Regulations VII. Business A. M"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "11a2378d5539de96",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Highland",
+   "title": "Public Hearing",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123737.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517529.pdf"
+   ],
+   "score": 15,
+   "terms": [
+    "assisted living",
+    "commercial",
+    "medical",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "LIHAI LLC"
+    },
+    {
+     "role": "company",
+     "name": "Skye Estates Assisted Living"
+    }
+   ],
+   "sizes": [
+    "75 units"
+   ],
+   "companies": [
+    "LIHAI LLC",
+    "Skye Estates Assisted Living"
+   ],
+   "snippets": [
+    "public comments concerning the following: - A request from Cole Cooper, on behalf of LIHAI LLC, for the City to enter into a legislative development agreement to approve the development of the commercial district of the Skye Estates su",
+    "M Download Attachments Download Attachments File Name Category Date Added CCPH 12.01.2026 Skye Estates Assisted Living, Neighborhood Notifications, Repeal Impact Fee.pdf Public Information Handout 2026/11/16 01:50 PM Subscribe Subscribe by",
+    "f LIHAI LLC, for the City to enter into a legislative development agreement to approve the development of the commercial district of the Skye Estates subdivision, namely the lot located generally at 6571 W Grant Blvd., H",
+    "IHAI LLC, for the City to enter into a legislative development agreement to approve the development of the commercial district of the Skye Estates subdivision, namely the lot located generally at 6571 W Grant Blvd.,",
+    "a legislative development agreement to approve the development of the commercial district of the Skye Estates subdivision, namely the lot located generally at 6571 W Grant Blvd., Highland, UT 84003, Utah County Parcel 66",
+    "legislative development agreement to approve the development of the commercial district of the Skye Estates subdivision, namely the lot located generally at 6571 W Grant Blvd., Highland, UT 84003, Utah County Parcel"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "6159e9f3448e0e25",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Spanish Fork",
+   "title": "AMENDED Spanish Fork City Council",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123881.html",
+   "files": [],
+   "score": 8,
+   "terms": [
+    "multi-family",
+    "preliminary plat"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Global Retirement Partners"
+    }
+   ],
+   "sizes": [
+    "8 acres"
+   ],
+   "companies": [
+    "Global Retirement Partners",
+    "Public Works Building"
+   ],
+   "snippets": [
+    "the November 3, 2026, City Council meeting. The agreement establishes GBS Retire, through Global Retirement Partners, LLC, as the investment advisor for the City's 401(k) retirement plan, effective January 1, 2027. Services include inves",
+    "lley Village (Anderson)) The proposed Master Planned Developments associated with this request include 896 multi-family homes that would be developed in the R-4 zone and approximately 8 acres that would be zoned C-2.",
+    "velopments located at approximately 2400 North Canyon Creek Parkway. a. Annexation b. Zone Change c. Preliminary Plat (South Valley Village) d. Preliminary Plat (South Valley Village (Anderson)) The propos",
+    "Canyon Creek Parkway. a. Annexation b. Zone Change c. Preliminary Plat (South Valley Village) d. Preliminary Plat (South Valley Village (Anderson)) The proposed Master Planned Developments associated with"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "dedf8aa0d8d0c8ef",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Development Review Committee (DRC)",
+   "entity": "Spanish Fork",
+   "title": "Spanish Fork City - Development Review Committee",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124013.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518069.pdf"
+   ],
+   "score": 12,
+   "terms": [
+    "commercial",
+    "lots",
+    "preliminary plat"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Spanish Fork Development"
+    },
+    {
+     "role": "company",
+     "name": "Entity Spanish Fork Public Body Development"
+    },
+    {
+     "role": "company",
+     "name": "Library Hall Development"
+    },
+    {
+     "role": "company",
+     "name": "Spanish Fork City Development"
+    },
+    {
+     "role": "company",
+     "name": "R-R Rural Residential"
+    },
+    {
+     "role": "company",
+     "name": "Master Planned Development"
+    },
+    {
+     "role": "company",
+     "name": "File Name Category Date Added Development"
+    }
+   ],
+   "sizes": [
+    "82 townhomes"
+   ],
+   "companies": [
+    "Spanish Fork Development",
+    "Entity Spanish Fork Public Body Development",
+    "Library Hall Development",
+    "Spanish Fork City Development",
+    "R-R Rural Residential",
+    "Master Planned Development",
+    "File Name Category Date Added Development",
+    "Municipality Entity Spanish Fork Public Body Development",
+    "Community Development",
+    "Agenda Development",
+    "Attachments File Name Category Date Added Development"
+   ],
+   "snippets": [
+    "Website Division of Archives and Records Service 7 /pmn/sitemap/noticeemail/1124013.html Spanish Fork Development Review Committee (DRC) Spanish Fork City - Development Review Committee Spanish Fork City - Development Review Committee Subs",
+    "eview Committee Subscribe to Public Body General Information Government Type Municipality Entity Spanish Fork Public Body Development Review Committee (DRC) Notice Information Add Notice to Calendar Notice Title Spanish Fork City - Developm",
+    "the employment or the provision of services. The public is invited to participate in all Spanish Fork City Development Review Committee. Meetings located at the City Council Chambers at Library Hall, 80 South Main Street, Spanish Fork. If",
+    "2.2 Larson Park This proposal involves a request to change the zoning of a property from R-R Rural Residential to C-2, R-3 & R-1-15 with the Master Planned Development Overlay and the approval of a Preliminary Plat consisting of 141 reside",
+    "e, section 15.3.20.080 (B)(2)(a) to change the minimum contiguous acreage requirement for Master Planned Developments from five acres to four acres. 2.2 Larson Park This proposal involves a request to change the zoning of a property fro",
+    "otice Last Edited On November 17, 2026 09:04 AM Download Attachments Download Attachments File Name Category Date Added Development Review Committee - Nov 18 2026 (2).pdf Public Information Handout 2026/11/17 09:04 AM Subscribe Subscribe by",
+    "pment Overlay and the approval of a Preliminary Plat consisting of 141 residential lots, 82 townhomes and one commercial lot, located at approximately 1700 West 1900 South. a. Zone Change b. Preliminary Plat 3.",
+    "R-R Rural Residential to C-2, R-3 & R-1-15 with the Master Planned Development Overlay and the approval of a Preliminary Plat consisting of 141 residential lots, 82 townhomes and one commercial lot, located at approxima",
+    ", 82 townhomes and one commercial lot, located at approximately 1700 West 1900 South. a. Zone Change b. Preliminary Plat 3. Discussion Items 3.1 Costco Fuel Expansion Concept 3.2 Mammoth Machinery Concept"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "0a724b4130d3c96d",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "County Commission",
+   "entity": "Iron County",
+   "title": "Iron County Commission Meeting",
+   "meetingDate": "2026-11-23",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124139.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518367.pdf"
+   ],
+   "score": 8,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Lucas Little. 2"
+    },
+    {
+     "role": "applicant",
+     "name": "Lucas Little"
+    },
+    {
+     "role": "applicant",
+     "name": "Brett Hamilton and Sam Woodall"
+    },
+    {
+     "role": "applicant",
+     "name": "McKayla Meinhardt RECONVENE AS THE IRON COUNTY"
+    },
+    {
+     "role": "applicant",
+     "name": "Brett Hamilton and Sam Woodall. 2 CONVENE"
+    },
+    {
+     "role": "company",
+     "name": "IRON COUNTY AND VTRE DEVELOPMENT LLC"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Lucas Little. 2",
+    "Lucas Little",
+    "Brett Hamilton and Sam Woodall",
+    "McKayla Meinhardt RECONVENE AS THE IRON COUNTY",
+    "Brett Hamilton and Sam Woodall. 2 CONVENE",
+    "IRON COUNTY AND VTRE DEVELOPMENT LLC",
+    "BETWEEN IRON COUNTY AND VTRE DEVELOPMENT LLC"
+   ],
+   "snippets": [
+    "HEARING 1. PUBLIC HEARING, REGARDING THE 2027 PROPOSED TENTATIVE BUDGET. Presented by Lucas Little. 2. PUBLIC HEARING, REGARDING A COMPENSATION INCREASE FOR EXECUTIVE COUNTY OFFICERS. Presented by Lucas Little. PUBLIC APPOINTMENTS",
+    "LOPMENT LLC REGARDING SEWER CAPACITY FOR COMMERCIAL PROJECTS IN IRON COUNTY. Presented by Brett Hamilton and Sam Woodall. CONVENE AS THE BOARD OF EQUALIZATION 5. REVIEW AND APPROVAL OF LATE FILED VETERAN, AND LOW INCOME, ABATEMENTS FOR",
+    "ttacks on Other Peoples' Character. 4. DISCUSSION AND POSSIBLE APPROVAL OF MOU BETWEEN IRON COUNTY AND VTRE DEVELOPMENT LLC REGARDING SEWER CAPACITY FOR COMMERCIAL PROJECTS IN IRON COUNTY. Presented by Brett Hamilton and Sam Woodall. CO",
+    "USSION AND POSSIBLE APPROVAL OF MOU BETWEEN IRON COUNTY AND VTRE DEVELOPMENT LLC REGARDING SEWER CAPACITY FOR COMMERCIAL PROJECTS IN IRON COUNTY. Presented by Brett Hamilton and Sam Woodall. CONVENE AS THE BOARD OF EQUA",
+    "SION AND POSSIBLE APPROVAL OF MOU BETWEEN IRON COUNTY AND VTRE DEVELOPMENT LLC REGARDING SEWER CAPACITY FOR COMMERCIAL PROJECTS IN IRON COUNTY. Presented by Brett Hamilton and Sam Woodall. 2 CONVENE AS THE BOARD"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "ee98b1364e15a781",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "South Ogden",
+   "title": "November 19, 2026 Planning Commission Work Session",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123761.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517601.pdf"
+   ],
+   "score": 38,
+   "terms": [
+    "clinic",
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "hotel",
+    "industrial",
+    "lots",
+    "medical",
+    "mixed use",
+    "mixed-use",
+    "multi-family",
+    "new construction",
+    "school",
+    "site plan",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Edge Residential"
+    },
+    {
+     "role": "company",
+     "name": "P2 Group"
+    },
+    {
+     "role": "company",
+     "name": "Permitted With Development"
+    },
+    {
+     "role": "company",
+     "name": "Definition Of Uses A. Residential"
+    },
+    {
+     "role": "company",
+     "name": "Group Living"
+    },
+    {
+     "role": "company",
+     "name": "Introduction To Building"
+    },
+    {
+     "role": "company",
+     "name": "Permitted Building"
+    },
+    {
+     "role": "company",
+     "name": "No Other Building"
+    },
+    {
+     "role": "company",
+     "name": "Explanation Of Building"
+    },
+    {
+     "role": "company",
+     "name": "Minimum And Maximum Lot Or Building"
+    },
+    {
+     "role": "company",
+     "name": "Existing Single-Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "Transitions From Single-Family Homes"
+    }
+   ],
+   "sizes": [
+    "1 lots",
+    "4 lots",
+    "2 lots"
+   ],
+   "companies": [
+    "Edge Residential",
+    "P2 Group",
+    "Permitted With Development",
+    "Definition Of Uses A. Residential",
+    "Group Living",
+    "Introduction To Building",
+    "Permitted Building",
+    "No Other Building",
+    "Explanation Of Building",
+    "Minimum And Maximum Lot Or Building",
+    "Existing Single-Family Residential",
+    "Transitions From Single-Family Homes",
+    "P P P P P2 Group",
+    "P Permitted Building",
+    "B4. Transitions From Single-Family Homes",
+    "Parking Within Building",
+    "Storefront Building",
+    "General Stoop Building"
+   ],
+   "snippets": [
+    "P\"): These uses are permitted by right in the subdistricts in which they are listed. 2. Permitted With Development Standards (\"P2\"): These uses are permitted by right in the subdistricts in which they are listed, provided that they are",
+    "y is limited to twelve (12) rooms. 2. Bed and breakfasts and pensions are permitted. 3. Group Living Arrangements: As defined in section 10-2-1 of this title. B. Civic Uses: A category of uses related to fulfilling the needs of day to da",
+    "e in ownership. (Ord. 20-18, 7-7-2020) 2Not permitted to face Kiesel Ave 10-5.1A-5-1: Introduction To Building Type Standards 1. Introduction: The building types detailed in this section 10-5.1A-5, outline the required building forms",
+    "pe shall be constructed only within its designated subdistricts. Refer to table 5.1(1), \"Permitted Building Types By Subdistrict, \" of this subsection B1. TABLE 5.1(1) PERMITTED BUILDING TYPES BY SUBDISTRICT Key: P Permitted",
+    "per subdistrict. Some building types have additional limitations on permitted uses. 3. No Other Building Types: All buildings constructed must meet the requirements of one of the building types permitted within the zoning subdistrict o",
+    "ck of the curbs (clear view area). (Ord. 18-11, 9- 18-2018, eff. 9-18-2018) 10-5.1A-5-2: Explanation Of Building Type Table Standards The following explains and further defines the standards outlined on the tables for each building type;",
+    "140 it states that accessory buildings may be used for home occupations. It also specifies that there may be commercial vehicles or trailers kept on site as long as they are parked on site, screened, and not in the fro",
+    "d: Listed uses that are not permitted in the subdistrict are indicated by a blank space. Ground Floor Commercial Use Waiver In any form district or frontage type where ground floor commercial use is required as",
+    "nk space. Ground Floor Commercial Use Waiver In any form district or frontage type where ground floor commercial use is required as part of a mixed-use building, no residential use shall be permitted on the grou",
+    ": Class A license1 P P Class B license2 P P P P Class C license3 P P P C a. The ground floor commercial space has remained continuously vacant for no less than twenty-four (24) consecutive months follow"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "967be3ab6aca2ed9",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Hyde Park",
+   "title": "Public Hearing",
+   "meetingDate": "2026-12-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123841.html",
+   "files": [],
+   "score": 7,
+   "terms": [
+    "commercial",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Hyde Park City Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Hyde Park City Building"
+   ],
+   "snippets": [
+    "Park City Council will hold two public hearings on December 9, 2026, at 7:00p.m. and the Hyde Park City Building, 113 East Center. The meeting will be held in person and on YouTube. The Purpose of the hearings is to receive comments",
+    "Aspen Grove Subdivision. Parcels along Wolf Pack Way zones RT and MXD to be built as high density residential commercial. 2- Public hearing to consider amendments to the Hyde Park City fee schedule to include water de",
+    "earings is to receive comments on 1- Public Hearing to consider development agreement for the Aspen Grove Subdivision. Parcels along Wolf Pack Way zones RT and MXD to be built as high density residential commercial."
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "ac30e65af195c14f",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning and Zoning",
+   "entity": "Helper",
+   "title": "P&Z Meeting",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123849.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Railroad Guitar Company"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Railroad Guitar Company"
+   ],
+   "snippets": [
+    "afson 6. Discussion and consideration of Business License and Conditional Use Permit for Railroad Guitar Company at 420 Railroad Avenue. - Martin Todd Farish 7. Discussion and consideration of installation of a garage at 210 Ridgeway Stre",
+    "ve Approvals (Informational Only). - City Recorder 5. Discussion and consideration of Business License and Conditional Use Permit for The Welding Company LLC at 518 North Main Street. - John Gustafson 6. Discussion a",
+    "mpany LLC at 518 North Main Street. - John Gustafson 6. Discussion and consideration of Business License and Conditional Use Permit for Railroad Guitar Company at 420 Railroad Avenue. - Martin Todd Farish 7. Discussion"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "57ae4424745128d1",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning and Zoning Commission",
+   "entity": "Price",
+   "title": "11-23-2026 PLANNING & ZONING AGENDA",
+   "meetingDate": "2026-11-23",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123827.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517701.pdf"
+   ],
+   "score": 16,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "medical",
+    "school",
+    "site plan",
+    "subdivision",
+    "townhome"
+   ],
+   "parties": [],
+   "sizes": [
+    "10 unit"
+   ],
+   "companies": [],
+   "snippets": [
+    "ible approval of a dental office and pharmacy land use located at 435 S Highway 55 (Main Street) within the Commercial 1 (C-1) zoning district, Jensen Professional Dental Health, Nevin Jensen. The Commissioners thoro",
+    "roughly discussed a dental office and pharmacy land use located at 435 S Highway 55 (Main Street) within the Commercial 1 (C-1) zoning district, Jensen Professional Dental Health, Ty Jensen. Discussion was held regar",
+    "Planning Department prior to installation finding that properly reviewed business signage promotes increased commercial activity and provides for signage consistency within the community. 2 of 53  Installation o",
+    "ficient off-street parking meeting minimum off-street parking Code requirements serves to improve access and commercial activity. Requisite ADA spaces to be included.  Install, repair replace all missing or damaged"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "2db7ccded29ea05b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Vernal",
+   "title": "Regular City Council Meeting November 18, 2026",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123933.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517955.pdf",
+    "https://www.utah.gov/pmn/files/1517957.pdf"
+   ],
+   "score": 26,
+   "terms": [
+    "clinic",
+    "commercial",
+    "hotel",
+    "phase",
+    "school",
+    "site plan",
+    "subdivision",
+    "townhome",
+    "warehouse"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Everbuilt LLC"
+    },
+    {
+     "role": "company",
+     "name": "Tower Construction"
+    },
+    {
+     "role": "company",
+     "name": "R-1 Residential"
+    },
+    {
+     "role": "company",
+     "name": "R-3 Residential"
+    },
+    {
+     "role": "company",
+     "name": "Durable Construction"
+    },
+    {
+     "role": "company",
+     "name": "Date Use PlatNo Building"
+    },
+    {
+     "role": "company",
+     "name": "Sky Animal Clinic Triangle Parts Incorporated"
+    },
+    {
+     "role": "company",
+     "name": "South Haven Estates Building"
+    },
+    {
+     "role": "company",
+     "name": "Mountain West Jewlers McCarley Enterprises LLC"
+    },
+    {
+     "role": "company",
+     "name": "South Vernal Property Managers LLC"
+    },
+    {
+     "role": "company",
+     "name": "Vernal Avenue Vernal Property Managers LLC"
+    },
+    {
+     "role": "company",
+     "name": "T-Mobile RPE Holdings"
+    }
+   ],
+   "sizes": [
+    "15,500 acre",
+    "2,900 acre"
+   ],
+   "companies": [
+    "Everbuilt LLC",
+    "Tower Construction",
+    "R-1 Residential",
+    "R-3 Residential",
+    "Durable Construction",
+    "Date Use PlatNo Building",
+    "Sky Animal Clinic Triangle Parts Incorporated",
+    "South Haven Estates Building",
+    "Mountain West Jewlers McCarley Enterprises LLC",
+    "South Vernal Property Managers LLC",
+    "Vernal Avenue Vernal Property Managers LLC",
+    "T-Mobile RPE Holdings",
+    "South Vernal Avenue Vernal Property Managers LLC",
+    "Ste. I T-Mobile RPE Holdings",
+    "General Business License Intercap Lending Inc",
+    "Municipal Building",
+    "Parking Lot MORENO CONCRETE LLC",
+    "SYMBOL ARTS LLC",
+    "Professional Development",
+    "Grounds Airport Lighting Company",
+    "Airport Lighting Company",
+    "Process WILLIAM L PRATER LLC",
+    "SHULTZ SERVICES LLC"
+   ],
+   "snippets": [
+    "sons I oppose the change are the same ones that I previously wrote about back in May when Everbuilt LLC first requested the rezone that was denied. I may be mistaken, but I thought the law in Utah was that once a Developer had been denied a",
+    "venture playground vendor as a design/build project - Keith Despain Consider approval of Tower Construction and Development Agreement for donation, design and construction of bell tower in the Community Block - Quinn Bennion STAFF REPORTS",
+    "0 West (Parcel Numbers 05:006:0012, 05:006:0013, and 05:005:0029) from R-1 Residential to R-3 Residential for townhome development. As someone who currently lives in a townhome in Vernal, I have experienced firsthand the value these communi",
+    "tant matter. Supporting this rezone offers crucial advantages for our city: High-Quality, Durable Construction: Developments by Everbuilt LLC are known for being extremely well-built, utilizing premium construction standards and durable mat",
+    "od. Alan Turner Sent from Yahoo Mail for iPhone October 2026 Building Permit Log BP# Date Use PlatNo Building Address Owner / Business Bldg Fee Bldg Fine Plan Chk State Subtotal Meter Water Sewer Total Valuation Misc. Fire 2610491 10/0",
+    ".00 $983.28 $46,604.00 $0.00 $0.00 2610518 10/06/2026 TI 05 040 0026 630 East Main Copper Sky Animal Clinic Triangle Parts Incorporated $3,095.00 $0.00 $1,547.50 $30.95 $4,673.45 $0.00 $0.00 $0.00 $4,673.45 $500,000.00 $0.00 $0.00 2610530 1",
+    "pplies and Maintenance BILL SPEND & EXPENSE (NE 2026-09-25-ORei Hose ConnectorHose Connector 09/25/2026 10.00 COMMERCIAL TIRE INC.-VER 43-53344 Tires 09/16/2026 505.90 COMMERCIAL TIRE INC.-VER 43-53345 Tire repair 09/16/",
+    "-ORei Hose ConnectorHose Connector 09/25/2026 10.00 COMMERCIAL TIRE INC.-VER 43-53344 Tires 09/16/2026 505.90 COMMERCIAL TIRE INC.-VER 43-53345 Tire repair 09/16/2026 11.95 HARBOR FREIGHT COMMER 2018937 ammo box 10/16/20",
+    "0/02/2026 193.99 BILL SPEND & EXPENSE (NE 2026-10-06-Outla Car wash - OutlawCar wash - Outlaw 10/06/2026 4.75 COMMERCIAL TIRE INC.-VER 43-53433 Tire repair 09/24/2026 590.00 MORT'S CAR WASH, INC. 6564 WATER 09/30/2026 20",
+    "ially disruptive project within the 125 next several years. 126 127 Mr. Bennion provided an update on the Hotel Vernal Haunt, reporting that the event had concluded 128 its final season with record attendance of mor"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "c9ca11e16bcf591f",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "County Commission",
+   "entity": "Washington County",
+   "title": "Notice of Meeting of the Board of Commissioners",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123833.html",
+   "files": [],
+   "score": 8,
+   "terms": [
+    "church",
+    "school"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Kent & Karla McArthur"
+    },
+    {
+     "role": "applicant",
+     "name": "Graff"
+    },
+    {
+     "role": "applicant",
+     "name": "others"
+    },
+    {
+     "role": "company",
+     "name": "Rural Housing Development Corporation"
+    },
+    {
+     "role": "company",
+     "name": "DBA Self-Help Homes"
+    },
+    {
+     "role": "company",
+     "name": "Large Animal Feeding Operation Land"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Kent & Karla McArthur",
+    "Graff",
+    "others",
+    "Rural Housing Development Corporation",
+    "DBA Self-Help Homes",
+    "Large Animal Feeding Operation Land",
+    "Rural Housing Development Corporation DBA Self-Help Homes",
+    "Economic Development"
+   ],
+   "snippets": [
+    "he A-20 Zone to the RA-1 Zone, Hereinafter Fully Described in This Ordinance (Applicants: Kent & Karla McArthur) 7. PUBLIC HEARING: Recommendation of the Agriculture Advisory Board and the Planning Commission to Designate an Agricultur",
+    "ission to Designate an Agricultural Protection Area on Parcel No. 4046-A-1-HV (Applicant: Graff) 8. Consideration of Resolution No. R-2026-3866, A Resolution Creating the Graff Agriculture Protection Area in the Leeds Area of Unincorpo",
+    "ide information on sign-up sheet prior to meeting; no comments will be taken on behalf of others. Those unable to attend can email their comments to a Commissioner at: adam.snow@washco.utah.gov, gil.almquist@washco.utah.gov, victor.iverson@",
+    "A Resolution Approving an Adjustment of 2026 Property Taxes for Certain Parcels Owned by Rural Housing Development Corporation DBA Self-Help Homes 11. Consideration of Resolution No. R-2026-3869, A Resolution Accepting the Recommendatio",
+    "of 2026 Property Taxes for Certain Parcels Owned by Rural Housing Development Corporation DBA Self-Help Homes 11. Consideration of Resolution No. R-2026-3869, A Resolution Accepting the Recommendation of the Administrative Control Board",
+    "ection 10-18B-6 (Agritourism), and Chapter 32 (Rural Tourism Zone); Adopting a Medium and Large Animal Feeding Operation Land Use Ordinance and the Designated AFO/CAFO Areas Map 26. Commissioner's Report To be provided to The Sp",
+    "2eP5GPZHvM7lIamQp88un.1 Meeting ID: 898 7761 2959 Passcode: 059075 INVOCATION BY: Larry Shurtliff, The Church of Jesus Christ of Latter-Day Saints PLEDGE OF ALLEGIANCE LED BY: TBD PUBLIC COMMENT: (Up to 10 p",
+    "f Purchase Requests 5. Consideration of Proclamation No. 2026-51, A Proclamation Declaring the 2026-2027 School Year as an Alcohol-Free School Year for Youth 6. Consideration of Ordinance 2026-1340-O, An Ordina",
+    "sideration of Proclamation No. 2026-51, A Proclamation Declaring the 2026-2027 School Year as an Alcohol-Free School Year for Youth 6. Consideration of Ordinance 2026-1340-O, An Ordinance Rezoning Property Located i"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "c1f69743064f0166",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Utah Housing Corporation",
+   "entity": "Utah Housing Corporation",
+   "title": "Notice of Monthly Meeting",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123777.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1517637.pdf",
+    "https://www.utah.gov/pmn/files/1517639.pdf"
+   ],
+   "score": 7,
+   "terms": [
+    "multifamily"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Quasi-Government Entity Utah Housing Corporation"
+    },
+    {
+     "role": "company",
+     "name": "Unit Multifamily Development"
+    }
+   ],
+   "sizes": [
+    "135 unit"
+   ],
+   "companies": [
+    "Quasi-Government Entity Utah Housing Corporation",
+    "Unit Multifamily Development"
+   ],
+   "snippets": [
+    "nthly Meeting Subscribe to Public Body General Information Government Type Independent or Quasi-Government Entity Utah Housing Corporation Public Body Utah Housing Corporation Notice Information Add Notice to Calendar Notice Title Notice of",
+    "formed by Eide Bailly 4. Resolution 2026-31, Tax-Exempt Mortgage Loan to Finance a 135 Unit Multifamily Development (Emeril Apartments, Salt Lake City, Utah) 5. Resolution 2026-32, Authorizing the reservation of Federal 4% and Stat",
+    "ncial audit performed by Eide Bailly 4. Resolution 2026-31, Tax-Exempt Mortgage Loan to Finance a 135 Unit Multifamily Development (Emeril Apartments, Salt Lake City, Utah) 5. Resolution 2026-32, Authorizing the",
+    "ncial audit performed by Eide Bailly 4. Resolution 2026-31, Tax-Exempt Mortgage Loan to Finance a 135 Unit Multifamily Development (Emeril Apartments, Salt Lake City, Utah) 5. Resolution 2026-32, Authorizing th"
+   ],
+   "foundAt": "2026-11-17"
+  },
+  {
+   "id": "ae1fc378cd91faae",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Wendover",
+   "title": "CITY OF WENDOVER, UTAH NOW HIRING PUBLIC WORKS SUPERVISOR IN TRAINING",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124007.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "medical",
+    "school"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "26 08:00 AM Event End Date & Time November 30, 2026 05:00 PM Description/Agenda BENEFITS: HEALTH INSURANCE - MEDICAL, DENTAL, VISION & LIFE - EMPLOYEE PARTICIPATION RETIREMENT PLAN LONG TERM DISABILITY PLAN FICA, WOR",
+    "S: U.S. CITIZENSHIP; HIGH SCHOOL DIPLOMA, GED OR EQUIVALENT; ENGLISH PROFICIENT; CDL LICENSE; PRE-EMPLOYMENT MEDICAL EVALUATION; PASS A BACKGROUND CHECK; PROFICIENT IN ASSIGNMENT OF DUTIES RELATED TO MANAGING WATER; SEW",
+    "FORM & SAFETY EQUIPMENT CITY PAYS ALL OR PART PAID VACATION MINIMUM REQUIREMENTS: U.S. CITIZENSHIP; HIGH SCHOOL DIPLOMA, GED OR EQUIVALENT; ENGLISH PROFICIENT; CDL LICENSE; PRE-EMPLOYMENT MEDICAL EVALUATION; PASS A"
+   ],
+   "foundAt": "2026-11-17"
+  }
+ ]
+}
