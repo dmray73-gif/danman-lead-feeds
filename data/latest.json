@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T19:28:50.478643Z",
+ "updated": "2026-11-18T19:11:03.921250Z",
  "report": {
   "arcgis:provo-current-projects": {
    "items": 0,
@@ -26,12 +26,905 @@
    "ok": true
   },
   "pmn": {
-   "items": 26,
+   "items": 18,
    "ok": true
   }
  },
- "newToday": 26,
+ "newToday": 18,
  "items": [
+  {
+   "id": "cd1f2c47e762e447",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Heber City",
+   "title": "Notice of Ordinance Adoption",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124543.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "e Heber City Council approved Ordinance number 2026-27 for the vacation of lot 51 in the Heber Valley Estates Subdivision. Voting Yes: Council Members Barney, Cheatwood, Johnston, Murdock, and Ostergaard. Voting No: none"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "f318c9730be58f06",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town Council",
+   "entity": "Hideout",
+   "title": "Special Meeting",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124559.html",
+   "files": [],
+   "score": 8,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Military Installation Development"
+    },
+    {
+     "role": "company",
+     "name": "Master Development"
+    },
+    {
+     "role": "company",
+     "name": "Elkhorn Master Development"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Military Installation Development",
+    "Master Development",
+    "Elkhorn Master Development"
+   ],
+   "snippets": [
+    "ible approval of the Second Amendment to the Interlocal Cooperation Agreement between the Military Installation Development Authority ('MIDA') and the Town of Hideout. Review and discussion of the proposed Second Amendment concerning inc",
+    "ossible approval of a Fifth Administrative Amendment to the Silver Meadows Annexation and Master Development Agreement. Review and discussion of the proposed Fifth Administrative Amendment concerning MIDA inclusion, commercial development",
+    "otections for the Town.. 4. Consideration and possible approval of an amendment to the Elkhorn Master Development Agreement. Review and discussion of the proposed amendment concerning MIDA inclusion, existing development obligations, i",
+    "t Agreement. Review and discussion of the proposed Fifth Administrative Amendment concerning MIDA inclusion, commercial development and phasing, public facilities, infrastructure responsibilities, and fiscal protections"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "ad315648165ed34c",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town Council",
+   "entity": "Altamont",
+   "title": "2027 Meeting Schedule",
+   "meetingDate": "2027-01-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124177.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Altamont Town Office Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Altamont Town Office Building"
+   ],
+   "snippets": [
+    "g Schedule Meeting Day: Second Wednesday of each month Meeting Time: 7:00 PM Location: Altamont Town Office Building, 15588 W 4000 N, Altamont, UT 84001 Month Meeting Date Notes / Status January Wednesday, January 13, 2027 Regular Me",
+    "Meeting Schedule Meeting Day: Second Wednesday of each month Meeting Time: 7:00 PM Location: Altamont Town Office Building, 15588 W 4000 N, Altamont, UT 84001 Month Meeting Date Notes / Status January Wednesday, J"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "ad9df8e6584f3bf2",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Virgin Town Planning and Zoning Commission",
+   "entity": "Virgin",
+   "title": "Work meeting and agenda",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124257.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518539.pdf",
+    "https://www.utah.gov/pmn/files/1518541.pdf",
+    "https://www.utah.gov/pmn/files/1518543.pdf"
+   ],
+   "score": 25,
+   "terms": [
+    "church",
+    "clinic",
+    "commercial",
+    "conditional use",
+    "design review",
+    "dwelling",
+    "lots",
+    "school",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Maximum Building"
+    },
+    {
+     "role": "company",
+     "name": "Surrounding Communities"
+    },
+    {
+     "role": "company",
+     "name": "Landscaping Building"
+    },
+    {
+     "role": "company",
+     "name": "Virgin Town Sunrise Engineering"
+    },
+    {
+     "role": "company",
+     "name": "Rural Residential"
+    },
+    {
+     "role": "company",
+     "name": "B. Measurement"
+    },
+    {
+     "role": "company",
+     "name": "Subsection E.4"
+    },
+    {
+     "role": "company",
+     "name": "C. Residential"
+    },
+    {
+     "role": "company",
+     "name": "Design Standards"
+    },
+    {
+     "role": "company",
+     "name": "International Building"
+    },
+    {
+     "role": "company",
+     "name": "Sunrise Engineering"
+    }
+   ],
+   "sizes": [
+    "3,500 sq. ft",
+    "10,000 sq. ft",
+    "8,500 sq. ft",
+    "32 square feet"
+   ],
+   "companies": [
+    "Maximum Building",
+    "Surrounding Communities",
+    "Landscaping Building",
+    "Virgin Town Sunrise Engineering",
+    "Rural Residential",
+    "B. Measurement",
+    "Subsection E.4",
+    "C. Residential",
+    "Design Standards",
+    "International Building",
+    "Sunrise Engineering",
+    "B. Measurement. Building",
+    "Design Standards. Development"
+   ],
+   "snippets": [
+    "g Height: 22 feet for principal buildings and 18 feet for accessory buildings. • 16.40.14 Maximum Building Size: 3,500 sq. ft. footprint, increased by by-right bonuses up to 10,000 sq. ft. • 16.40.16 Minimum Lot Area and Setbacks: One-acre",
+    "design standards, screening of refuse and storage, and water features. A. Comparison with Surrounding Communities Springdale is the closest comparison and the only nearby community with decibel limits or a percentage open space requirement.",
+    "h building size or coverage and treat noise as a general nuisance. Community Open Space / Landscaping Building Coverage / Size Noise Virgin (proposed) No minimum (16.40.22); open space over 50% earns a size bonus 3,500 sq. ft. footprint, up",
+    "espectfully submitted, ____________________________________ Ryker Steglich Town Planner, Virgin Town Sunrise Engineering VIRGIN TOWN ORDINANCE NO. 2026-XX AN ORDINANCE AMENDING AND RESTATING TITLE 16, CHAPTER 16.40 (COMMERCIAL ZONE) OF TH",
+    "Buffer and Screening. Where a lot in the Commercial Zone abuts land zoned Residential or Rural Residential, the following standards apply along each shared boundary. For purposes of this subsection, a lot “abuts” residential or rural resid",
+    "ge, storage facility, or auxiliary building – shall exceed eighteen feet (18’) in height. B. Measurement. Building height shall be measured as the vertical distance from the average natural grade along the building’s footprint, or the finis",
+    "in via Telephone: US +1-669-444-9171 WORK MEETING: A. CALL TO ORDER DISCUSSION ITEMS: B. DISCUSSION 1. Commercial Zone Modernization 2. Sponsorship Sign Amendments ADJOURN MEETING Motion to adjourn meeting Noti",
+    "Edited On November 17, 2026 02:44 PM Download Attachments Download Attachments File Name Category Date Added Commercial Ordinance Modernized 11.12.26 copy.pdf Public Information Handout 2026/11/17 02:44 PM PZ Agenda 11-",
+    "ich, Town Planner DATE: 11.12.26 SUBJECT: Ordinance 2026-XX – Amendment and Restatement of VMC Chapter 16.40, Commercial Zone MEETING: Planning and Zoning Commission – Public Hearing At a Glance Application Town-initiat",
+    "ication Town-initiated legislative amendment (Ordinance 2026-XX) Subject Amend and restate VMC Chapter 16.40, Commercial Zone: purpose, applicability, location, use table, use-specific standards, and development standard"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "e0b7772a89601b94",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Alcoholic Beverage Services Commission",
+   "entity": "Alcoholic Beverage Services Commission > Department of Alcoholic Beverage Services",
+   "title": "Commission Meeting",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124293.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518619.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "office building",
+    "warehouse"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Multi-Agency State Office Building"
+    },
+    {
+     "role": "company",
+     "name": "Mi Pueblo Market LLC"
+    },
+    {
+     "role": "company",
+     "name": "Go LLC"
+    },
+    {
+     "role": "company",
+     "name": "Hopkins Brewing Company"
+    },
+    {
+     "role": "company",
+     "name": "Urban Turban LLC"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Multi-Agency State Office Building",
+    "Mi Pueblo Market LLC",
+    "Go LLC",
+    "Hopkins Brewing Company",
+    "Urban Turban LLC"
+   ],
+   "snippets": [
+    "LCOHOLIC BEVERAGE SERVICES COMMISSION MEETING Thursday, November 19, 2026 - 10:00 am Multi-Agency State Office Building 195 North 1950 West, Salt Lake City, Utah [Commissioners may participate virtually] PLEASE NOTE: The anchor",
+    "ing b. Off-Premise Beer Retailer State License License Change of Ownership: (1) Mi Pueblo Market LLC, Payson (purchase agreement October 22, 2026) New Applicants: (1) 7-Eleven #42945A, Syracuse (cond",
+    "New Applicants: (1) 7-Eleven #42945A, Syracuse (conditional) (2) Bodega 2 Go LLC, Salt Lake City (3) Hopkins Brewing Company, Salt Lake City (4) Santana's Market, Clearfield (5) Summit Fuel, Panguitch c. Be",
+    "7-Eleven #42945A, Syracuse (conditional) (2) Bodega 2 Go LLC, Salt Lake City (3) Hopkins Brewing Company, Salt Lake City (4) Santana's Market, Clearfield (5) Summit Fuel, Panguitch c. Beer Wholesaling License New",
+    "losure: (1) The Cafe, Panguitch (requesting until May 1, 2027) New Applicants: (1) Urban Turban LLC, Springville (conditional) (2) Wild Thistle Cafe, Santaquin City (conditional) (3) Tosh's Ramen, Park City (conditional) (4) El",
+    "anuary 28, 2027 - MASOB b. Holiday Closure: State liquor store and the DABS administrative office and warehouse will be closed: - Friday, December 25, 2026 (Christmas Day) - Friday, January 1, 2027 (New Y",
+    "ER: (Craig Warr) a. Renewal Period November 1 to November 30, 2026 - Beer Wholesaler (BW) - Liquor Warehouse (LW) - Certificate of Approval for Out of State Brewer (COA) - Local Industry Representative (MR)",
+    "g License New Applicant: (1) Larsen Beverage Co., Inc., Pleasant View d. Liquor Warehouse New Applicant: (1) Larsen Beverage Co., Inc., Pleasant View e. Local Industry Representative"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "6e9c5bfc636a4f95",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning and Zoning",
+   "entity": "Salina",
+   "title": "111926 agenda",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124305.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "The purpose of the Public Hearing is to accept comments on Ordinance 202-2026 an Ordinance amending Title 16 Subdivision; Chapter 16.04.190 and adding Chapter 16.04.230 The proposed Ordinance 202 - 2026 is available for"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "c561526ce0d7347a",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Clinton",
+   "title": "City Council Meeting",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124417.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518843.pdf"
+   ],
+   "score": 27,
+   "terms": [
+    "commercial",
+    "industrial",
+    "lots",
+    "medical",
+    "mixed use",
+    "phase",
+    "preliminary plat",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Clinton City and"
+    },
+    {
+     "role": "company",
+     "name": "Flint Investments LLC"
+    },
+    {
+     "role": "company",
+     "name": "General Plan Future Land"
+    },
+    {
+     "role": "company",
+     "name": "Traditional Detached Residential"
+    },
+    {
+     "role": "company",
+     "name": "Blended Small-Lot Detached Residential"
+    },
+    {
+     "role": "company",
+     "name": "Blended Residential"
+    },
+    {
+     "role": "company",
+     "name": "Talk Group"
+    },
+    {
+     "role": "company",
+     "name": "Municipal Corporation"
+    },
+    {
+     "role": "company",
+     "name": "NILSON HOMES LLC"
+    }
+   ],
+   "sizes": [
+    "0.88 acres",
+    "9,000 square feet",
+    "5,000 square feet",
+    "9,000 sq. ft",
+    "5.32 acres",
+    "30 lot"
+   ],
+   "companies": [
+    "Clinton City and",
+    "Flint Investments LLC",
+    "General Plan Future Land",
+    "Traditional Detached Residential",
+    "Blended Small-Lot Detached Residential",
+    "Blended Residential",
+    "Talk Group",
+    "Municipal Corporation",
+    "NILSON HOMES LLC",
+    "FLINT INVESTMENTS LLC"
+   ],
+   "snippets": [
+    "Section 2. Authorization. The Mayor is authorized to execute the Agreement on behalf of Clinton City and to take reasonable steps necessary to implement it. Section 3. Effective Date. This Resolution takes effect upon adoption. The Agre",
+    "ovember 24, 2026 CONSENT AGENDA BUSINESS AGENDA X RECOGNITION PETITIONER(S): Jed Flint, Flint Investments LLC TYPE OF VOTE: ROLL CALL X VOICE SUBJECT: Public Hearing – Review and action for a rezone request by Jed Flint of 0.88 acres",
+    "rcels Rezone Area - 0.88 acres A-1 to P-Z Flint Rezone Property Location Map Attachment A General Plan Future Land Use Map Current Zoning Map General plan recommends P-Z zoning Rezone Area A-1 to P-Z Current Zoning and General Plan Maps 200",
+    "l-Lot Detached Residential,” which is for lots from 5,000 up to 9,000 square feet. The “Blended Residential” category that mixes detached and attached products is still on the map and could include detached housing types smaller than 5,0",
+    "ding \"Automatic Aid\" fire company: i. Address of incident; ii. Type of incident; iii. Talk Group and 911 PSAP Assignment; iv. Incident command designation; and v. Commander's name or unit when available. e. All parties under this agr",
+    "that party and as among all remaining parties. - 7 - OGDEN CITY CORPORATION a Utah Municipal Corporation By: Title: Date: ATTEST: City Recorder APPROVED AS TO FORM AND AS COMPATIBLE WITH STATE LAW: City Attorney RO",
+    "ual water-meter data is collected. Staff also proposes that the Community Garden be limited to personal, non-commercial use. Individuals would not be permitted to use a Community Garden plot for business or commercial",
+    "onal, non-commercial use. Individuals would not be permitted to use a Community Garden plot for business or commercial purposes, including growing produce or other items for sale. The purpose of the Community Garden i",
+    "uated on the western side of the property. The purpose of the rezone be to accommodate some sort of future commercial development. The property owner will likely wait for UDOT to complete their next phase of the 200",
+    "ect. The property owner intends to continue renting the home as a residence until they are ready to submit a commercial site plan application. The rezone request is consistent with the City’s general plan future land"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "d96de5af30d6e32e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Clinton",
+   "title": "City Council Work Session",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124419.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518845.pdf"
+   ],
+   "score": 29,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "lots",
+    "multifamily",
+    "new construction",
+    "phase",
+    "school",
+    "site plan",
+    "subdivision",
+    "units",
+    "warehouse"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Minimum Development"
+    },
+    {
+     "role": "company",
+     "name": "Required Lot-Area Distribution Residential"
+    },
+    {
+     "role": "company",
+     "name": "Category Residential"
+    },
+    {
+     "role": "company",
+     "name": "Phased Development"
+    },
+    {
+     "role": "company",
+     "name": "Lot Development"
+    },
+    {
+     "role": "company",
+     "name": "Corner Twin Homes"
+    },
+    {
+     "role": "company",
+     "name": "Patio Homes"
+    },
+    {
+     "role": "company",
+     "name": "B. Building"
+    }
+   ],
+   "sizes": [
+    "6,000 square feet",
+    "8,000 square feet",
+    "5,000 square feet",
+    "4 lot",
+    "7 lot"
+   ],
+   "companies": [
+    "Minimum Development",
+    "Required Lot-Area Distribution Residential",
+    "Category Residential",
+    "Phased Development",
+    "Lot Development",
+    "Corner Twin Homes",
+    "Patio Homes",
+    "B. Building",
+    "A. The Community Development"
+   ],
+   "snippets": [
+    "onal vehicles or camper trailers used as dwellings N 28-16-3 General Provisions (1) Minimum Development Area This zone shall only be applied to a contiguous development area containing at least ﬁve (5) acres at the time of rezoning.",
+    "ach residential lot or combined twin-home site shall be assigned to only one category. Category Residential Lot Area Small 5,000 square feet to less than 6,000 square feet Intermediate 6,000 square feet to less than 8,000 square feet",
+    "culation shall not authorize reductions in other applicable development standards. (8) Phased Development The required distribution and allowable tolerance shall apply to the development as a whole. Individual phases, separately or cum",
+    "major street, subject to the thirty-ﬁve-foot (35-foot) major-street setback. 28-16-4 Lot Development Standards Small Lots Intermediate Lots Standard Lots Lot Area in Square Feet 5,000 - < 6,000 6,000 - < 7,000 8,000 + Lot Fron",
+    "m Height (feet) 16 16 16 Rear Yard Impervious Surface Ratio 35% 35% 25% 18-26-5 Corner Twin Homes (1) Location and Minimum Site Area Twin homes divided for individual ownership shall be permitted only on corner sites containing",
+    "d to the standard-lot category and its area counted once under Section 28-16-3. 28-16-6 Patio Homes (1) Lot Eligibility Detached single-family patio homes developed under this section shall be permitted only on lots containing at leas",
+    "elfare of Clinton residents; WHEREAS, these facilities have different operational needs from residential and commercial development, and objective standards can provide design flexibility while protecting adjacent prop",
+    ". It includes a contracted operator acting under an agreement to provide the public service. General private commercial development is not a public civic facility merely because it serves customers. B. Major utility f",
+    "thorized P P P Accessory concessions, program vendors and facility support uses A A A Unlisted freestanding commercial development or independent housing N N N * School permissions and standards remain subject to Sect",
+    "or area and operating area. Accessory status does not authorize a separate retail center, general warehouse, commercial storage business, independent dwelling, or unrelated contractor yard. C. A solid waste transfer s"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "b6b6832548f96a8e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Layton",
+   "title": "City Council Meeting",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124317.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518667.pdf"
+   ],
+   "score": 5,
+   "terms": [
+    "commercial",
+    "mixed-use"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "Layton City and Main Street Layton, LLC - 608 South Main Street - from MU (Mixed-Use) to C-H (Planned Highway Commercial) - Ordinance 26-29 and Resolution 26-47 7. UNFINISHED BUSINESS: ADJOURN: Notice of Spec",
+    "Layton City and Main Street Layton, LLC – 608 South Main Street – from MU (Mixed-Use) to C-H (Planned Highway Commercial) – Ordinance 26-29 and Resolution 26-47 7. UNFIN ISHED BUSINESS:"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "1ef3ba0fa6527561",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Layton",
+   "title": "City Council Work Meeting",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124313.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518661.pdf"
+   ],
+   "score": 5,
+   "terms": [
+    "commercial",
+    "mixed-use"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "Layton City and Main Street Layton, LLC - 608 South Main Street - from MU (Mixed-Use) to C-H (Planned Highway Commercial) - Ordinance 26-29 and Resolution 26-47 ADJOURN: Notice of Special Accommodations (ADA) In compl",
+    "Layton City and Main Street Layton, LLC – 608 South Main Street – from MU (Mixed-Use) to C-H (Planned Highway Commercial) – Ordinance 26-29 and Resolution 26-47"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "be860383da4e3bec",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "West Valley City",
+   "title": "November 24, 2026 Study Meeting",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124357.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518713.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "commercial",
+    "master plan"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Temporary Construction"
+    },
+    {
+     "role": "company",
+     "name": "Anjanette Jones Family Trust"
+    },
+    {
+     "role": "company",
+     "name": "A. Commercial Building Design"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Temporary Construction",
+    "Anjanette Jones Family Trust",
+    "A. Commercial Building Design",
+    "A. Commercial Building"
+   ],
+   "snippets": [
+    "rize the City to Enter into a Real Estate Purchase Contract and Accept a Warranty Deed, a Temporary Construction Easement, and a Perpetual Easement With and From Milan Boyce for Property Located at 1473 West 4020 South C. Reso 26-162: Au",
+    "urchase Agreement and Accept a Temporary Construction Easement With and From the Mark and Anjanette Jones Family Trust for Property Located at 4419 South 4000 West F. Reso 26-165: Accept a Quitclaim and Dedication Deed from Victor M. Lop",
+    "y Street 10. Authorize Consent Agenda for Regular Meeting of December 8, 2026 11. Communications: A. Commercial Building Design Discussion (15 min) B. Parks Master Plan Update (20 min) C. Council Calendar"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "64ff5a0033d6ac4f",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Centerfield Board/Committee",
+   "title": "City Council Meeting",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124371.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518737.pdf"
+   ],
+   "score": 17,
+   "terms": [
+    "church",
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "industrial",
+    "lots",
+    "phase",
+    "school"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Rodney Willardson- Building"
+    },
+    {
+     "role": "company",
+     "name": "Bart Hammond- Building"
+    },
+    {
+     "role": "company",
+     "name": "Purchasing Gunnison Implement Company"
+    },
+    {
+     "role": "company",
+     "name": "Purchasing PICKETT FARMS LLC"
+    },
+    {
+     "role": "company",
+     "name": "Purchasing Utah Local Governments Trust"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Rodney Willardson- Building",
+    "Bart Hammond- Building",
+    "Purchasing Gunnison Implement Company",
+    "Purchasing PICKETT FARMS LLC",
+    "Purchasing Utah Local Governments Trust",
+    "Economic Development"
+   ],
+   "snippets": [
+    "h Council for its continued involvement, service, and contributions to the community. Rodney Willardson- Building Permit Carport Rodney Willardson presented plans for a proposed metal building, approximately 600 square feet. The bui",
+    "n at 495 North Main for a 24’x25’ carport. Seconded by Councilman Smith. Carries 5-0. Bart Hammond- Building Permit Shed Bart Hammond presented a request to construct a metal garage on the west side of his property, measuring approx",
+    "upply. Potential ordinance provisions were reviewed, including prohibiting new self-storage facilities in commercial zones, limiting them to industrial zones if applicable, requiring a conditional use permit, and e"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "35212865e397c9cf",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Hyde Park",
+   "title": "Public Hearing-Land Use Code Amendment",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124517.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "site plan"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "an amendment to the following title, chapter, and/or section of the Land Use Code: 12.10.060 and 12.10.035 Site Plan and Designation of LUA Purpose: To remove the Planning Commission as the recommending body for Si",
+    "5 Site Plan and Designation of LUA Purpose: To remove the Planning Commission as the recommending body for Site Plan approval and update site plan requirements. Full redlines are available in the Planning Office an",
+    "LUA Purpose: To remove the Planning Commission as the recommending body for Site Plan approval and update site plan requirements. Full redlines are available in the Planning Office and on our website The Hyde P"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "a0188b52e05cb2f4",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Huntington",
+   "title": "City Council",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124343.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "conditional use",
+    "office building"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "cuss/approve/deny: Resolution R-2026-18 Annual Meeting Schedule 2027 12. Discuss/approve/deny: Jessica Lee - Conditional Use Permit Review 13. Mayor's Report 14. Departmental Reports (Fire department, Maintenance dep",
+    "t the Huntington City Council will hold its regularly scheduled council meeting November 18, 2026 at the city office building located at 20 South Main. Meeting will start at 6:30 p.m. Agenda will be as follows:"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "19b90001e21c956e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Beaver County Commission",
+   "entity": "Beaver County",
+   "title": "Beaver County Economic Development Board Meeting",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124483.html",
+   "files": [],
+   "score": 11,
+   "terms": [
+    "data center",
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Board Meeting Beaver County Economic Development"
+    },
+    {
+     "role": "company",
+     "name": "Notice Title Beaver County Economic Development"
+    },
+    {
+     "role": "company",
+     "name": "Beaver County Economic Development"
+    },
+    {
+     "role": "company",
+     "name": "Beaver City Office Building"
+    },
+    {
+     "role": "company",
+     "name": "AM- Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Board Meeting Beaver County Economic Development",
+    "Notice Title Beaver County Economic Development",
+    "Beaver County Economic Development",
+    "Beaver City Office Building",
+    "AM- Building",
+    "Beaver County Commission Beaver County Economic Development",
+    "Calendar Notice Title Beaver County Economic Development"
+   ],
+   "snippets": [
+    "il/1124483.html Beaver County Beaver County Commission Beaver County Economic Development Board Meeting Beaver County Economic Development Board Meeting Subscribe to Public Body General Information Government Type County Entity Beaver Count",
+    "ver County Public Body Beaver County Commission Notice Information Add Notice to Calendar Notice Title Beaver County Economic Development Board Meeting Notice Type(s) Meeting Event Start Date & Time November 19, 2026 08:15 AM Event End Date",
+    "Service 990 /pmn/sitemap/noticeemail/1124483.html Beaver County Beaver County Commission Beaver County Economic Development Board Meeting Beaver County Economic Development Board Meeting Subscribe to Public Body General Information Governm",
+    "et forth below to consider the agenda item(s) hereinafter set forth. MEETING PLACE: Beaver City Office Building 30 W 300 N, Beaver, Utah. MEETING TIME: 8:15 AM 8:15 AM Open Meeting Call to Order New Business 8:15 AM - Appr",
+    "AM- Application Suggestions for Spencer's Position and Chair Position 9:00 AM- Building the Dam Business Summit- Discussion and Planning 9:15 AM- RCOG Update Notice of Special Accommodations (ADA) NOTICE OF SP",
+    "Open Meeting Call to Order New Business 8:15 AM - Approve September Minutes 8:20 AM- Data Center Discussion-Potential Impacts on Beaver County 8:30 AM- Dates and Locations 2027 Mee"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "b94bd085273d5a09",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Emery County Planning and Zoning Commission",
+   "entity": "Emery County",
+   "title": "Emery County Planning Commission",
+   "meetingDate": "2026-11-18",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124491.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "Welcome Discuss/Approve/Deny: October 14th, 2026 Meeting Minutes. Discuss/Approve/Deny: Twin Peaks Minor Subdivision Discuss/Approve/Deny: Update Level II and Level III CUP on ordinance. Discuss Any Other Busines"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "c37ebf8d82e62f49",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Kaysville",
+   "title": "Kaysville City Council Agenda",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124287.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1519003.pdf"
+   ],
+   "score": 19,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "mixed-use",
+    "school",
+    "site plan",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "her husband"
+    },
+    {
+     "role": "company",
+     "name": "OVERLAY FOR CHADD WATSON Community Development"
+    },
+    {
+     "role": "company",
+     "name": "Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "ANIMAL STRUCTURES AND DWELLINGS Community Development"
+    },
+    {
+     "role": "company",
+     "name": "AN ADMINISTRATIVE LAW JUDGE Community Development"
+    },
+    {
+     "role": "company",
+     "name": "ANNEXATION POLICY PLAN UPDATE Community Development"
+    },
+    {
+     "role": "company",
+     "name": "Kaysville Irrigation Company"
+    },
+    {
+     "role": "company",
+     "name": "Flint Street Community Development"
+    }
+   ],
+   "sizes": [
+    "0.443 acres",
+    "19,297 square feet",
+    "2,492 square feet",
+    "932 square feet"
+   ],
+   "companies": [
+    "her husband",
+    "OVERLAY FOR CHADD WATSON Community Development",
+    "Family Residential",
+    "ANIMAL STRUCTURES AND DWELLINGS Community Development",
+    "AN ADMINISTRATIVE LAW JUDGE Community Development",
+    "ANNEXATION POLICY PLAN UPDATE Community Development",
+    "Kaysville Irrigation Company",
+    "Flint Street Community Development",
+    "Community Development",
+    "DISTRICT OVERLAY FOR CHADD WATSON Community Development",
+    "BETWEEN ANIMAL STRUCTURES AND DWELLINGS Community Development",
+    "BY AN ADMINISTRATIVE LAW JUDGE Community Development",
+    "ITEMS ANNEXATION POLICY PLAN UPDATE Community Development",
+    "CITY CODE ENFORCEMENT UPDATE Community Development",
+    "Economic Development"
+   ],
+   "snippets": [
+    "a item to provide comments. Laurene Starkey provided additional comments on behalf of her husband, Val Starkey, who was listening remotely. She expressed concern about the meeting's audio quality and its impact on individuals with hea",
+    "section of Main Street and Creekside Way. The property is currently zoned R-1-8 (Single -Family Residential) and contains an existing residence. The applicant, Chadd Watson, requested a rezone to GC (General Commercial) with an MU (Mixed",
+    "COMMUNITY DEVELOPMENT PROJECT AREA C ity Manager Jaysen Christensen explained that the Flint Street Community Development Project Area was established in 2013 in connection with the development of Smith's Marketplace and the Flint Acres",
+    "ees. Greg Burgoyne expressed concern about additional borrowing in relation to Kaysville's population and commercial tax base. He compared the city with neighboring communities that have larger commercial developmen",
+    "le's population and commercial tax base. He compared the city with neighboring communities that have larger commercial developments and questioned whether the proposed expenditure was justified. He also raised concern",
+    "electrical service and safe drinking water. A significant portion of the additional revenue would come from commercial utility rate adjustments, which were increased to more closely align with neighboring municipaliti",
+    "creased to more closely align with neighboring municipalities after previously being kept lower to encourage commercial development. Mr. Christensen reported that Kaysville had reduced its outstanding debt by approx"
+   ],
+   "foundAt": "2026-11-18"
+  },
+  {
+   "id": "b5d96cf0c0f23d36",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Provo Municipal Council",
+   "entity": "Provo",
+   "title": "NOTICE OF PROPOSED DISPOSITION OF REAL PROPERTY",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124395.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1518799.pdf"
+   ],
+   "score": 18,
+   "terms": [
+    "commercial",
+    "hotel",
+    "mixed-use",
+    "phase",
+    "school",
+    "site plan",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Provo Epic Sports Park Commercial Development"
+    }
+   ],
+   "sizes": [
+    "221,256 square feet",
+    "5.079 acres"
+   ],
+   "companies": [
+    "Provo Epic Sports Park Commercial Development"
+   ],
+   "snippets": [
+    "roposed Agreement Page 1 of 26 -- Participation Agreement PARTICIPATION AGREEMENT (Provo Epic Sports Park Commercial Development) This Participation Agreement (this “Agreement”) is entered into and effective as of __________, 2026",
+    "osed Agreement Page 1 of 26 -- Participation Agreement PARTICIPATION AGREEMENT (Provo Epic Sports Park Commercial Development) This Participation Agreement (this “Agreement”) is entered into and effective as of",
+    "ports Park, more particularly described on Exhibit A (the “Property”). B. The Developer desires to develop commercial improvements on the Property consisting of (i) a hotel, (ii) retail space, and (iii) a convenience",
+    "able SPV sha ll maintain builder’s risk insurance through completion of the improvements on that parcel, and commercial general liability insurance for so long as the SPV owns or operates that parcel, each in commercia",
+    "er Section 11; v. evidence that the Developer or the app licable SPV maintains builder’s risk insurance and commercial general liability insurance in commercially reasonable amounts, naming the City and the Agency as"
+   ],
+   "foundAt": "2026-11-18"
+  },
   {
    "id": "ff933c26ddcb6149",
    "source": "pmn",
