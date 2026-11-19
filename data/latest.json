@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-18T19:11:03.921250Z",
+ "updated": "2026-11-19T19:19:56.814716Z",
  "report": {
   "arcgis:provo-current-projects": {
    "items": 0,
    "ok": true
   },
   "pdf:summit-county-2026": {
-   "items": 0,
+   "items": 1,
    "ok": true
   },
   "pdf:west-jordan": {
@@ -30,8 +30,1385 @@
    "ok": true
   }
  },
- "newToday": 18,
+ "newToday": 19,
  "items": [
+  {
+   "id": "5d609d572499f1ba",
+   "source": "pdf:summit-county-2026",
+   "kind": "permit-report",
+   "jurisdiction": "Summit County",
+   "url": "https://www.summitcountyutah.gov/DocumentCenter/View/21667/2026-Permits-Issued",
+   "lines": [
+    "1/2/2026 26002 Commercial: Parking Garages, open or enclosed SB LRASP-1 6574 SILVER GATE DR",
+    "1/2/2026 26003 Commercial: Parking Garages, open or enclosed SB LRASP-1 6574 SILVER GATE DR",
+    "1/2/2026 26005 Commercial: Parking Garages, open or enclosed SB LRASP-1 6574 SILVER GATE DR",
+    "1/2/2026 252144 Residential: Single Family Detached (New Construction) (IRC) SB RPVAL-89 7521 GOLDEN BEAR LOOP",
+    "1/2/2026 251872 Commercial: Retaining Wall,  Monument SB WPR-1-6 2280 W WHITE PINE LN",
+    "1/7/2026 251681 Residential: New Utility SB GWLD-100 7175 LUPINE DR",
+    "1/8/2026 252165 Residential: New Utility, Utility Replacement/Upgrade SB RRH-33 1375 W RED HAWK TRL",
+    "1/9/2026 252127 Residential: New Utility SB GWLD-55 7406 PURPLE SAGE",
+    "1/12/2026 251303 Commercial: Shell, Offices, Clinic, outpatient, Retail or Wholesale Stores SB QJPB-A-6-1AM 8211 GORGOZA PINES RD",
+    "1/12/2026 252037 Commercial: Repair/Modify/Add Circuit SB COMMON 2100 W CANYONS RESORT DR",
+    "1/12/2026 251644 Residential: Single Family Detached (New Construction) (IRC) SB SL-I-1-15 193 NANGA BEAR LN",
+    "1/13/2026 251305 Commercial: Other SB PP-5 TOP OF SADDLEBACK SKI LIFT NO LEGAL ADDRESS",
+    "1/15/2026 252069 Commercial: Other NS CCM-3 653 E BORDER STATION RD",
+    "1/16/2026 252168 Commercial: Wall SB FSE-1 6699 N LANDMARK DR",
+    "1/16/2026 25604 Residential: New Single Family Detached (IRC) NS NS-358-A 475 E CHALK CREEK RD",
+    "1/21/2026 221284 Residential: New Single Family Detached (IRC) SB SCVC-8-P1-49 6647 PURPLE POPPY LN",
+    "1/21/2026 251815 Commercial: Frame supported membrane structure SB FSE-1 6699 N LANDMARK DR",
+    "1/21/2026 251485 Residential: Single Family Detached (New Construction) (IRC) SB PRESRV-3-80 1128 PRESERVE DRIVE",
+    "1/22/2026 26097 Commercial: Furnace SB VKJ-3-4 6300 N SAGEWOOD DR",
+    "1/22/2026 25269 Commercial: Monument SB MPSC-6A-AM-X 6138 PAINTBRUSH RD",
+    "1/27/2026 252201 Commercial: Wall SB PEIIIBCC-49 4518 N FORESTDALE DR 49",
+    "1/28/2026 251634 Commercial: Other SB SS-67-7 6269 N HIGH VIEW RD",
+    "1/28/2026 26051 Residential: Single Family Detached (New Construction) (IRC) SB PSH-9 3068 HILLS RIDGE RD",
+    "1/28/2026 26050 Residential: Single Family Detached (New Construction) (IRC) SB PSH-27 2802 HILLS RIDGE RD",
+    "1/28/2026 25419 Commercial: Other SB SS-65-A-3 3786 N OLD HIGHWAY 40",
+    "1/28/2026 25422 Commercial: Other SB SS-65-A-3 3786 N OLD HIGHWAY 40",
+    "1/29/2026 25423 Commercial: Other SB SS-65-A-3 3786 N OLD HIGHWAY 40",
+    "1/30/2026 251879 Commercial: Other SB PP-52-1-A 2201 W KILBY RD",
+    "1/30/2026 26049 Residential: Single Family Detached (New Construction) (IRC) SB PLE-4 5408 GOLF CLUB LINK",
+    "2/1/2026 26006 Commercial: Exterior Cladding, Windows SB SS-48-1-B-1 5870 SILVER SUMMIT PKWY",
+    "2/2/2026 25477 Residential: Multi-Family (Apartments or Condominiums) (IBC) SB WPCV-6-25, WPCV-6-26, WPCV-6-27, WPCV-6-281964, 1958, 1950, 1954 STONE CREEK RD",
+    "2/2/2026 25478 Residential: New Single Family Attached (Duplex) (IRC) SB WPCV-7-29 1938 STONE CREEK RD",
+    "2/2/2026 25479 Residential: New Single Family Attached (Duplex) (IRC) SB WPCV-7-30 1932 STONE CREEK RD",
+    "2/5/2026 26076 Commercial: Roof Mount Solar PV, Other SB LRASP-1 6580 LIBERTY SAGE LN",
+    "2/5/2026 26075 Commercial: Roof Mount Solar PV SB LRASP-1 6580 LIBERTY SAGE LN",
+    "2/5/2026 26074 Commercial: Roof Mount Solar PV SB LRASP-1 6580 LIBERTY SAGE LN",
+    "2/5/2026 26073 Commercial: Roof Mount Solar PV SB LRASP-1 6580 LIBERTY SAGE LN",
+    "2/5/2026 25627 Commercial: Places of Religious Worship NS NS-852 5988 HOPE RIVER RANCH RD",
+    "2/5/2026 251719 Residential: Alteration(Interior), Alteration(Exterior), New Utility SB SUM-22 3388 CENTRAL PACIFIC TRL 3568 CENTRAL PACIFIC TRL",
+    "2/6/2026 252000 Residential: New Single Family Detached (IRC) SB SUM-53 9246 PROMONTORY SUMMIT DR",
+    "2/6/2026 252177 Commercial: Tanks SS CD-425 2361 W SR 248",
+    "2/6/2026 26147 Commercial: Cell Tower SB S-1067 Near 4131 E Atkinson Rd",
+    "2/11/2026 251650 Commercial: Tenant Improvement SB RC17-CP 2417 HIGH MOUNTAIN RD #COMM UNIT 3104B",
+    "2/12/2026 251960 Residential: Single Family Detached (New Construction) (IRC) NS LR-3-264 254 E SAGE LN",
+    "2/13/2026 26136 Residential: Single Family Detached (New Construction) (IRC) SB PHP-3 5801 DOUBLE DEER DR",
+    "2/13/2026 26052 Residential: Single Family Detached (New Construction) (IRC) SB PMC-2 2907 14TH VIEW CIR",
+    "2/13/2026 26144 Residential: Single Family Detached (New Construction) (IRC) SB PHP-2 5829 DOUBLE DEER DR",
+    "2/16/2026 26172 Commercial: Cell Tower SB S-186 NEAR 6545 N LANDMARK DR",
+    "2/18/2026 26146 Commercial: Frame supported membrane structure SB PP-75-D NEAR 3720 N SUNDIAL CT NEXT TO STAGE",
+    "2/18/2026 26233 Commercial: Wall SB SCCP-1 1400 W BITNER RD",
+    "2/19/2026 26209 Commercial: Wall SB ALTLC-8 4123 N FORESTDALE DR #8",
+    "2/20/2026 26266 Commercial: Frame supported membrane structure PP-75-D NEAR 3720 N SUNDIAL CT NEXT TO STAGE",
+    "2/20/2026 26173 Commercial: Service Upgrade SB FSE-1 6699 N LANDMARK DR H145",
+    "2/23/2026 25008 Commercial: Motor fuel-dispensing facilities SB SS-65-A-3 3786 N OLD HIGHWAY 40",
+    "2/23/2026 26186 Residential: Single Family Detached (New Construction) (IRC) SB PSH-29 2849 HILLS RIDGE RD",
+    "2/24/2026 26220 Commercial: Cell Tower NS NS-1349 16052 CASTLE ROCK RD",
+    "2/24/2026 26061 Residential: Single Family Detached (New Construction) (IRC) SB PERH-16 7298 N BUGLE TRL",
+    "2/25/2026 26251 Residential: New Utility SB ELK-3A-802 3075 W FAWN DR",
+    "2/27/2026 26170 Commercial: Wall SB SYNCC-11-AM 4376 FORESTDALE DR #11",
+    "2/27/2026 241368 Commercial: Tenant Improvement NS NS-567-B 1045 S HOYTSVILLE RD",
+    "3/3/2026 252196 Commercial: Other SB LVDAM-LV5 1840 OZZY WAY",
+    "3/4/2026 26211 Residential: Single Family Detached (New Construction) (IRC) SB SUM-18 3113 CROSSTIE CT",
+    "3/4/2026 252173 Commercial: Agricultural Buildings, not accessory NS H&G-3-AM 673 E HG CT",
+    "3/4/2026 252089 Commercial: Other SB FSE-1 6699 N LANDMARK DR E100, E102, E105",
+    "3/4/2026 252088 Commercial: Tenant Improvement SB FSE-1 6699 N LANDMARK DR E100, E102, E105",
+    "3/6/2026 26212 Commercial: Other SB COMMON 5522 N LILLEHAMMER LN",
+    "3/6/2026 241349 Residential: New Single Family Detached (IRC) SB RRH-30 1450 W RED HAWK TRL",
+    "3/6/2026 251997 Residential: Single Family Detached (New Construction) (IRC) SB PSH-20 6813 WHITE DOVE WAY",
+    "3/6/2026 26257 Residential: Single Family Detached (New Construction) (IRC) SB PSH-32 2862 SAGE HILLS PKWY",
+    "3/6/2026 251378 Commercial: Cell Tower SB SS-69-B-12 3492 GALTS GULCH",
+    "3/9/2026 26318 Residential: New Utility SB ELK-4-2304 3062 W ELK RUN DR",
+    "3/10/2026 26272 Residential: Single Family Detached (New Construction) (IRC) SB PVP-11 5785 GOLF CLUB LINK",
+    "3/10/2026 25315 Commercial: Remodel SB PP-62-1-B 6545 N LANDMARK DR",
+    "3/10/2026 251314 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-74 1253 MAHOGANY WAY",
+    "3/10/2026 251524 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-54 1352 MAHAOGANY WAY",
+    "3/10/2026 26270 Commercial: Frame supported membrane structure SB PP-63-A-X 3419 OLYMPIC PKWY",
+    "3/12/2026 26338 Commercial: Wall SB PEIIIBCC-48 4518 N FORESTDALE DR 48",
+    "3/13/2026 26176 Commercial: Racking/High Pile Storage SB FSE-1 6699 N LANDMARK DR E100, E102, E105",
+    "3/17/2026 25819 Residential: New Single Family Detached (IRC) SB ESSCVC-122 6910 ELK WALLOW DR",
+    "3/23/2026 251193 Commercial: Other, Other, Other, Agricultural Buildings, not accessory SS SS-72-5 4291 N FROSTY LN",
+    "3/24/2026 26345 Commercial: Frame supported membrane structure SB GWLD-II-GC-1-AM 7600 GLENWILD DR",
+    "3/26/2026 26158 Commercial: Other SB LVDAM-LV1B-1 1877 CANYONS RESORT DRIVE - CABRIOLET REPLACEMENT GONDOLA  - BOTTOM TERMINAL",
+    "3/26/2026 251556 Residential: Single Family Detached (New Construction) (IRC) NS TRS-14 459 ELK HOLLOW DR",
+    "3/27/2026 26426 Residential: New Utility SB WDCS-A-19 1998 PICABO ST",
+    "3/30/2026 252119 Commercial: Tenant Improvement SB FSE-1 6699 N LANDMARK DR H145",
+    "3/31/2026 251881 Residential: Accessory Dwelling Unit (IRC)(Internal) SB PRE-9 6236 N OLD RANCH RD",
+    "3/31/2026 26063 Commercial: Monument, Wall SB SS-65-A-3 3786 N OLD HIGHWAY 40",
+    "4/1/2026 26159 Commercial: Other SB PP-75-6 CABRIOLET GONDOLA TOP TERMINAL",
+    "4/1/2026 251813 Commercial: Complete Demolition SB PP-52-C-2 2100 W RASMUSSEN RD",
+    "4/2/2026 26337 Residential: New Utility SB GWLD-100 7175 LUPINE DR",
+    "4/2/2026 26171 Commercial: Tenant Improvement, Remodel SB PP-102-D-2 4137 N HIGHWAY 224",
+    "4/3/2026 26331 Commercial: Other SB PP-54-D 7078 PINEBROOK RD",
+    "4/3/2026 26166 Commercial: Other SB SS-42-A-X 5715 TRAILSIDE DR",
+    "4/6/2026 26275 Commercial: Retaining Wall SB PP-75-6 CABRIOLET TOP TERMINAL GRAVITY WALL",
+    "4/6/2026 26164 Commercial: Retaining Wall SB LVDAM-LV1B-1, RCDA-RC21-F, PP-75-6CABRIOLET GONDOLA RETAINING WALLS",
+    "4/6/2026 251234 Residential: Single Family Detached (New Construction) (IRC) SB SL-F-344 417 E WASATCH WAY",
+    "4/7/2026 25680 Residential: New Single Family Detached (IRC) NS UL-16-C 5589 ASPEN DR",
+    "4/7/2026 26267 Commercial: Remodel SB PEIIBCC-42-2AM 4554 N FORESTDALE DR #42",
+    "4/7/2026 26322 Commercial: Monument, Wall SB SCO-C-AM-9 6450 SILVER CREEK DR",
+    "4/8/2026 26315 Residential: Single Family Detached (New Construction) (IRC) NS CS-8 1238 PEARL CT",
+    "4/8/2026 26562 Commercial: Service Upgrade SB COMMON AREA 5217 COVE CANYON DR",
+    "4/8/2026 26518 Commercial: Other, Roofing SS CD-2216 4219 S BENCH CREEK RD",
+    "4/9/2026 26409 Commercial: Frame supported membrane structure SB COMMON AREA 2417 W HIGH MOUNTAIN RD",
+    "4/9/2026 26162 Commercial: Other SB RCDA-RC21-F CABRIOLET GONDOLA MID-STATION TERMINAL",
+    "4/9/2026 252082 Commercial: Tenant Improvement SB WHC-A-AM 4413 N FORESTDALE DR #A",
+    "4/10/2026 26208 Commercial: Other SB FJGILL-3-2AM-X 1608 SEGO LILY WAY",
+    "4/14/2026 25822 Residential: New Single Family Detached (IRC) SB ESSCVC-123 6912 ELK WALLOW DR",
+    "4/15/2026 26080 Residential: Single Family Detached (New Construction) (IRC) SB AC-76 4151 ASPEN CAMP LOOP",
+    "4/16/2026 26359 Residential: Single Family Detached (New Construction) (IRC) SB PPSHOR-3-50 7004 BEACH TRL",
+    "4/17/2026 26594 Commercial: Other SB HE-B-254 6320 N SILVER SAGE DR",
+    "4/17/2026 25759 Residential: New Single Family Detached (IRC) SS HL-56 8288 ASPEN LOOP",
+    "4/17/2026 26204 Residential: Single Family Detached (New Construction) (IRC) SB SU-J-87 195 ST MORITZ STRASSE",
+    "4/20/2026 26408 Residential: Single Family Detached (New Construction) (IRC) SB PMC-3 2913 14TH VIEW CIR",
+    "4/21/2026 26488 Commercial: Cell Tower SB PP-17-C-2-X ON TOP OF QUARRY MOUNTAIN",
+    "4/21/2026 26218 Residential: Single Family Detached (New Construction) (IRC) SB PERB-14 3282 BUGLE CT",
+    "4/21/2026 26577 Residential: New Utility SB SL-I-4-5 415 E EARL ST",
+    "4/21/2026 26564 Residential: New Utility SB PWL-1-S-12-P 6831 N 2200 W #12-P",
+    "4/21/2026 26384 Commercial: Exterior Cladding, Roofing SB COMMON AREA 3720 N SUNDIAL CT",
+    "4/21/2026 26232 Residential: Single Family Detached (New Construction) (IRC) NS PI-F-51 2238 S UINTAH VIEW DR",
+    "4/21/2026 26520 Commercial: Repair/Modify/Add Circuit SB ROW CORNER OF MEADOWS CONNECTION & SILVER SPRINGS DR",
+    "4/21/2026 26519 Commercial: Repair/Modify/Add Circuit SB ROW CORNER OF SOUTH SHORE DR & SILVER SPRINGS RD",
+    "4/21/2026 26523 Commercial: Repair/Modify/Add Circuit SB ROW NEAR CORNER OF 4977 MEADOWS DR & WILLOW LOOP",
+    "4/21/2026 26524 Commercial: Repair/Modify/Add Circuit SB ROW NEAR CORNER OF 5019 MEADOWS DR & WILLOW LOOP",
+    "4/21/2026 26279 Commercial: Tenant Improvement SB ALTLC-7 4123 N FORESTDALE DR #7",
+    "4/22/2026 26194 Commercial: Other SB RCDA-RC21-F CABRIOLET MIDSTATION OP STRUCTURE",
+    "4/22/2026 26192 Commercial: Other, Complete Demolition SB LVDAM-LV1B-1 CABRIOLET BOTTOM TERMINAL OPERATOR STRUCTURE",
+    "4/22/2026 26182 Commercial: Other SB PP-75-6 CABRIOLET TOP TERMINAL OPERATOR STRUCTURE",
+    "4/22/2026 26600 Residential: New Utility SB ELK-4-1702 3045 W ELK RUN DR",
+    "4/22/2026 251614 Commercial: Offices, Other SB SL-I-8-4A-AM 753 E DIVISION ST BLD A",
+    "4/23/2026 26529 Commercial: Cell Tower SB PP-63-A-X 3419 OLYMPIC PKWY",
+    "4/23/2026 26681 Residential: New Utility SB SU-A-98 760 ASPEN DR",
+    "4/24/2026 251795 Residential: Single Family Detached (New Construction) (IRC) SB PP-112-F 4407 N OLD RANCH RD",
+    "4/24/2026 26163 Commercial: Other SB MULTIPLE CABRIOLET GONDOLA LIFT TOWERS",
+    "4/27/2026 251403 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-42 1337 ARTEMISA WAY",
+    "4/27/2026 251536 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-75 1241 MAHOGANY WAY",
+    "4/28/2026 26570 Commercial: Generator/Emergency Power, Roof Mount Solar PV SS CD-177 3382 WENDELL WAY",
+    "4/28/2026 251105 Residential: Single Family Detached (New Construction) (IRC) SB DR-2-203 4332 W DISCOVERY WAY",
+    "4/28/2026 26515 Residential: New Utility, Utility Replacement/Upgrade SB PB-12-823 8015 N MEADOWVIEW DR",
+    "4/30/2026 26258 Commercial: Tenant Improvement SB FSE-1 6699 N LANDMARK DR F110",
+    "5/1/2026 26609 Residential: New Utility SB AC-78 4183 ASPEN CAMP LOOP",
+    "5/1/2026 26652 Commercial: Frame supported membrane structure SB NPRK-S-X 1388 CENTER DR",
+    "5/5/2026 26764 Residential: Accessory Dwelling Unit (IRC)(Internal) SB ALTLC-2 4123 N FORESTDALE DR #2",
+    "5/7/2026 26671 Residential: New Utility SS CD-411-413-C 45 GRANDVIEW LOOP",
+    "5/8/2026 26499 Residential: New Utility SB SUM-20 3523 CENTRAL PACIFIC TRL",
+    "5/8/2026 26617 Commercial: Frame supported membrane structure SB PP-75-C NEAR 3720 N SUNDIAL CT",
+    "5/8/2026 251629 Residential: Single Family Detached (New Construction) (IRC) SB PVP-27 5870 DOUBLE DEER DR",
+    "5/11/2026 26579 Residential: Single Family Detached (New Construction) (IRC) SB PLE-10 5246 GOLF CLUB LINK",
+    "5/11/2026 26470 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-31-AM 1278 ARTEMISIA WAY",
+    "5/11/2026 26474 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-35-AM 1324 ARTEMISIA WAY",
+    "5/11/2026 251995 Residential: Single Family Detached (New Construction) (IRC) SS CTRYH-163 1811 COUNTRY HAVEN RD",
+    "5/11/2026 26589 Residential: Single Family Detached (New Construction) (IRC) SB PLE-11 5216 GOLF CLUB LINK",
+    "5/12/2026 26244 Residential: Single Family Detached (New Construction) (IRC) SB PLE-17 5047 GOLF CLUB LINK",
+    "5/12/2026 26245 Residential: Single Family Detached (New Construction) (IRC) SB HSD-36 2321 E WESTVIEW TRL",
+    "5/14/2026 252110 Residential: Single Family Detached (New Construction) (IRC), Residential: Accessory Dwelling Unit (IRC)(Internal)SS CD-2026-D 388 E 1700 S",
+    "5/14/2026 251945 Residential: New Utility SB RPL-IV-199 5314 SANDHILL CT",
+    "5/14/2026 26668 Commercial: Frame supported membrane structure SB PP-75-D NEAR 3720 N SUNDIAL CT",
+    "5/15/2026 26283 Commercial: Frame supported membrane structure SB PP-75-C NEAR 3855 GRAND SUMMIT DR",
+    "5/15/2026 26508 Commercial: Tenant Improvement SB PP-62-1-A-3 6546 N LANDMARK DR UNIT C",
+    "5/15/2026 25601 Residential: New Single Family Detached (IRC) SB ESSCVC-68 1323 MAHOGANY WAY",
+    "5/18/2026 26703 Commercial: Wall SB FSE-1 6699 N LANDMARK DR UNIT F110",
+    "5/18/2026 251579 Residential: Single Family Detached (New Construction) (IRC), Residential: Accessory Dwelling Unit (IRC)(Internal)SB ESSCVC-70 1301 MAHOGANY WAY",
+    "5/19/2026 26757 Residential: New Utility SB BHVS-T95 5448 N LUGE LN",
+    "5/19/2026 26715 Residential: New Utility NS NS-1121 2560 E CHALK CREEK RD",
+    "5/20/2026 26593 Commercial: Wall SB FSE-1 6699 N LANDMARK DR UNIT H145",
+    "5/20/2026 26795 Commercial: Roofing SB PP-21-A-X 1505 W WHITE PINE CANYON RD",
+    "5/20/2026 26666 Residential: New Utility SB FPRV-2-F 1734 W REDSTONE AVE #F",
+    "5/20/2026 26558 Residential: Single Family Detached (New Construction) (IRC), Residential: Accessory Dwelling Unit (IRC)(Internal)SB ESSCVC-38 1470 MAHOGANY WAY",
+    "5/20/2026 26695 Commercial: Alteration SB PP-81-J-K-2 1832 W UTE BLVD",
+    "5/21/2026 26355 Residential: Single Family Detached (New Construction) (IRC) SB PALSDS-44 2579 JULIA CT",
+    "5/22/2026 26507 Residential: Single Family Detached (New Construction) (IRC) NS PI-D-44 2040 S PINE MEADOW DR",
+    "5/22/2026 26024 Commercial: Other SB NPTCR-R-2 1153 CENTER DR UNIT 1209 CENTER DR",
+    "5/22/2026 26674 Residential: Single Family Detached (New Construction) (IRC) SB PSH-23 6877 WHITE DOVE WAY",
+    "5/22/2026 26785 Commercial: Air Conditioning SB CRPC-2-AM 2105 FROSTWOOD BLVD",
+    "5/22/2026 26942 Commercial: Roofing SB COMMON AREA 6003 NORTH FOX POINTE CIRCLE, PARK CITY, UT,",
+    "5/22/2026 251615 Commercial: Offices, Commercial: Other SB SL-I-8-4A-AM 753 E DIVISION ST BLD A",
+    "5/22/2026 26915 Commercial: Repair SB COMMON AREA 3720 N SUNDIAL CT",
+    "5/22/2026 251619 Commercial: Offices, Commercial: Other SB SL-I-8-4A-AM 753 E DIVISION ST BLD C",
+    "5/25/2026 26615 Commercial: Other SS FDS-1-AM 777 N DEMOCRAT ALLEY",
+    "5/26/2026 26234 Residential: Single Family Detached (New Construction) (IRC) SS SRS-3-2AM 1227 N STATE RD 32",
+    "5/27/2026 26707 Commercial: Roofing SS MV-A-AM 4806 E WEBER CANYON RD",
+    "5/28/2026 26710 Residential: Single Family Detached (New Construction) (IRC) SS MVSO-I-5-AM 1171 HAYDEN FORK",
+    "5/28/2026 26860 Commercial: Roofing SB COMMON AREA 2669 CANYONS RESORT DR",
+    "5/28/2026 26858 Commercial: Roofing SB COMMON AREA 2669 CANYONS RESORT DR",
+    "5/28/2026 26389 Residential: Single Family Detached (New Construction) (IRC) SB SU-M-2-120 525 MATTERHORN DR",
+    "5/29/2026 252195 Commercial: Monument SB LRASP-1 6580 LIBERTY SAGE LN",
+    "5/29/2026 26791 Commercial: Monument SB LRASP-1 6580 LIBERTY SAGE LN",
+    "5/29/2026 26847 Commercial: Frame supported membrane structure SB PP-63-A 3419 OLYMPIC PKWY",
+    "5/29/2026 251537 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-48 1279 ARTEMISA WAY",
+    "6/2/2026 26966 Commercial: Complete Demolition SB PP-72 TOP OF LOOKOUT SUMMIT",
+    "6/4/2026 26687 Commercial: Other SS CD-372-E 1355 HOYT PEAK RANCH RD",
+    "6/5/2026 26812 Residential: New Utility SB SL-A-43 1386 E OAKRIDGE RD S",
+    "6/5/2026 26685 Residential: Single Family Detached (New Construction) (IRC) NS RRICH-2 1735 N WEST HENEFER RD",
+    "6/9/2026 26787 Residential: New Utility SB SU-C-8 135 PARKVIEW TER",
+    "6/9/2026 26743 Commercial: Retaining Wall SB PP-3-STATE-IMP TOP OF RED PINE GONDOLA UPPER CHICANE",
+    "6/10/2026 26260 Residential: Single Family Detached (New Construction) (IRC) SS PM-6-A-643 3839 CONIFER DR",
+    "6/10/2026 26547 Residential: Accessory Dwelling Unit (IRC)(Detached) NS ARDG-3 3250 S FOREST MEADOW RD",
+    "6/10/2026 26845 Residential: New Utility SB CVC-1-B-206 6749 N 2200 W #206",
+    "6/11/2026 26246 Commercial: Tenant Improvement SB QJPB-A-3-1AM 3156 QUARRY RD",
+    "6/11/2026 261004 Residential: Single Family Detached (New Construction) (IRC) SB PHP-2-11 5730 HAWKS MEADOW LN",
+    "6/11/2026 26999 Residential: Single Family Detached (New Construction) (IRC) SB PHP-II-10 5706 HAWKS MEADOW LN",
+    "6/11/2026 26844 Residential: Single Family Detached (New Construction) (IRC) SB PSH-14 6746 WHITE DOVE WAY",
+    "6/11/2026 26717 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-41 1500 MAHOGANY WAY",
+    "6/11/2026 26716 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-37-AM 1344 ARTEMISIA WAY",
+    "6/11/2026 261060 Residential: New Utility SB BHVS-T92 5442 N LUGE LN",
+    "6/12/2026 261092 Commercial: Frame supported membrane structure SB SS-25-52-BHTH7 6615 PAINTED VALLEY PASS",
+    "6/14/2026 251623 Residential: Single Family Detached (New Construction) (IRC) NS LR-3-189-AM 248 RIDGE TOP RD",
+    "6/15/2026 26142 Residential: Accessory Dwelling Unit (IRC)(Internal), Commercial: Tenant Improvement SB ALTLC-6 4123 N FORESTDALE DR 6",
+    "6/16/2026 26810 Commercial: Monument SB PP-102-D-2 4137 N HIGHWAY 224",
+    "6/16/2026 26421 Commercial: Cell Tower SB SS-69-B-12 3492 GALTS GULCH",
+    "6/16/2026 251394 Commercial: Other SS SS-78-3 4122 FROSTY LN",
+    "6/17/2026 26581 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-109 6924 ELK WALLOW DR",
+    "6/17/2026 26940 Residential: Single Family Detached (New Construction) (IRC) SS SK-24 2080 SAMAK PARK LOOP",
+    "6/17/2026 26487 Commercial: Remodel SB BHVS-102-AM 5532 N LILLEHAMMER LN",
+    "6/18/2026 261065 Commercial: Partial Demolition SB FSE-1 6699 N LANDMARK DR UNIT A135",
+    "6/18/2026 25878 Residential: Accessory Dwelling Unit (IRC)(Internal), Residential: Addition(Living Space) SS PM-1-66-AM 5883 E ASHLEY DR",
+    "6/18/2026 26395 Residential: Single Family Detached (New Construction) (IRC) SB DRSCVC-31 6859 ELK WALLOW DR",
+    "6/18/2026 26391 Residential: Single Family Detached (New Construction) (IRC) SB DRSCVC-30 6853 ELK WALLOW DR",
+    "6/23/2026 26513 Commercial: Other SB PP-S-MC-1 LIMELITE SKI RUN PARK CITY MOUNTAIN",
+    "6/23/2026 26298 Residential: Single Family Detached (New Construction) (IRC) SB PB-PR-15 6890 CANYON DRIVE CT",
+    "6/23/2026 26372 Commercial: Tenant Improvement SB FSE-1 6699 N LANDMARK DR A-135",
+    "6/24/2026 26780 Commercial: Frame supported membrane structure SS WSRH-1-1AM 4101 WOODENSHOE RANCH LN",
+    "6/24/2026 26944 Commercial: Wall SS CD-425 2361 W SR 248",
+    "6/26/2026 26605 Residential: New Utility, Residential: Generator/Emergency Power SB PINNP-4-20 4220 PINNACLE SKY LOOP",
+    "6/26/2026 26825 Commercial: Frame supported membrane structure SS HROCK-2 6791 N SR 32",
+    "6/30/2026 252184 Commercial: Tenant Improvement SB FSE-1 6699 N LANDMARK DR M-135",
+    "6/30/2026 26684 Residential: Single Family Detached (New Construction) (IRC) SB CWPC-5HML-322 322 WHITE PINE CANYON RD",
+    "6/30/2026 26476 Commercial: Other SB PP-72 TOP OF LOOKOUT SUMMIT",
+    "6/30/2026 26704 Residential: New Utility SB PWL-1-S-13-T 6841 NORTH 2200 WEST #13-T",
+    "6/30/2026 26457 Residential: Single Family Detached (New Construction) (IRC) NS TRS 15 417 ELK HOLLOW DR",
+    "7/2/2026 261287 Commercial: Frame supported membrane structure SB PP-75-C NEAR 3855 GRAND SUMMIT DR",
+    "7/2/2026 261282 Commercial: Frame supported membrane structure SB SS-51-C 6680 N PROMONTORY RANCH RD",
+    "7/2/2026 26775 Commercial: Tenant Improvement SB FSE-1 6699 N LANDMARK DR H130",
+    "7/2/2026 26492 Residential: Single Family Detached (New Construction) (IRC) SB SCVC269 6862 WOODS ROSE DR",
+    "7/2/2026 26917 Commercial: Remodel SB RS-4-1AM 1635 W REDSTONE CENTER DR",
+    "7/2/2026 252090 Commercial: Other NS NS-557 1042 HOYTSVILLE ROAD",
+    "7/2/2026 26913 Commercial: Other SS CD-2061-A-LLA 2055 W STATE RD 32",
+    "7/6/2026 26822 Commercial: Other SB SCO-A-2A-AM 6125 SILVER CREEK DR",
+    "7/7/2026 261294 Residential: New Utility SB SU-M-2-95 805 PARKVIEW DR",
+    "7/7/2026 26291 Commercial: Tenant Improvement SB FSE-1 6699 N LANDMARK DR G102",
+    "7/8/2026 26586 Commercial: Repair/Modify/Add Circuit SB CANCOR-1 6622 N LANDMARK DR 6598 N LANDMARK DR",
+    "7/8/2026 261080 Residential: New Utility SB CWPC-4A-160A-AM 160 WHITE PINE CANYON ROAD",
+    "7/8/2026 26363 Commercial: Tenant Improvement SB VKJ-3-4 6300 N SAGEWOOD DR UNIT C",
+    "7/10/2026 261348 Residential: New Utility, Residential: Utility Replacement/Upgrade SB BN-B-2-96 9296 N PAR CT",
+    "7/10/2026 261014 Commercial: Roofing SB RCDA-14-15-RC15 3846 GRAND SUMMIT DR",
+    "7/15/2026 261106 Residential: Single Family Detached (New Construction) (IRC) SB NGC-73 2014 CANYON GATE RD",
+    "7/16/2026 26983 Commercial: Tenant Improvement SB PP-62-1-A-3 6546 N LANDMARK DR UNIT D",
+    "7/17/2026 261230 Residential: Alteration(Interior), Residential: Alteration(Exterior), Residential: New Utility SS UL-56-B 4296 ELK LN",
+    "7/20/2026 26955 Residential: Single Family Detached (New Construction) (IRC) NS RR-A-66 3256 S ROCKPORT BLVD",
+    "7/20/2026 26130 Residential: Single Family Detached (New Construction) (IRC) NS TRS-25 2294 DEER CREST DR",
+    "7/21/2026 261101 Residential: New Utility SB MRE-40 5810 MOUNTAIN RANCH DR",
+    "7/21/2026 261258 Residential: Single Family Detached (New Construction) (IRC) SB PPSHOR-1-11 6858 PAINTED VLY PASS",
+    "7/21/2026 261116 Commercial: Other SS SHA-393-AM 4106 SAMAK HILLS RD",
+    "7/21/2026 26512 Residential: Single Family Detached (New Construction) (IRC) SB PMC-4 2914 14TH VIEW CIR",
+    "7/23/2026 26721 Residential: Single Family Detached (New Construction) (IRC) SB PLE-15 5098 GOLF CLUB LINK.",
+    "7/23/2026 261088 Residential: Single Family Detached (New Construction) (IRC) NS PI-E-14 1952 W ARAPAHO DR",
+    "7/23/2026 261380 Residential: New Utility SB JR-3-314 3187 W CREEK RD",
+    "7/23/2026 261337 Residential: New Utility SB SMIL-I-65 1429 W RIO GRANDE RD",
+    "7/28/2026 261168 Residential: Alteration(Interior), Residential: Alteration(Exterior), Residential: New Utility SS CD-671-H-3 6418 LEWIS AND CLARK RD",
+    "7/28/2026 261054 Residential: Accessory Dwelling Unit (IRC)(Internal), Residential: Alteration(Interior) SS CD-750-A 12641 E WEBER CANYON RD",
+    "7/28/2026 261412 Commercial: Roofing SB COMMON AREA 3720 N SUNDIAL CT",
+    "7/29/2026 261414 Residential: New Utility SB GTF-6-A 5721 N OLD RANCH RD",
+    "7/29/2026 261099 Commercial: Cell Tower SB VKJ-SPA-1 1570 NEWPARK BLVD",
+    "7/29/2026 261100 Commercial: Cell Tower SB VKJ-SPA-1C 1664 UINTA WAY",
+    "7/29/2026 261104 Commercial: Cell Tower SB NPTCR-R-2 1090 CENTER DR",
+    "7/31/2026 261261 Commercial: Cell Tower SB RS-8-1AM 1748 W REDSTONE CENTER DR",
+    "7/31/2026 261270 Commercial: Cell Tower SB RS-6-1AM 6030 MARKET ST",
+    "7/31/2026 26504 Commercial: Remodel SB COMMON AREA 3855 GRAND SUMMIT DR",
+    "7/31/2026 26982 Commercial: Cell Tower NS NS-89 3377 S FOREST MEADOW RD",
+    "7/31/2026 261182 Commercial: Cell Tower SB NPC-C 1456 W NEWPARK BLVD",
+    "7/31/2026 261162 Residential: Accessory Dwelling Unit (IRC)(Internal), Residential: Addition(Living Space) SB SLS-120 1475 W WILLOW LN",
+    "8/3/2026 261172 Commercial: Wall SB FSE-1 6699 N LANDMARK DR H130",
+    "8/3/2026 26317 Residential: Single Family Detached (New Construction) (IRC) NS RIVRN-2 448 RIVER RUN LANE",
+    "8/4/2026 261502 Commercial: Repair/Modify/Add Circuit SB PP-63-A 3419 OLYMPIC PKWY",
+    "8/5/2026 261055 Commercial: Other SB PP-63-A 3419 OLYMPIC PKWY",
+    "8/5/2026 26958 Residential: Single Family Detached (New Construction) (IRC) SB SUM-56 9072 PROMONTORY SUMMIT DR",
+    "8/5/2026 261149 Commercial: Complete Demolition SB PP-72 145 ADELAID STREET WEST",
+    "8/6/2026 26736 Residential: Single Family Detached (New Construction) (IRC) NS TRS-20 2393 WEBER VIEW LN",
+    "8/6/2026 26874 Residential: Single Family Detached (New Construction) (IRC) SB PROMR-2-12 8608 N PROMONTORY ROCK RD",
+    "8/6/2026 261465 Residential: New Utility SB RPL-II-64 1251 CUTTER LN",
+    "8/10/2026 26693 Commercial: Other SS SE-152 1574 COUNTRY LN",
+    "8/10/2026 261256 Residential: Single Family Detached (New Construction) (IRC) SB CWPC-5DML-270 270 WHITE PINE CANYON RD",
+    "8/10/2026 26762 Residential: Single Family Detached (New Construction) (IRC) SB GWLD-62 1146 SNOW BERRY ST",
+    "8/10/2026 26439 Residential: Single Family Detached (New Construction) (IRC) SS SE-174 1533 COUNTRY CIR",
+    "8/11/2026 261266 Commercial: Wall SB FSE-1 6699 N LANDMARK DR G102",
+    "8/12/2026 26116 Commercial: Tanks, Commercial: Partial Demolition SB PP-73-A 145 ADELAIDE STREET WEST",
+    "8/13/2026 26655 Commercial: Racking/High Pile Storage SB PEIIBCC-42-2AM 4554 N FORESTDALE DR #42",
+    "8/13/2026 25280 Residential: New Single Family Detached (IRC) NS LR-2-81 321 E ROCKPORT ASPEN DR",
+    "8/14/2026 261637 Commercial: Frame supported membrane structure SB PP-52-1-A 2201 W KILBY RD",
+    "8/18/2026 26342 Residential: Single Family Detached (New Construction) (IRC) SB SL-A-16 1625 E OAKRIDGE RD N",
+    "8/18/2026 261185 Residential: Single Family Detached (New Construction) (IRC) SB TJR-2 8701 N TRAILS DR",
+    "8/19/2026 261435 Commercial: Cell Tower NS NS-921 3371 S ECHO RD",
+    "8/19/2026 261466 Residential: New Utility SB SU-H-45 465 CRESTVIEW DR",
+    "8/19/2026 261501 Residential: New Utility SB WLCRK-50 4830 LAST STAND DR",
+    "8/19/2026 261469 Residential: New Utility SB SU-I-102 120 EVERGREEN CIR",
+    "8/20/2026 261481 Residential: New Utility SB SL-E-273 7935 N SILVER CREEK RD",
+    "8/20/2026 26691 Commercial: Other SS CD-372-D 1235 HOYT PEAK RANCH RD",
+    "8/20/2026 261534 Residential: New Utility SB JR-5-5014 8979 N UPPER LANDO LN",
+    "8/21/2026 261089 Residential: Single Family Detached (New Construction) (IRC) SB HSD-21 7271 N WESTVIEW CT",
+    "8/21/2026 261042 Residential: Single Family Detached (New Construction) (IRC) SS CD-372-E 1355 HOYT PEAK RANCH RD",
+    "8/21/2026 261176 Residential: Single Family Detached (New Construction) (IRC) SB PALSDS-7 5916 DAKOTA TRL",
+    "8/26/2026 261028 Commercial: Remodel SB FSE-1 6699 N LANDMARK DR UNIT J110, J120, J140, J160",
+    "8/26/2026 26932 Residential: Single Family Detached (New Construction) (IRC) SS SES-3 466 E BOULDERVILLE RD",
+    "8/27/2026 261150 Residential: Single Family Detached (New Construction) (IRC), Residential: Accessory Dwelling Unit (IRC)(Internal)SB SU-J-18 215 PARADISE RD",
+    "8/27/2026 26362 Commercial: Other, Commercial: Remodel SB RCDA-RC17-C SUNRISE GONDOLA BOTTOM OP STRUCTURE",
+    "8/27/2026 261620 Residential: New Utility SB SU-I-110 575 UPPER EVERGREEN DR",
+    "8/27/2026 261241 Commercial: Other NS SS-142-B-1 1920 SOUTH PINE MEADOW DR",
+    "8/27/2026 26796 Residential: Single Family Detached (New Construction) (IRC) SS CD-704-E 8332 OLD SMITH AND MOREHOUSE RD",
+    "8/28/2026 261335 Residential: Single Family Detached (New Construction) (IRC) SB AC-74 4085 ASPEN CAMP LOOP",
+    "8/28/2026 261077 Residential: Single Family Detached (New Construction) (IRC) SS RBE-2 3127 OLD STOCKMORE RD",
+    "8/28/2026 26554 Commercial: Monument SB SCBC-6440-I 6440 N BUSINESS PARK LOOP RD I",
+    "8/28/2026 261478 Residential: Single Family Detached (New Construction) (IRC) SB PSH-37 3101 HILLS RIDGE RD",
+    "8/31/2026 261025 Residential: Alteration(Interior), Residential: Alteration(Exterior), Residential: New Utility SB SS-61-B-5 4548 NORTH 250 EAST",
+    "9/1/2026 261680 Commercial: Service Upgrade NS NO PARCEL 1253 E CHALK CREEK RD",
+    "9/1/2026 261454 Residential: New  ility SB PB-3-136 7494 N BUCKBOARD DR",
+    "9/1/2026 261499 Residential: New  ility, Residential:  ility Replacement/Upgrade SB WDCS-A-27 1979 PICABO ST",
+    "9/1/2026 26595 Residential: Single Family Detached (New Construction) (IRC) NS FM-D-155 969 W DEEP FOREST RD",
+    "9/2/2026 26817 Residential: Single Family Detached (New Construction) (IRC) SS CD-697-B-1 10555 SMITH AND MOREHOUSE RD",
+    "9/2/2026 261051 Residential: Single Family Detached (New Construction) (IRC) SB PMC-5 2892 14TH VIEW CIRCLE",
+    "9/2/2026 261029 Residential: Single Family Detached (New Construction) (IRC) NS MCR-3-AM 1950 E CHALK CREEK RD",
+    "9/2/2026 261433 Commercial: Temporary Power SS CD-310-A 332 W ROB YOUNG LANE",
+    "9/3/2026 261624 Residential: New  ility SB EKH-B-E69 7785 N TALL OAKS DR",
+    "9/3/2026 26033 Commercial: Wall SB FSE-1 6699 N LANDMARK DR A155",
+    "9/3/2026 261121 Residential: Single Family Detached (New Construction) (IRC) SB WHLS-2 7991 N WEST HILLS TRL",
+    "9/3/2026 261353 Residential: Single Family Detached (New Construction) (IRC) SB PROMR-1-5 8926 N PROMONTORY RIDGE DR",
+    "9/4/2026 261594 Commercial: Wall SB SPD-4 1750 W SUN PEAK DR",
+    "9/9/2026 261479 Commercial: Cell Tower SB SS-69-B-12 3492 GALTS GULCH",
+    "9/9/2026 251864 Residential: Single Family Detached (New Construction) (IRC) NS FM-D-148 998 W ARAPAHO DR",
+    "9/10/2026 261683 Residential: New  ility SS ELKHLS-2-AM 3416 N ROCKY RD",
+    "9/11/2026 261760 Commercial: Roofing SB PP-38-C-1 4199 W KILBY RD",
+    "9/11/2026 26998 Commercial: Concrete Retaining Wall SB SS-131-X 10063 N EAST CANYON ROAD",
+    "9/11/2026 261221 Residential: Single Family Detached (New Construction) (IRC) SB PLE-1 5502 GOLF CLUB LINK",
+    "9/16/2026 261118 Residential: Single Family Detached (New Construction) (IRC) SB PNW-3-71 6623 BADGER CT",
+    "9/17/2026 26677 Residential: Single Family Detached (New Construction) (IRC) SS SPM-9 1685 W SPRING MEADOWS WAY",
+    "9/18/2026 261364 Commercial: Retaining Wall, Commercial: Tanks SB SS-21-A-X 1518 E CRESCENT DR S",
+    "9/22/2026 261497 Residential: Single Family Detached (New Construction) (IRC) SB PPSHOR-1-24 6368 PAINTED VLY PASS",
+    "9/23/2026 261714 Residential: Accessory Dwelling Unit (IRC)(Detached) SS CD-372-E 1355 HOYT PEAK RANCH RD",
+    "9/23/2026 261602 Commercial: Boiler SB PP-63-A 3419 OLYMPIC PKWY",
+    "9/23/2026 261546 Residential: Alteration(Interior), Residential: Alteration(Exterior), Residential: New  ility SS CD-372-E 1355 HOYT PEAK RANCH RD",
+    "9/24/2026 261716 Residential: New  ility SB NGC-2 2738 LONGSPUR LN",
+    "9/24/2026 261875 Commercial: Partial Demolition SB FSE-1 6699 N LANDMARK DR A130",
+    "9/24/2026 26563 Commercial: Other SB TCT-A 6598 GLENWILD DR",
+    "9/25/2026 261898 Commercial: Frame supported membrane structure SB LICA-1 6560 N LANDMARK DR",
+    "9/25/2026 261756 Commercial: Other SB LLSS-D-5 4831 N SILVER SPRINGS DR",
+    "9/27/2026 261765 Commercial: Wall SB FSE-1 6699 N LANDMARK DR #L120-150",
+    "9/29/2026 261782 Commercial: Other SS WMS-5 388 E BOULDERVILLE RD",
+    "9/29/2026 261073 Residential: New  ility, Residential:  ility Replacement/Upgrade SB CRQJ-3-AM 3360 W CEDAR DR",
+    "9/29/2026 26919 Commercial: Tenant Improvement SB PEIIIBCC-46 4518 N FORESTDALE DR #46",
+    "9/30/2026 261766 Commercial: Tenant Improvement SB FSE-1 6699 N LANDMARK DR L150",
+    "9/30/2026 261884 Residential: New  ility NS LR-3-185 287 RIDGE TOP RD",
+    "10/1/2026 261897 Commercial: Frame supported membrane structure SB PP-75-C NEAR 3720 N SUNDIAL CT",
+    "10/2/2026 261180 Commercial: Tenant Improvement SB SUMCC-100-R 2750 W RASMUSSEN RD H-104",
+    "10/2/2026 261710 Residential: Single Family Detached (New Construction) (IRC) SB PRESRV-2-34 976 W DEER HILL",
+    "10/5/2026 261523 Commercial: Tenant Improvement SB QJPB-A-5-1AM 3167 QUARRY RD.UNIT 101",
+    "10/6/2026 261657 Residential: New Utility SS JBH-4 3509 N CRYSTAL CREAMERY DR",
+    "10/6/2026 261656 Residential: New Utility SS JBH-5 3487 N CRYSTAL CREAMERY DR",
+    "10/6/2026 261473 Residential: New Utility SB MT-7-AM-RE 218 MOUNTAIN TOP DR",
+    "10/6/2026 261666 Commercial: Other SB LVDAM-LV1-A-2 3911 LOWER VILLAGE RD",
+    "10/6/2026 261437 Residential: Single Family Detached (New Construction) (IRC) SB HE-B-238 6130 N FAIRVIEW DR",
+    "10/6/2026 26442 Commercial: Monument SS CTRYH-F COUNTRY HAVEN RD NEAR DEMOCRAT ALLEY",
+    "10/7/2026 261830 Commercial: Boiler SB PP-63-A 3419 OLYMPIC PKWY",
+    "10/7/2026 261597 Commercial: Wall SB FSE-1 6699 N LANDMARK DR E100",
+    "10/7/2026 261665 Commercial: Retaining Wall SB LVDAM-LV1-A-2 3911 LOWER VILLAGE RD",
+    "10/8/2026 261789 Commercial: Tenant Improvement SB QJPB-A-5-1AM 3167 QUARRY RD 103,104",
+    "10/8/2026 261698 Residential: New Utility NS RVR-4-AM 6851 N RIVER VALLEY DR",
+    "10/8/2026 261781 Residential: New Utility SB SU-I-103 112 EVERGREEN CIR",
+    "10/9/2026 261094 Commercial: Monument SS CTRYH-H COUNTRY HAVEN RD NEAR DEMOCRAT ALLEY NORTH STRUCTURE/SIGN",
+    "10/9/2026 261672 Residential: New Utility SB PTAR-10 1311 PTARMIGAN LOOP",
+    "10/12/2026 261671 Residential: Single Family Detached (New Construction) (IRC) SB PERB-9 6897 BUGLE TRAIL",
+    "10/12/2026 261424 Residential: Single Family Detached (New Construction) (IRC) SS SS-2303-IMP 11799 CHRISTMAS MEADOWS LN",
+    "10/13/2026 261430 Residential: Single Family Detached (New Construction) (IRC) SB SU-H-74-A 360 PARKVIEW DR",
+    "10/14/2026 261819 Residential: Single Family Detached (New Construction) (IRC) SB PSH-35 2987 HILLS RIDGE RD",
+    "10/14/2026 261491 Commercial: Tenant Improvement SB FSE-1 6699 N LANDMARK DR A130",
+    "10/14/2026 261458 Commercial: Tenant Improvement, Commercial: Remodel SB PEIIIBCC-50 4518 N FORESTDALE DR #50",
+    "10/14/2026 261925 Residential: New Utility SS CD-689 6744 WEBER CANYON RD",
+    "10/15/2026 261783 Commercial: Tenant Improvement SB QJPB-A-5-1AM 3167 QUARRY RD 201, 202, 203, 204 and 205",
+    "10/15/2026 261748 Commercial: Other SS CD-4-A NORTH OF 2713 W STATE ROAD 32",
+    "10/15/2026 261536 Commercial: Tenant Improvement SB SPD-6 1840 W SUN PEAK DR A-101",
+    "10/17/2026 261286 Residential: Alteration(Interior), Residential: Alteration(Exterior), Residential: New Utility SB HE-A-350 280 E COUNTRYSIDE CIR",
+    "10/19/2026 261863 Commercial: Other SB SS-52-PVG6 6347 GOLF CLUB LINK",
+    "10/19/2026 261720 Commercial: Tenant Improvement, Commercial: Remodel SB SDLC-1 3720 N SUNDIAL CT UNIT D",
+    "10/20/2026 261956 Residential: Single Family Detached (New Construction) (IRC) SB PHP-II-12 5786 HAWKS MEADOW LN",
+    "10/20/2026 261456 Residential: Single Family Detached (New Construction) (IRC) SB DC-54 8199 N SUNRISE LOOP",
+    "10/20/2026 261349 Commercial: Tenant Improvement SB QJPB-A-5-1AM 3167 QUARRY RD 106",
+    "10/20/2026 261667 Commercial: Tenant Improvement SB SMB-104-AM 1526 UTE BLVD #131",
+    "10/20/2026 261032 Residential: Single Family Detached (New Construction) (IRC) NS FM-D-119 951 HIDDEN CIR",
+    "10/21/2026 261167 Residential: Single Family Detached (New Construction) (IRC) SB SL-A-42 1228 E OAKRIDGE RD S",
+    "10/21/2026 261940 Commercial: Exterior Cladding SB PP-62-1-A-3 6546 N LANDMARK DR",
+    "10/23/2026 261595 Residential: Single Family Detached (New Construction) (IRC) SS AC-63 7695 N FIRE RING GLADE",
+    "10/23/2026 261813 Commercial: Tenant Improvement, Commercial: Remodel SB PCTC-401-AM-X 6301 N LANDMARK DR",
+    "10/27/2026 261908 Commercial: Cell Tower SB VKJ-3-4 6300 N SAGEWOOD DR",
+    "10/27/2026 261793 Commercial: Tenant Improvement SB NPC-C-3-AM 1476 W NEWPARK BLVD 220",
+    "10/28/2026 261723 Residential: Single Family Detached (New Construction) (IRC) SB PERB-2 7138 BUGLE TRL",
+    "10/29/2026 252161 Commercial: Tenant Improvement SB PEIIIBCC-54 4518 N FORESTDALE DR #54",
+    "10/29/2026 261220 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-33 1294 ARTEMISIA WAY",
+    "10/29/2026 261222 Residential: Single Family Detached (New Construction) (IRC), Residential: Accessory Dwelling Unit (IRC)(Internal)SB ESSCVC-34-AM 1312 ARTEMISIA WAY",
+    "10/29/2026 261223 Residential: Single Family Detached (New Construction) (IRC), Residential: Accessory Dwelling Unit (IRC)(Internal)SB ESSCVC-49 1268 MAHAOGANY WAY",
+    "10/29/2026 261225 Residential: Single Family Detached (New Construction) (IRC), Residential: Accessory Dwelling Unit (IRC)(Internal)SB ESSCVC-51 1302 MAHAOGANY WAY",
+    "10/29/2026 261224 Residential: Single Family Detached (New Construction) (IRC) SB ESSCVC-50 1282 MAHAOGANY WAY",
+    "10/30/2026 261762 Commercial: Wall SB WHC-C-AM 4413 N FORESTDALE DR #C"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "a64a8fb509ec4e5d",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Big Water Planning and Zoning Board",
+   "entity": "Big Water",
+   "title": "Public Hearing for AMENDING THE LONE ROCK VIEW SUBDIVISION PLAT",
+   "meetingDate": "2026-12-07",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124921.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1520075.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "ail/1124921.html Big Water Big Water Planning and Zoning Board Public Hearing for AMENDING THE LONE ROCK VIEW SUBDIVISION PLAT Public Hearing for AMENDING THE LONE ROCK VIEW SUBDIVISION PLAT Subscribe to Public Body Gene",
+    "ublic Hearing for AMENDING THE LONE ROCK VIEW SUBDIVISION PLAT Public Hearing for AMENDING THE LONE ROCK VIEW SUBDIVISION PLAT Subscribe to Public Body General Information Government Type Municipality Entity Big Water Pu",
+    "g Board Notice Information Add Notice to Calendar Notice Title Public Hearing for AMENDING THE LONE ROCK VIEW SUBDIVISION PLAT Notice Type(s) Hearing Event Start Date & Time December 7, 2026 07:00 PM Description/Agenda B",
+    "tah, Big Water Planning and Zoning Commission will hold a public hearing to: - AMENDING THE LONE ROCK VIEW SUBDIVISION PLAT - MOVING THE PLACEMENT OF HORSE SHOE BEND DRIVE At the time and place set forth above, all"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "fd92bb6021281a5b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town Council",
+   "entity": "Levan",
+   "title": "Public Hearing- Utility Rates",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124773.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1519667.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Levan Town Office Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Levan Town Office Building"
+   ],
+   "snippets": [
+    "communicative aids and services) during this hearing should notify Chelsi Oliver at the Levan Town Office Building, 20 N Main St., Levan, UT 84639 prior to the hearing. Individuals with speech and/or hearing impairments may call the R",
+    "uxiliary communicative aids and services) during this hearing should notify Chelsi Oliver at the Levan Town Office Building, 20 N Main St., Levan, UT 84639 prior to the hearing. Individuals with speech and/or hearing",
+    "auxiliary communicative aids and services) during this hearing should notify Chelsi Oliver at the Levan Town Office Building, 20 N Main St., Levan, UT 84639 prior to the hearing. Individuals with speech and/or hearing"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "59f5ded07ec36c76",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Millcreek",
+   "title": "City Council Work Meeting and Regular Meeting",
+   "meetingDate": "2026-11-23",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124895.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1520037.pdf"
+   ],
+   "score": 11,
+   "terms": [
+    "church",
+    "commercial",
+    "school",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "representative",
+     "name": "Listening"
+    },
+    {
+     "role": "applicant",
+     "name": "Citizens"
+    },
+    {
+     "role": "company",
+     "name": "Research Design"
+    },
+    {
+     "role": "company",
+     "name": "Program Development"
+    },
+    {
+     "role": "company",
+     "name": "Career Development"
+    },
+    {
+     "role": "company",
+     "name": "Leadership Development"
+    },
+    {
+     "role": "company",
+     "name": "Financial Standards Development"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Listening",
+    "Citizens",
+    "Research Design",
+    "Program Development",
+    "Career Development",
+    "Leadership Development",
+    "Financial Standards Development"
+   ],
+   "snippets": [
+    "in MiLlcreek. From 2022 to 2024, I served on the MiLLcreek Community Council, Listening directLy to residents' priorities and bridging communication between neighborhoods and city Leadership. For the past two year",
+    "edure: The purpose of public comment is to allow citizens to address items on the agenda. Citizens requesting to address the Council may be asked to complete a written comment form and present it to the City Recorder. In general, the Chair",
+    "nding for a commission, percentage, brokerage or contingent fee, other than bona fide employees of bona fide commercial agencies 5 established for the purpose of securing business; (c) breached any of the ethical sta"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "d2aaaa4143894dbd",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Kearns Council",
+   "entity": "Kearns",
+   "title": "Ordinance 2026-O-19",
+   "meetingDate": "2026-11-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124779.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1519673.pdf"
+   ],
+   "score": 28,
+   "terms": [
+    "church",
+    "clinic",
+    "commercial",
+    "condominium",
+    "dwelling",
+    "hotel",
+    "lots",
+    "medical",
+    "school",
+    "site plan",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Kearns"
+    },
+    {
+     "role": "company",
+     "name": "Dangerous Building"
+    },
+    {
+     "role": "company",
+     "name": "Residential Permits Residential"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Kearns",
+    "Dangerous Building",
+    "Residential Permits Residential"
+   ],
+   "snippets": [
+    "bsite Division of Archives and Records Service 5823 /pmn/sitemap/noticeemail/1124779.html Kearns Kearns Council Ordinance 2026-O-19 Ordinance 2026-O-19 Subscribe to Public Body General Information Government Type Municipality Entity Kearns",
+    "e restated version of Title 12 adopts by reference the Uniform Code for the Abatement of Dangerous Building, 1997 Edition published by the International Conference of Building Officials (“Dangerous Building Abatement Code”), as Section 12",
+    "control and has the means to physically control the animal. 7. \"Animal boarding establishment\" means any commercial establishment that takes in animals for the purpose of providing temporary shelter or care and cha",
+    "exhibition\" means any display of, event or contest involving animals. 10. \"Animal grooming parlor\" means any commercial establishment maintained for the purpose of offering cosmetological services for animals for a fee",
+    "16. \"Cattery\" means an establishment where cats are boarded, bred, bought, sold or groomed for a fee. 17. \"Commercial animal establishment\" means any pet shop, animal grooming parlor, guard dog location or exhibition",
+    "mal shelter, veterinary hospital, or any other such facility used for holding animals. 37. \"Kennel\" means a commercial establishment having three or more dogs for the purpose of boarding, breeding, buying, grooming, l"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "b09da41a46f3d8aa",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Land Use Authority",
+   "entity": "Brigham City",
+   "title": "Land Use Authority",
+   "meetingDate": "2026-11-23",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124613.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1519295.pdf",
+    "https://www.utah.gov/pmn/files/1519297.pdf"
+   ],
+   "score": 17,
+   "terms": [
+    "final plat",
+    "lots",
+    "school",
+    "site plan",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Katie Pierce"
+    },
+    {
+     "role": "property owner",
+     "name": "Young FBC Real Estate"
+    },
+    {
+     "role": "owner",
+     "name": "Developer Information"
+    },
+    {
+     "role": "company",
+     "name": "Brigham City Land Use Authority Land"
+    },
+    {
+     "role": "company",
+     "name": "Use Authority Land"
+    },
+    {
+     "role": "company",
+     "name": "Entity Brigham City Public Body Land"
+    },
+    {
+     "role": "company",
+     "name": "Calendar Notice Title Land"
+    },
+    {
+     "role": "company",
+     "name": "Galloway Company"
+    },
+    {
+     "role": "company",
+     "name": "Maverik Group LLC"
+    }
+   ],
+   "sizes": [
+    "2.397 acres"
+   ],
+   "companies": [
+    "Katie Pierce",
+    "Young FBC Real Estate",
+    "Developer Information",
+    "Brigham City Land Use Authority Land",
+    "Use Authority Land",
+    "Entity Brigham City Public Body Land",
+    "Calendar Notice Title Land",
+    "Galloway Company",
+    "Maverik Group LLC",
+    "A Galloway Company",
+    "Economic Development",
+    "Young FBC Real Estate LLC"
+   ],
+   "snippets": [
+    "Dedication Preliminary and Final Plat / Crystal Subdivision / Main Street and 400 South / Katie Pierce, AWA, A Galloway Company In compliance with the Americans with Disabilities Act, persons needing auxiliary communicative aids and servic",
+    "APPLICANT: Katie Pierce, AWA, A Galloway Co. APPLICATION NO.: 26-104 PROPERTY OWNER: Young FBC Real Estate, LLC LAND AREA: *2.397 acres PROPERTY ADDRESS: Main Street & 400 South ZONING DISTRICT: GC PARCEL NO: 03-122-0030 / 0034",
+    "edication Acknowledgement. Appears to be a carry over from a previous plat. 7. Owner – Developer Information. Please update the information. Appears to be a carry over from a previous plat. Engineering Department: 1. On the 6th li",
+    "bsite Division of Archives and Records Service 6467 /pmn/sitemap/noticeemail/1124613.html Brigham City Land Use Authority Land Use Authority Land Use Authority Subscribe to Public Body General Information Government Type Municipality Entity",
+    "Archives and Records Service 6467 /pmn/sitemap/noticeemail/1124613.html Brigham City Land Use Authority Land Use Authority Land Use Authority Subscribe to Public Body General Information Government Type Municipality Entity Brigham City Publ",
+    "d Use Authority Subscribe to Public Body General Information Government Type Municipality Entity Brigham City Public Body Land Use Authority Notice Information Add Notice to Calendar Notice Title Land Use Authority Notice Type(s) Notice,",
+    "bers, 20 North Main Approval of Minutes Action Items 1.Application #26-104 / No-Dedication Preliminary and Final Plat / Crystal Subdivision / Main Street and 400 South / Katie Pierce, AWA, A Galloway Company In compl",
+    "20 North Main Approval of Minutes Action Items 1. Application #26-104 / No-Dedication Preliminary and Final Plat / Crystal Subdivision / Main Street and 400 South / Katie Pierce, AWA, A Galloway Company",
+    "rth Main Approval of Minutes Action Items 1. Application #26-104 / No-Dedication Preliminary and Final Plat / Crystal Subdivision / Main Street and 400 South / Katie Pierce, AWA, A Galloway Company",
+    "the June 15, 2026, Land Use Authority meeting. 7 8 Application #26 -092 / No -Dedication Preliminary and Final Plat / Discovery 9 Elementary Subdivision / 820 North 5 00 West / Neil Stevens, Box Elder School 10"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "92483ccfb1cf336f",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning and Zoning Commission",
+   "entity": "Sevier County",
+   "title": "Planning Commission Meeting",
+   "meetingDate": "2026-12-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124897.html",
+   "files": [],
+   "score": 5,
+   "terms": [
+    "data center"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Sevier County Administration Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Sevier County Administration Building"
+   ],
+   "snippets": [
+    "Planning Commission Meeting will be held in the Commission Chambers of the Sevier County Administration Building, 250 North Main Street, Richfield, Utah 84701 Notice of Special Accommodations (ADA) Sevier County will make eff",
+    "Zoning Administrator Update Review of minutes for November 12, 2026 1. TAKE ACTION ON THE DRAFT DATA CENTER ORDINANCE Planning Commission Meeting will be held"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "ec9fd8cac917317b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Hurricane",
+   "title": "Hurricane City Council",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124583.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1519231.pdf"
+   ],
+   "score": 34,
+   "terms": [
+    "clinic",
+    "commercial",
+    "hotel",
+    "industrial",
+    "lots",
+    "master plan",
+    "mixed-use",
+    "office building",
+    "phase",
+    "preliminary plat",
+    "school",
+    "subdivision",
+    "townhome",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Smyra Ready Mix-Richard O"
+    },
+    {
+     "role": "agent",
+     "name": "Karl Rasmussen Request"
+    },
+    {
+     "role": "engineer",
+     "name": "LAND SURVEYORS"
+    },
+    {
+     "role": "applicant",
+     "name": "Tenant. v"
+    },
+    {
+     "role": "applicant",
+     "name": "Tenant in response"
+    },
+    {
+     "role": "applicant",
+     "name": "Tenant is dishonored or returned by a"
+    },
+    {
+     "role": "applicant",
+     "name": "Hurricane City"
+    },
+    {
+     "role": "company",
+     "name": "Crocker Enterprises"
+    },
+    {
+     "role": "company",
+     "name": "Fine Arts Building"
+    },
+    {
+     "role": "company",
+     "name": "January"
+    },
+    {
+     "role": "company",
+     "name": "Municipal Building"
+    },
+    {
+     "role": "company",
+     "name": "Sensitive Land"
+    }
+   ],
+   "sizes": [
+    "12 townhome",
+    "83 acres",
+    "348 townhomes",
+    "56 lot",
+    "2,700 acres",
+    "41 acres"
+   ],
+   "companies": [
+    "Smyra Ready Mix-Richard O",
+    "Karl Rasmussen Request",
+    "LAND SURVEYORS",
+    "Tenant. v",
+    "Tenant in response",
+    "Tenant is dishonored or returned by a",
+    "Hurricane City",
+    "Crocker Enterprises",
+    "Fine Arts Building",
+    "January",
+    "Municipal Building",
+    "Sensitive Land",
+    "Romney Group",
+    "Business Existing Development",
+    "Approved. Engineering",
+    "Hurricane City Office Building",
+    "ZONING MAP Legal Description CROCKER ENTERPRISES LLC",
+    "C. Construction",
+    "Building Development"
+   ],
+   "snippets": [
+    "n Number: ZC26-13 Type of Application: Zone Change Action Type: Legislative Applicant: Smyra Ready Mix-Richard O’Shields Agent: Karl Rasmussen Request: Zone Change from M-1 to M-2. Location: 460 N Hurricane Cliffs Parkway Zoning: M-",
+    "eavy Industrial) to allow for the development of a concrete batch plant. © ENGINEERS - LAND SURVEYORS - LAND PLANNERSENGINEERINGVALUEPRO20 South 850 West, Suite 1Hurricane City, Utah 84737Phone: 435-668-8307 PROVALUEENGINEERING, INC.H-CR",
+    "e expressly contained in this Agreement. Any proposal materials or exhibits submitted by Tenant in response to a solicitation by City, to the extent accepted by City, shall also be incorporated in this Agreement. L. Confidentiality. T",
+    "ebsite Division of Archives and Records Service 209 /pmn/sitemap/noticeemail/1124583.html Hurricane City Council Hurricane City Council Hurricane City Council Subscribe to Public Body General Information Government Type Municipality Entity",
+    "sideration of the Council's August 20, 2026, denial of the request to rezone Lot 6 of the Crocker Enterprises industrial subdivision located near the north end of the industrial portion of Old Highway 91 from Light Industrial (M-1) to Heavy",
+    "soon as 36 it arrives. An open meeting will be held on November 23rd at 6:00 p.m. at the Fine Arts Building 37 to review the project details with the contractor and citizens can ask questions. He stated the 38 department will be losing a",
+    "entire property as a planned community does not mean they are proposing to eliminate the 439 industrial or commercial uses. It would simply allow them to distribute those uses throughout 440 the property. Councilman",
+    "uests. 455 Mr. Lowe explained that they have a conceptual master plan that includes 41 acres of general 456 commercial, 505 acres of light industrial, 490 acres of neighborhood commercial, 40 acres of 457 rural reside",
+    "n that includes 41 acres of general 456 commercial, 505 acres of light industrial, 490 acres of neighborhood commercial, 40 acres of 457 rural residential, and 560 acres of open space. He noted that the development wou",
+    "Mesa is located, and Mr. Cupp explained that it has a mixed-use PDO. Councilman 478 Prete asked about having commercial uses along SR-7. Mr. Lowe explained that access to 479 properties along SR-7 is limited to interch"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "6e2402686a50ed8a",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Milford",
+   "title": "Synopsis of Ordinance 06-2026 - Data Centers, Data Center Power PLants, Backup Generators, and Energy Storage",
+   "meetingDate": "2026-11-17",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124887.html",
+   "files": [],
+   "score": 5,
+   "terms": [
+    "data center",
+    "industrial"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "218 /pmn/sitemap/noticeemail/1124887.html Milford City Council Synopsis of Ordinance 06-2026 - Data Centers, Data Center Power PLants, Backup Generators, and Energy Storage Synopsis of Ordinance 06-2026 - Data Centers,",
+    "Data Center Power PLants, Backup Generators, and Energy Storage Synopsis of Ordinance 06-2026 - Data Centers, Data Center Power PLants, Backup Generators, and Energy Storage Subscribe to Public Body General Information G",
+    "Council Notice Information Add Notice to Calendar Notice Title Synopsis of Ordinance 06-2026 - Data Centers, Data Center Power PLants, Backup Generators, and Energy Storage Notice Type(s) Notice Event Start Date & Time",
+    "ordinance and resolution in a regularly scheduled meeting held on November 17, 2026: o Ordinance 06-2026 'Data Center and Energy Storage Facilities' This ordinance prohibits data centers and data center power pla"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "2fa4018740cf8a7e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Power Commission",
+   "entity": "Bountiful",
+   "title": "Power Commission Meeting",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124905.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1520045.pdf",
+    "https://www.utah.gov/pmn/files/1520047.pdf"
+   ],
+   "score": 16,
+   "terms": [
+    "commercial",
+    "industrial",
+    "medical",
+    "phase",
+    "units",
+    "warehouse"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "High Country Construction"
+    },
+    {
+     "role": "company",
+     "name": "Revenues Total Operating Expenses Total Capital"
+    },
+    {
+     "role": "company",
+     "name": "Total Capital"
+    },
+    {
+     "role": "company",
+     "name": "CAPITAL EXPENDITURES Land"
+    },
+    {
+     "role": "company",
+     "name": "Contrib In Aid To Construction"
+    },
+    {
+     "role": "company",
+     "name": "Interest Inc Investments"
+    },
+    {
+     "role": "company",
+     "name": "Plant Building"
+    },
+    {
+     "role": "company",
+     "name": "Transfer To Capital"
+    },
+    {
+     "role": "company",
+     "name": "Improvements Land"
+    },
+    {
+     "role": "company",
+     "name": "BUDGET Last YTD Capital"
+    },
+    {
+     "role": "company",
+     "name": "Dist Sys Capital"
+    },
+    {
+     "role": "company",
+     "name": "Labor Capital"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "High Country Construction",
+    "Revenues Total Operating Expenses Total Capital",
+    "Total Capital",
+    "CAPITAL EXPENDITURES Land",
+    "Contrib In Aid To Construction",
+    "Interest Inc Investments",
+    "Plant Building",
+    "Transfer To Capital",
+    "Improvements Land",
+    "BUDGET Last YTD Capital",
+    "Dist Sys Capital",
+    "Labor Capital",
+    "Interest Inc"
+   ],
+   "snippets": [
+    "damages to our transmission line resulting 44 from the Rocky Canyon fire. He noted that High Country Construction was given the bids to 45 remove the damaged poles and equipment. Photographs revealed that the majority of the fire 46 da",
+    "-Date 3 Month Period Ended 30 September 2026 YTD: Total Revenues Total Operating Expenses Total Capital Expenditures BOUNTIFUL CITY LIGHT AND POWER (BCLP) Line items with insufficient history use the YTD Actual as the HAB Target, up to",
+    "3 7,559 8,990 0 0 0 0 0 0 0 0 0 23,292 26,910 (3,618) 25,000 (1,708) (6.8) 100,000 26,961 Contrib In Aid To Construction Net 0 122,875 0 0 0 0 0 0 0 0 0 0 122,875 563,049 (440,174) 446,024 (323,149) (72.5) 1,784,097 107,862 Income Uncollect",
+    "DIV/0! #DIV/0! #DIV/0! #DIV/0! #DIV/0! 99.3% 99.1% 89.3% 89.3% NonOperating Revenues 0.4% Interest Inc Investments (77,990) 51,949 113,747 0 0 0 0 0 0 0 0 0 87,706 97,429 (9,724) 163,787 (76,081) (46.5) 655,146 164,255 Interest Inc Rate Sta",
+    "48.9 424,100 172,220 Power Plant Major Repairs 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0 0 0 Plant Building Repairs 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0 0 0 Plant Storage Tank Fees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0 0 0 Op Exp Power Genera",
+    "7 0 0 0 0 0 0 0 0 0 1,060,582 993,303 (67,278) 822,856 (237,726) (28.9) 3,291,424 988,443 Transfer To Capital Improv Fund 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0 0 0 Transfer To Rate Stabilization Reserve 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0",
+    "0% 0.0% 0.0% 0.0% 0.0% 0.0% NUMBER OF CUSTOMERS: Residential Customers 15,790 15,772 15,762 0 0 0 0 0 0 0 0 0 Commercial Customers 1,667 1,666 1,665 0 0 0 0 0 0 0 0 0 Industrial Customers 1 1 1 0 0 0 0 0 0 0 0 0 Total Cu",
+    ".00% for all customers, increase in Monthly Customer Charge for Residential customers, and a restructuring of Commercial rates. Page 7 BOUNTIFUL CITY LIGHT & POWER 25.0% 10Nov26 INCOME STATEMENT: LABOR & BENEFITS EXPENS",
+    ".00% for all customers, increase in Monthly Customer Charge for Residential customers, and a restructuring of Commercial rates. Notes: 1. On 19 June 2001, the $6.7 million note payable to capital improvement fund (combin",
+    ".0 0 0 Legal & Auditing Fees 0 0 2,633 0 0 0 0 0 0 0 0 0 2,633 4,316 1,683 4,146 1,513 36.5 16,584 0 Office & Warehouse 8,847 3,828 4,629 0 0 0 0 0 0 0 0 0 17,304 15,143 (2,160) 23,356 6,052 25.9 93,423 12,034 Profess &"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "770ac80a8fc15a3e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Centerfield",
+   "title": "Planning & Zoning Meeting",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124623.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1520095.pdf"
+   ],
+   "score": 17,
+   "terms": [
+    "dwelling",
+    "lots",
+    "phase",
+    "planned unit development",
+    "pud",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Tavis Nielsen- Building"
+    },
+    {
+     "role": "company",
+     "name": "Network Realty Group"
+    },
+    {
+     "role": "company",
+     "name": "Planned Unit Development"
+    },
+    {
+     "role": "company",
+     "name": "Sunrise Engineering"
+    }
+   ],
+   "sizes": [
+    "1,400 square feet",
+    "0.25 acres",
+    "0.21 acres",
+    "0.59 acres"
+   ],
+   "companies": [
+    "Tavis Nielsen- Building",
+    "Network Realty Group",
+    "Planned Unit Development",
+    "Sunrise Engineering"
+   ],
+   "snippets": [
+    "ion of elected official 4. Reading and Adoption of Minutes of previous meeting 5. Tavis Nielsen- Building Permit Home Danish Meadows, Phase II Lot #29 Hatch- Minor Subdivision Ordinance Reviews 6.Work Session- 7. Unfini",
+    "cel located near 300 North and 100 West, associated with property owner Logan Moffat of Network Realty Group. Freeman explained that his construction company specializes in smaller, more affordable, traditionally built homes, accessory",
+    "elp reduce purchase prices. ● Planning and Zoning Requirements: The possibility of a Planned Unit Development (PUD), overlay zone, or code amendment was discussed as a way to provide flexibility for certain developments. However, t",
+    "eering firm must review them, with the cost borne by the applicant. Jones & DeMille and Sunrise Engineering were discussed as potential reviewing firms. The Commission also noted that the application could not be approved until the requ",
+    "ious meeting 5. Tavis Nielsen- Building Permit Home Danish Meadows, Phase II Lot #29 Hatch- Minor Subdivision Ordinance Reviews 6.Work Session- 7. Unfinished Business/ Report of Council Members 8. C",
+    "ity council for a building permit for a shed. Seconded by Board Member Sorenson. Carries 4-0. Hatch Minor Subdivision The applicant presented an updated minor subdivision proposal, revising the property boundary",
+    "d by Board Member Sorenson. Carries 4-0. Hatch Minor Subdivision The applicant presented an updated minor subdivision proposal, revising the property boundary to accommodate the seven available irrigation water sha",
+    "an. He requested consideration of an arrangement allowing the water shares to be formally assigned to the subdivision once the bank releases its lien. The Commission discussed possible safeguards, including recordi"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "063c1d60c2a2ca2e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Midway",
+   "title": "Public Hearing Notice",
+   "meetingDate": "2026-12-15",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124899.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "conditional use",
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Midway City Office Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Midway City Office Building"
+   ],
+   "snippets": [
+    "he above item may be obtained from the Midway City Recorder at 75 North 100 West, Midway (Midway City Office Building). The information will also be posted at https://www.midwaycityut.gov/the-latest/calendar/ the Friday before the meeting.",
+    "ycityut.gov). Time will be allowed for public comment regarding the following item: Charolais Restaurant / Conditional Use and Local Consent for Alcohol Dispensing Establishment (Megan Dial) - Discuss and possibly app",
+    "onal Use and Local Consent for Alcohol Dispensing Establishment (Megan Dial) - Discuss and possibly approve a conditional use permit and grant local consent for an alcohol dispensing establishment at Charolais Restaurant",
+    "arding the above item may be obtained from the Midway City Recorder at 75 North 100 West, Midway (Midway City Office Building). The information will also be posted at https://www.midwaycityut.gov/the-latest/calendar/ the",
+    "stance in accordance with the Americans with Disabilities Act, please contact Brad Wilson at the Midway City Office Building, at 75 North 100 West, Midway, UT 84049, 1-435-654-3223 x118, or by email at: bwilson@midwayci"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "c5cf232cd091e1eb",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Midway",
+   "title": "Ordinance Adoption",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124881.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Midway City Office Building"
+    },
+    {
+     "role": "company",
+     "name": "Meeting Location Midway City Office Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Midway City Office Building",
+    "Meeting Location Midway City Office Building",
+    "Information Meeting Location Midway City Office Building"
+   ],
+   "snippets": [
+    "ll text of the ordinance is available at the Midway City Recorder's office located in the Midway City Office Building at 75 North 100 West, Midway City, Utah. Notice of Special Accommodations (ADA) For those individuals needing special assi",
+    "midwaycityut.gov. Notice of Electronic or Telephone Participation N/A Meeting Information Meeting Location Midway City Office Building 75 North 100 West Midway, UT 84049 Show in Apple Maps Show in Google Maps Contact Name Brad Wilson Contac",
+    "A full text of the ordinance is available at the Midway City Recorder's office located in the Midway City Office Building at 75 North 100 West, Midway City, Utah. Notice of Special Accommodations (ADA) For those indi",
+    "stance in accordance with the Americans with Disabilities Act, please contact Brad Wilson at the Midway City Office Building, at 75 North 100 West, Midway, UT 84049, 1-435-654-3223 x118, or by email at: bwilson@midwayci",
+    "yut.gov. Notice of Electronic or Telephone Participation N/A Meeting Information Meeting Location Midway City Office Building 75 North 100 West Midway, UT 84049 Show in Apple Maps Show in Google Maps Contact Name Brad Wi"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "6c21d89b16d0c9a9",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning and Zoning Commission",
+   "entity": "Price",
+   "title": "11-25-2026 SPECIAL PLANNING & ZONING AGENDA",
+   "meetingDate": "2026-11-25",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124641.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1519401.pdf"
+   ],
+   "score": 13,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "lots",
+    "medical"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "LUKE MARVIN ATTEST"
+    },
+    {
+     "role": "applicant",
+     "name": "Luke Marvin on behalf of Sandstone Psychology"
+    },
+    {
+     "role": "applicant",
+     "name": "Sandstone Psychology"
+    },
+    {
+     "role": "company",
+     "name": "Price City Land"
+    },
+    {
+     "role": "company",
+     "name": "Price City Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "LUKE MARVIN ATTEST",
+    "Luke Marvin on behalf of Sandstone Psychology",
+    "Sandstone Psychology",
+    "Price City Land",
+    "Price City Building"
+   ],
+   "snippets": [
+    "office and related land use at 49 N 500 E within the commercial 1 (C-1) zoning district, Sandstone Psychology, Luke Marvin. Notice of Special Accommodations (ADA) Note: In compliance with the Americans with Disabilities Act, individuals n",
+    "ing district. The general land use evaluation criteria is listed in Section 11.1 of the Price City Land Use Management and Development Code (Code), the specific land use evaluation criteria/land use checklist is located in Section 11.1.m",
+    "d welfare of the community. i. No building occupancy in excess of that identified by the Price City Building Inspector and Price City Fire Chief as the maximum safe capacity. f. Placement/installation of site landscaping complying with t",
+    "oval of a conditional use permit for a group gatherings, office and related land use at 49 N 500 E within the commercial 1 (C-1) zoning district, Sandstone Psychology, Luke Marvin. Notice of Special Accommodations (ADA)",
+    "val of a conditional use permit for a group gatherings, office and related land use at 49 N 500 E within the commercial 1 (C- 1) zoning district, Sandstone Psychology, Luke Marvin. 1. CONDITIONAL USE PERMIT 1",
+    "by Luke Marvin on behalf of Sandstone Psychology to locate the business (land use) at 49 N 500 E within the Commercial 1 (C-1) zoning district. The general land use evaluation criteria are listed in Section 11.1 of t",
+    "by Luke Marvin on behalf of Sandstone Psychology to locate the business (land use) at 49 N 500 E within the Commercial 1 (C-1) zoning district. The general land use evaluation criteria is listed in Section 11.1 of th"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "99353f9bba790613",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council/RDA",
+   "entity": "Tremonton",
+   "title": "Public Hearing Notice: Hirschi Farms Annexation",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124883.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1519987.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [
+    "0.41 acres"
+   ],
+   "companies": [],
+   "snippets": [
+    "ERIDIAN. BEGINNING AT A POINT ON THE NORTHWEST CORNER OF A 30.00 FOOT WIDE EASEMENT SHOWN ON THE MARK HIRSCHI SUBDIVISION ENTRY NO. 361396, POINT ALSO BEING AT THE NORTHEAST CORNER OF A 60.00 FOOT WIDE EASEMENT SHOWN ON",
+    "RY NO. 361396, POINT ALSO BEING AT THE NORTHEAST CORNER OF A 60.00 FOOT WIDE EASEMENT SHOWN ON THE RILEY BUCK SUBDIVISION, ENTRY NO. 399294, POINT ALSO ON THE SOUTH RIGHT-OF-WAY LINE OF 12000 NORTH STREET LOCATED 964.29",
+    "FEET; AND (3) SOUTH 01°10'14' EAST (SOUTH BY RECORD) 55.00 FEET TO THE NORTHEAST CORNER OF SAID MARK HIRSCHI SUBDIVISION, POINT ALSO BEING ON THE TREMONTON CITY CORPORATE LIMIT LINE; THENCE SOUTH 88°49'46' WEST (WEST BY",
+    "IMIT LINE; THENCE SOUTH 88°49'46' WEST (WEST BY RECORD) 286.30 FEET ALONG THE NORTH LINE OF SAID MARK HIRSCHI SUBDIVISION AND SAID TREMONTON CITY CORPORATE LIMIT LINE TO SOUTHWEST CORNER OF SAID 30.00 FOOT WIDE EASEMENT;"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "dc3658728c1ad218",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council/RDA",
+   "entity": "Tremonton",
+   "title": "Public Notice: Passage of ORD 26-25 amending Chapters 1.07.015 and 1.21.035",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124965.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1520173.pdf"
+   ],
+   "score": 16,
+   "terms": [
+    "dwelling",
+    "lots",
+    "multi-family",
+    "pud",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Tremonton City Corporation"
+    }
+   ],
+   "sizes": [
+    "07.015 lot",
+    "16 lot",
+    "8 lot"
+   ],
+   "companies": [
+    "Tremonton City Corporation"
+   ],
+   "snippets": [
+    "ying, updating, amending, and modifying specific provisions of the Revised Ordinances of Tremonton City Corporation is in the best interest of the City; and WHEREAS, the Tremonton City Planning Commission and Zoning Administrator have",
+    "violation of any other Ordinance or regulation of Tremonton City. Public Buildings, Utility Buildings, and Multi-Family Dwellings when authorized in a district, may be erected to a height greater than the district h",
+    "ellings when authorized in a district, may be erected to a height greater than the district height limit by Site Plan approval. 1.21.035 APPROVAL STANDARDS. (Subsection B.4 only) 4. The size of a Detached A",
+    "ced Lot Regulations in the RM -8 and RM -16 zones. Site Plan Permit (see Chapter 1.26 of this Title) and subdivision approval required. 2 Note: No accessory building shall contain greater square foo",
+    "trict shall cover more than thirty (30) percent of the rear yard. 3 Note: For Park Meadows Subdivision an existing PUD R1 -6 zone. Dwelling minimum setbacks: Front yard: twenty-five (25') feet/other"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "840b67b26d0a4072",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Utah Housing Corporation",
+   "entity": "Utah Housing Corporation",
+   "title": "Notice of Public Hearing",
+   "meetingDate": "2026-11-30",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124673.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1519397.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "multifamily",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "itself and the State of Utah"
+    },
+    {
+     "role": "company",
+     "name": "Quasi-Government Entity Utah Housing Corporation"
+    }
+   ],
+   "sizes": [
+    "25 unit",
+    "0.55 acre"
+   ],
+   "companies": [
+    "itself and the State of Utah",
+    "Quasi-Government Entity Utah Housing Corporation",
+    "Community Development"
+   ],
+   "snippets": [
+    "ted at 15 West South Temple, Suite 1400, Salt Lake City, Utah 84101, for and on behalf of itself and the State of Utah (the 'State'), regarding a proposal by UHC that, pursuant to the provisions of Title 63H, Chapter 8, Utah Code Annotated,",
+    "ublic Hearing Subscribe to Public Body General Information Government Type Independent or Quasi-Government Entity Utah Housing Corporation Public Body Utah Housing Corporation Notice Information Add Notice to Calendar Notice Title Notice of",
+    "ll be used by the Borrower to finance the acquisition, construction and equipping of an approximately 25-unit multifamily housing rental development located on an approximately 0.55 acre site at approximately 2333 Grand",
+    "made to UHC pursuant to a funding loan agreement (the 'Funding Loan Agreement') and evidenced by a tax-exempt multifamily note to be issued by UHC in an aggregate principal amount not to exceed $4,400,000 (the 'Governmen",
+    "not constitute an indebtedness or a pledge of the faith or credit of UHC, the State of Utah or any political subdivision of the State of Utah. Comments at the public hearing are invited. Written comments may be submi"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "0eace61f415e1e06",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Utah Housing Corporation",
+   "entity": "Utah Housing Corporation",
+   "title": "Notice of Public Hearing",
+   "meetingDate": "2026-11-30",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124649.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1519365.pdf"
+   ],
+   "score": 11,
+   "terms": [
+    "multifamily",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "itself and the State of Utah"
+    },
+    {
+     "role": "company",
+     "name": "Quasi-Government Entity Utah Housing Corporation"
+    }
+   ],
+   "sizes": [
+    "228 units"
+   ],
+   "companies": [
+    "itself and the State of Utah",
+    "Quasi-Government Entity Utah Housing Corporation",
+    "Community Development"
+   ],
+   "snippets": [
+    "ted at 15 West South Temple, Suite 1400, Salt Lake City, Utah 84101, for and on behalf of itself and the State of Utah (the 'State'), regarding a proposal by UHC that, pursuant to the provisions of Title 63H, Chapter 8, Utah Code Annotated,",
+    "ublic Hearing Subscribe to Public Body General Information Government Type Independent or Quasi-Government Entity Utah Housing Corporation Public Body Utah Housing Corporation Notice Information Add Notice to Calendar Notice Title Notice of",
+    "the Borrower to finance the acquisition, construction and equipping of an approximately 228-units in various multifamily housing rental developments located on various sites culminating in approximately 13.QQ total acre",
+    "he Borrower to finance the acquisition, construction and equipping of an approximately 228- units in various multifamily housing rental developments located on various sites culminating in approximately 13.QQ total acr",
+    "not constitute an indebtedness or a pledge of the faith or credit of UHC, the State of Utah or any political subdivision of the State of Utah. Comments at the public hearing are invited. Written comments may be submi",
+    "not constitute an indebtedness or a pledge of the faith or credit of UHC, the State of Utah or any political subdivision of the State of Utah. Comments at the public hearing are invited. Written comments may be submitt"
+   ],
+   "foundAt": "2026-11-19"
+  },
+  {
+   "id": "fd969dd535b4bde5",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Farmington City Planning Commission",
+   "entity": "Farmington",
+   "title": "Notice of Agenda and Meeting",
+   "meetingDate": "2026-11-19",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1124729.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1519503.pdf",
+    "https://www.utah.gov/pmn/files/1519505.pdf"
+   ],
+   "score": 23,
+   "terms": [
+    "commercial",
+    "condominium",
+    "preliminary plat",
+    "site plan",
+    "subdivision",
+    "townhome"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Applicant"
+    },
+    {
+     "role": "company",
+     "name": "Wright Development"
+    },
+    {
+     "role": "company",
+     "name": "Station Parkway"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Applicant",
+    "Wright Development",
+    "Station Parkway",
+    "N Station Parkway. The Development"
+   ],
+   "snippets": [
+    "EVELOPMENT AGREEMENT APPLICATIONS - public hearing (items 1 & 2) 1. Wright Development - Applicant is requesting consideration of a concept site plan, schematic, and Development Agreement for a proposed commercial retail building at 529 N",
+    "VISION, SITE PLAN & DEVELOPMENT AGREEMENT APPLICATIONS - public hearing (items 1 & 2) 1. Wright Development - Applicant is requesting consideration of a concept site plan, schematic, and Development Agreement for a proposed commercial reta",
+    ", schematic, and Development Agreement for a proposed commercial retail building at 529 N Station Parkway. The Development Agreement would permit a drive through feature and allow for deviations to certain design standards normally required",
+    "icant is requesting consideration of a concept site plan, schematic, and Development Agreement for a proposed commercial retail building at 529 N Station Parkway. The Development Agreement would permit a drive through fe",
+    "cant is requesting consideration of a concept site plan, schematic, and Development Agreement for a proposed commercial retail building at 529 N Station Parkway. The Development Agreement would permit a drive through f",
+    "esidential condominium building at approximately 1515 W Burke Lane. 3. Cole West - Applicant is requesting Preliminary Plat approval for the proposed theCharlotte townhome project, located at 1293 Burke Lane. SUMM",
+    "sidential condominium building at approximately 1515 W Burke Lane. 3. Cole West – Applicant is requesting Preliminary Plat approval for the proposed theCharlotte townhome project, located at 1293 Burke Lane. SUM"
+   ],
+   "foundAt": "2026-11-19"
+  },
   {
    "id": "cd1f2c47e762e447",
    "source": "pmn",
