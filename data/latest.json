@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:54:32.651855Z",
+ "updated": "2026-11-21T17:44:03.618440Z",
  "report": {
   "arcgis:provo-current-projects": {
    "items": 0,
@@ -26,12 +26,1102 @@
    "ok": true
   },
   "pmn": {
-   "items": 29,
+   "items": 20,
    "ok": true
   }
  },
- "newToday": 29,
+ "newToday": 20,
  "items": [
+  {
+   "id": "a26435393d3ffd5a",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Duchesne County Commission",
+   "entity": "Duchesne County",
+   "title": "NOTICE OF COMBINED WORKING & REGULAR MEETING OF THE BOARD OF DUCHESNE COUNTY COMMISSIONERS",
+   "meetingDate": "2026-11-23",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125379.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521451.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "medical"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Duchesne County Administration Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Duchesne County Administration Building"
+   ],
+   "snippets": [
+    "ng on Monday, November 23, 2026, beginning at 9:00 a.m. in the Commission Chambers at the Duchesne County Administration Building at 734 N. Center Street, Duchesne, Utah, to discuss and act on the following: - Opening Comments - Pledge",
+    "the Rural County Matching Grant Applications - Discussion & Consideration of the Contract with Uintah Basin Medical for Ambulance Services - Auditor's Office - Vouchers - Payroll - Surplus - Business Licenses - Consi"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "74d8027d4a806f8d",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Weber County Commission",
+   "entity": "Weber County",
+   "title": "Weber County Commission Meeting",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125419.html",
+   "files": [],
+   "score": 5,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Bennet Master Planned Development"
+    }
+   ],
+   "sizes": [
+    "84.94 acres",
+    "150.37 acres",
+    "35.5 acres"
+   ],
+   "companies": [
+    "Bennet Master Planned Development"
+   ],
+   "snippets": [
+    "irst amendment to the Bennet development agreement to graft the parcels into the existing Bennet Master Planned Development. Presenter: Charlie Ewert 3. Public Comments- (Please limit comments to 3 minutes)- 4. Public hearing to tak",
+    "or action regarding an ordinance of the County Commissioners of Weber County rezoning the Riverbend Farms Subdivision from the A-1 and A-2 zones to the R1-15 and O-1 zone, and to approve a development agreement appli"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "8d74e8b775a5c2a4",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Draper",
+   "title": "Notice of Public Hearing: Concord Farm Lane Zoning Map, Land Use Map and Development Agreement Amendment Requests",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125397.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521491.pdf"
+   ],
+   "score": 11,
+   "terms": [
+    "dwelling",
+    "lots",
+    "multi-family",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Multi-family Residential"
+    }
+   ],
+   "sizes": [
+    "8 dwelling units"
+   ],
+   "companies": [
+    "Multi-family Residential"
+   ],
+   "snippets": [
+    "dment from the RA1 (Residential Agricultural, 40,000 square foot lot minimum) to the RM1 (Multi-family Residential, up to 8 dwelling units per acre), 2) a Land Use Map Amendment from the Residential Low/Medium Density designation to the Res",
+    "1) a Zoning Map Amendment from the RA1 (Residential Agricultural, 40,000 square foot lot minimum) to the RM1 (Multi-family Residential, up to 8 dwelling units per acre), 2) a Land Use Map Amendment from the Residential L",
+    ") a Zoning Map Amendment from the RA1 (Residential Agricultural, 40,000 square foot lot minimum) to the RM1 (Multi-family Residential, up to 8 dwelling units per acre), 2) a Land Use Map Amendment from the Residential",
+    ") a Development Agreement Amendment to incorporate the four proposed lots into the existing Concord Farm Lane subdivision. The hearing will be held at Draper City Hall in the City Council Chambers on December 1, 2026,",
+    "a Development Agreement Amendment to incorporate the four proposed lots into the existing Concord Farm Lane subdivision. The hearing will be held at Draper City Hall in the City Council Chambers on December 1, 2026"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "aa2e3ae4b80b972b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Draper",
+   "title": "Notice of Public Hearing: Remi Lane Zoning Map Amendment Request",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125389.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521487.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "zoned both RA1 (Residential Agricultural) and RA2 (Residential Agricultural), to accommodate a future planned subdivision of the property. The hearing will be held at Draper City Hall in the City Council Chambers, on",
+    "oned both RA1 (Residential Agricultural) and RA2 (Residential Agricultural), to accommodate a future planned subdivision of the property. The hearing will be held at Draper City Hall in the City Council Chambers,"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "902854dbe54382cc",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "ORDERVILLE TOWN PLANNING & ZONING COMMISSION",
+   "entity": "Orderville",
+   "title": "Notice of Public Hearing Amendment to Municipal Code Title 8 Chapter 9 Zoning Districts New R1T",
+   "meetingDate": "2026-11-30",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125417.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521529.pdf"
+   ],
+   "score": 11,
+   "terms": [
+    "dwelling",
+    "lots",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Single-Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "Single Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "Sharkey Verl Sawyer Susan Esplin Building"
+    }
+   ],
+   "sizes": [
+    "5,000 sq ft"
+   ],
+   "companies": [
+    "Single-Family Residential",
+    "Single Family Residential",
+    "Sharkey Verl Sawyer Susan Esplin Building",
+    "Shaun Sharkey Verl Sawyer Susan Esplin Building"
+   ],
+   "snippets": [
+    "Planning & Zoning Commission will hold a Public Hearing to receive comment on creating a Single-Family Residential District R-1-T. The proposed amendments will be in TITLE 8 CHAPTER 9 ZONING DISTRICTS: Section 9.13. - Single Family",
+    "The proposed amendments will be in TITLE 8 CHAPTER 9 ZONING DISTRICTS: Section 9.13. - Single Family Residential District (R-1-T) Subsection 9.13.1 - Purpose To provide Moderate Density, Moderate-income Single-Family Neighborhoods, R",
+    "subdivided once per parent parcel. Cannot be subdivided again after initial division. Not to be used in/as Subdivision developments. Parcel will be classified as 'non-divisible' in GIS Mapping All interested perso",
+    "subdivided once per parent parcel. Cannot be subdivided again after initial division. Not to be used in/as Subdivision developments. Parcel will be classified as “non-divisible” in GIS Mapping All interested perso"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "eb48fa2a4c707fa6",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "ORDERVILLE TOWN PLANNING & ZONING COMMISSION",
+   "entity": "Orderville",
+   "title": "Notice of Public Hearing Amendment to Municipal Code Title 8 Chapter 9 Zoning Districts Section 9.9.2 Commercial C1 Zone",
+   "meetingDate": "2026-11-30",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125435.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521553.pdf"
+   ],
+   "score": 13,
+   "terms": [
+    "clinic",
+    "commercial",
+    "hotel",
+    "medical"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Similar Use Determination"
+    },
+    {
+     "role": "company",
+     "name": "Sharkey Verl Sawyer Susan Esplin Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Similar Use Determination",
+    "Sharkey Verl Sawyer Susan Esplin Building",
+    "Shaun Sharkey Verl Sawyer Susan Esplin Building"
+   ],
+   "snippets": [
+    "ffee shop, Retail stores, Supermarket Variety store, Veterinary services, Travel agency Similar Use Determination - The planning commission, based on its own discretion, can find that other proposed uses similar with those listed above ar",
+    "MISSION Notice of Public Hearing Amendment to Municipal Code Title 8 Chapter 9 Zoning Districts Section 9.9.2 Commercial C1 Zone Notice of Public Hearing Amendment to Municipal Code Title 8 Chapter 9 Zoning Districts Sec",
+    "C1 Zone Notice of Public Hearing Amendment to Municipal Code Title 8 Chapter 9 Zoning Districts Section 9.9.2 Commercial C1 Zone Subscribe to Public Body General Information Government Type Municipality Entity Orderville",
+    "e Title Notice of Public Hearing Amendment to Municipal Code Title 8 Chapter 9 Zoning Districts Section 9.9.2 Commercial C1 Zone Notice Type(s) Notice, Hearing Event Start Date & Time November 30, 2026 05:35 P",
+    "e Added NOTICE OF PUBLIC HEARING-Amendment to Municipal Code Title 8 Chapter 9 Zoning Districts Section 9.9.2 Commercial C1 Zone.pdf Public Information Handout 2026/11/20 04:05 PM Show Notice Revision History Notice Revi"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "c413917c0f994884",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "ORDERVILLE TOWN PLANNING & ZONING COMMISSION",
+   "entity": "Orderville",
+   "title": "Notice of Public Hearing Zone Change Darlynn Sorensen",
+   "meetingDate": "2026-11-30",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125437.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521555.pdf"
+   ],
+   "score": 8,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Darlynn & Arlene Sorensen Public notice is"
+    },
+    {
+     "role": "company",
+     "name": "Single Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "Sharkey Verl Sawyer Susan Esplin Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Darlynn & Arlene Sorensen Public notice is",
+    "Single Family Residential",
+    "Sharkey Verl Sawyer Susan Esplin Building",
+    "Shaun Sharkey Verl Sawyer Susan Esplin Building"
+   ],
+   "snippets": [
+    "cation by Terry Griffiths to change the zone of the following described property from: Single Family Residential District (R-1A) to Commercial District (C-1): PARCEL O-6-9, O-6-10, O-6-11, & O-6-16 O-6-9 Legal BEG AT A PT 115.0 FT S O",
+    "to change the zone of the following described property from: Single Family Residential District (R-1A) to Commercial District (C-1): PARCEL O-6-9, O-6-10, O-6-11, & O-6-16 O-6-9 Legal BEG AT A PT 115.0 FT S OF THE"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "b9b586e70c8d6a4d",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Land Use Authority",
+   "entity": "Washington City",
+   "title": "Public Hearing - Preliminary Plat - Burke Springs Ph 4",
+   "meetingDate": "2026-12-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125313.html",
+   "files": [],
+   "score": 10,
+   "terms": [
+    "phase",
+    "preliminary plat"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "LM Land Holdings"
+    },
+    {
+     "role": "company",
+     "name": "Washington City Land"
+    },
+    {
+     "role": "company",
+     "name": "Entity Washington City Public Body Land"
+    },
+    {
+     "role": "company",
+     "name": "Washington Land"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "LM Land Holdings",
+    "Washington City Land",
+    "Entity Washington City Public Body Land",
+    "Washington Land",
+    "Community Development"
+   ],
+   "snippets": [
+    "urke Springs Phase 4 located at approximately Leora Drive and Chapman Drive. Applicant: LM Land Holdings, LLC. For additional information regarding this item, please contact the Community Development Department at (435) 656-6325 or ema",
+    "bsite Division of Archives and Records Service 8547 /pmn/sitemap/noticeemail/1125313.html Washington City Land Use Authority Public Hearing - Preliminary Plat - Burke Springs Ph 4 Public Hearing - Preliminary Plat - Burke Springs Ph 4 Subsc",
+    "ke Springs Ph 4 Subscribe to Public Body General Information Government Type Municipality Entity Washington City Public Body Land Use Authority Notice Information Add Notice to Calendar Notice Title Public Hearing - Preliminary Plat - Burke",
+    "t Date & Time December 2, 2026 06:00 PM Description/Agenda Notice is being given that the Washington Land Use Authority will hold a Public Hearing on Wednesday, December 2, 2026 at 6:00 P.M. hosted at Washington City Hall located at 111 No",
+    "ecords Service 8547 /pmn/sitemap/noticeemail/1125313.html Washington City Land Use Authority Public Hearing - Preliminary Plat - Burke Springs Ph 4 Public Hearing - Preliminary Plat - Burke Springs Ph 4 Subscribe to Publ",
+    "ml Washington City Land Use Authority Public Hearing - Preliminary Plat - Burke Springs Ph 4 Public Hearing - Preliminary Plat - Burke Springs Ph 4 Subscribe to Public Body General Information Government Type Municipalit",
+    "n City Public Body Land Use Authority Notice Information Add Notice to Calendar Notice Title Public Hearing - Preliminary Plat - Burke Springs Ph 4 Notice Type(s) Notice Event Start Date & Time December 2, 2026 06:00 PM",
+    "gs.The Public Hearing is for the purpose of the following: Public Hearing and consideration to approve a Preliminary Plat for Burke Springs Phase 4 located at approximately Leora Drive and Chapman Drive. Applicant:"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "d96636c1234f1230",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Spanish Fork",
+   "title": "Spanish Fork City Council Public Hearing Notice for Larson Park",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125395.html",
+   "files": [],
+   "score": 10,
+   "terms": [
+    "commercial",
+    "lots",
+    "preliminary plat"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "R-R Rural Residential"
+    },
+    {
+     "role": "company",
+     "name": "Master Planned Development"
+    }
+   ],
+   "sizes": [
+    "82 townhomes"
+   ],
+   "companies": [
+    "R-R Rural Residential",
+    "Master Planned Development"
+   ],
+   "snippets": [
+    "scription/Agenda This proposal involves a request to change the zoning of a property from R-R Rural Residential to C-2, R-3 & R-1-15 with the Master Planned Development Overlay and the approval of a Preliminary Plat consisting of 141 reside",
+    "change the zoning of a property from R-R Rural Residential to C-2, R-3 & R-1-15 with the Master Planned Development Overlay and the approval of a Preliminary Plat consisting of 141 residential lots, 82 townhomes and one commercial lot, loc",
+    "pment Overlay and the approval of a Preliminary Plat consisting of 141 residential lots, 82 townhomes and one commercial lot, located at approximately 1700 West 1900 South. Notice of Special Accommodations (ADA) SPANISH",
+    "R-R Rural Residential to C-2, R-3 & R-1-15 with the Master Planned Development Overlay and the approval of a Preliminary Plat consisting of 141 residential lots, 82 townhomes and one commercial lot, located at approxima"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "6f70d9e61cca7c4d",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Spanish Fork",
+   "title": "Spanish Fork City Council Public Hearing Notice for  Jex Property Rezone",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125391.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "R-1-8 Residential"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "R-1-8 Residential"
+   ],
+   "snippets": [
+    "26 10:00 PM Description/Agenda This proposal requests rezoning a portion of property from R-1-8 Residential to C-2 General Commercial. The subject property is located at approximately 750 South 2000 East Notice of Special Accommodations (AD",
+    "escription/Agenda This proposal requests rezoning a portion of property from R-1-8 Residential to C-2 General Commercial. The subject property is located at approximately 750 South 2000 East Notice of Special Accommodati"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "753af637054f7d3c",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "County Commissioners",
+   "entity": "Sevier County",
+   "title": "Commission Meeting",
+   "meetingDate": "2026-11-23",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125367.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Sevier County Administration Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Sevier County Administration Building"
+   ],
+   "snippets": [
+    "Abatement Request **Commission Meeting will be held in the Commission Chambers of the Sevier County Administration Building, 250 North Main, Richfield. **Should matters arise involving litigation, personnel issues, real estate transact",
+    "arise involving litigation, personnel issues, real estate transactions, security, criminal investigations, or commercial information discussions, the Commission may close any portion of this agenda as provided by Utah St"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "caae3eb5f492396b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "County Commissioners",
+   "entity": "Sevier County",
+   "title": "Commission Worksession",
+   "meetingDate": "2026-11-23",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125365.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Small Business Development"
+    },
+    {
+     "role": "company",
+     "name": "Sevier County Administration Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Small Business Development",
+    "Sevier County Administration Building"
+   ],
+   "snippets": [
+    "eting begins at 10:15 AM 1. Discuss Use of Exhibit Hall for Pickle Ball 2. Update on Small Business Development Center 3. Review New Horizons procedure on Code Blue 4. Review Request regarding North Sevier Recreation Center 5. Updat",
+    "y Mountain Power Activities **Commission Worksession will be held in Room 116 of the Sevier County Administration Building, 250 North Main, Richfield. **Should matters arise involving litigation, personnel issues, real estate transact",
+    "arise involving litigation, personnel issues, real estate transactions, security, criminal investigations, or commercial information discussions, the Commission may close any portion of this agenda as provided by Utah St"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "a8f2e71af5f8f698",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Tooele County",
+   "title": "Tooele County Planning Commission- Public Hearing",
+   "meetingDate": "2026-12-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125431.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521545.pdf",
+    "https://www.utah.gov/pmn/files/1521547.pdf",
+    "https://www.utah.gov/pmn/files/1521549.pdf"
+   ],
+   "score": 24,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "industrial",
+    "lots",
+    "multi-family",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Miguel Garcia"
+    },
+    {
+     "role": "company",
+     "name": "Tooele County Community Development"
+    },
+    {
+     "role": "company",
+     "name": "Tooele County Administration Building"
+    },
+    {
+     "role": "company",
+     "name": "Tooele County Building"
+    },
+    {
+     "role": "company",
+     "name": "Tooele County Land"
+    },
+    {
+     "role": "company",
+     "name": "Riddle Street"
+    },
+    {
+     "role": "company",
+     "name": "Yes Side Yard Setback Main Building"
+    },
+    {
+     "role": "company",
+     "name": "Yes Rear Yard Setback Main Building"
+    },
+    {
+     "role": "company",
+     "name": "Feet Yes Lot Coverage Maximum Building"
+    },
+    {
+     "role": "company",
+     "name": "Castle Rock Land"
+    },
+    {
+     "role": "company",
+     "name": "Feet Tooele County Community Development"
+    },
+    {
+     "role": "company",
+     "name": "Energy Development"
+    }
+   ],
+   "sizes": [
+    "40 acre",
+    "20 acre",
+    "560 acres",
+    "5 acre",
+    "10 acre"
+   ],
+   "companies": [
+    "Miguel Garcia",
+    "Tooele County Community Development",
+    "Tooele County Administration Building",
+    "Tooele County Building",
+    "Tooele County Land",
+    "Riddle Street",
+    "Yes Side Yard Setback Main Building",
+    "Yes Rear Yard Setback Main Building",
+    "Feet Yes Lot Coverage Maximum Building",
+    "Castle Rock Land",
+    "Feet Tooele County Community Development",
+    "Energy Development",
+    "Community Development",
+    "Riddle Street. Tooele County Community Development",
+    "Complies Yes Side Yard Setback Main Building",
+    "Feet Yes Rear Yard Setback Main Building",
+    "Appendix D Construction"
+   ],
+   "snippets": [
+    "2026-119, Staff is requesting an update to Chapter 14, Zoning Districts; CUP 2026-123, Miguel Garcia is requesting a Conditional Use Permit for a private road, Esmerald Drive; CUP 2026-161 Ensign Ranches is seeking a Conditional Use Pe",
+    "ability Act, individuals needing special accommodations during this meeting should notify Tooele County Community Development, at (435) 843-3160 prior to the meeting. Notice of Electronic or Telephone Participation YouTube: @tooelecounty858",
+    "435-843-3160. T he future meeting regarding this application will also be posted at the Tooele County Building, posted on the Tooele County Website and Utah Public Noitce Website. Tooele County Planning Commission Agenda Item Summary",
+    "val For Private Road CUP 2026-123 Conditional Use Summary Page 2 of 4 According to Tooele County Land Use Ordinance 4-3(2) Lot Standards, “Lots shall have frontage upon a dedicated or publicly approved street before any building per",
+    "ed map) The subject area is located east of Burmester Road and fronts the north side of Riddle Street. It is not part of a subdivision. The private road would be accessed off of Riddle Street. L AND USE CONSIDERATIONS (MU-40 Zone, Mu",
+    "s 120' Existing Road New Road Power Line Well Site with 100' Radius Deeded Lands Owned by Castle Rock Land and Livestock Distance to East Border ~ 3,156 Feet Distance to North Border ~ 2,519 Feet Distance to South Border ~ 1,443 Feet Distan",
+    "icant must provide an engineered site plan per Tooele County Site Plan Application Multi-family residential, Commercial, and Industrial requirement, and State Code Requirements. a. 12.2 Scope of Application i. Engine",
+    "Interface Overlay (WUI) o Pine Canyon Environmental Overlay (PCEO) o Energy Development Zone Overlay (EDZO) o Commercial Tourism (C-T) o Recreation and Racing Sports (R-RS) o Technology Industries (T-I)  Removal of Trav",
+    "3) Multiple Residential (R-M-7); (14) Multiple Residential (R-M-15); (15) Multiple Residential (R-M-30); (16) Commercial Neighborhood (C-N); (17) Commercial Shopping (C-S); (18) Commercial Highway (C-H); (19) Commercial",
+    ") Multiple Residential (R-M-15); (15) Multiple Residential (R-M-30); (16) Commercial Neighborhood (C-N); (17) Commercial Shopping (C-S); (18) Commercial Highway (C-H); (19) Commercial General (C-G); (20) Manufacturing Di"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "cb59f0d18e4b49fe",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Tooele County",
+   "title": "Tooele County Planning Commission Meeting",
+   "meetingDate": "2026-12-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125441.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521561.pdf",
+    "https://www.utah.gov/pmn/files/1521563.pdf",
+    "https://www.utah.gov/pmn/files/1521565.pdf",
+    "https://www.utah.gov/pmn/files/1521567.pdf"
+   ],
+   "score": 24,
+   "terms": [
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "industrial",
+    "lots",
+    "multi-family",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Tooele County Community Development"
+    },
+    {
+     "role": "company",
+     "name": "Tooele County Administration Building"
+    },
+    {
+     "role": "company",
+     "name": "Tooele County Building"
+    },
+    {
+     "role": "company",
+     "name": "Tooele County Land"
+    },
+    {
+     "role": "company",
+     "name": "Riddle Street"
+    },
+    {
+     "role": "company",
+     "name": "Yes Side Yard Setback Main Building"
+    },
+    {
+     "role": "company",
+     "name": "Yes Rear Yard Setback Main Building"
+    },
+    {
+     "role": "company",
+     "name": "Feet Yes Lot Coverage Maximum Building"
+    },
+    {
+     "role": "company",
+     "name": "Castle Rock Land"
+    },
+    {
+     "role": "company",
+     "name": "Feet Tooele County Community Development"
+    },
+    {
+     "role": "company",
+     "name": "Energy Development"
+    },
+    {
+     "role": "company",
+     "name": "Rural Residential"
+    }
+   ],
+   "sizes": [
+    "40 acre",
+    "20 acre",
+    "560 acres",
+    "5 acre",
+    "10 acre"
+   ],
+   "companies": [
+    "Tooele County Community Development",
+    "Tooele County Administration Building",
+    "Tooele County Building",
+    "Tooele County Land",
+    "Riddle Street",
+    "Yes Side Yard Setback Main Building",
+    "Yes Rear Yard Setback Main Building",
+    "Feet Yes Lot Coverage Maximum Building",
+    "Castle Rock Land",
+    "Feet Tooele County Community Development",
+    "Energy Development",
+    "Rural Residential",
+    "Community Development",
+    "Riddle Street. Tooele County Community Development",
+    "Complies Yes Side Yard Setback Main Building",
+    "Feet Yes Rear Yard Setback Main Building",
+    "Appendix D Construction"
+   ],
+   "snippets": [
+    "ability Act, individuals needing special accommodations during this meeting should notify Tooele County Community Development, at (435) 843-3160 prior to the meeting. Notice of Electronic or Telephone Participation YouTube: @tooelecounty858",
+    "435-843-3160. T he future meeting regarding this application will also be posted at the Tooele County Building, posted on the Tooele County Website and Utah Public Noitce Website. Tooele County Planning Commission Agenda Item Summary",
+    "val For Private Road CUP 2026-123 Conditional Use Summary Page 2 of 4 According to Tooele County Land Use Ordinance 4-3(2) Lot Standards, “Lots shall have frontage upon a dedicated or publicly approved street before any building per",
+    "ed map) The subject area is located east of Burmester Road and fronts the north side of Riddle Street. It is not part of a subdivision. The private road would be accessed off of Riddle Street. L AND USE CONSIDERATIONS (MU-40 Zone, Mu",
+    "s 120' Existing Road New Road Power Line Well Site with 100' Radius Deeded Lands Owned by Castle Rock Land and Livestock Distance to East Border ~ 3,156 Feet Distance to North Border ~ 2,519 Feet Distance to South Border ~ 1,443 Feet Distan",
+    "um) o Wildland Urban Interface Overlay (WUI) o Pine Canyon Environmental Overlay (PCEO) o Energy Development Zone Overlay (EDZO) o Commercial Tourism (C-T) o Recreation and Racing Sports (R-RS) o Technology Industries (T-I)  Removal of Tra",
+    "icant must provide an engineered site plan per Tooele County Site Plan Application Multi-family residential, Commercial, and Industrial requirement, and State Code Requirements. a. 12.2 Scope of Application i. Engine",
+    "Interface Overlay (WUI) o Pine Canyon Environmental Overlay (PCEO) o Energy Development Zone Overlay (EDZO) o Commercial Tourism (C-T) o Recreation and Racing Sports (R-RS) o Technology Industries (T-I)  Removal of Trav",
+    "3) Multiple Residential (R-M-7); (14) Multiple Residential (R-M-15); (15) Multiple Residential (R-M-30); (16) Commercial Neighborhood (C-N); (17) Commercial Shopping (C-S); (18) Commercial Highway (C-H); (19) Commercial",
+    ") Multiple Residential (R-M-15); (15) Multiple Residential (R-M-30); (16) Commercial Neighborhood (C-N); (17) Commercial Shopping (C-S); (18) Commercial Highway (C-H); (19) Commercial General (C-G); (20) Manufacturing Di"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "f2480f26cb5bb769",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "St. George",
+   "title": "PLANNING COMMISSION AGENDA 11.24.2026",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125371.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521421.pdf",
+    "https://www.utah.gov/pmn/files/1521423.pdf"
+   ],
+   "score": 34,
+   "terms": [
+    "commercial",
+    "dwelling",
+    "final plat",
+    "hotel",
+    "lots",
+    "new construction",
+    "phase",
+    "plat amendment",
+    "preliminary plat",
+    "site plan",
+    "subdivision",
+    "townhome",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "DSG Engineering"
+    },
+    {
+     "role": "applicant",
+     "name": "Premier Design & Engineering Representative"
+    },
+    {
+     "role": "representative",
+     "name": "Eric Mcfadden Location"
+    },
+    {
+     "role": "applicant",
+     "name": "Unified Business Alliance Representative"
+    },
+    {
+     "role": "representative",
+     "name": "Jared Huish Location"
+    },
+    {
+     "role": "company",
+     "name": "Very Low Density Residential"
+    },
+    {
+     "role": "company",
+     "name": "Low Density Residential"
+    },
+    {
+     "role": "company",
+     "name": "Single-Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "Planned Development"
+    },
+    {
+     "role": "company",
+     "name": "Engineering Inc"
+    },
+    {
+     "role": "company",
+     "name": "Narrative Development Solutions Group"
+    },
+    {
+     "role": "company",
+     "name": "Promote Convenient Commercial Development"
+    }
+   ],
+   "sizes": [
+    "12.49 acres",
+    "47.5 acres",
+    "2.32 acres",
+    "144 townhome",
+    "410 units",
+    "10,000 sq. ft"
+   ],
+   "companies": [
+    "DSG Engineering",
+    "Premier Design & Engineering Representative",
+    "Eric Mcfadden Location",
+    "Unified Business Alliance Representative",
+    "Jared Huish Location",
+    "Very Low Density Residential",
+    "Low Density Residential",
+    "Single-Family Residential",
+    "Planned Development",
+    "Engineering Inc",
+    "Narrative Development Solutions Group",
+    "Promote Convenient Commercial Development",
+    "Community Development",
+    "Exhibit A Narrative Development Solutions Group",
+    "Community Development Planned Development",
+    "Irvine Commercial Building",
+    "Divario Development"
+   ],
+   "snippets": [
+    "ate Peaks development, south of Washington County, and west of BLM land. The applicant is DSG Engineering, and the representative is Logan Blake. Case No. 2026-ZC-017 (Staff - Brenda Hatch) 3. PLANNED DEVELOPMENT AMENDMENT Irvine Ret",
+    "t - PUBLIC HEARING Consider a request to amend the general plan land use map from VLDR (Very Low Density Residential) to LDR (Low Density Residential) on approximately 12.49 acres generally located east of the Ledges of St George Northgat",
+    "UBLIC HEARING Consider a request to amend the general plan land use map from VLDR (Very Low Density Residential) to LDR (Low Density Residential) on approximately 12.49 acres generally located east of the Ledges of St George Northgate Pea",
+    "der a request to rezone approximately 47.5 acres from G&G (Gravel and Grazing) to R-1-10 (Single-Family Residential, 10,000 square foot minimum lot size). The property is located at the east of the Ledges of St George Northgate Peaks develo",
+    "LOPMENT AMENDMENT Irvine Retail Buildings 1&2 - PUBLIC HEARING Consider a request for a Planned Development Amendment to the Atkinville Interchange Area Zone Plan, Planned Development Commercial (PD-C) zone. The applicant is seeking appro",
+    "ad and north of Sun River Parkway, in St. George, Utah. The applicant is Premier Design & Engineering Inc, represented by Eric McFadden. Case No. 2026-PDA-025. (Staff - Lonnie Olson) 4. PRELIMINARY PLAT Irvine Retail Buildings 1&2",
+    "request for a Planned Development Amendment to the Atkinville Interchange Area Zone Plan, Planned Development Commercial (PD-C) zone. The applicant is seeking approval of the design and site plan for two retail and food",
+    "dings 1&2 Consider a request for a preliminary plat amendment to the Sun River Commons Phase 5 plat for two commercial buildings totaling approximately 2.32 acres. The applicant is Premier Design & Engineering, and the",
+    "equest for a Planned Development Amendment to the Atkinville Interchange Area Zone Plan, Planned Development Commercial (PD-C) zone. The applicant is seeking approval of the design and site plan for two retail and food",
+    "ings 1&2 Consider a request for a preliminary plat amendment to the Sun River Commons Phase 5 plat for two commercial buildings totaling approximately 2.32 acres. The applicant is Premier Design & Engineering, and t"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "e97f4ebf4b592e9f",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Enoch",
+   "title": "Enoch City Planning Commission Meeting",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125323.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521185.pdf",
+    "https://www.utah.gov/pmn/files/1521187.pdf"
+   ],
+   "score": 15,
+   "terms": [
+    "church",
+    "commercial",
+    "dwelling",
+    "industrial",
+    "lots",
+    "school",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "petitioner",
+     "name": "Review of Code"
+    },
+    {
+     "role": "petitioner",
+     "name": "Enoch City Staff ACTION REQUESTED BY PETITIONER"
+    },
+    {
+     "role": "petitioner",
+     "name": "Recommend Approval of the Proposed Text Amendment"
+    },
+    {
+     "role": "applicant",
+     "name": "PETITIONER"
+    },
+    {
+     "role": "applicant",
+     "name": "Rob Terry"
+    },
+    {
+     "role": "company",
+     "name": "Enoch Development"
+    }
+   ],
+   "sizes": [
+    "800 square feet",
+    "677 acres",
+    "43 acre"
+   ],
+   "companies": [
+    "Review of Code",
+    "Enoch City Staff ACTION REQUESTED BY PETITIONER",
+    "Recommend Approval of the Proposed Text Amendment",
+    "PETITIONER",
+    "Rob Terry",
+    "Enoch Development"
+   ],
+   "snippets": [
+    "DERATION ON: November 24, 2026 PETITIONER: City Staff ACTION REQUESTED BY PETITIONER: Review of Code for Potential Amendment Review Type: Legislative BACKGROUND INFORMATION: During a recent review of the various parking ordinances,",
+    "Amendment 11.300.344 Truck Parking Restricted FOR CONSIDERATION ON: November 24, 2026 PETITIONER: City Staff ACTION REQUESTED BY PETITIONER: Review of Code for Potential Amendment Review Type: Legislative BACKGROUND INFORMATION: D",
+    "a 43-acre park to be given to the city. He said annexation training will be presented by Rob Terry, state planning training coordinator with the Property Rights Ombudsman, on Tuesday, November 24th, and asked members to confirm their avai",
+    "ety hazard by designating and signing them as “no parking” zones. CITY CODE REFERENCE: ● Enoch Development Code 11.300.344 PUBLIC NOTICE: A public hearing will be held during this meetings Planning Commission review of this agenda item.",
+    "rking ordinances, the Planning Commission has requested a review of the ordinance that regulates parking for commercial trucks. This agenda item was reviewed during the November 10th, 2026 Planning Commission meeting,",
+    "nt of the existing provisions and whether the regulations adequately distinguish between residential use and commercial truck parking. Commissioners discussed regulating truck and trailer parking based on vehicle size",
+    "dards for property owners and staff while addressing potential impacts associated with the parking of larger commercial vehicles in residential areas. ... 3. Corrosive, caustic, or ... materials of any kind. 4. Gase",
+    "rom public streets in the R-1-18 residential zone. Such vehicles would instead be parked at a facility, in a commercial or industrial zone, or on the owner's own property. He did not see a need to regulate vehicles pul"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "c0545286138e4018",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Springville",
+   "title": "Planning Commission",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125445.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521587.pdf"
+   ],
+   "score": 25,
+   "terms": [
+    "commercial",
+    "dwelling",
+    "lots",
+    "mixed use",
+    "multifamily",
+    "phase",
+    "school",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "petitioner",
+     "name": "Ironton Yards Springville"
+    },
+    {
+     "role": "applicant",
+     "name": "Clyde Capital"
+    },
+    {
+     "role": "applicant",
+     "name": "41 2"
+    },
+    {
+     "role": "applicant",
+     "name": "81 82 3"
+    },
+    {
+     "role": "applicant",
+     "name": "GRAMA"
+    },
+    {
+     "role": "company",
+     "name": "Traditional Neighborhood Development"
+    },
+    {
+     "role": "company",
+     "name": "Ironton Yards Mixed Use Development"
+    },
+    {
+     "role": "company",
+     "name": "INVESTMENTS LLC"
+    }
+   ],
+   "sizes": [
+    "10.5 units",
+    "142 dwelling units",
+    "159 homes",
+    "1,760 square feet",
+    "4,243 square feet",
+    "386,407 square feet"
+   ],
+   "companies": [
+    "Ironton Yards Springville",
+    "Clyde Capital",
+    "41 2",
+    "81 82 3",
+    "GRAMA",
+    "Traditional Neighborhood Development",
+    "Ironton Yards Mixed Use Development",
+    "INVESTMENTS LLC",
+    "Community Development"
+   ],
+   "snippets": [
+    "mments, the item(s) will pass without further consideration. Administrative Session 1) Clyde Capital requests site plan approval for Ironton Yards, located at the northwest corner of Main Street and 1400 North. Legislative Session - Pu",
+    "e adding development. He also questioned the narrowly 210 scoped RFP, referenced pending GRAMA requests, and alleged that other offers to 211 purchase the property had been ignored. 212 213 Commissioner Patching moved to close the Publ",
+    "82 3. HomeOwnership4U proposes an amendment to the Official Zone Map to apply the 83 Traditional Neighborhood Development (TND) Overlay to three parcels along 1200 84 West between Center Street and 130 North. The proposed amendment wo",
+    "d site plan meet the requirements of Springville City Code? Background The proposed Ironton Yards Mixed Use Development is comprised of 386,407 square feet or 8.87 Acres. It is located on the northwest corner of the intersection of",
+    ":417:0005BRIGHAM YOUNG UNIVERSITY 23:015:0033PAYNE FAMILY HERITAGE LLC23:015:0009LITEFOOT INVESTMENTS LLC SPRINGVILLEPROVO N040'80'20' GENERAL SHEET NOTES1.ALL IMPROVEMENTS SHALL BE CONSTRUCTEDPER SPRINGVILLE CITY STANDARDS, APWASTANDARD SP",
+    "D BY: FILENAME:L:\\Utah\\Projects\\Active 2025\\IF25435.00 - Springville Rising\\700 - CAD\\Sheet_Files\\Springville Commercial Site Plan\\25435-C-100.dwg - PLOTTED:JSOTO - DATE:10/23/2026 1:47 PM SHEET TITLE 3160 W. Clubhouse D",
+    "- PHASE 1SPRINGVILLE, UTAH 25435OCTOBER 23, 2026J. BAISCHJ. PALMER C-100OVERALL SITEPLAN340 COMMERCIAL SITE PLAN DOCUMENTS PROPERTY INFORMATIONPROPERTY AREA:386,407 Sq. Ft. (8.87 ACRES)PROPERTY ZONE:HIG",
+    "RCIAL SITE PLAN DOCUMENTS PROPERTY INFORMATIONPROPERTY AREA:386,407 Sq. Ft. (8.87 ACRES)PROPERTY ZONE:HIGHWAY COMMERCIAL (HC)FEMA FLOOD ZONES:UNDETERMINED FLOODHAZARDS, PROTECTED AREAS, SPECIAL FLOOD ZONEHAZARDS, OR OTHE",
+    "D BY: FILENAME:L:\\Utah\\Projects\\Active 2025\\IF25435.00 - Springville Rising\\700 - CAD\\Sheet_Files\\Springville Commercial Site Plan\\25435-C-101.dwg - PLOTTED:JSOTO - DATE:10/23/2026 1:47 PM SHEET TITLE 3160 W. Clubhouse D"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "4ea49ffadc04dad4",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Leeds Planning Commission",
+   "entity": "Leeds Board/Committee",
+   "title": "Public Hearing Notice - Zone Change Request",
+   "meetingDate": "2026-12-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125443.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521571.pdf",
+    "https://www.utah.gov/pmn/files/1521573.pdf",
+    "https://www.utah.gov/pmn/files/1521575.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Persons"
+    }
+   ],
+   "sizes": [
+    "2.01 acres"
+   ],
+   "companies": [
+    "Persons",
+    "Economic Development"
+   ],
+   "snippets": [
+    "ble accommodations for persons needing assistance to participate in this public meeting. Persons requesting assistance are asked to call the Town Hall at 879-2447 at least 24 hours prior to the meeting. Notice of Electronic or Telephone Pa",
+    "roposed items: 1. Zone Change on Parcel L-78-D-1 for Brian Hansen from Residential Rural 20(R-R-20) to Commercial (C) on approximately 2.01 acres Copies of the proposed Zone Change Application will be avai",
+    "oposed items: 1. Zone Change on Parcel L-78-D-1 for Brian Hansen from Residential Rural 20(R-R-20) to Commercial (C) on approximately 2.01 acres Copies of the proposed Zone Change Application will be ava",
+    "goals and Policies page 29 and 30. We should promote the town's business friendly environment to prospective commercial developers. Expand retail and visitor serving opportunities by encouraging an appropriate mix of re",
+    "the town Leeds should continue to have a rural hometown feel Leeds should provide areas within the town for commercial establishment and expansion. Leeds should expand upon, seek out and foster community-based revenu"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "0f1317a3ad1bcb37",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Leeds Planning Commission",
+   "entity": "Leeds Board/Committee",
+   "title": "Public Hearing Notice - Amending Preliminary Plat Avalon Skye",
+   "meetingDate": "2026-12-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125447.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521589.pdf",
+    "https://www.utah.gov/pmn/files/1521591.pdf",
+    "https://www.utah.gov/pmn/files/1521593.pdf"
+   ],
+   "score": 8,
+   "terms": [
+    "preliminary plat",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Persons"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Persons"
+   ],
+   "snippets": [
+    "ble accommodations for persons needing assistance to participate in this public meeting. Persons requesting assistance are asked to call the Town Hall at 879-2447 at least 24 hours prior to the meeting. Notice of Electronic or Telephone Pa",
+    "e 1517 /pmn/sitemap/noticeemail/1125447.html Leeds Leeds Planning Commission Public Hearing Notice - Amending Preliminary Plat Avalon Skye Public Hearing Notice - Amending Preliminary Plat Avalon Skye Subscribe to Public",
+    "ing Commission Public Hearing Notice - Amending Preliminary Plat Avalon Skye Public Hearing Notice - Amending Preliminary Plat Avalon Skye Subscribe to Public Body General Information Government Type Municipality Entity",
+    "s Planning Commission Notice Information Add Notice to Calendar Notice Title Public Hearing Notice - Amending Preliminary Plat Avalon Skye Notice Type(s) Notice, Hearing Event Start Date & Time December 2, 202",
+    "l hold a public hearing on the above-mentioned date to consider the following proposed items: 1. Amend Preliminary Plat for the Subdivision Avalon Skye (formally known as Silver Eagle) Anyone objecting to the"
+   ],
+   "foundAt": "2026-11-21"
+  },
+  {
+   "id": "b5a25c1ee2bee710",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Leeds Planning Commission",
+   "entity": "Leeds Board/Committee",
+   "title": "Public Hearing Notice - CUP Bed & Breakfast Request",
+   "meetingDate": "2026-12-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125457.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521605.pdf",
+    "https://www.utah.gov/pmn/files/1521607.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Persons"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Persons"
+   ],
+   "snippets": [
+    "ble accommodations for persons needing assistance to participate in this public meeting. Persons requesting assistance are asked to call the Town Hall at 879-2447 at least 24 hours prior to the meeting. Notice of Electronic or Telephone Pa",
+    "Commission will hold a public hearing on the above-mentioned date to consider the following proposed item: CONDITIONAL USE PERMIT APPLICATION Cody Roberts - Home Occupation Conditional Use Permit for Bed & Breakfa",
+    "onsider the following proposed item: CONDITIONAL USE PERMIT APPLICATION Cody Roberts - Home Occupation Conditional Use Permit for Bed & Breakfast Copies of the proposed application will be available for review",
+    "ommission will hold a public hearing on the above-mentioned date to consider the following proposed item: CONDITIONAL USE PERMIT APPLICATION Cody Roberts – Home Occupation Conditional Use Permit for Bed & Breakfa",
+    "onsider the following proposed item: CONDITIONAL USE PERMIT APPLICATION Cody Roberts – Home Occupation Conditional Use Permit for Bed & Breakfast Copies of the proposed application will be available for review"
+   ],
+   "foundAt": "2026-11-21"
+  },
   {
    "id": "75e061f381cb0d80",
    "source": "pmn",
