@@ -1,5 +1,5 @@
 {
- "next": 1501,
+ "next": 3001,
  "bodies": {
   "1": {
    "id": 1,
@@ -4409,7 +4409,7 @@
   "2803": {
    "id": 2803,
    "name": "City Council & Planning Commission",
-   "entity": "Bluffdale Upcoming Notices Upcoming Notices Notice Title Event Date Attachments Notice of Public Hearing 2026/11/18 06:0"
+   "entity": "Bluffdale Upcoming Notices Upcoming Notices Notice Title Event Date Attachments Short-Term Rental for ADU Text Amendment"
   },
   "2804": {
    "id": 2804,
@@ -7468,6 +7468,6 @@
   }
  },
  "misses": 0,
- "updated": "2026-11-15",
+ "updated": "2026-11-22",
  "complete": true
 }
