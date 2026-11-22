@@ -1,0 +1,57 @@
+{
+ "report": {
+  "arcgis:provo-current-projects": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:summit-county-2026": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:west-jordan": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:orem": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:riverton": {
+   "items": 0,
+   "ok": true
+  },
+  "accela:salt-lake-city": {
+   "items": 0,
+   "ok": true
+  },
+  "pmn": {
+   "items": 1,
+   "ok": true
+  }
+ },
+ "items": [
+  {
+   "id": "813465b100ff3c40",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town Council",
+   "entity": "Leamington",
+   "title": "Special Council Meeting",
+   "meetingDate": "2026-11-23",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125489.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "Body Town Council Notice Information Add Notice to Calendar Notice Title Special Council Meeting Notice Tags subdivision, roads Notice Type(s) Notice, Meeting Event Start Date & Time November 23, 2026 07:00 P",
+    "roperty boundaries, not simply relying on newer mapping information or coordinate data. Vote on Adobe Hollow Subdivision Application - Address infrastructure improvements, financial guarantees, and approval. Vote to a"
+   ],
+   "foundAt": "2026-11-22"
+  }
+ ]
+}
