@@ -1,0 +1,435 @@
+{
+ "report": {
+  "arcgis:provo-current-projects": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:summit-county-2026": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:west-jordan": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:orem": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:riverton": {
+   "items": 0,
+   "ok": true
+  },
+  "accela:salt-lake-city": {
+   "items": 0,
+   "ok": true
+  },
+  "pmn": {
+   "items": 11,
+   "ok": true
+  }
+ },
+ "items": [
+  {
+   "id": "9d3da0d18e9010e7",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Providence City Council",
+   "entity": "Providence",
+   "title": "Notice of Public Hearing - Annexation/Rezone of Property",
+   "meetingDate": "2026-12-16",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125591.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521841.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Providence City Office Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Providence City Office Building"
+   ],
+   "snippets": [
+    "2026 on www.providencecity.com, Utah Public Notice Website, Providence City Post Office, Providence City Office Building, Alama Park, Vons Baer Park Optional Location - Macey's Grocery Store. Notice of Special Accommodations (ADA) NOTICE O",
+    "ber 2026 on www.providencecity.com, Utah Public Notice Website, Providence City Post Office, Providence City Office Building, Alama Park, Vons Baer Park Optional Location - Macey's Grocery Store. Notice of Special Accom",
+    "er 2026 on www.providencecity.com, Utah Public Notice Website, Providence City Post Office, Providence City Office Building, Alama Park, Vons Baer Park Optional Location - Macey’s Grocery Store."
+   ],
+   "foundAt": "2026-11-23"
+  },
+  {
+   "id": "9088912b4ed9561c",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Providence City Planning Commission (LUA Subdivisions only)",
+   "entity": "Providence",
+   "title": "Notice of Public Hearing - Rezone",
+   "meetingDate": "2026-12-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125573.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521807.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "commercial",
+    "mixed-use",
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Providence City Office Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Providence City Office Building"
+   ],
+   "snippets": [
+    "2026 on www.providencecity.com, Utah Public Notice Website, Providence City Post Office, Providence City Office Building, Alama Park, Vons Baer Park Optional Location - Macey's Grocery Store. Notice of Special Accommodations (ADA) NOTICE O",
+    "ding an application to rezone parcel 02-095-0027, located in the general area of 2 N Main Providence UT, from Commercial General (CGD) to Mixed-Use (MXD) For information about what changes are being added please contact",
+    "ing an application to rezone parcel 02-095-0027, located in the general area of 2 N Main Providence UT, from Commercial General (CGD) to Mixed-Use (MXD) For information about what changes are being added please contac"
+   ],
+   "foundAt": "2026-11-23"
+  },
+  {
+   "id": "a8398f1ad3994a57",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Providence City Planning Commission (LUA Subdivisions only)",
+   "entity": "Providence",
+   "title": "Public Hrg Notice - Rezone of Property",
+   "meetingDate": "2026-12-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125589.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521839.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Providence City Office Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Providence City Office Building"
+   ],
+   "snippets": [
+    "2026 on www.providencecity.com, Utah Public Notice Website, Providence City Post Office, Providence City Office Building, Alama Park, Vons Baer Park Optional Location - Macey's Grocery Store. Notice of Special Accommodations (ADA) NOTICE O",
+    "ber 2026 on www.providencecity.com, Utah Public Notice Website, Providence City Post Office, Providence City Office Building, Alama Park, Vons Baer Park Optional Location - Macey's Grocery Store. Notice of Special Accom",
+    "er 2026 on www.providencecity.com, Utah Public Notice Website, Providence City Post Office, Providence City Office Building, Alama Park, Vons Baer Park Optional Location - Macey’s Grocery Store."
+   ],
+   "foundAt": "2026-11-23"
+  },
+  {
+   "id": "dfd3841ff7e9bfd2",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town Council",
+   "entity": "Hideout",
+   "title": "Special Meeting",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125661.html",
+   "files": [],
+   "score": 8,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Military Installation Development"
+    },
+    {
+     "role": "company",
+     "name": "Master Development"
+    },
+    {
+     "role": "company",
+     "name": "Elkhorn Master Development"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Military Installation Development",
+    "Master Development",
+    "Elkhorn Master Development"
+   ],
+   "snippets": [
+    "ible approval of the Second Amendment to the Interlocal Cooperation Agreement between the Military Installation Development Authority ('MIDA') and the Town of Hideout. Review and discussion of the proposed Second Amendment concerning inc",
+    "ossible approval of a Fifth Administrative Amendment to the Silver Meadows Annexation and Master Development Agreement. Review and discussion of the proposed Fifth Administrative Amendment concerning MIDA inclusion, commercial development",
+    "otections for the Town.. 4. Consideration and possible approval of an amendment to the Elkhorn Master Development Agreement. Review and discussion of the proposed amendment concerning MIDA inclusion, existing development obligations, i",
+    "t Agreement. Review and discussion of the proposed Fifth Administrative Amendment concerning MIDA inclusion, commercial development and phasing, public facilities, infrastructure responsibilities, and fiscal protections"
+   ],
+   "foundAt": "2026-11-23"
+  },
+  {
+   "id": "68d033414e4c68aa",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Brigham City",
+   "title": "Notice of Ordinance",
+   "meetingDate": "2026-11-23",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125531.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "vember 19, 2026 the following Ordinance and Resolution were adopted: * Ordinance 26-22 - Ordinance for JIB Subdivision Lot 1-R Amended located at 1090 south 1100 West Notice of Special Accommodations (ADA) Brigham Cit"
+   ],
+   "foundAt": "2026-11-23"
+  },
+  {
+   "id": "5310cff8c85272d0",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "West Jordan Entity Website https://www.westjordan.utah.gov/",
+   "title": "Public Hearing",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125671.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522013.pdf"
+   ],
+   "score": 15,
+   "terms": [
+    "conditional use",
+    "hotel",
+    "phase",
+    "site plan"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Core Architecture"
+    },
+    {
+     "role": "company",
+     "name": "Future Land"
+    },
+    {
+     "role": "company",
+     "name": "Low Density Residential"
+    },
+    {
+     "role": "company",
+     "name": "Copper Rim Planned Community Development"
+    },
+    {
+     "role": "company",
+     "name": "CHECO Purchase Company"
+    }
+   ],
+   "sizes": [
+    "4.69 acres"
+   ],
+   "companies": [
+    "Core Architecture",
+    "Future Land",
+    "Low Density Residential",
+    "Copper Rim Planned Community Development",
+    "CHECO Purchase Company"
+   ],
+   "snippets": [
+    "Credit Union; 4911 West 7800 South; Preliminary Site Plan; P-C (Planned Community Zone); Core Architecture (Applicant); Parcel #20-36-227-105-0000 - Copper Rim Phase 10 Future Land Use Map Amendment; 6111 W 7000 S; 4.69 Acres; Future La",
+    "Zone); Core Architecture (Applicant); Parcel #20-36-227-105-0000 - Copper Rim Phase 10 Future Land Use Map Amendment; 6111 W 7000 S; 4.69 Acres; Future Land Use Map Amendment from Public Facilities to Low Density Residential 20-26-100-00",
+    "dment; 6111 W 7000 S; 4.69 Acres; Future Land Use Map Amendment from Public Facilities to Low Density Residential 20-26-100-005-4002 - Copper Rim Phase 10 Zoning Map Amendment; 6111 W 7000 S; 4.69 Acres; Zoning Map Amendment from P-F (P",
+    "per Rim Phase 10 Development Plan, Major Variation; 6111 W 7000 S; Major Variation to the Copper Rim Planned Community Development Plan; 4.69 Acres; P-F Zone (Current Zone) 20-26-100-005-4002 - Marriott StudioRes; 7328 South Campus View",
+    "h Campus View Drive; Preliminary Site Plan, Conditional Use Permit for a hotel; P-O Zone; CHECO Purchase Company, LLC (applicant); Parcel 21-29-154-002-0000 If you are interested in participating in the public hearing, please visit the C",
+    "2 - Marriott StudioRes; 7328 South Campus View Drive; Preliminary Site Plan, Conditional Use Permit for a hotel; P-O Zone; CHECO Purchase Company, LLC (applicant); Parcel 21-29-154-002-0000 If you are interested i",
+    " Marriott StudioRes; 7328 South Campus View Drive; Preliminary Site Plan, Conditional Use Permit for a hotel; P-O Zone; CHECO Purchase Company, LLC (applicant); Parcel 21-29-154-002-0000 If you are interested",
+    "receive public comments regarding the following: - Granite Credit Union; 4911 West 7800 South; Preliminary Site Plan; P-C (Planned Community Zone); Core Architecture (Applicant); Parcel #20-36-227-105-0000 - Copper",
+    "-F Zone (Current Zone) 20-26-100-005-4002 - Marriott StudioRes; 7328 South Campus View Drive; Preliminary Site Plan, Conditional Use Permit for a hotel; P-O Zone; CHECO Purchase Company, LLC (applicant); Parcel 21-29"
+   ],
+   "foundAt": "2026-11-23"
+  },
+  {
+   "id": "6f8d13532e2d2d40",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Hyde Park",
+   "title": "Regular Meeting of the HPC Planning Commission 12.1.26",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125605.html",
+   "files": [],
+   "score": 8,
+   "terms": [
+    "industrial",
+    "site plan",
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "6. Administrative Items: a. CUP: Linkd Sports off-site parking lot b. Linkd Sports parking lot site plan c. Schreiber Site Plan 7. Legislative Items: a. Public Hearing Ordinance 2026-35- Light Indust",
+    "rative Items: a. CUP: Linkd Sports off-site parking lot b. Linkd Sports parking lot site plan c. Schreiber Site Plan 7. Legislative Items: a. Public Hearing Ordinance 2026-35- Light Industrial Zone Ordinance b.",
+    "Public Hearing Ordinance 2026-33-Planning Commission Ordinance revisions c. Public Hearing Ordinance 2026-34-Site Plan and Land Use Authority Ordinance revisions 8. Discussion Items: a. Reorganization of Land Use C",
+    "and Land Use Authority Ordinance revisions 8. Discussion Items: a. Reorganization of Land Use Code b. Subdivision Ordinance 9. Future Items: a. Next meeting December 16, 2026. 10. Adjourn: Notice of Speci"
+   ],
+   "foundAt": "2026-11-23"
+  },
+  {
+   "id": "52a4874a63f67801",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Elk Ridge",
+   "title": "Notice of Public Hearing",
+   "meetingDate": "2026-12-03",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125587.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521825.pdf"
+   ],
+   "score": 5,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Elk Ridge Development"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Elk Ridge Development"
+   ],
+   "snippets": [
+    "tion and Approval of Updated Elk Ridge Trail Standards. 3. Consideration and Approval of Elk Ridge Development Standards 02.08.068. All interested residents and members of the public are invited to attend the hearing and provide comment",
+    "ring is to receive public comments regarding multiple matters. These matters include the following: 1. Subdivision Review and Consideration for Approval - Miracle Mountain Estates. 2. Consideration and Approval o",
+    "n at Elk Ridge City Hall during regular business hours. Following the public hearing, the City Council and Subdivision Review Committee (SRC) may consider approving applicable items. Notice of Special Accommodations (",
+    "ing is to receive public comments regarding multiple matters. These matters include the following: 1. Subdivision Review and Consideration for Approval - Miracle Mountain Estates. 2. Consideration and Approval o",
+    "at Elk Ridge City Hall during regular business hours. Following the public hearing, the City Council and Subdivision Review Committee (SRC) may consider approving applicable items. For additional information or"
+   ],
+   "foundAt": "2026-11-23"
+  },
+  {
+   "id": "c5969b05050448e8",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "LaVerkin",
+   "title": "December 9, 2026 Public Hearing",
+   "meetingDate": "2026-12-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125611.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521877.pdf",
+    "https://www.utah.gov/pmn/files/1521879.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "One Family Residential"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "One Family Residential"
+   ],
+   "snippets": [
+    "will be to take comments on: 1. Amending the zoning map of and for the City of La Verkin to rezone from Commercial (COMM) to Public Facilities Zone (PFZ) with the Tax ID#LV-154-D, Located at 740 N Main Street. Th",
+    "opment of a planned community development (know as the Zion Cliffs Project) including residential and commercial development. 4. Amending Ordinance Title 10, Chapter 11 of the La Verkin city code relatin",
+    "he purpose of the amendment is to updater La verkin's Sign Ordinance to reflect recent and anticipated commercial development within the city of La Verkin, particularly along SR9 corridor. Any person or gro"
+   ],
+   "foundAt": "2026-11-23"
+  },
+  {
+   "id": "9648285bbc4cda05",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Kane County Commission",
+   "entity": "Kane County",
+   "title": "Commission Meeting",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125545.html",
+   "files": [],
+   "score": 9,
+   "terms": [
+    "church",
+    "lots",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Kane County Remodel Construction"
+    },
+    {
+     "role": "company",
+     "name": "Maxwell Construction"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Kane County Remodel Construction",
+    "Maxwell Construction"
+   ],
+   "snippets": [
+    "ice District Administrative Control Board / Commissioner Kubeja 7. Discuss/Vote on the Kane County Remodel Construction Contract with Maxwell Construction / Full Commission 8. Discuss/Vote on Kane County Ordinance No. O-2026-29 An Ord",
+    "missioner Kubeja 7. Discuss/Vote on the Kane County Remodel Construction Contract with Maxwell Construction / Full Commission 8. Discuss/Vote on Kane County Ordinance No. O-2026-29 An Ordinance Amending and Vacating Lot 2 in the Sugar",
+    "iscuss/Vote on Kane County Ordinance No. O-2026-29 An Ordinance Amending and Vacating Lot 2 in the Sugar Pine Subdivision and Placing it into Parcel 8-7-17-1-2 / Commissioner Brown 9. Discuss/Vote on Kane County Ordin",
+    "-2026-30 An Ordinance Amending and Vacating New Lot 111, Amended Plat of Lots 110 & 111, in the Color Country Subdivision, Plat 'D' and Placing it into Parcel 8-7-17-1-2 / Commissioner Brown 10. Discuss/Vote on Kane C"
+   ],
+   "foundAt": "2026-11-23"
+  },
+  {
+   "id": "8bffafeba2f18b89",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Leeds Town Council",
+   "entity": "Leeds Board/Committee",
+   "title": "Public Hearing Notice - Consider Recommendation from Planning Commission for a Zone Change request on Parcel L-78-D-1 for Brian Hansen from Residential Rural 20(R-R-20) to Commercial (C) on approximately 2.01 acres",
+   "meetingDate": "2026-12-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125651.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1521991.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Persons"
+    }
+   ],
+   "sizes": [
+    "2.01 acres"
+   ],
+   "companies": [
+    "Persons"
+   ],
+   "snippets": [
+    "ble accommodations for persons needing assistance to participate in this public meeting. Persons requesting assistance are asked to call the Town Hall at 435-879-2447 at least 24 hours prior to the meeting. Notice of Electronic or Telephon",
+    "Commission for a Zone Change request on Parcel L-78-D-1 for Brian Hansen from Residential Rural 20(R-R-20) to Commercial (C) on approximately 2.01 acres Public Hearing Notice - Consider Recommendation from Planning Commi",
+    "Commission for a Zone Change request on Parcel L-78-D-1 for Brian Hansen from Residential Rural 20(R-R-20) to Commercial (C) on approximately 2.01 acres Subscribe to Public Body General Information Government Type Munici",
+    "Commission for a Zone Change request on Parcel L-78-D-1 for Brian Hansen from Residential Rural 20(R-R-20) to Commercial (C) on approximately 2.01 acres Notice Type(s) Notice, Hearing Event Start Date & Time D",
+    "Commission for a Zone Change request on Parcel L-78-D-1 for Brian Hansen from Residential Rural 20(R-R-20) to Commercial (C) on approximately 2.01 acres Copies of the Zone Change Application are available for inspecti"
+   ],
+   "foundAt": "2026-11-23"
+  }
+ ]
+}
