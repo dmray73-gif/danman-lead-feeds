@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:20:57.951605Z",
+ "updated": "2026-11-24T20:58:28.214383Z",
  "report": {
   "arcgis:provo-current-projects": {
    "items": 0,
@@ -26,12 +26,1148 @@
    "ok": true
   },
   "pmn": {
-   "items": 11,
+   "items": 22,
    "ok": true
   }
  },
- "newToday": 11,
+ "newToday": 22,
  "items": [
+  {
+   "id": "3149d9ccaec2f649",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Carbon County",
+   "title": "Carbon County Planning Commission Regular Meeting",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1123813.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522273.pdf",
+    "https://www.utah.gov/pmn/files/1522454.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Duct Tape LLC"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Duct Tape LLC"
+   ],
+   "snippets": [
+    "ated infrastructure located East of Wellington on parcels 2A-1320-0000 & 2A-1656-0000 for Duct Tape LLC/Aaron Sabin 6 Updates on Previous Items and Upcoming Projects - Todd Thorne 7 Adjourn _______________________________________",
+    "3 Meeting Minutes 4 Conflict of Interest on Agenda Items 5 Consideration and possible approval for a Conditional Use Permit for High Desert Tech Park, a phased Technology Park and associated infrastructure locat"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "9038c72097a75448",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Woods Cross",
+   "title": "Woods Cross City Public Hearing",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126002.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522624.pdf"
+   ],
+   "score": 8,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Cross City General Plan Future Land"
+    },
+    {
+     "role": "company",
+     "name": "Commercial Residential"
+    },
+    {
+     "role": "company",
+     "name": "Single-Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "Woods Cross Municipal Building"
+    }
+   ],
+   "sizes": [
+    "32 acres"
+   ],
+   "companies": [
+    "Cross City General Plan Future Land",
+    "Commercial Residential",
+    "Single-Family Residential",
+    "Woods Cross Municipal Building",
+    "Community Development"
+   ],
+   "snippets": [
+    "Woods Cross City 2: GENERAL PLAN AMENDMENT: Consideration of an amendment to the Woods Cross City General Plan Future Land Use Map to designate the property as CRT (Commercial Residential Transition and SFRT (Single-Family Residentia",
+    "the Woods Cross City General Plan Future Land Use Map to designate the property as CRT (Commercial Residential Transition and SFRT (Single-Family Residential Transition) 3: ZONING MAP AMENDMENT: Consideration of a proposed zoning cla",
+    "Use Map to designate the property as CRT (Commercial Residential Transition and SFRT (Single-Family Residential Transition) 3: ZONING MAP AMENDMENT: Consideration of a proposed zoning classification of CRT and SFRT for the subject pr",
+    "f an amendment to the Woods Cross City General Plan Future Land Use Map to designate the property as CRT (Commercial Residential Transition and SFRT (Single-Family Residential Transition) 3: ZONING MAP AMENDMENT:",
+    "of an amendment to the Woods Cross City General Plan Future Land Use Map to designate the property as CRT (Commercial Residential Transition and SFRT (Single-Family Residential Transition) 3: ZONING MAP AMENDMENT:"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "df75ae5b52d9775e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Trenton Town Council",
+   "entity": "Trenton",
+   "title": "Public Hearing",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125821.html",
+   "files": [],
+   "score": 5,
+   "terms": [
+    "dwelling",
+    "lots",
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [],
+   "snippets": [
+    "FOR DISCUSSION/ APPROVAL AS TIME PERMITS 1.Discussion of Temporary Dwelling Unit Ordinance 2.Approval of Subdivision Application 3.Appreciation Dinner Discussion 4.Public Entity Resolution to add Kyle Kingston as"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "1151259593e9e156",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Town of Manila Planning and Zoning",
+   "entity": "Manila",
+   "title": "Planning and Zoning Regular Meeting Agenda",
+   "meetingDate": "2026-12-03",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125920.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522480.pdf"
+   ],
+   "score": 14,
+   "terms": [
+    "commercial",
+    "dwelling",
+    "lots",
+    "plat amendment",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Ronald Cowdell"
+    },
+    {
+     "role": "applicant",
+     "name": "James Mitchell"
+    },
+    {
+     "role": "applicant",
+     "name": "Ray Thurman"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Ronald Cowdell",
+    "James Mitchell",
+    "Ray Thurman"
+   ],
+   "snippets": [
+    "ther the two parcels should be combined into one parcel rather than remain separate. - Ronald Cowdell is requesting a subdivision plat amendment to combine his two lots located at 324 N. 3rd E. and 345 E. 3rd N. Brian made the motion to",
+    "seconded. Motion caried. The plat amendment moved on to Town Council. NEW BUSINESS: - James Mitchell is requesting a building permit for a manufactured home on 380 E. 400 N. He is requesting a variance for the front yard setbacks. - R",
+    "ctured home on 380 E. 400 N. He is requesting a variance for the front yard setbacks. - Ray Thurman is requesting a building permit for a single-family dwelling home at 145 N. Dry Creek Lane. SCHEDULE NEXT MEETING AND ADJOURN:",
+    "zone: part of the lot is currently zoned Residential - Low Density District and is proposed to be re-zoned to Commercial. Recommended to Town Council: Members favored requesting clarification from Town Council regarding",
+    "al. Recommended to Town Council: Members favored requesting clarification from Town Council regarding how far Commercial zoning should extend and whether the two parcels should be combined into one parcel rather than rem",
+    "o parcels should be combined into one parcel rather than remain separate. - Ronald Cowdell is requesting a subdivision plat amendment to combine his two lots located at 324 N. 3rd E. and 345 E. 3rd N. Brian made the m"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "13187669db0fe395",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "County Commission",
+   "entity": "Iron County",
+   "title": "PUBLIC HEARING NOTICE; DEVELOPMENT AGREEMENT; KARMAN SPACE & DEFENSE",
+   "meetingDate": "2026-12-14",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125811.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522295.pdf"
+   ],
+   "score": 8,
+   "terms": [
+    "industrial"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Karman Space & Defense"
+    },
+    {
+     "role": "company",
+     "name": "Sevy Land"
+    },
+    {
+     "role": "company",
+     "name": "Iron County Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Karman Space & Defense",
+    "Sevy Land",
+    "Iron County Building"
+   ],
+   "snippets": [
+    "ssion will hold a public hearing to receive comment regarding an application submitted by Karman Space & Defense for a proposed Development Agreement affecting property located on N. Kane Springs Road, Parowan, Utah, owned by Sevy Land & Li",
+    "ent Agreement affecting property located on N. Kane Springs Road, Parowan, Utah, owned by Sevy Land & Livestock, LLC. SE 1/4 NW 1/4 Section 36, T33S, R9W, SLB&M, Iron County, UT - Located at approximately 2700 N and Kane Springs Road, Paro",
+    "ted to attend. Persons having questions or comments concerning this item may contact the Iron County Building/Zoning and Planning Department at (435) 865-5350. Written comments may also be sent to: Iron County Building and Zoning Departmen",
+    "ional requirements, project duration, and the future submission of an application to rezone the property from Industrial (I) back to A-20 Agricultural upon expiration or termination of the temporary use. All interested",
+    "nal requirements, project duration, and the future submission of an application to rezone the property from Industrial (I) back to A-20 Agricultural upon expiration or termination of the temporary use. All interested"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "a2013db402cbccd0",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Iron County",
+   "title": "PUBLIC HEARING NOTICE; CONDITIONAL USE PERMIT AND DEVELOPMENT AGREEMENT FOR CHEMICAL AND EXPLOSIVES MANUFACTURE AND STORAGE",
+   "meetingDate": "2026-12-03",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125809.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522293.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "conditional use",
+    "industrial"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Karman Space & Defense"
+    },
+    {
+     "role": "company",
+     "name": "Sevy Land"
+    },
+    {
+     "role": "company",
+     "name": "Iron County Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Karman Space & Defense",
+    "Sevy Land",
+    "Iron County Building"
+   ],
+   "snippets": [
+    "23, 2026 06:29 PM Download Attachments Download Attachments File Name Category Date Added Karman Space & Defense, CUP & DA 3dec26 & CC 14dec26.pdf Public Information Handout 2026/11/23 06:28 PM Show Notice Revision History Notice Revision H",
+    "t Agreement affecting property located on N. Kane Springs Road, Parowan, Uta h, owned by Sevy Land & Livestock, LLC. SE ¼ NW ¼ Section 36, T33S, R9W, SLB&M, Iron County, UT – Located at approximately 2700 N and Kane Springs Road, Parowan",
+    "d to attend. Persons having ques tions or comments concerning this item may contact the Iron County Building/Zoning and Planni ng Department at (435) 865 - 5350. Written comments may also be sent to: Iron County Building and Zoning Depart",
+    "cords Service 92 /pmn/sitemap/noticeemail/1125809.html Iron County Planning Commission PUBLIC HEARING NOTICE; CONDITIONAL USE PERMIT AND DEVELOPMENT AGREEMENT FOR CHEMICAL AND EXPLOSIVES MANUFACTURE AND STORAGE PUBLIC HE",
+    "E PERMIT AND DEVELOPMENT AGREEMENT FOR CHEMICAL AND EXPLOSIVES MANUFACTURE AND STORAGE PUBLIC HEARING NOTICE; CONDITIONAL USE PERMIT AND DEVELOPMENT AGREEMENT FOR CHEMICAL AND EXPLOSIVES MANUFACTURE AND STORAGE Subscribe",
+    "Public Body Planning Commission Notice Information Add Notice to Calendar Notice Title PUBLIC HEARING NOTICE; CONDITIONAL USE PERMIT AND DEVELOPMENT AGREEMENT FOR CHEMICAL AND EXPLOSIVES MANUFACTURE AND STORAGE Notice Ta",
+    "DITIONAL USE PERMIT AND DEVELOPMENT AGREEMENT FOR CHEMICAL AND EXPLOSIVES MANUFACTURE AND STORAGE Notice Tags CONDITIONAL USE PERMIT, DEVELOPMENT AGREEMENT Notice Type(s) Notice, Meeting, Hearing Ev"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "fb716116235d3d27",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "American Fork",
+   "title": "12.08.26 Public Hearing - Disposition of Property",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1072153.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522297.pdf",
+    "https://www.utah.gov/pmn/files/1522299.pdf"
+   ],
+   "score": 8,
+   "terms": [
+    "church",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "November 30"
+    },
+    {
+     "role": "company",
+     "name": "R2-7500 Residential"
+    }
+   ],
+   "sizes": [
+    "0.338 acres",
+    "7.37 acres",
+    "0001 lot",
+    "1.5408 acres"
+   ],
+   "companies": [
+    "November 30",
+    "R2-7500 Residential"
+   ],
+   "snippets": [
+    "ving public notice of its intent to sell the property. Sealed offers may be submitted by November 30, 2026, at 5:00 p.m. to: American Fork City, Attn: City Recorder, 51 East Main Street, American Fork, UT 84003. A 10% bid bond is require",
+    "223:0001 containing approximately 0.338 acres located at 163 South 300 West. It is in the R2-7500 Residential zone and is currently a single-family residence. Lot 1, Automall Subdivision, Parcel Number 34:788:0001 containing approximately",
+    "uncil will receive public comments regarding the declaration of the following parcels: Lot 1, Serene Meadows Subdivision, Parcel Number 66:223:0001 containing approximately 0.338 acres located at 163 South 300 West. It",
+    "300 West. It is in the R2-7500 Residential zone and is currently a single-family residence. Lot 1, Automall Subdivision, Parcel Number 34:788:0001 containing approximately 7.37 acres located in the vicinity of 700 West",
+    "Location: 163 South 300 West Parcel Numbers and Legal Descriptions: 66:223:0001 Lot 1 Serene Meadows Subdivision Area: 0.338 acres Map of the Property: Posted this 14th day of October 2026. American For",
+    "Location: 700 South Automall Drive Parcel Numbers and Legal Descriptions: 34:778:0001 Lot 1, Automall Subdivision Area: 1.5408 Acres Map of the Property: Posted this 14th day of October 2026."
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "626e56c752b6c5f9",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Washington City",
+   "title": "Public Hearing - Conditional Use Permit C-26-10 - 75 W Buena Vista Blvd",
+   "meetingDate": "2026-12-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125799.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Zack Graham"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Zack Graham",
+    "Community Development"
+   ],
+   "snippets": [
+    "ermit C-26-10 for a retail building located at 75 West Buena Vista Boulevard. Applicant: Zack Graham. For additional information regarding this item, please contact the Community Development Department at (435) 656-6325 or email zoning",
+    "s and Records Service 236 /pmn/sitemap/noticeemail/1125799.html Washington City City Council Public Hearing - Conditional Use Permit C-26-10 - 75 W Buena Vista Blvd Public Hearing - Conditional Use Permit C-26-10 - 75 W",
+    "on City City Council Public Hearing - Conditional Use Permit C-26-10 - 75 W Buena Vista Blvd Public Hearing - Conditional Use Permit C-26-10 - 75 W Buena Vista Blvd Subscribe to Public Body General Information Government",
+    "hington City Public Body City Council Notice Information Add Notice to Calendar Notice Title Public Hearing - Conditional Use Permit C-26-10 - 75 W Buena Vista Blvd Notice Type(s) Notice, Meeting, H",
+    "ings.The Public Hearing is for the purpose of the following: Public Hearing and consideration to approve Conditional Use Permit C-26-10 for a retail building located at 75 West Buena Vista Boulevard. Applicant: Zac"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "e8347a85ca8efe18",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Washington City",
+   "title": "Public Hearing - Conditional Use Permit C-26-11 - 743 E Hayfield Way, #1",
+   "meetingDate": "2026-12-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125801.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "clinic",
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Hoopes Construction"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Hoopes Construction",
+    "Community Development"
+   ],
+   "snippets": [
+    "C-26-11 for a Veterinarian Clinic located at 743 E Hayfield Drive, Unit #1. Applicant: Hoopes Construction. For additional information regarding this item, please contact the Community Development Department at (435) 656-6325 or email",
+    "ollowing: Public Hearing and consideration to approve Conditional Use Permit C-26-11 for a Veterinarian Clinic located at 743 E Hayfield Drive, Unit #1. Applicant: Hoopes Construction. For additional informati",
+    "s and Records Service 236 /pmn/sitemap/noticeemail/1125801.html Washington City City Council Public Hearing - Conditional Use Permit C-26-11 - 743 E Hayfield Way, #1 Public Hearing - Conditional Use Permit C-26-11 - 743",
+    "n City City Council Public Hearing - Conditional Use Permit C-26-11 - 743 E Hayfield Way, #1 Public Hearing - Conditional Use Permit C-26-11 - 743 E Hayfield Way, #1 Subscribe to Public Body General Information Governmen",
+    "hington City Public Body City Council Notice Information Add Notice to Calendar Notice Title Public Hearing - Conditional Use Permit C-26-11 - 743 E Hayfield Way, #1 Notice Type(s) Notice, Meeting,"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "1df839f1370f3994",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Washington City",
+   "title": "Public Hearing - Zone Change Z-26-21 - 525 E George Washington Blvd.",
+   "meetingDate": "2026-12-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125805.html",
+   "files": [],
+   "score": 4,
+   "terms": [
+    "pud"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Galloway Engineering"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Galloway Engineering",
+    "Community Development"
+   ],
+   "snippets": [
+    "to update the existing PUD-C located at 525 East George Washington Blvd. Applicant: AWA/Galloway Engineering. For additional information regarding this item, please contact the Community Development Department at (435) 656-6325 or emai",
+    "Public Hearing and consideration to approve an Ordinance for Zone Change Z-26-21 to update the existing PUD-C located at 525 East George Washington Blvd. Applicant: AWA/Galloway Engineering. For additional inf"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "5f66e4d2508366be",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Harrisville",
+   "title": "Public Hearing Notice- Ordinance 582; Impact Fee Enactment",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125984.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522590.pdf",
+    "https://www.utah.gov/pmn/files/1522592.pdf"
+   ],
+   "score": 16,
+   "terms": [
+    "multi-family",
+    "new construction",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "New Development"
+    },
+    {
+     "role": "company",
+     "name": "Growth Residential"
+    },
+    {
+     "role": "company",
+     "name": "Anticipated Development"
+    },
+    {
+     "role": "company",
+     "name": "New Construction"
+    },
+    {
+     "role": "company",
+     "name": "Harrisville City Capital"
+    },
+    {
+     "role": "company",
+     "name": "Family Calls Multi-Family Calls Non- Residential"
+    },
+    {
+     "role": "company",
+     "name": "New Building"
+    },
+    {
+     "role": "company",
+     "name": "Total Building"
+    },
+    {
+     "role": "company",
+     "name": "Existing Building"
+    },
+    {
+     "role": "company",
+     "name": "Existing Development"
+    },
+    {
+     "role": "company",
+     "name": "Year Single-Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "Multi-Family Residential"
+    }
+   ],
+   "sizes": [
+    "2027 unit",
+    "0.339 square feet",
+    "7 square feet",
+    "27,322 square feet",
+    "906 square feet"
+   ],
+   "companies": [
+    "New Development",
+    "Growth Residential",
+    "Anticipated Development",
+    "New Construction",
+    "Harrisville City Capital",
+    "Family Calls Multi-Family Calls Non- Residential",
+    "New Building",
+    "Total Building",
+    "Existing Building",
+    "Existing Development",
+    "Year Single-Family Residential",
+    "Multi-Family Residential"
+   ],
+   "snippets": [
+    "police services. The increased demand results in the need for more police facilities. New Development and Growth Residential and non- residential growth creates the demand for new police capital facilities. Projected growth is shown",
+    "y will be vacated when the new building is completed. Impact on System Improvements by Anticipated Development Activity Utah Code 11-36a-304(1)(b) The existing facility will no longer be used once the new building is",
+    "COST PER CALL FOR NEW CONSTRUCTION Summary Amount Buy-in to Existing Facilities $0.00 New Construction $186.14 Interest Cost on Bond $338.39 Consultant Costs $11.04 Gross Cost per Call $535.56 Credits have been applied for the t",
+    "$6.10 $56.67 $478.89 2036 $867,535.50 $67,963.69 11,241 $6.05 $53.11 $482.45 1 Harrisville City Capital Improvements Plan 2025 Zions Public Finance, Inc. for Harrisville City DRAFT AMENDED Public Safety Impact",
+    "Amount SF Needed by New Development, 2026-2036 307 SF of New Building 27,322 SF to Police, including shared space 13,936 Cost of New Building $15,000,000",
+    "Common Areas 55.55% Shared Police Space 2,958 TOTAL Police Space 13,936 Police % of Total Building 51.01% Source: Harrisville City The only portion of the police bond cost that needs to be credited is the portion paying for existi",
+    "d growth is shown in the following table: TABLE 1: GROWTH PROJECTIONS, 2026-2036 Year Single-Family Units Multi-Family Units Non-Residential Sf 2026 1,761 717 1,614,587 2027 1,770 721 1,622,602 2028 1,780 725 1,63",
+    "TABLE 4: MAXIMUM POLICE IMPACT FEE 2027 Unit Type Calls per Unit 2027 Single-Family 1.85910151 $843.11 Multi-Family 0.69803592 $316.56 Nonresidential 0.00259142 $1.18 Utah Code Legal Requirements Preparatio",
+    "th. This growth is projected as follows: TABLE 5: GROWTH PROJECTIONS, 2026-2036 Year Single-Family Units Multi-Family Units Non-Residential Sf 2026 1,761 717 1,614,587 2027 1,770 721 1,622,602 2028 1,780 725 1,63",
+    "of impact fees. TABLE 6: POLICE – PROJECTED GROWTH IN POLICE CALLS FOR SERVICE Year Single- Family Calls Multi-Family Calls Non- Residential Calls Public/ Undeﬁned Pass-Thru Traffic Total Calls 2026 3,274 50"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "4e930188492893cd",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Harrisville",
+   "title": "Public Hearing Notice- Ordinance 581; Adoption of Impact Fee Facilities Plan",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125982.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522584.pdf",
+    "https://www.utah.gov/pmn/files/1522586.pdf"
+   ],
+   "score": 13,
+   "terms": [
+    "multi-family",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "New Development"
+    },
+    {
+     "role": "company",
+     "name": "Growth Residential"
+    },
+    {
+     "role": "company",
+     "name": "Multi- Family Unit Non- Residential"
+    },
+    {
+     "role": "company",
+     "name": "Harrisville City Capital"
+    },
+    {
+     "role": "company",
+     "name": "Family Calls Multi-Family Calls Non- Residential"
+    },
+    {
+     "role": "company",
+     "name": "Total Building"
+    }
+   ],
+   "sizes": [
+    "27,322 square feet",
+    "1,000 square feet",
+    "3,504 square feet",
+    "0.339 square feet",
+    "307 square feet",
+    "13,936 square feet"
+   ],
+   "companies": [
+    "New Development",
+    "Growth Residential",
+    "Multi- Family Unit Non- Residential",
+    "Harrisville City Capital",
+    "Family Calls Multi-Family Calls Non- Residential",
+    "Total Building"
+   ],
+   "snippets": [
+    "y (“City”) has determined that there is one city-wide service area for police services. New Development and Growth Residential and non-residential growth creates the demand for new public safety capital facilities. Projected growth is s",
+    "impact fees and anticipated or accepted dedications of system improvements. 1 Source: Harrisville City Capital Improvements Plan 2025 2 Calculated by multiplying the projected growth in calls from 202 6-2036 (906 calls) by the propose",
+    "Common Areas 55.55% Shared Police Space 2,958 TOTAL Police Space 13,936 Police % of Total Building 51.01% 3 City of Harrisville, Capital Improvements Plan 2025 Zions Public Finance, Inc. for Harrisville City DRAF",
+    "d growth is shown in the following table: TABLE 1: GROWTH PROJECTIONS, 2026-2036 Year Single-Family Units Multi-Family Units Non-Residential Sf 2026 1,761 717 1,614,587 2027 1,770 721 1,622,602 2028 1,780 725 1,63",
+    "During 2026, the City is anticipated to average 1.859 police calls per single -family unit, 0.698 calls per multi-family unit and 2.59 calls per 1,000 square feet of non-residential space. TABLE 2: POLICE CALLS 2025",
+    "f non-residential space. TABLE 2: POLICE CALLS 2025 Single-Family Calls Calls per Single-Family Unit Multi-Family Calls Calls per Multi- Family Unit Non- Residential Calls Calls per Non- Res Square Foot 3",
+    "th. This growth is projected as follows: TABLE 3: GROWTH PROJECTIONS, 2026-2036 Year Single-Family Units Multi-Family Units Non-Residential Sf 2026 1,761 717 1,614,587 Zions Public Finance, Inc. for"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "0fa9efb5250edbb2",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Layton",
+   "title": "Notice of Public Hearing",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125986.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522594.pdf"
+   ],
+   "score": 8,
+   "terms": [
+    "condominium",
+    "townhouse"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Planned Residential Unit Development"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Planned Residential Unit Development",
+    "Economic Development"
+   ],
+   "snippets": [
+    "437 North Wasatch Drive, to review a proposal to amend Title 19 'Zoning', Chapter 19.08 'Planned Residential Unit Development (PRUD)', Chapter 19.12 'Off Street Parking', Chapter 19.16 'Landscaping, Fencing and Clear View', Chapter 19.24 '",
+    "UD)', Chapter 19.12 'Off Street Parking', Chapter 19.16 'Landscaping, Fencing and Clear View', Chapter 19.24 'Condominium/Townhouse (C-TH) Zoning District', and Chapter 19.28 'Neighborhood Town Center (TC-1) Zoning Distr",
+    ")”, Chapter 19.12 “Off Street Parking”, Chapter 19.16 “Landscaping, Fencing and Clear View”, Chapter 19.24 “Condominium/Townhouse (C -TH) Zoning Dist rict”, and Chapter 19.28 “Neighborhood Town Center (TC -1) Zoning D",
+    "r 19.12 'Off Street Parking', Chapter 19.16 'Landscaping, Fencing and Clear View', Chapter 19.24 'Condominium/Townhouse (C-TH) Zoning District', and Chapter 19.28 'Neighborhood Town Center (TC-1) Zoning District' to upda",
+    "19.12 “Off Street Parking”, Chapter 19.16 “Landscaping, Fencing and Clear View”, Chapter 19.24 “Condominium/Townhouse (C -TH) Zoning Dist rict”, and Chapter 19.28 “Neighborhood Town Center (TC -1) Zoning District” to"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "7722a49367c67e6d",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Uintah",
+   "title": "AGENDA 12.3.26",
+   "meetingDate": "2026-12-03",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126064.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "commercial",
+    "dwelling",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Commercial Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Commercial Building"
+   ],
+   "snippets": [
+    "ITY REPORTS & FOLLOW-UP - New Business Licenses - Joan Dailey | - CUPs - Jake Wayman | - Commercial Building - Scott Dixon Training Updates | - Nuisance Code Enforcement | - Other Business 7. ADJOURNMENT [ ] Motion to Adjourn Meeting:",
+    "ISSIONER RESPONSIBILITY REPORTS & FOLLOW-UP - New Business Licenses - Joan Dailey | - CUPs - Jake Wayman | - Commercial Building - Scott Dixon Training Updates | - Nuisance Code Enforcement | - Other Business 7. ADJOU"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "b9832689688d921e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Washington Terrace",
+   "title": "City Council Meeting",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126006.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522834.pdf"
+   ],
+   "score": 6,
+   "terms": [
+    "lots",
+    "phase"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "December 2026"
+    },
+    {
+     "role": "company",
+     "name": "Current Pricing Engineers"
+    }
+   ],
+   "sizes": [
+    "70 lots"
+   ],
+   "companies": [
+    "December 2026",
+    "Current Pricing Engineers"
+   ],
+   "snippets": [
+    "TP GRANT Applications for the Surface Transportation Program grant must be submitted by December 2026, to qualify for the 2032 funding cycle. 7.2 DISCUSSION/MOTION: APPROVAL OF THE 2027 ANNUAL MEETING SCHEDULE Per stat",
+    "Council Member Davidson asked if we staff can consider green space and open space percentages on people’s 70 lots. She stated that we should look at what would be allowed based on square footage, both front and back. 71",
+    "ras. She stated that KSL news found a Tooele officer abusing the Flock 150 system. She stated that there are lots of opportunities for misuse. She stated that she does not feel we 151 should dismiss these cases as cons",
+    "Call Vote 167 168 8.2 DISCUSSION/MOTION: RATIFICATION OF CHANGE ORDER #3 FOR THE 169 ROHMER PARK PROJECT (PHASE 4) 170 Grava stated that the change order was approved due to timing with the contractor. He stated tha",
+    "by Council Member Zishan 176 To approve the ratification of change order #3 177 For the Rohmer Park Project phase 4 178 Approved unanimously (4-0) 179 180 181 182 183 CC Minutes 11-17-26 8.3 DISCUSSION/MOT"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "46dc4d5f23f13ff8",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Midway",
+   "title": "Ordinance Adoption",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125964.html",
+   "files": [],
+   "score": 6,
+   "terms": [
+    "office building"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Midway City Office Building"
+    },
+    {
+     "role": "company",
+     "name": "Meeting Location Midway City Office Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Midway City Office Building",
+    "Meeting Location Midway City Office Building",
+    "Information Meeting Location Midway City Office Building"
+   ],
+   "snippets": [
+    "ll text of the ordinance is available at the Midway City Recorder's office located in the Midway City Office Building at 75 North 100 West, Midway City, Utah. Notice of Special Accommodations (ADA) For those individuals needing special assi",
+    "midwaycityut.gov. Notice of Electronic or Telephone Participation N/A Meeting Information Meeting Location Midway City Office Building 75 North 100 West Midway, UT 84049 Show in Apple Maps Show in Google Maps Contact Name Brad Wilson Contac",
+    "A full text of the ordinance is available at the Midway City Recorder's office located in the Midway City Office Building at 75 North 100 West, Midway City, Utah. Notice of Special Accommodations (ADA) For those indi",
+    "stance in accordance with the Americans with Disabilities Act, please contact Brad Wilson at the Midway City Office Building, at 75 North 100 West, Midway, UT 84049, 1-435-654-3223 x118, or by email at: bwilson@midwayci",
+    "yut.gov. Notice of Electronic or Telephone Participation N/A Meeting Information Meeting Location Midway City Office Building 75 North 100 West Midway, UT 84049 Show in Apple Maps Show in Google Maps Contact Name Brad Wi"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "0efaba62648d6ec3",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Springville",
+   "title": "Regular Meeting Agenda",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126022.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522724.pdf",
+    "https://www.utah.gov/pmn/files/1522726.pdf"
+   ],
+   "score": 25,
+   "terms": [
+    "commercial",
+    "dwelling",
+    "medical",
+    "multi-family",
+    "new construction",
+    "school",
+    "site plan",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Aspen Construction"
+    },
+    {
+     "role": "company",
+     "name": "Wood Springs Development"
+    },
+    {
+     "role": "company",
+     "name": "Ironton Development"
+    },
+    {
+     "role": "company",
+     "name": "Property"
+    },
+    {
+     "role": "company",
+     "name": "New Development"
+    },
+    {
+     "role": "company",
+     "name": "Anticipated Development"
+    },
+    {
+     "role": "company",
+     "name": "MAXIMUM PUBLIC SAFETY FEES Year Development"
+    },
+    {
+     "role": "company",
+     "name": "Single-Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "Multi-Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "MAXIMUM POLICE IMPACT FEE Development"
+    },
+    {
+     "role": "company",
+     "name": "New Construction"
+    },
+    {
+     "role": "company",
+     "name": "ZPFI Residential"
+    }
+   ],
+   "sizes": [
+    "941 square feet",
+    "3,839 square feet",
+    "32,307 square feet",
+    "9,829 square feet",
+    "28,760 square feet",
+    "14,420 square feet"
+   ],
+   "companies": [
+    "Aspen Construction",
+    "Wood Springs Development",
+    "Ironton Development",
+    "Property",
+    "New Development",
+    "Anticipated Development",
+    "MAXIMUM PUBLIC SAFETY FEES Year Development",
+    "Single-Family Residential",
+    "Multi-Family Residential",
+    "MAXIMUM POLICE IMPACT FEE Development",
+    "New Construction",
+    "ZPFI Residential",
+    "Property. C. Developers",
+    "FIRE SERVICE LEVELS Year Total Calls Building",
+    "EXCESS CAPACITY Existing Service Level Existing Building",
+    "RESIDENTIAL UNIT AND NONRESIDENTIAL SQUARE FOOT Development"
+   ],
+   "snippets": [
+    "pproval of a Purchase and Sale Agreement between Springville City and Nathan Chappell and Aspen Construction and Development, Inc. for the sale of a remnant portion of approximately 3,839 square feet of Parcel #52:059:0027 and #52:059:0012",
+    "n requests to speak. Curtis Koelling addressed the City Council regarding the proposed Wood Springs Development. 46 He thanked the Mayor and Council for their assistance and willingness to address concerns throughout the development re",
+    "hich jurisdiction would be 138 responsible for providing police services to the proposed Ironton Development. Troy explained that the two cities were coordinating efforts to allow the Ironton Development to 140 function as a unified deve",
+    "Notice Information Add Notice to Calendar Notice Title Regular Meeting Agenda Notice Tags Property, Public Safety, Impact Fees Notice Type(s) Notice, Meeting Event Start Date & Time December 1, 2026 07:00 PM Description/Agenda SP",
+    "y owns and plans to acquire fire apparatus costing more than $500,000 each. Impact of New Development on System Improvements Police • Growth through 2050 will generate an additional 7,990 calls, requiring 9,829 square feet of facilit",
+    "rom the actual level as facility space and calls vary. Impact on System Improvements by Anticipated Development Activity Utah Code 11-36a-304(1)(b) Police. The police department projects 26,263 calls in the capacity y",
+    "cted will be used to directly fund Public Safety facility and equipment needs resulting from residential and commercial growth in Springville. The maximum allowable Public Safety Impact Fees are detailed above in t",
+    "mand Between 2026 and 2036, Springville is projected to experience steady increases in single-family homes, multi-family units, and non-residential square footage. • Police calls are projected to increase from 18,272",
+    "pact fee fund balance. • Maximum allowable fees: City Council Report 4 o Single-family: $272.87 o Multi-family: $186.79 o Non-residential: $0.14 per square foot Fire/EMS • Gross cost per fire call before c",
+    "cost per call trends to $8,209.61 after 2032. Maximum 2027 fire impact fees: • Single-family: $863.65 • Multi-family: $717.90 • Non-residential: $0.46 per square foot (includes vehicle component) Combined Maxim"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "dcafe12040e66086",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council/RDA",
+   "entity": "Tremonton",
+   "title": "Notice of Public Hearing: Hirschi Farms Annexation",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125733.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522193.pdf"
+   ],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [
+    "0.41 acres"
+   ],
+   "companies": [],
+   "snippets": [
+    "ERIDIAN. BEGINNING AT A POINT ON THE NORTHWEST CORNER OF A 30.00 FOOT WIDE EASEMENT SHOWN ON THE MARK HIRSCHI SUBDIVISION ENTRY NO. 361396, POINT ALSO BEING AT THE NORTHEAST CORNER OF A 60.00 FOOT WIDE EASEMENT SHOWN ON",
+    "RY NO. 361396, POINT ALSO BEING AT THE NORTHEAST CORNER OF A 60.00 FOOT WIDE EASEMENT SHOWN ON THE RILEY BUCK SUBDIVISION, ENTRY NO. 399294, POINT ALSO ON THE SOUTH RIGHT-OF-WAY LINE OF 12000 NORTH STREET LOCATED 964.29",
+    "FEET; AND (3) SOUTH 01°10'14' EAST (SOUTH BY RECORD) 55.00 FEET TO THE NORTHEAST CORNER OF SAID MARK HIRSCHI SUBDIVISION, POINT ALSO BEING ON THE TREMONTON CITY CORPORATE LIMIT LINE; THENCE SOUTH 88°49'46' WEST (WEST BY",
+    "IMIT LINE; THENCE SOUTH 88°49'46' WEST (WEST BY RECORD) 286.30 FEET ALONG THE NORTH LINE OF SAID MARK HIRSCHI SUBDIVISION AND SAID TREMONTON CITY CORPORATE LIMIT LINE TO SOUTHWEST CORNER OF SAID 30.00 FOOT WIDE EASEMENT;"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "8e32e5c16b77f598",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Price",
+   "title": "11-24-2026 CITY COUNCIL AGENDA",
+   "meetingDate": "2026-11-24",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125956.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522538.pdf"
+   ],
+   "score": 13,
+   "terms": [
+    "commercial",
+    "medical",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "representative",
+     "name": "Signature of Employer's"
+    },
+    {
+     "role": "representative",
+     "name": "2 Applicable Bank Accounts"
+    },
+    {
+     "role": "applicant",
+     "name": "Client"
+    },
+    {
+     "role": "applicant",
+     "name": "Covered Entity"
+    },
+    {
+     "role": "applicant",
+     "name": "or on behalf of the Participant for"
+    },
+    {
+     "role": "applicant",
+     "name": "a Participant or the Employer"
+    },
+    {
+     "role": "applicant",
+     "name": "Advisor. b"
+    },
+    {
+     "role": "applicant",
+     "name": "whom the Plan Sponsor is making contributions"
+    },
+    {
+     "role": "applicant",
+     "name": "an Employee"
+    },
+    {
+     "role": "applicant",
+     "name": "a state or political subdivisions of a"
+    },
+    {
+     "role": "company",
+     "name": "Resolution Updating Price Municipal Corporation"
+    },
+    {
+     "role": "company",
+     "name": "OneBridge Benefits Inc"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Signature of Employer's",
+    "2 Applicable Bank Accounts",
+    "Client",
+    "Covered Entity",
+    "or on behalf of the Participant for",
+    "a Participant or the Employer",
+    "Advisor. b",
+    "whom the Plan Sponsor is making contributions",
+    "an Employee",
+    "a state or political subdivisions of a",
+    "Resolution Updating Price Municipal Corporation",
+    "OneBridge Benefits Inc",
+    "OneBridge ACH Company",
+    "National Financial Services LLC",
+    "Alta Trust Company",
+    "Effective Date. BUSINESS ASSOCIATE OneBridge Benefits Inc",
+    "Control Group",
+    "Qualified Group",
+    "All Group"
+   ],
+   "snippets": [
+    "Employer/Plan Sponsor Name: Printed Name of Employer's/Plan Sponsor's Representative: Signature of Employer's/Plan Sponsor’s Representative: 2 Applicable Bank Accounts (must be set up and authorized for direct debits) 3 Authorized Rep",
+    "s/Plan Sponsor's Representative: Signature of Employer's/Plan Sponsor’s Representative: 2 Applicable Bank Accounts (must be set up and authorized for direct debits) 3 Authorized Representative 2 of 1404 ENTITY CONSULTING SERVICES AGREE",
+    "exas 78735, and ________________________________, as more fully detailed in Appendix A (“Client”). Advisor and Client shall each be referred to as a “party” and collectively as the “parties.” The parties agree as follows: 1. Services. a.",
+    "tween _______________________________________, as plan sponsor of a group health plan (“Covered Entity”), and OneBridge Benefits Inc. (“Business Associate”). Covered Entity and Business Associate are each referred to herein as a “ Party,",
+    "complete Enrollment File or investment election instructions have not been submitted by or on behalf of the Participant for any amount allocated by the Employer to a Benefits Account, the contribution may be allocated to a non-interest b",
+    "er, neither the Plan, nor any Plan Representative shall be liable for losses incurred by a Participant or the Employer, as applicable, after expiration of the Notification Period. 4.9 Reliance upon Data and Information from Participant",
+    "medy any such defect. Any disputes arising under this Agreement shall be arbitrated in accordance with the commercial arbitration rules of the American Arbitration Association. All arbitration proceedings will take",
+    "llectively as the “YourWay Benefit Plan”); and WHEREAS, the Plan Sponsor is a governmental entity that is a subdivision or agency of the State of ________ the income of which is exempt from federal income tax under Se"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "6dd5f76296c85cbf",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning and Zoning",
+   "entity": "Ephraim",
+   "title": "Public Hearing-Ephraim Crossing 200 West Commercial District Subdivision",
+   "meetingDate": "2026-12-09",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125990.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522604.pdf"
+   ],
+   "score": 12,
+   "terms": [
+    "commercial",
+    "lots",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Licensed Land"
+    },
+    {
+     "role": "company",
+     "name": "Ephraim South LLC"
+    },
+    {
+     "role": "company",
+     "name": "PresidentCentral Utah Title Inc"
+    }
+   ],
+   "sizes": [
+    "5 lots",
+    "40,106 sq.ft",
+    "38,120 sq.ft",
+    "13,491 sq.ft",
+    "15,719 sq.ft",
+    "36,155 sq.ft"
+   ],
+   "companies": [
+    "Licensed Land",
+    "Ephraim South LLC",
+    "PresidentCentral Utah Title Inc"
+   ],
+   "snippets": [
+    "do hereby certify that I am a Licensed Land Surveyor, and that I hold CertificateNo. as prescribed under laws of th",
+    ". By: D. MICHAEL BALLARD, Managing MemberCVG - Ephraim South LLC THE 200 WEST COMMERCIAL DISTRICT UTILITY DEDICATIONBy execution of this plat, the Owner(s) shown below does hereby grant and convey",
+    ",By: GLEN GREEN, PresidentCentral Utah Title Inc.personally appeared before me, the undersigned Notary public, in and for said County of",
+    "70 /pmn/sitemap/noticeemail/1125990.html Ephraim Planning and Zoning Public Hearing-Ephraim Crossing 200 West Commercial District Subdivision Public Hearing-Ephraim Crossing 200 West Commercial District Subdivision Subsc",
+    "ic Hearing-Ephraim Crossing 200 West Commercial District Subdivision Public Hearing-Ephraim Crossing 200 West Commercial District Subdivision Subscribe to Public Body General Information Government Type Municipality Enti",
+    "ng and Zoning Notice Information Add Notice to Calendar Notice Title Public Hearing-Ephraim Crossing 200 West Commercial District Subdivision Notice Type(s) Notice Event Start Date & Time December 9, 2026 06:00 PM Descri",
+    "he applicant is proposing to subdivide a portion of parcel S-6187 into 5 lots for the purpose of developing a commercial subdivision. Please see attachment for further details and location. Notice of Special Accommodatio"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "126f43457aa80cc0",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Kaysville Planning Commission",
+   "entity": "Kaysville",
+   "title": "Public Hearing Notice to rezone a property located at 582 South Angel Street",
+   "meetingDate": "2026-12-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126048.html",
+   "files": [],
+   "score": 10,
+   "terms": [
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "attending the public hearing in person or"
+    },
+    {
+     "role": "company",
+     "name": "Kaysville City Municipal Building"
+    },
+    {
+     "role": "company",
+     "name": "Single-Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "Kaysville City Community Development"
+    }
+   ],
+   "sizes": [
+    "19.13 acres"
+   ],
+   "companies": [
+    "attending the public hearing in person or",
+    "Kaysville City Municipal Building",
+    "Single-Family Residential",
+    "Kaysville City Community Development"
+   ],
+   "snippets": [
+    "on, and development requirements. Comments on this application may be submitted by attending the public hearing in person or through submitting comments through an online form at: https://www.kaysville.gov/435/Planning-Commission (co",
+    "Commission will hold a public hearing on Thursday, December 10, 2026, at 7:00 p.m. in the Kaysville City Municipal Building Council Chambers, located at 23 East Center Street, Kaysville, Utah to consider the following request: A request by",
+    "one a property located at 582 South Angel Street from A-5 (Heavy Agricultural) to R-1-LD (Single-Family Residential). Parcel Number: 08-009-0068. Parcel Area: 19.13 Acres. The purpose of the R-1-LD Zone is to provide for single-family res",
+    "t form is at the bottom of the webpage). If you have any questions, please contact the Kaysville City Community Development office at 801-546-1241. Notice of Special Accommodations (ADA) Kaysville City is dedicated to a policy of non-dis",
+    "dential neighborhoods. The zone allows a maximum density of two (2) residential units per gross acre within a subdivision. Any future subdivision or development of the property would be subject to applicable zoning, subd",
+    "he zone allows a maximum density of two (2) residential units per gross acre within a subdivision. Any future subdivision or development of the property would be subject to applicable zoning, subdivision, and development",
+    "n a subdivision. Any future subdivision or development of the property would be subject to applicable zoning, subdivision, and development requirements. Comments on this application may be submitted by attending t"
+   ],
+   "foundAt": "2026-11-24"
+  },
+  {
+   "id": "f5640beaaa24b333",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Magna Planning Commission",
+   "entity": "Magna City",
+   "title": "Magna Planning Commission",
+   "meetingDate": "2026-12-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1125767.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1522239.pdf",
+    "https://www.utah.gov/pmn/files/1522241.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "conditional use",
+    "dwelling",
+    "lots"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "an authorized agent at any meeting of"
+    },
+    {
+     "role": "company",
+     "name": "Broadway Building"
+    },
+    {
+     "role": "company",
+     "name": "Municipal Land"
+    }
+   ],
+   "sizes": [
+    "20,000 sq. ft"
+   ],
+   "companies": [
+    "an authorized agent at any meeting of",
+    "Broadway Building",
+    "Municipal Land"
+   ],
+   "snippets": [
+    "E FOR PUBLIC COMMENT 1. Any person or entity may appear in person or be represented by an authorized agent at any meeting of the Commission. 2. Unless altered by the Chair, the order of the procedure on an application shall be: a",
+    "Angeles Find a local number Phone conference ID: 697 523 208# Anchor Location the Broadway Building 3151 South Broadway Street Magna, Utah BUSINESS MEETING 1) Approval of November 12, 2026, Planning Commission Meeting Minute",
+    "to adopt land use regulations, pursuant to Utah Code § 10 -9a-501 in accordance with the Municipal Land Use, Development, and Management Act, Title 10, Section 9a, Utah Code; and WHEREAS, the Council deems it necessary to amend its land",
+    "rdinance: ________________ EXHIBIT A 19.42.140 Child Care Child care, if allowed as a permitted or conditional use in the applicable zone, is also subject to the following standards: 1. A person exempted fro",
+    "on 19.42.140 of the Magna Code to prohibit the establishment of home childcare business within both a primary dwelling unit and an accessory dwelling unit on the same parcel. Planner: Brian Tucker, Planning Manager (Disc",
+    "to prohibit the establishment of home childcare business within both a primary dwelling unit and an accessory dwelling unit on the same parcel. Planner: Brian Tucker, Planning Manager (Discussion/Recommendation) Notice o",
+    "n 19.42.140 of the Magna Code to prohibit the establishment of home childcare business within both a primary dwelling unit and an accessory dwelling unit on the same parcel. Planner: Brian Tucker, Planning Manager (Di"
+   ],
+   "foundAt": "2026-11-24"
+  },
   {
    "id": "9d3da0d18e9010e7",
    "source": "pmn",
