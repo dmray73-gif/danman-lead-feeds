@@ -1,0 +1,1250 @@
+{
+ "report": {
+  "arcgis:provo-current-projects": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:summit-county-2026": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:west-jordan": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:orem": {
+   "items": 0,
+   "ok": true
+  },
+  "pdf:riverton": {
+   "items": 0,
+   "ok": true
+  },
+  "accela:salt-lake-city": {
+   "items": 0,
+   "ok": true
+  },
+  "pmn": {
+   "items": 23,
+   "ok": true
+  }
+ },
+ "items": [
+  {
+   "id": "aae8fc54f06657cb",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Heber City",
+   "title": "City Council Meeting",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126631.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523797.pdf"
+   ],
+   "score": 10,
+   "terms": [
+    "commercial",
+    "warehouse"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Mountainlands Community Housing Trust"
+    },
+    {
+     "role": "company",
+     "name": "R-3 Residential"
+    },
+    {
+     "role": "company",
+     "name": "Warehouse Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Mountainlands Community Housing Trust",
+    "R-3 Residential",
+    "Warehouse Building",
+    "Community Development"
+   ],
+   "snippets": [
+    "NG - 4:30 P.M. 1. Affordable Housing 101: Local Tools & Incentives. Jason Glidden, Mountainlands Community Housing Trust, Shellie Barrus, Habitat for Humanity (Jason Glidden, Shellie Barrus) - 60 min 2. City Council's Operational",
+    "n discuss; table; continue; or approve items) 1. Ordinance 2026-29, Zone change from R-3 Residential to C-2 at 90W 300 North, for Karl Malone Powersports. (Jamie Baron, Planning Manager) - 20 min 2. Consider Approval of Interlocal",
+    "estment Agency Request for Proposal (RFP) for Commercial Lease Space at the Wave Flex and Warehouse Building located at 165 South 100 West. (Matt Brower, City Manager) - 30 min XI. ADJOURN AS THE CRA BOARD AND RECONVENE AS THE HEBER CITY",
+    "; continue; or approve items) 1. Heber City Community Reinvestment Agency Request for Proposal (RFP) for Commercial Lease Space at the Wave Flex and Warehouse Building located at 165 South 100 West. (Matt Brower, Ci",
+    "City Community Reinvestment Agency Request for Proposal (RFP) for Commercial Lease Space at the Wave Flex and Warehouse Building located at 165 South 100 West. (Matt Brower, City Manager) - 30 min XI. ADJOURN AS THE C"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "234fc13630653b3f",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Grantsville City Council",
+   "entity": "Grantsville",
+   "title": "Grantsville City Council Regular Meeting and Public Hearing",
+   "meetingDate": "2026-12-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126633.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523799.pdf",
+    "https://www.utah.gov/pmn/files/1523801.pdf"
+   ],
+   "score": 13,
+   "terms": [
+    "lots",
+    "master plan",
+    "phase",
+    "pud",
+    "school",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "VT Grantsville Land"
+    },
+    {
+     "role": "company",
+     "name": "Drainage Design"
+    }
+   ],
+   "sizes": [
+    "9 unit",
+    "50 lots",
+    "5 acres"
+   ],
+   "companies": [
+    "VT Grantsville Land",
+    "Drainage Design",
+    "Community Development"
+   ],
+   "snippets": [
+    "ed its Fiscal Year 2027 Municipal Budget; and WHEREAS, the City received payments from VT Grantsville Land Co., LLC, pursuant to the Master Water Services Agreement approved by Resolution No. 2025-81, for Water Credits identified as Wa",
+    "ty Development Director DATE: December 2, 2026 SUBJECT: Wells Crossing Subdivision - Drainage Design Discrepancies and Floodplain Impacts Background Following recent localized flooding in the Wells Crossing subdivision, our office",
+    "cal Year 2027 Municipal Budget 5. Discussion regarding Flock Cameras 6. Update regarding the Wells Crossing Subdivision flooding 7. Closed Session - (Imminent Litigation, Real Estate Negotiations, Personnel) as needed",
+    "al Year 2027 Municipal Budget 5. Discussion regarding Flock Cameras 6. Update regarding the Wells Crossing Subdivision flooding 7. Closed Session – (Imminent Litigation, Real Estate Negotiations, Personnel) as needed",
+    "- $ - $ - $ 17-34-06 ENGINEERING SUBDIVISION FEES 42,648.00 $ 84,000.00 $ 79,596.88 $ 115,000.00 $",
+    "00.00 $ 4,200.00 $ 3,000.00 $ 3,000.00 $ 17-34-12 SUBDIVISION INSPECTION FEE 121,971.00 $ 265,000.00 $ 333,587.48 $ 250,000"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "003e137fe29194f3",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Morgan County Commission",
+   "entity": "Morgan County",
+   "title": "Morgan County Commission Agenda 12.1.2026",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126557.html",
+   "files": [],
+   "score": 11,
+   "terms": [
+    "office building",
+    "site plan"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Auditorium Schematic Design"
+    },
+    {
+     "role": "company",
+     "name": "Mountain West Architecture"
+    },
+    {
+     "role": "company",
+     "name": "Future Land"
+    },
+    {
+     "role": "company",
+     "name": "Ranch Residential"
+    },
+    {
+     "role": "company",
+     "name": "Village Low Density Residential"
+    }
+   ],
+   "sizes": [
+    "51.3 acres"
+   ],
+   "companies": [
+    "Auditorium Schematic Design",
+    "Mountain West Architecture",
+    "Future Land",
+    "Ranch Residential",
+    "Village Low Density Residential"
+   ],
+   "snippets": [
+    "forest patrol funding with no County match. 7. County Commission - Discussion/Decision - Auditorium Schematic Design Agreement Consider authorizing execution of the $16,000 agreement with Mountain West Architecture, LLC, for the auditoriu",
+    "Schematic Design Agreement Consider authorizing execution of the $16,000 agreement with Mountain West Architecture, LLC, for the auditorium remodel. 8. County Commission - Discussion/Decision - CivicPlus Agenda and Meeting Management Sof",
+    "roximately 51.3 acres near 4970 West 6100 North, Mountain Green. The proposal changes the Future Land Use Map designation from Ranch Residential 5 to Village Low Density Residential and rezones portions from A-20 to RR-1, RR-5 and R1-20. 1",
+    "6100 North, Mountain Green. The proposal changes the Future Land Use Map designation from Ranch Residential 5 to Village Low Density Residential and rezones portions from A-20 to RR-1, RR-5 and R1-20. 14. Planning and Zoning - Eagle Vista",
+    "een. The proposal changes the Future Land Use Map designation from Ranch Residential 5 to Village Low Density Residential and rezones portions from A-20 to RR-1, RR-5 and R1-20. 14. Planning and Zoning - Eagle Vista Villas/Flagship - Futur",
+    "ect to updated pricing and final terms. 9. Planning and Zoning - Discussion/Decision - Mountain Green Dental Site Plan Consider Application 26.030 for a dental and professional office building at 5806 W. Canyon View Pl"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "1b3ae433c0da26c2",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Weber County Commission",
+   "entity": "Weber County",
+   "title": "Weber County Commission Meeting",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126585.html",
+   "files": [],
+   "score": 8,
+   "terms": [
+    "industrial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Eden Valley Trails Trust"
+    },
+    {
+     "role": "company",
+     "name": "Wadman Corporation"
+    },
+    {
+     "role": "company",
+     "name": "Marriott Construction"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Eden Valley Trails Trust",
+    "Wadman Corporation",
+    "Marriott Construction"
+   ],
+   "snippets": [
+    "ogram. 6. Request for approval of a donation of impact fees in the amount of $27,500 to Eden Valley Trails Trust for a grant funding match. 7. Request for approval of Weber County Policy 4-100 Audit Committee. 8. Request for approval o",
+    "8. Request for approval of the ratification of a contract by and between Weber County and Wadman Corporation for general contractor services associated with demolishing an existing building and constructing additional parking spaces for the",
+    "er: Stacy Skeen 3. Request for approval of a contract by and between Weber County and Marriott Construction for the construction of a new detention pond outlet structure in the Weber Industrial Park. Presenter: Ashley Thoman",
+    "r County and Marriott Construction for the construction of a new detention pond outlet structure in the Weber Industrial Park. Presenter: Ashley Thoman H. Adjourn- CERTIFI"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "ad0b36ca5de8d3fb",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Draper",
+   "title": "City Council Agenda",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126593.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523719.pdf",
+    "https://www.utah.gov/pmn/files/1523721.pdf"
+   ],
+   "score": 30,
+   "terms": [
+    "apartment",
+    "assisted living",
+    "church",
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "hotel",
+    "industrial",
+    "lots",
+    "master plan",
+    "school",
+    "subdivision",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "a business"
+    },
+    {
+     "role": "company",
+     "name": "Draper City Building"
+    },
+    {
+     "role": "company",
+     "name": "Official Land"
+    },
+    {
+     "role": "company",
+     "name": "Hidden Canyon Estates-Mercer Mountain Estates Development"
+    },
+    {
+     "role": "company",
+     "name": "Canyon Estates- Mercer Mountain Estates Development"
+    },
+    {
+     "role": "company",
+     "name": "Single-Family Residential"
+    },
+    {
+     "role": "company",
+     "name": "Wasatch Product Development LLC"
+    },
+    {
+     "role": "company",
+     "name": "Ivory Development"
+    },
+    {
+     "role": "company",
+     "name": "Municipal Building"
+    },
+    {
+     "role": "company",
+     "name": "POM Development"
+    },
+    {
+     "role": "company",
+     "name": "POM State Land Development"
+    },
+    {
+     "role": "company",
+     "name": "A. Living"
+    }
+   ],
+   "sizes": [
+    "2.06 acres",
+    "0.61 acres",
+    "25.9 acres",
+    "7.71 acres",
+    "1.67 acres"
+   ],
+   "companies": [
+    "a business",
+    "Draper City Building",
+    "Official Land",
+    "Hidden Canyon Estates-Mercer Mountain Estates Development",
+    "Canyon Estates- Mercer Mountain Estates Development",
+    "Single-Family Residential",
+    "Wasatch Product Development LLC",
+    "Ivory Development",
+    "Municipal Building",
+    "POM Development",
+    "POM State Land Development",
+    "A. Living",
+    "Hidden Canyon Estates- Mercer Mountain Estates Development",
+    "Community Development",
+    "Council Meeting Municipal Building",
+    "X POM Development",
+    "Commission X POM State Land Development"
+   ],
+   "snippets": [
+    "of a professional dancer licensed pursuant to chapter 5 for performance or appearance at a business or home. SEMINUDE ENTERTAINMENT BUSINESS: A business where employees perform or appear in the presence of patrons of the business in a s",
+    "hallburg 4.e Approve Resolution #26-54 A resolution reappointing Ty Montalvo to the Draper City Building Board of Appeals. Staff: Kellie Challburg 4.f Approve Resolution #26-55 A resolution reappointing Shanda Gonzalez as a mem",
+    "aper. 5.b Public Hearing: Ordinances #1748, #1749 and #1750 Ordinances amending the Official Land Use Map and Official Zoning Map of Draper City and approving an amendment to a Development Agreement for approximately 0.61 acres locate",
+    "tems 6.a Action Item: Ordinance 1752 Ordinance approving the 12th Amendment to the Hidden Canyon Estates-Mercer Mountain Estates Development Agreement for approximately 25.9 acres of land located at approximately 2635 East 15040 Sout",
+    "property from Residential Medium Density to Business & Light Manufacturing, and from R3 (Single-Family Residential) to CBP (Business/Manufacturing Park), located at approximately 267 West 11915 South withing Draper City, otherwise known",
+    "both staff and the Planning Commission recommended approval. Peter Gamvroulas with Ivory Development, applicant, said the Development Agreement included enhanced landscaping and R3 setbacks. Mayor Walker opened a public hearing",
+    "and is used to sell or prepare food for human consumption. MULTIPLE-FAMILY DWELLING UNIT: Any buildings or apartment buildings so arranged, designed, built, rented, loaned, let, or hired out to be used or occupied as",
+    "s of Draper City, together with the lot or other real property on which such residence is located; B. Any apartment, nursing home room, assisted living home room, group home, or other similar location; or C. Any",
+    "ng of \"specified sexual activities\" or \"specified anatomical areas\". ADULT BOOKSTORE OR ADULT VIDEO STORE: A commercial establishment that, as one of its principal business purposes, offers for sale or rental for any f",
+    "r twenty percent (20%) or more of inventory, or occupy twenty percent (20%) or more of total floor space. A commercial establishment may have other principal business purposes that do not involve the offering for sale"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "5d0d44d18b1f73af",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "ORDERVILLE TOWN PLANNING & ZONING COMMISSION",
+   "entity": "Orderville",
+   "title": "TOWN OF ORDERVILLE PLANNING AND ZONING COMMISSION MEETING AGENDA",
+   "meetingDate": "2026-11-30",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126623.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523777.pdf"
+   ],
+   "score": 6,
+   "terms": [
+    "commercial",
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "DARLYNN & ARLENE SORENSEN TO CHANGE THE"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "DARLYNN & ARLENE SORENSEN TO CHANGE THE"
+   ],
+   "snippets": [
+    "D RECOMMENDATION TO ORDERVILLE TOWN COUNCIL FOR A ZONE CHANGE APPLICATION AS REQUESTED BY DARLYNN & ARLENE SORENSEN TO CHANGE THE ZONE OF PARCEL NUMBERS O-6-9, O-6-10, O-6-11, O-6-16 FROM SINGLE FAMILY RESIDENTIAL DISTRICT R-1A TO COMMERCIA",
+    "ANGE THE ZONE OF PARCEL NUMBERS O-6-9, O-6-10, O-6-11, O-6-16 FROM SINGLE FAMILY RESIDENTIAL DISTRICT R-1A TO COMMERCIAL DISTRICT C-1 2. PUBLIC HEARING, DISCUSSION, AND RECOMMENDATION TO ORDERVILLE TOWN COUNCIL FOR A",
+    "TOWN COUNCIL FOR AMENDMENT TO ORDERVILLE TOWN MUNICIPAL CODE TITLE 8 CHAPTER 9 ZONING DISTRICTS SECTION 9.9.2 COMMERCIAL DISTRICT PERMITTED USES 3. PUBLIC HEARING, DISCUSSION, AND RECOMMENDATION TO ORDERVILLE TOWN COU",
+    "NGE THE ZONE OF PARCEL NUMBERS O-6-9, O-6-10, O-6-11, O-6-16 FROM SINGLE FAMILY RESIDENTIAL DISTRICT R-1A TO COMMERCIAL DISTRICT C-1 2. PUBLIC HEARING, DISCUSSION, AND RECOMMENDATION TO ORDERVILLE TOWN COUNCIL FOR",
+    "OWN COUNCIL FOR AMENDMENT TO ORDERVILLE TOWN MUNICIPAL CODE TITLE 8 CHAPTER 9 ZONING DISTRICTS SECTION 9.9.2 COMMERCIAL DISTRICT PERMITTED USES 3. PUBLIC HEARING, DISCUSSION, AND RECOMMENDATION TO ORDERVILLE TOWN CO"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "1d6563475042ae08",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Highland",
+   "title": "City Council Meeting",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126533.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523651.pdf"
+   ],
+   "score": 35,
+   "terms": [
+    "assisted living",
+    "church",
+    "commercial",
+    "conditional use",
+    "dwelling",
+    "industrial",
+    "lots",
+    "master plan",
+    "new construction",
+    "phase",
+    "plat amendment",
+    "school",
+    "site plan",
+    "subdivision",
+    "townhome",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Hosts"
+    },
+    {
+     "role": "applicant",
+     "name": "Annual Meeting Schedule"
+    },
+    {
+     "role": "applicant",
+     "name": "Giffords"
+    },
+    {
+     "role": "company",
+     "name": "Skye Estates Assisted Living Development"
+    },
+    {
+     "role": "company",
+     "name": "Agreement Land"
+    },
+    {
+     "role": "company",
+     "name": "Physical Building"
+    },
+    {
+     "role": "company",
+     "name": "Building Height Regulations Development"
+    },
+    {
+     "role": "company",
+     "name": "Hadco Construction"
+    },
+    {
+     "role": "company",
+     "name": "Outback Fencing Inc"
+    },
+    {
+     "role": "company",
+     "name": "Assisted Living"
+    },
+    {
+     "role": "company",
+     "name": "Road Capital"
+    },
+    {
+     "role": "company",
+     "name": "Ivory Homes"
+    }
+   ],
+   "sizes": [
+    "1,700 square feet",
+    "3,500 square feet",
+    "0.117 acres",
+    "659 units",
+    "125 units",
+    "0.08 acres"
+   ],
+   "companies": [
+    "Hosts",
+    "Annual Meeting Schedule",
+    "Giffords",
+    "Skye Estates Assisted Living Development",
+    "Agreement Land",
+    "Physical Building",
+    "Building Height Regulations Development",
+    "Hadco Construction",
+    "Outback Fencing Inc",
+    "Assisted Living",
+    "Road Capital",
+    "Ivory Homes",
+    "Community Development",
+    "Hales Engineering",
+    "New Building",
+    "Ridgeview Planned Development",
+    "Ridgeview Plan Development",
+    "Dean Properties",
+    "Irrigation Company",
+    "Highland Development",
+    "Timber Basecamp LLC",
+    "Under Highland Development",
+    "Highland City Development"
+   ],
+   "snippets": [
+    "er this agreement, Airbnb automatically collects and remits applicable taxes on behalf of Hosts. The standard Host Terms of Service, which serves as our marketplace contract, can be viewed in full here: https://www.airbnb.com/terms Number o",
+    "ngs that are scheduled in advance over the course of a year to provide a notice of their Annual Meeting Schedule. Staff proposes that the City Council continues to hold their regular meetings on the first and third Tuesday of every mo",
+    "will hear an appeal of City staff's denial of a short-term rental business license to the Giffords. b. ACTION: Plat Amendment - Ashby Lane Plat E Land Use (Administrative) Rob Patterson, City Attorney/Planning & Zoning Administrator The",
+    "amendment adjusting the lot lines between his and his neighbor's properties. c. ACTION: Skye Estates Assisted Living Development Agreement Land Use (Legislative) Rob Patterson, City Attorney/Planning & Zoning Administrator The City Coun",
+    "his and his neighbor's properties. c. ACTION: Skye Estates Assisted Living Development Agreement Land Use (Legislative) Rob Patterson, City Attorney/Planning & Zoning Administrator The City Council will review and provide feedback to t",
+    "grants for a teen hub (materials and furniture) and two self-serve checkout stations. • Physical Building: A roof fire on January 1st resulted in minimal damage, with all repairs completed. Highland resident Cassidy Hughes and the Lone P",
+    "o be based on actual traffic counts and the impacts on roadway systems by various classifications, including commercial, institutional, industrial, and residential areas. Council Member Smith inquired as to the cost",
+    "e. Despite attempts to clear an existing sump, the problem persisted. Staff believe the issue stems from the new construction cutting off a historic overland flow path that previously directed water into a ditch. Due t",
+    "ember. No other new major development proposals are currently active. The LDS Church is expected to submit a site plan and conditional use permit application for the property behind the existing stake center on Highlan",
+    "ms Designated for Short-term Rental (STR) 4 Number of parking spaces available for renters 4 Upload a sketch, site plan, or map showing the property and parking areas. Is the property located within an HOA? No  STR_park"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "5322088a8c97206b",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "St. George",
+   "title": "PUBLIC HEARING: Zone Change & Development Agreement Dove Center",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126561.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523687.pdf"
+   ],
+   "score": 6,
+   "terms": [
+    "site plan",
+    "units"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Planned Development Residential"
+    }
+   ],
+   "sizes": [
+    "81 acres",
+    "37 unit"
+   ],
+   "companies": [
+    "Planned Development Residential",
+    "Planned Development"
+   ],
+   "snippets": [
+    "comment on a request to amend the zoning map from RCC (Residential Central City) to PD-R (Planned Development Residential) and development agreement that will address the use, number of units, parking spaces, specific setbacks and other sit",
+    "development agreement that will address the use, number of units, parking spaces, specific setbacks and other site plan details, on approximately .81 acres for the purpose of developing a 37-unit shelter for victims of d",
+    "evelopment agreement that will address the use, number of units, parking spaces, specific setbacks and other site plan details, on approximately .81 acres for the purpose of developing a 37-unit shelter for victims of"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "9ebcfa1dabb9bb77",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "St. George",
+   "title": "PUBLIC HEARING: Zone Change & Development Agreement Amendment Desert Canyons",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126569.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523693.pdf"
+   ],
+   "score": 12,
+   "terms": [
+    "commercial",
+    "master plan",
+    "mixed-use"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Planned Development Residential"
+    },
+    {
+     "role": "company",
+     "name": "Desert Canyons Planned Development"
+    },
+    {
+     "role": "company",
+     "name": "Desert Canyons Development Inc"
+    }
+   ],
+   "sizes": [
+    "232 acres",
+    "40 acres"
+   ],
+   "companies": [
+    "Planned Development Residential",
+    "Desert Canyons Planned Development",
+    "Desert Canyons Development Inc",
+    "Planned Development"
+   ],
+   "snippets": [
+    "to amend the zoning map from R-1-10 (Residential, 10,000 ft² minimum lot size) and PD-R (Planned Development Residential) to R-1 (Single Family no minimum square footage, 40-foot minimum lot width/frontage) on approximately 232 acres and",
+    "o PD-R (Planned Development Residential) over a total of 40 acres. The property is in the Desert Canyons Planned Development, generally located east of Southern Pkwy and North of Desert Sky Pkwy. The project is known as Desert Canyon Neighb",
+    "g the Desert Canyons Zoning Designation and Open Space Summary Exhibits. The applicant is Desert Canyons Development Inc and the representative is Curt Gordon. Case No. 2026-DAA-002 November 25, 2026 ¬_________________",
+    "to adjust various zoning boundaries from R-1-10 (Residential, 10,000 ft² minimum lot size) and CRM (Mixed-use Commercial) to PD-R (Planned Development Residential) over a total of 40 acres. The property is in the Desert",
+    "adjust various zoning boundaries from R-1-10 (Residential, 10,000 ft² minimum lot size) and CRM (Mixed-use Commercial) to PD-R (Planned Development Residential) over a total of 40 acres. The property is in the Desert"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "5d339f8b390b0c46",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "St. George",
+   "title": "PUBLIC HEARING: Planned Development Amendment Zions Bank Paseo",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126579.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523701.pdf"
+   ],
+   "score": 8,
+   "terms": [
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Planned Development"
+    },
+    {
+     "role": "company",
+     "name": "Pathe Studio Architects"
+    },
+    {
+     "role": "company",
+     "name": "Bank St"
+    }
+   ],
+   "sizes": [
+    "2,828 sq. ft"
+   ],
+   "companies": [
+    "Planned Development",
+    "Pathe Studio Architects",
+    "Bank St",
+    "Zions Bank St. George Paseo Planned Development"
+   ],
+   "snippets": [
+    "242 /pmn/sitemap/noticeemail/1126579.html St. George Planning Commission PUBLIC HEARING: Planned Development Amendment Zions Bank Paseo PUBLIC HEARING: Planned Development Amendment Zions Bank Paseo Subscribe to Public Body General Informa",
+    "is generally located east of 3000 East Street and south of Merrill Road. The applicant is Pathe Studio Architects, and the representative is Angelica Fierro. The project will be known as Zions Bank St. George Paseo Planned Development Amend",
+    "Architects, and the representative is Angelica Fierro. The project will be known as Zions Bank St. George Paseo Planned Development Amendment. Case No. 2026-PDA-026 November 25, 2026 ¬______________________________ ___",
+    "g will be held to receive public comment on a request for an amendment to the Paseo PD-C (Planned Development Commercial) Development in order to construct a 2,828 sq. ft., single story bank on the site. The building is",
+    "will be held to receive public comment on a request for an amendment to the Paseo PD-C (Planned Development Commercial) Development in order to construct a 2,828 sq. ft., single story bank on the site. The building is"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "37da4043a89f978d",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "St. George",
+   "title": "PUBLIC HEARING: Planned Development Amendment Fields at Mall Drive AFCU",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126587.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523707.pdf"
+   ],
+   "score": 12,
+   "terms": [
+    "commercial",
+    "phase",
+    "site plan"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Rick Magness"
+    },
+    {
+     "role": "company",
+     "name": "Planned Development"
+    },
+    {
+     "role": "company",
+     "name": "AWA Engineering"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Rick Magness",
+    "Planned Development",
+    "AWA Engineering"
+   ],
+   "snippets": [
+    "and west of 2780 E, in St. George, Utah. The applicant is AWA Engineering, represented by Rick Magness. The proposed project will be known as AFCU at The Fields at Mall DR. Case No. 2026-PDA-028. November 25, 2026 ¬__",
+    "242 /pmn/sitemap/noticeemail/1126587.html St. George Planning Commission PUBLIC HEARING: Planned Development Amendment Fields at Mall Drive AFCU PUBLIC HEARING: Planned Development Amendment Fields at Mall Drive AFCU Subscribe to Public Bo",
+    "lly located north of Mall Drive and west of 2780 E, in St. George, Utah. The applicant is AWA Engineering, represented by Rick Magness. The proposed project will be known as AFCU at The Fields at Mall DR. Case No. 2026-PDA-028.",
+    "request to consider a Planned Development Amendment to the Fields at Mall Drive Phase 2, Planned Development Commercial (PD-C) zone. The applicant is seeking approval of the design and site plan for a 3,116 square foot",
+    "equest to consider a Planned Development Amendment to the Fields at Mall Drive Phase 2, Planned Development Commercial (PD-C) zone. The applicant is seeking approval of the design and site plan for a 3,116 square foot",
+    "rive Phase 2, Planned Development Commercial (PD-C) zone. The applicant is seeking approval of the design and site plan for a 3,116 square foot financial institution. The property is generally located north of Mall Drive",
+    "ve Phase 2, Planned Development Commercial (PD-C) zone. The applicant is seeking approval of the design and site plan for a 3,116 square foot financial institution. The property is generally located north of Mall Driv"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "a52296cf85b32c0a",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "St. George",
+   "title": "PUBLIC HEARING: Planned Development Amendment Atkinville Sun River Jiffy Lube",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126589.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523709.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "commercial",
+    "mixed-use"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Ryan Lay"
+    },
+    {
+     "role": "company",
+     "name": "Planned Development"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Ryan Lay",
+    "Planned Development"
+   ],
+   "snippets": [
+    "ver Parkway, in St. George, Utah. The applicant is Bush and Gudgell, Inc., represented by Ryan Lay. The proposed project will be known as Jiffy Lube Sun River. Case No. 2026-PDA-029. November 25, 2026 ¬_____________",
+    "242 /pmn/sitemap/noticeemail/1126589.html St. George Planning Commission PUBLIC HEARING: Planned Development Amendment Atkinville Sun River Jiffy Lube PUBLIC HEARING: Planned Development Amendment Atkinville Sun River Jiffy Lube Subscribe",
+    "to consider a Planned Development Amendment to the Atkinville Interchange Area Zone Plan, Planned Development Commercial (PD-C) zone. The applicant is seeking approval for a 3,968 ft2 Jiffy Lube. The applicant is also pr",
+    "consider a Planned Development Amendment to the Atkinville Interchange Area Zone Plan, Planned Development Commercial (PD-C) zone. The applicant is seeking approval for a 3,968 ft2 Jiffy Lube. The applicant is also p"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "d6ac93f459778e2e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "St. George",
+   "title": "PUBLIC HEARING: Planned Development Amendment Atkinville Sun River Accordia Bank",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126583.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523705.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "commercial",
+    "site plan"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Brandon Gray"
+    },
+    {
+     "role": "company",
+     "name": "Planned Development"
+    }
+   ],
+   "sizes": [
+    "6,484 square feet"
+   ],
+   "companies": [
+    "Brandon Gray",
+    "Planned Development"
+   ],
+   "snippets": [
+    "Parkway, in St. George, Utah. The applicant is Navigate CM & Development, represented by Brandon Gray. The proposed project will be known as Accordia Bank Sun River. Case No. 2026-PDA-028. November 25, 2026 ¬___________",
+    "242 /pmn/sitemap/noticeemail/1126583.html St. George Planning Commission PUBLIC HEARING: Planned Development Amendment Atkinville Sun River Accordia Bank PUBLIC HEARING: Planned Development Amendment Atkinville Sun River Accordia Bank Subs",
+    "to consider a Planned Development Amendment to the Atkinville Interchange Area Zone Plan, Planned Development Commercial (PD-C) zone. The applicant is seeking approval of the design and site plan for a new bank of approx",
+    "consider a Planned Development Amendment to the Atkinville Interchange Area Zone Plan, Planned Development Commercial (PD-C) zone. The applicant is seeking approval of the design and site plan for a new bank of appro",
+    "ea Zone Plan, Planned Development Commercial (PD-C) zone. The applicant is seeking approval of the design and site plan for a new bank of approximately 6,484 square feet and 32 feet and 6 inches of height. The property i",
+    "Zone Plan, Planned Development Commercial (PD-C) zone. The applicant is seeking approval of the design and site plan for a new bank of approximately 6,484 square feet and 32 feet and 6 inches of height. The property"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "baabb4447a0ea959",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Layton",
+   "title": "Notice of Petition to Amend the General Plan and to Rezone Property",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126527.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523641.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "commercial",
+    "industrial"
+   ],
+   "parties": [],
+   "sizes": [
+    "0.366 acres"
+   ],
+   "companies": [
+    "Economic Development"
+   ],
+   "snippets": [
+    "37 North Wasatch Drive, to review a proposal to amend the General Plan land designation from Manufacturing to Commercial and rezone 0.366 acres of property located at 1090 East Cambridge Circle (2950 North) currently zon",
+    "bridge Circle (2950 North) currently zoned M-1 (Light Manufacturing/Industrial) to CP-1 (Planned Neighborhood Commercial). If you desire further information regarding this rezone proposal, please contact the Community &",
+    "North Wasatch Drive, to review a proposal to amend the General Plan land designation from Manufacturing to Commercial and rezone 0.366 acres of property located at 1090 East Cambridge Circle (2950 North) currently",
+    "dge Circle (2950 North) currently zoned M-1 (Light Manufacturing/Industrial) to CP-1 (Planned Neighborhood Commercial). If you desire further information regarding this rezone proposal, please contact the Community"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "912d2075392e0ca6",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Ogden",
+   "title": "Meeting Agenda",
+   "meetingDate": "2026-12-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126601.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523733.pdf"
+   ],
+   "score": 4,
+   "terms": [
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Municipal Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Municipal Building"
+   ],
+   "snippets": [
+    "Commission members are invited to attend a work session field trip which will leave the Municipal Building parking lot at 4:00p.m. The following items will be discussed during the work session as well as in the regular meeting. However, f",
+    "2. Consent Agenda a. Minutes, November 4, 2026, November 18, 2026 b. 2027 Year At A Glance 3. Conditional Use Permit Amendment, amend CUP for office use to add meal service, 2748 Adams Ave"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "93e8c6175b128e72",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "South Ogden",
+   "title": "December 1, 2026 City Council Meeting",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126547.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523743.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "church",
+    "commercial"
+   ],
+   "parties": [
+    {
+     "role": "contractor",
+     "name": "B100 Utah Division of Professional Licensing"
+    },
+    {
+     "role": "company",
+     "name": "Chimes View Construction"
+    },
+    {
+     "role": "company",
+     "name": "PROFESSIONAL EXPERIENCE Apex General Contractors Inc"
+    },
+    {
+     "role": "company",
+     "name": "LICENSING Utah Licensed General Building"
+    },
+    {
+     "role": "company",
+     "name": "Pioneers Building"
+    },
+    {
+     "role": "company",
+     "name": "Dispatch Mayor Porter Economic Development"
+    },
+    {
+     "role": "company",
+     "name": "Smyth Council Member Howe Bonneville Communities"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "B100 Utah Division of Professional Licensing",
+    "Chimes View Construction",
+    "PROFESSIONAL EXPERIENCE Apex General Contractors Inc",
+    "LICENSING Utah Licensed General Building",
+    "Pioneers Building",
+    "Dispatch Mayor Porter Economic Development",
+    "Smyth Council Member Howe Bonneville Communities",
+    "PROFESSIONAL EXPERIENCE Apex General Contractors Inc. Construction",
+    "Member Smyth Council Member Howe Bonneville Communities"
+   ],
+   "snippets": [
+    "ited anyone who wished to make a comment to come forward 40 o Karin Petrovich 00:01:40 Chimes View Construction 41 Project Issues and Public Service 42 Announcement 43 44 III. RESPONSE TO",
+    "Ogden Pioneer Days parade float celebrating America’s 250th anniversary, with the theme Pioneers Building America Since 1776. The project involved 452 volunteer hours, and the float was featured twice in the Standard-Examiner. Civic Inv",
+    "ENCE Apex General Contractors Inc. Construction professional with 23 years of experience in residential and commercial construction, including remodeling, home additions, and property improvements. Experience includes"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "acb69b8f34833e7d",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "West Point",
+   "title": "December 1, 2026 City Council Meeting Notice & Agenda",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126635.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523803.pdf"
+   ],
+   "score": 8,
+   "terms": [
+    "site plan",
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Nilson Homes"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Nilson Homes"
+   ],
+   "snippets": [
+    "ion Regarding Preliminary Site Plan for the Heritage Trails South Subdivision (Applicant, Nilson Homes) - Mrs. Bryn MacDonald 3. Discussion Regarding Proposed Site Plan Amendments to the Sky Meadows PRUD Subdivision - Mrs. Bryn MacDonald",
+    "M (Open to the Public) 1. Quarterly Financial Report - Mr. Ryan Harvey 2. Discussion Regarding Preliminary Site Plan for the Heritage Trails South Subdivision (Applicant, Nilson Homes) - Mrs. Bryn MacDonald 3. Discu",
+    "e Trails South Subdivision (Applicant, Nilson Homes) - Mrs. Bryn MacDonald 3. Discussion Regarding Proposed Site Plan Amendments to the Sky Meadows PRUD Subdivision - Mrs. Bryn MacDonald 4. Other Items GENERAL SES",
+    "ng Storm Water Violation Fines - Mr. Boyd Davis 11. Consideration of Ordinance No. 12-01-2026B, Amending the Site Plan for the Sky Meadows PRUD Subdivision - Mrs. Bryn MacDonald 12. Motion to Move Into a Closed Session",
+    "nancial Report - Mr. Ryan Harvey 2. Discussion Regarding Preliminary Site Plan for the Heritage Trails South Subdivision (Applicant, Nilson Homes) - Mrs. Bryn MacDonald 3. Discussion Regarding Proposed Site Plan Amend"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "253b654266b20933",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Centerville",
+   "title": "December 1, 2026 City Council Regular Session",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126617.html",
+   "files": [],
+   "score": 5,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Persons"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Persons"
+   ],
+   "snippets": [
+    "ids and services for all those citizens in need of assistance, including hearing devices. Persons requesting these accommodations for City-sponsored public meetings, services, programs, or events should call Bryce King, Administrative Servi",
+    "ouncil unless otherwise pulled from summary action for separate discussion. 1. Bond Reduction - Defries Subdivision Bond Reduction #2 and Start of Warranty for Defries Subdivison in the amount of $17,330.00"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "edce7af7cb6ab03e",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "City Council",
+   "entity": "Tooele",
+   "title": "Tooele City Council Business Meeting",
+   "meetingDate": "2026-12-02",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126523.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523631.pdf",
+    "https://www.utah.gov/pmn/files/1523633.pdf"
+   ],
+   "score": 17,
+   "terms": [
+    "commercial",
+    "industrial",
+    "lots",
+    "medical",
+    "phase",
+    "site plan"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Matt Johnson"
+    },
+    {
+     "role": "applicant",
+     "name": "Paul Hansen"
+    },
+    {
+     "role": "applicant",
+     "name": "Darwin Cook"
+    },
+    {
+     "role": "applicant",
+     "name": "Adrian Day"
+    },
+    {
+     "role": "applicant",
+     "name": "Shilo Baker"
+    },
+    {
+     "role": "applicant",
+     "name": "proffer"
+    },
+    {
+     "role": "applicant",
+     "name": "legal counsel"
+    },
+    {
+     "role": "applicant",
+     "name": "a partnership"
+    },
+    {
+     "role": "company",
+     "name": "Prefabricated Building"
+    },
+    {
+     "role": "company",
+     "name": "Tooele City Community Development"
+    },
+    {
+     "role": "company",
+     "name": "International Building"
+    },
+    {
+     "role": "company",
+     "name": "Tooele Associates"
+    }
+   ],
+   "sizes": [
+    "3.93 acre",
+    "93 acre",
+    "1 acre",
+    "3.93 acres",
+    "1,300 acres"
+   ],
+   "companies": [
+    "Matt Johnson",
+    "Paul Hansen",
+    "Darwin Cook",
+    "Adrian Day",
+    "Shilo Baker",
+    "proffer",
+    "legal counsel",
+    "a partnership",
+    "Prefabricated Building",
+    "Tooele City Community Development",
+    "International Building",
+    "Tooele Associates",
+    "Community Development",
+    "Perry Homes Inc",
+    "Tooele Land LLC",
+    "HAWTHORNE TOOELE LAND LLC",
+    "Lighting. LLC",
+    "Exhibit A Bid Results Cemetery Equipment Building",
+    "Tooele City Corp",
+    "And North Star Buildings Inc",
+    "Tooele Motor Company",
+    "Sales Manager Tooele Motor Company"
+   ],
+   "snippets": [
+    "dministrative Hearing Officer Appeals, and Nuisance Abatement Enforcement. Presented by Matt Johnson, City Attorney 7. Ordinance 2026-34 An Ordinance of the Tooele City Council Vacating a 3.93-Acre Portion of a Municipal Utility Easeme",
+    "e Northwest Quarter and Southwest Quarter of Section 17, T3S, R4W, SLB&M. Presented by Paul Hansen, City Engineer 8. Resolution 2026-87 A Resolution of the Tooele City Council Approving a Contract with Musco Sports Lighting, LLC, for",
+    "Lighting, LLC, for the Sports Field Lighting Upgrade at Red Del Papa Park. Presented by Darwin Cook, Parks and Recreation Director 9. Resolution 2026-88 A Resolution of the Tooele City Council Approving a Contract with North Star Build",
+    "-402 and Authorizing Designated Public Interest Use or Lawful Disposition. Presented by Adrian Day, Police Chief 11. Resolution 2026-90 A Resolution of the Tooele City Council Declaring Certain Surplus Personal property as Surplus and",
+    "y Hall. To request a copy of the public notice or for additional inquiries please contact Shilo Baker, City Recorder at (435) 843-2111 or shilob@tooelecity.gov. Tooele City public meetings may be recorded and transcribed for documentati",
+    "fficer may accept any evidence he or she deems reliable. Evidence shall be submitted by proffer. The Hearing Officer may also allow witness testimony. The Hearing Officer shall not consider evidence or information not presented by the",
+    ", weeds shall be cu t and maintained less than 6 inches in height; (iv) weeds in excess of 6 inches in all commercial and industrial zoning districts. (b) the accumulation of garbage, refuse, or unsightly or deleter",
+    "mpletely screened by a sight-obscuring fence and are compliant with all Tooele City conditional use permit, site plan, building permit, and other City requirements. (Ord. 2026-xx, xx-xx-2026) (Ord. 2025-06, 04-02-202"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "060ce8059a198d71",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Planning Commission",
+   "entity": "Alpine",
+   "title": "12.1.26 Planning Commission Meeting",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126531.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523645.pdf"
+   ],
+   "score": 5,
+   "terms": [
+    "preliminary plat"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Nonconforming Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Nonconforming Building"
+   ],
+   "snippets": [
+    "Aerie Mountain Estates Preliminary Plat B. Action Item: Consideration of Enlargement of Nonconforming Building - Paul Anderson IV. COMMUNICATIONS V. APPROVAL OF PLANNING COMMISSION MINUTES: November 3rd, 2026 ADJOURN",
+    "I. REPORTS AND PRESENTATIONS None III. ACTION/DISCUSSION ITEMS: A. Action Item: Aerie Mountain Estates Preliminary Plat B. Action Item: Consideration of Enlargement of Nonconforming Building - Paul Anderson IV"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "7ba053e4407e7258",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Grand County Commission",
+   "entity": "Grand County Entity Website https://www.grandcountyutah.net/",
+   "title": "Grand County Commission Regular Meeting",
+   "meetingDate": "2026-12-01",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126597.html",
+   "files": [],
+   "score": 3,
+   "terms": [
+    "subdivision"
+   ],
+   "parties": [],
+   "sizes": [],
+   "companies": [
+    "Economic Development"
+   ],
+   "snippets": [
+    "ty Engineer 10. Resolution For Final And Full (Remaining 10%) Bond Release Associated With The Required Subdivision Improvements For The Arroyo Crossing Tract E Subdivision Sean Yeates, County Engineer 11.",
+    "ining 10%) Bond Release Associated With The Required Subdivision Improvements For The Arroyo Crossing Tract E Subdivision Sean Yeates, County Engineer 11. Resolution Amending The Bylaws Of The Economic Opportunit"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "00e7d5104c7eedd6",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Kane County Commission",
+   "entity": "Kane County",
+   "title": "2027 Budget Hearing / 2026 Budget Opening",
+   "meetingDate": "2026-12-08",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126671.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523847.pdf"
+   ],
+   "score": 9,
+   "terms": [
+    "medical",
+    "school"
+   ],
+   "parties": [
+    {
+     "role": "company",
+     "name": "Total Building"
+    },
+    {
+     "role": "company",
+     "name": "Total Economic Development"
+    },
+    {
+     "role": "company",
+     "name": "Total Capital"
+    },
+    {
+     "role": "company",
+     "name": "Tourism Building"
+    }
+   ],
+   "sizes": [
+    "9 unit"
+   ],
+   "companies": [
+    "Total Building",
+    "Total Economic Development",
+    "Total Capital",
+    "Tourism Building",
+    "Economic Development",
+    "Economic Development Economic Development"
+   ],
+   "snippets": [
+    "110-4160-860-000 RENTAL EXPENSE 7,894 67,186 26,784 40,000 0 30,000 30,000 Total Buildings & Grounds 1,179,831 1,192,606 849,561 1,437,585 0 1,490,957 1,490,957 Elections 110-4170-110-000 SALARIES & WAGES 49,871",
+    "27-4652-612-000 Grant #1 Rural Utah 87,651 197,641 88,708 600,000 0 600,000 600,000 Total Economic Development 87,651 330,791 96,058 600,000 0 600,000 600,000 Total Community & Economic Development 87,651 330,791 96,058 600,000 0",
+    "243-4150-612-000 RESOURCE DEVELOPMENT 5,483 0 27,825 45,000 0 45,000 45,000 Total Capital INP/SITLA 709,518 699,855 708,385 823,077 0 829,836 829,836 Total Community & Economic Development 709,518 699,855 708,385 823,077 0",
+    "70-610-000 MISCELLANEOUS EXPENSE 18,777 13,765 7,861 9,000 0 0 0 275-4970-640-000 Tourism Building Remodel 0 287,701 1,385,559 1,700,000 0 800,000 800,000 275-4970-740-000 EQUIPMENT 3,961 0 774 2,000 0 2,000 2,000 27",
+    "22-000-000 BALIFF AND PERIMETER SECURITY CONTRACT 15,861 35,357 57,336 0 0 0 0 248-3423-000-000 STATE MEDICAL REIMBURSEMENT 9,320 16,954 29,188 10,000 0 15,000 15,000 248-3426-000-000 PERIMITER SECURITY 1",
+    "48-4230-130-000 EMPLOYER TAX / EXP 596,857 696,924 640,700 765,800 0 788,022 788,022 248-4230-131-000 MEDICAL 6,498 6,890 5,963 6,825 0 6,825 6,825 248-4230-133-000 OVERTIME PAY 41,643 39,674 26,587 40,00",
+    "0 0 0 0 0 0 248-4230-280-000 TELEPHONE 1,922 1,843 1,116 2,000 0 2,000 2,000 248-4230-321-000 MEDICAL TREATMENT & DRUGS 50,717 37,362 65,400 45,000 0 50,000 50,000 248-4230-363-000 OFFICER TRAININ",
+    "0 0 Operating expense 669-4150-130-000 EMPLOYEE BENEFITS 0 82,027 0 0 0 0 0 669-4150-650-000 MEDICAL ADMIN FEE 17,080 16,961 15,800 25,000 0 25,000 25,000 Total Operating expense 17,080 98,988 15,800"
+   ],
+   "foundAt": "2026-11-26"
+  },
+  {
+   "id": "d679aebf524e51a8",
+   "source": "pmn",
+   "kind": "agenda",
+   "body": "Wasatch County Planning Commission",
+   "entity": "Wasatch County",
+   "title": "Wasatch County Planning Commission",
+   "meetingDate": "2026-12-10",
+   "url": "https://www.utah.gov/pmn/sitemap/notice/1126553.html",
+   "files": [
+    "https://www.utah.gov/pmn/files/1523673.pdf"
+   ],
+   "score": 6,
+   "terms": [
+    "conditional use"
+   ],
+   "parties": [
+    {
+     "role": "applicant",
+     "name": "Oak Haven Water Company"
+    },
+    {
+     "role": "company",
+     "name": "Wasatch County Administration Building"
+    }
+   ],
+   "sizes": [],
+   "companies": [
+    "Oak Haven Water Company",
+    "Wasatch County Administration Building"
+   ],
+   "snippets": [
+    "ody at a Public Hearing on December 16, 2026 (Austin Corry) 3. Paul Berg, representing Oak Haven Water Company, requests a Conditional Use Permit for a buried 200,000-gallon water tank located at 1692 W Spring Lane in the Residential Agr",
+    "regular session on Thursday, December 10, 2026 at 6:00 PM in the Council Chambers in the Wasatch County Administration Building, 25 North Main, Heber City, Utah. The public is welcome to attend and participate in this meeting real-time ei",
+    "Hearing on December 16, 2026 (Austin Corry) 3. Paul Berg, representing Oak Haven Water Company, requests a Conditional Use Permit for a buried 200,000-gallon water tank located at 1692 W Spring Lane in the Residential",
+    "Hearing on December 16, 2026. - Austin Corry 3. Paul Berg, representing Oak Haven Water Company, requests a Conditional Use Permit for a buried 200,000-gallon water tank located at 1692 W Spring Lane in the Residenti"
+   ],
+   "foundAt": "2026-11-26"
+  }
+ ]
+}
